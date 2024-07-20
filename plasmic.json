@@ -1,0 +1,104 @@
+{
+  "platform": "nextjs",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+  },
+  "images": {
+    "scheme": "public-files",
+    "publicDir": "../public",
+    "publicUrlPrefix": "/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+      "projectApiToken": "nlhTQnb87JxQZIVUERYJLyNKoAi6WGeD11eEjhdLQHmFPwswK0IHuoLax3UIXa5zo92gqP0tucJF4aoosyyA",
+      "projectName": "Core",
+      "version": "latest",
+      "cssFilePath": "plasmic/core/plasmic.module.css",
+      "components": [
+        {
+          "id": "hrYQ4m0Jw_i4",
+          "name": "CoreColors",
+          "type": "managed",
+          "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+          "renderModuleFilePath": "plasmic/core/PlasmicCoreColors.tsx",
+          "importSpec": {
+            "modulePath": "../pages/core.tsx"
+          },
+          "cssFilePath": "plasmic/core/PlasmicCoreColors.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/core"
+        },
+        {
+          "id": "IIPSaX_3M5QL",
+          "name": "FontSizes",
+          "type": "managed",
+          "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+          "renderModuleFilePath": "plasmic/core/PlasmicFontSizes.tsx",
+          "importSpec": {
+            "modulePath": "../pages/font-sizes.tsx"
+          },
+          "cssFilePath": "plasmic/core/PlasmicFontSizes.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/font-sizes"
+        }
+      ],
+      "icons": [],
+      "images": [],
+      "indirect": false,
+      "globalContextsFilePath": "",
+      "splitsProviderFilePath": "",
+      "codeComponents": [
+        {
+          "id": "K54xiwyXsJMV",
+          "name": "PlasmicHead",
+          "displayName": "hostless-plasmic-head",
+          "componentImportPath": "@plasmicapp/react-web"
+        },
+        {
+          "id": "YaFXHoWEz-ig",
+          "name": "Fetcher",
+          "displayName": "plasmic-data-source-fetcher",
+          "componentImportPath": "@plasmicapp/react-web/lib/data-sources"
+        }
+      ],
+      "customFunctions": []
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "OhEUf6Jd0eV8",
+        "name": "Screen",
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "contextFilePath": "plasmic/core/PlasmicGlobalVariant__Screen.tsx"
+      },
+      {
+        "id": "yBTVTgAz2Co9",
+        "name": "Mode",
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "contextFilePath": "plasmic/core/PlasmicGlobalVariant__Mode.tsx"
+      }
+    ]
+  },
+  "wrapPagesWithGlobalContexts": true,
+  "nextjsConfig": {
+    "pagesDir": "../pages"
+  },
+  "cliVersion": "0.1.331",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.331/dist/plasmic.schema.json"
+}
