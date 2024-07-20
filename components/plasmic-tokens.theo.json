@@ -2863,7 +2863,7 @@
     {
       "name": "font.type.41",
       "type": "fontfamily",
-      "value": "Arial",
+      "value": "Lustria",
       "category": "fontfamily",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -2883,7 +2883,7 @@
     {
       "name": "font.type.43",
       "type": "fontfamily",
-      "value": "Tahoma",
+      "value": "Quattrocento",
       "category": "fontfamily",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -2903,7 +2903,7 @@
     {
       "name": "font.type.45",
       "type": "fontfamily",
-      "value": "Times New Roman",
+      "value": "Anton",
       "category": "fontfamily",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3173,7 +3173,7 @@
     {
       "name": "font.type.72",
       "type": "fontfamily",
-      "value": "Courier New",
+      "value": "Ruda",
       "category": "fontfamily",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3248,66 +3248,6 @@
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
         "id": "SlEHTY0GCrLB"
-      }
-    },
-    {
-      "name": "font.type.80",
-      "type": "fontfamily",
-      "value": "Futura",
-      "category": "fontfamily",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "0yeZaBgtQn7C"
-      }
-    },
-    {
-      "name": "font.type.81",
-      "type": "fontfamily",
-      "value": "Podkova",
-      "category": "fontfamily",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "Yb1ha0wg6jTy"
-      }
-    },
-    {
-      "name": "font.type.82",
-      "type": "fontfamily",
-      "value": "Ruda",
-      "category": "fontfamily",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "LRJ4K8S1hkzP"
-      }
-    },
-    {
-      "name": "font.type.83",
-      "type": "fontfamily",
-      "value": "Anton",
-      "category": "fontfamily",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "LHfyn1yS9kSP"
-      }
-    },
-    {
-      "name": "font.type.84",
-      "type": "fontfamily",
-      "value": "Quattrocento",
-      "category": "fontfamily",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "H99AQ8mdmYwH"
-      }
-    },
-    {
-      "name": "font.type.85",
-      "type": "fontfamily",
-      "value": "Lustria",
-      "category": "fontfamily",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "N7UVnmtoEC34"
       }
     },
     {

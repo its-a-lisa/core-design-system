@@ -645,11 +645,11 @@
   --plasmic-token-font-size-18: var(--token-tKH9zSWhPTwX);
   --token-jGGDIdKRIeDV: Georgia;
   --plasmic-token-font-type-44: var(--token-jGGDIdKRIeDV);
-  --token-4QSwghfyNOlB: Times New Roman;
+  --token-4QSwghfyNOlB: Anton;
   --plasmic-token-font-type-45: var(--token-4QSwghfyNOlB);
   --token-fFzPoIKGVhYR: Roboto;
   --plasmic-token-font-type-15: var(--token-fFzPoIKGVhYR);
-  --token-1hqvx22GxyLC: Arial;
+  --token-1hqvx22GxyLC: Lustria;
   --plasmic-token-font-type-41: var(--token-1hqvx22GxyLC);
   --token-frSS71BeTgAq: Merriweather;
   --plasmic-token-font-type-40: var(--token-frSS71BeTgAq);
@@ -661,7 +661,7 @@
   --plasmic-token-font-type-67: var(--token-_9Djz6ogGlUK);
   --token-kWV46FPwo1D2: Source Sans Pro;
   --plasmic-token-font-type-13: var(--token-kWV46FPwo1D2);
-  --token-llwMIXJv9rxY: Tahoma;
+  --token-llwMIXJv9rxY: Quattrocento;
   --plasmic-token-font-type-43: var(--token-llwMIXJv9rxY);
   --token-9vAcySeDTtyy: 10px;
   --plasmic-token-space-0175: var(--token-9vAcySeDTtyy);
@@ -761,7 +761,7 @@
   --plasmic-token-font-type-63: var(--token-wWwX-1GY3Rqc);
   --token-vYbKQoWbr9Up: Raleway;
   --plasmic-token-font-type-39: var(--token-vYbKQoWbr9Up);
-  --token-HGNqFxdBndAS: Courier New;
+  --token-HGNqFxdBndAS: Ruda;
   --plasmic-token-font-type-72: var(--token-HGNqFxdBndAS);
   --token-pdsCvnCEEKsU: Alegreya Sans;
   --plasmic-token-font-type-11: var(--token-pdsCvnCEEKsU);
@@ -785,14 +785,6 @@
   --plasmic-token-font-type-73: var(--token-k-GECjJ5MtRI);
   --token-SlEHTY0GCrLB: Bebas Neue;
   --plasmic-token-font-type-79: var(--token-SlEHTY0GCrLB);
-  --token-0yeZaBgtQn7C: Futura;
-  --plasmic-token-font-type-80: var(--token-0yeZaBgtQn7C);
-  --token-Yb1ha0wg6jTy: Podkova;
-  --plasmic-token-font-type-81: var(--token-Yb1ha0wg6jTy);
-  --token-LRJ4K8S1hkzP: Ruda;
-  --plasmic-token-font-type-82: var(--token-LRJ4K8S1hkzP);
-  --token-LHfyn1yS9kSP: Anton;
-  --plasmic-token-font-type-83: var(--token-LHfyn1yS9kSP);
   --token-ZYbbL2Tin5KI: DM Sans;
   --plasmic-token-font-type-01: var(--token-ZYbbL2Tin5KI);
   --token-mla-rVWzNed5: Inter;
@@ -831,10 +823,6 @@
   --plasmic-token-font-type-35: var(--token-kLwxDUgbJokB);
   --token-qrQGQKtce8oq: Rubik;
   --plasmic-token-font-type-36: var(--token-qrQGQKtce8oq);
-  --token-H99AQ8mdmYwH: Quattrocento;
-  --plasmic-token-font-type-84: var(--token-H99AQ8mdmYwH);
-  --token-N7UVnmtoEC34: Lustria;
-  --plasmic-token-font-type-85: var(--token-N7UVnmtoEC34);
 }
 
 @media (max-width: 768px) {
