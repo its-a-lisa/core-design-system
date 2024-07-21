@@ -643,8 +643,6 @@
   --plasmic-token-font-size-19: var(--token-ip--FKWYc-rU);
   --token-tKH9zSWhPTwX: 3.8rem;
   --plasmic-token-font-size-18: var(--token-tKH9zSWhPTwX);
-  --token-jGGDIdKRIeDV: Georgia;
-  --plasmic-token-font-type-44: var(--token-jGGDIdKRIeDV);
   --token-4QSwghfyNOlB: Anton;
   --plasmic-token-font-type-45: var(--token-4QSwghfyNOlB);
   --token-fFzPoIKGVhYR: Roboto;
@@ -777,14 +775,12 @@
   --plasmic-token-font-type-76: var(--token-V1ASJr40_ehw);
   --token-PK7NMv3zbRN8: Patrick Hand;
   --plasmic-token-font-type-77: var(--token-PK7NMv3zbRN8);
-  --token-IDfLe0ATs0aB: Nova Mono;
-  --plasmic-token-font-type-78: var(--token-IDfLe0ATs0aB);
   --token--l_S-4Cdcl1n: Nova Mono;
   --plasmic-token-font-type-69: var(--token--l_S-4Cdcl1n);
   --token-k-GECjJ5MtRI: Jura;
   --plasmic-token-font-type-73: var(--token-k-GECjJ5MtRI);
   --token-SlEHTY0GCrLB: Bebas Neue;
-  --plasmic-token-font-type-79: var(--token-SlEHTY0GCrLB);
+  --plasmic-token-font-type-78: var(--token-SlEHTY0GCrLB);
   --token-ZYbbL2Tin5KI: DM Sans;
   --plasmic-token-font-type-01: var(--token-ZYbbL2Tin5KI);
   --token-mla-rVWzNed5: Inter;
@@ -823,6 +819,8 @@
   --plasmic-token-font-type-35: var(--token-kLwxDUgbJokB);
   --token-qrQGQKtce8oq: Rubik;
   --plasmic-token-font-type-36: var(--token-qrQGQKtce8oq);
+  --token-jSPiWjWlft7K: Podkova;
+  --plasmic-token-font-type-44: var(--token-jSPiWjWlft7K);
 }
 
 @media (max-width: 768px) {

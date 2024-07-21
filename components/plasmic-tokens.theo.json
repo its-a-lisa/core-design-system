@@ -2893,11 +2893,11 @@
     {
       "name": "font.type.44",
       "type": "fontfamily",
-      "value": "Georgia",
+      "value": "Podkova",
       "category": "fontfamily",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "jGGDIdKRIeDV"
+        "id": "jSPiWjWlft7K"
       }
     },
     {
@@ -3232,16 +3232,6 @@
     },
     {
       "name": "font.type.78",
-      "type": "fontfamily",
-      "value": "Nova Mono",
-      "category": "fontfamily",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "IDfLe0ATs0aB"
-      }
-    },
-    {
-      "name": "font.type.79",
       "type": "fontfamily",
       "value": "Bebas Neue",
       "category": "fontfamily",
