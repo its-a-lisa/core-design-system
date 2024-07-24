@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700&family=Inconsolata%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700&family=Inter%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=Inconsolata%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800&family=Inter%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800&family=DM+Sans%3Aital%2Cwght%400%2C400%3B0%2C500%3B0%2C700%3B1%2C400%3B1%2C500%3B1%2C700&family=Space+Mono%3Aital%2Cwght%400%2C400%3B0%2C700%3B1%2C400%3B1%2C700&family=Space+Grotesk%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700&family=Work+Sans%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=Syne%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800&family=Libre+Franklin%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=Cormorant%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B1%2C400%3B1%2C600%3B1%2C700&family=Fira+Sans%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=Eczar%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800&family=Alegreya+Sans%3Aital%2Cwght%400%2C400%3B0%2C500%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C500%3B1%2C700%3B1%2C800&family=Alegreya%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=Source+Sans+Pro%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B1%2C400%3B1%2C600%3B1%2C700&family=Source+Serif+Pro%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B1%2C400%3B1%2C600%3B1%2C700&family=Roboto%3Aital%2Cwght%400%2C400%3B0%2C500%3B0%2C700%3B1%2C400%3B1%2C500%3B1%2C700&family=Fraunces%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=Inknut+Antiqua%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800&family=BioRhyme%3Aital%2Cwght%400%2C400%3B0%2C700%3B0%2C800&family=Poppins%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=Archivo+Narrow%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B1%2C400%3B1%2C600%3B1%2C700&family=Libre+Baskerville%3Aital%2Cwght%400%2C400%3B0%2C700%3B1%2C400&family=Playfair+Display%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=Karla%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=Lora%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B1%2C400%3B1%2C600%3B1%2C700&family=Proza+Libre%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=Spectral%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=IBM+Plex+Sans%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B1%2C400%3B1%2C600%3B1%2C700&family=Manrope%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800&family=Montserrat%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=Lato%3Aital%2Cwght%400%2C400%3B0%2C700%3B1%2C400%3B1%2C700&family=PT+Sans%3Aital%2Cwght%400%2C400%3B0%2C700%3B1%2C400%3B1%2C700&family=PT+Serif%3Aital%2Cwght%400%2C400%3B0%2C700%3B1%2C400%3B1%2C700&family=Cardo%3Aital%2Cwght%400%2C400%3B0%2C700%3B1%2C400&family=Chivo%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=Neuton%3Aital%2Cwght%400%2C400%3B0%2C700%3B0%2C800%3B1%2C400&family=Rubik%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=Raleway%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=Merriweather%3Aital%2Cwght%400%2C400%3B0%2C700%3B1%2C400%3B1%2C700&family=Lustria%3Aital%2Cwght%400%2C400&family=Oswald%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700&family=Quattrocento%3Aital%2Cwght%400%2C400%3B0%2C700&family=Podkova%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800&family=Anton%3Aital%2Cwght%400%2C400&family=Arvo%3Aital%2Cwght%400%2C400%3B0%2C700%3B1%2C400%3B1%2C700&family=Abril+Fatface%3Aital%2Cwght%400%2C400&family=Abhaya+Libre%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800&family=Ultra%3Aital%2Cwght%400%2C400&family=Nixie+One%3Aital%2Cwght%400%2C400&family=Ledger%3Aital%2Cwght%400%2C400&family=Stint+Ultra+Expanded%3Aital%2Cwght%400%2C400&family=Amatic+SC%3Aital%2Cwght%400%2C400%3B0%2C700&family=Andika%3Aital%2Cwght%400%2C400%3B0%2C700%3B1%2C400%3B1%2C700&family=Unica+One%3Aital%2Cwght%400%2C400&family=Philosopher%3Aital%2Cwght%400%2C400%3B0%2C700%3B1%2C400%3B1%2C700&family=Mulish%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=Sacramento%3Aital%2Cwght%400%2C400&family=Halant%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700&family=Fjalla+One%3Aital%2Cwght%400%2C400&family=Hind%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700&family=Oxygen%3Aital%2Cwght%400%2C400%3B0%2C700&family=Cabin%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B1%2C400%3B1%2C600%3B1%2C700&family=Nunito%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=Quicksand%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700&family=Ubuntu%3Aital%2Cwght%400%2C400%3B0%2C500%3B0%2C700%3B1%2C400%3B1%2C500%3B1%2C700&family=Roboto+Mono%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B1%2C400%3B1%2C600%3B1%2C700&family=Slabo+27px%3Aital%2Cwght%400%2C400&family=Nova+Mono%3Aital%2Cwght%400%2C400&family=Public+Sans%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=Bitter%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B1%2C400%3B1%2C600%3B1%2C700%3B1%2C800&family=Ruda%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B0%2C800&family=Jura%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700&family=Pacifico%3Aital%2Cwght%400%2C400&family=Julius+Sans+One%3Aital%2Cwght%400%2C400&family=Josefin+Slab%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700%3B1%2C400%3B1%2C600%3B1%2C700&family=Patrick+Hand%3Aital%2Cwght%400%2C400&family=Bebas+Neue%3Aital%2Cwght%400%2C400&display=swap");
 
 .plasmic_tokens {
   --token-b4UF7wnPwVPI: #131313;
@@ -366,43 +366,43 @@
   --token-CoT6ZJStNAuB: #ffffffb3;
   --plasmic-token-color-white-alpha-100: var(--token-CoT6ZJStNAuB);
   --token-wWumU0U8aJjH: 2px;
-  --plasmic-token-space-0025: var(--token-wWumU0U8aJjH);
-  --token-ph7oBiL6eBvc: 8px;
-  --plasmic-token-space-0100: var(--token-ph7oBiL6eBvc);
+  --plasmic-token-space-d-025: var(--token-wWumU0U8aJjH);
+  --token-ph7oBiL6eBvc: 0.5rem;
+  --plasmic-token-space-02: var(--token-ph7oBiL6eBvc);
   --token-viO3dwZjnQHc: 12px;
-  --plasmic-token-space-0150: var(--token-viO3dwZjnQHc);
-  --token-tVFoqSg3vAsJ: 16px;
-  --plasmic-token-space-0200: var(--token-tVFoqSg3vAsJ);
+  --plasmic-token-space-d-150: var(--token-viO3dwZjnQHc);
+  --token-tVFoqSg3vAsJ: 1rem;
+  --plasmic-token-space-03: var(--token-tVFoqSg3vAsJ);
   --token-O4XyKPIYNSFV: 20px;
-  --plasmic-token-space-0250: var(--token-O4XyKPIYNSFV);
-  --token-kMkRY1vRBEsZ: 24px;
-  --plasmic-token-space-0300: var(--token-kMkRY1vRBEsZ);
-  --token-2F84lHAgOKvb: 32px;
-  --plasmic-token-space-0400: var(--token-2F84lHAgOKvb);
+  --plasmic-token-space-d-250: var(--token-O4XyKPIYNSFV);
+  --token-kMkRY1vRBEsZ: 1.5rem;
+  --plasmic-token-space-04: var(--token-kMkRY1vRBEsZ);
+  --token-2F84lHAgOKvb: 2rem;
+  --plasmic-token-space-05: var(--token-2F84lHAgOKvb);
   --token-uGRLJwfQsMfQ: 40px;
-  --plasmic-token-space-0500: var(--token-uGRLJwfQsMfQ);
-  --token-9OiOhRjJBR8T: 48px;
-  --plasmic-token-space-0600: var(--token-9OiOhRjJBR8T);
+  --plasmic-token-space-d-500: var(--token-uGRLJwfQsMfQ);
+  --token-9OiOhRjJBR8T: 3rem;
+  --plasmic-token-space-06: var(--token-9OiOhRjJBR8T);
   --token-uJUZCDgr1tZh: 56px;
-  --plasmic-token-space-0700: var(--token-uJUZCDgr1tZh);
-  --token-YRB6XRaWNN_t: 64px;
-  --plasmic-token-space-0800: var(--token-YRB6XRaWNN_t);
+  --plasmic-token-space-d-700: var(--token-uJUZCDgr1tZh);
+  --token-YRB6XRaWNN_t: 4rem;
+  --plasmic-token-space-07: var(--token-YRB6XRaWNN_t);
   --token-FPbJjy-o8tzn: 72px;
-  --plasmic-token-space-0900: var(--token-FPbJjy-o8tzn);
+  --plasmic-token-space-d-900: var(--token-FPbJjy-o8tzn);
   --token-vvs8O6Em336I: 80px;
-  --plasmic-token-space-1000: var(--token-vvs8O6Em336I);
+  --plasmic-token-space-d-1000: var(--token-vvs8O6Em336I);
   --token-rsBXKVvnGRls: 96px;
-  --plasmic-token-space-1200: var(--token-rsBXKVvnGRls);
+  --plasmic-token-space-d-1200: var(--token-rsBXKVvnGRls);
   --token-DEN2kcCXecpr: 128px;
-  --plasmic-token-space-1600: var(--token-DEN2kcCXecpr);
+  --plasmic-token-space-d-1600: var(--token-DEN2kcCXecpr);
   --token-MPTUUme6x_Tk: 160px;
-  --plasmic-token-space-2000: var(--token-MPTUUme6x_Tk);
+  --plasmic-token-space-d-2000: var(--token-MPTUUme6x_Tk);
   --token-u8BczeA7IHpx: 208px;
-  --plasmic-token-space-2600: var(--token-u8BczeA7IHpx);
+  --plasmic-token-space-d-2600: var(--token-u8BczeA7IHpx);
   --token-k8RSjeTgB1hP: 1px;
   --plasmic-token-space-base: var(--token-k8RSjeTgB1hP);
   --token-pzhibM7xjgx3: 176px;
-  --plasmic-token-space-2200: var(--token-pzhibM7xjgx3);
+  --plasmic-token-space-d-2200: var(--token-pzhibM7xjgx3);
   --token-YcRWr_uElmW1: 0px;
   --plasmic-token-size-0000: var(--token-YcRWr_uElmW1);
   --token-8gyiWhX8pTqM: 1px;
@@ -578,9 +578,9 @@
   --token-iEijkIOiaQzJ: #000000;
   --plasmic-token-color-brand-gitlab: var(--token-iEijkIOiaQzJ);
   --token-l-Fln81b4i55: 6px;
-  --plasmic-token-space-0075: var(--token-l-Fln81b4i55);
-  --token-JOrZM21jax0q: 4px;
-  --plasmic-token-space-0050: var(--token-JOrZM21jax0q);
+  --plasmic-token-space-d-075: var(--token-l-Fln81b4i55);
+  --token-JOrZM21jax0q: 0.25rem;
+  --plasmic-token-space-01: var(--token-JOrZM21jax0q);
   --token-3n22ukpxGnYm: 4px;
   --plasmic-token-radii-0050: var(--token-3n22ukpxGnYm);
   --token-Hnp45_BqVPiQ: 6px;
@@ -662,7 +662,7 @@
   --token-llwMIXJv9rxY: Quattrocento;
   --plasmic-token-font-type-43: var(--token-llwMIXJv9rxY);
   --token-9vAcySeDTtyy: 10px;
-  --plasmic-token-space-0175: var(--token-9vAcySeDTtyy);
+  --plasmic-token-space-d-175: var(--token-9vAcySeDTtyy);
   --token-GIleTlhNdO1E: 0.63rem;
   --plasmic-token-font-size-02: var(--token-GIleTlhNdO1E);
   --token-JfuzJEPVALUL: 0.5rem;
@@ -1390,7 +1390,7 @@
   --mixin-SZDm4dY3pLfK-3BHMW_text-decoration-line: none;
   --mixin-SZDm4dY3pLfK-3BHMW_text-overflow: clip;
   --mixin-xJdzycD04UaV-3BHMW_color: var(--token-bIxDoN4FYxrD);
-  --mixin-xJdzycD04UaV-3BHMW_font-weight: 700;
+  --mixin-xJdzycD04UaV-3BHMW_font-weight: 800;
   --mixin-xJdzycD04UaV-3BHMW_font-size: var(--token-DSe3tNALG7hu);
   --mixin-xJdzycD04UaV-3BHMW_line-height: var(--token-h1NiMehD39nH);
   --mixin-xJdzycD04UaV-3BHMW_letter-spacing: -1px;
@@ -1496,7 +1496,7 @@
   --mixin-dwvCSDvZI6BP-3BHMW_white-space: pre-wrap;
   --mixin-DEObNUfSHfVh-3BHMW_color: var(--token-bIxDoN4FYxrD);
   --mixin-DEObNUfSHfVh-3BHMW_font-size: var(--token-zwVdR2TS28Y-);
-  --mixin-DEObNUfSHfVh-3BHMW_font-weight: 600;
+  --mixin-DEObNUfSHfVh-3BHMW_font-weight: 700;
   --mixin-DEObNUfSHfVh-3BHMW_line-height: var(--token-h1NiMehD39nH);
   --mixin-DEObNUfSHfVh-3BHMW_font-family: var(--token-2XOuWYF9V_xl);
   --mixin-DEObNUfSHfVh-3BHMW_white-space: pre-wrap;
@@ -1504,6 +1504,12 @@
   --mixin-GgXvZlL_gpb--3BHMW_white-space: pre-wrap;
   --mixin-RYnwb1edUKF5-3BHMW_white-space: pre-wrap;
   --mixin-H0ncmFn_yECl-3BHMW_white-space: pre-wrap;
+}
+
+.plasmic_mixins,
+.plasmic_mixins:where(.global_mode_dark) {
+  --mixin-zHpE_cOiegG2_white-space: pre-wrap;
+  --plasmic-mixin-font-45_white-space: var(--mixin-zHpE_cOiegG2_white-space);
 }
 
 :where(.all) {

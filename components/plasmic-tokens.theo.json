@@ -3881,19 +3881,9 @@
       }
     },
     {
-      "name": "space.0025",
+      "name": "space.01",
       "type": "spacing",
-      "value": "2px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "wWumU0U8aJjH"
-      }
-    },
-    {
-      "name": "space.0050",
-      "type": "spacing",
-      "value": "4px",
+      "value": "0.25rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3901,19 +3891,9 @@
       }
     },
     {
-      "name": "space.0075",
+      "name": "space.02",
       "type": "spacing",
-      "value": "6px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "l-Fln81b4i55"
-      }
-    },
-    {
-      "name": "space.0100",
-      "type": "spacing",
-      "value": "8px",
+      "value": "0.5rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3921,29 +3901,9 @@
       }
     },
     {
-      "name": "space.0150",
+      "name": "space.03",
       "type": "spacing",
-      "value": "12px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "viO3dwZjnQHc"
-      }
-    },
-    {
-      "name": "space.0175",
-      "type": "spacing",
-      "value": "10px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "9vAcySeDTtyy"
-      }
-    },
-    {
-      "name": "space.0200",
-      "type": "spacing",
-      "value": "16px",
+      "value": "1rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3951,19 +3911,9 @@
       }
     },
     {
-      "name": "space.0250",
+      "name": "space.04",
       "type": "spacing",
-      "value": "20px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "O4XyKPIYNSFV"
-      }
-    },
-    {
-      "name": "space.0300",
-      "type": "spacing",
-      "value": "24px",
+      "value": "1.5rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3971,9 +3921,9 @@
       }
     },
     {
-      "name": "space.0400",
+      "name": "space.05",
       "type": "spacing",
-      "value": "32px",
+      "value": "2rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3981,19 +3931,9 @@
       }
     },
     {
-      "name": "space.0500",
+      "name": "space.06",
       "type": "spacing",
-      "value": "40px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "uGRLJwfQsMfQ"
-      }
-    },
-    {
-      "name": "space.0600",
-      "type": "spacing",
-      "value": "48px",
+      "value": "3rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -4001,93 +3941,13 @@
       }
     },
     {
-      "name": "space.0700",
+      "name": "space.07",
       "type": "spacing",
-      "value": "56px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "uJUZCDgr1tZh"
-      }
-    },
-    {
-      "name": "space.0800",
-      "type": "spacing",
-      "value": "64px",
+      "value": "4rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
         "id": "YRB6XRaWNN_t"
-      }
-    },
-    {
-      "name": "space.0900",
-      "type": "spacing",
-      "value": "72px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "FPbJjy-o8tzn"
-      }
-    },
-    {
-      "name": "space.1000",
-      "type": "spacing",
-      "value": "80px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "vvs8O6Em336I"
-      }
-    },
-    {
-      "name": "space.1200",
-      "type": "spacing",
-      "value": "96px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "rsBXKVvnGRls"
-      }
-    },
-    {
-      "name": "space.1600",
-      "type": "spacing",
-      "value": "128px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "DEN2kcCXecpr"
-      }
-    },
-    {
-      "name": "space.2000",
-      "type": "spacing",
-      "value": "160px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "MPTUUme6x_Tk"
-      }
-    },
-    {
-      "name": "space.2200",
-      "type": "spacing",
-      "value": "176px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "pzhibM7xjgx3"
-      }
-    },
-    {
-      "name": "space.2600",
-      "type": "spacing",
-      "value": "208px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "u8BczeA7IHpx"
       }
     },
     {
@@ -4098,6 +3958,146 @@
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
         "id": "k8RSjeTgB1hP"
+      }
+    },
+    {
+      "name": "space.d025",
+      "type": "spacing",
+      "value": "2px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "wWumU0U8aJjH"
+      }
+    },
+    {
+      "name": "space.d075",
+      "type": "spacing",
+      "value": "6px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "l-Fln81b4i55"
+      }
+    },
+    {
+      "name": "space.d1000",
+      "type": "spacing",
+      "value": "80px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "vvs8O6Em336I"
+      }
+    },
+    {
+      "name": "space.d1200",
+      "type": "spacing",
+      "value": "96px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "rsBXKVvnGRls"
+      }
+    },
+    {
+      "name": "space.d150",
+      "type": "spacing",
+      "value": "12px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "viO3dwZjnQHc"
+      }
+    },
+    {
+      "name": "space.d1600",
+      "type": "spacing",
+      "value": "128px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "DEN2kcCXecpr"
+      }
+    },
+    {
+      "name": "space.d175",
+      "type": "spacing",
+      "value": "10px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "9vAcySeDTtyy"
+      }
+    },
+    {
+      "name": "space.d2000",
+      "type": "spacing",
+      "value": "160px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "MPTUUme6x_Tk"
+      }
+    },
+    {
+      "name": "space.d2200",
+      "type": "spacing",
+      "value": "176px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "pzhibM7xjgx3"
+      }
+    },
+    {
+      "name": "space.d250",
+      "type": "spacing",
+      "value": "20px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "O4XyKPIYNSFV"
+      }
+    },
+    {
+      "name": "space.d2600",
+      "type": "spacing",
+      "value": "208px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "u8BczeA7IHpx"
+      }
+    },
+    {
+      "name": "space.d500",
+      "type": "spacing",
+      "value": "40px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "uGRLJwfQsMfQ"
+      }
+    },
+    {
+      "name": "space.d700",
+      "type": "spacing",
+      "value": "56px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "uJUZCDgr1tZh"
+      }
+    },
+    {
+      "name": "space.d900",
+      "type": "spacing",
+      "value": "72px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "FPbJjy-o8tzn"
       }
     }
   ],
