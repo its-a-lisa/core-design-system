@@ -3491,9 +3491,19 @@
       }
     },
     {
+      "name": "radii.pill",
+      "type": "spacing",
+      "value": "9999px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "FaSWRFTk-HWi"
+      }
+    },
+    {
       "name": "radii.round",
       "type": "spacing",
-      "value": "624.938rem",
+      "value": "50%",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",

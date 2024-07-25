@@ -549,7 +549,7 @@
   --plasmic-token-radii-0800: var(--token-wHoDkXqKNmh7);
   --token-FSqDT5nZAqaG: 0rem;
   --plasmic-token-radii-none: var(--token-FSqDT5nZAqaG);
-  --token-2RB-LlABK1rQ: 624.938rem;
+  --token-2RB-LlABK1rQ: 50%;
   --plasmic-token-radii-round: var(--token-2RB-LlABK1rQ);
   --token-u-iP0l2uFOS6: 0.125rem;
   --plasmic-token-radii-002: var(--token-u-iP0l2uFOS6);
@@ -779,6 +779,8 @@
   --plasmic-token-space-112: var(--token-af9aSXLg4NYK);
   --token-4IHudl6MpFHS: 8rem;
   --plasmic-token-space-128: var(--token-4IHudl6MpFHS);
+  --token-FaSWRFTk-HWi: 9999px;
+  --plasmic-token-radii-pill: var(--token-FaSWRFTk-HWi);
 }
 
 @media (max-width: 768px) {
