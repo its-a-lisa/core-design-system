@@ -821,6 +821,8 @@
   --plasmic-token-font-type-36: var(--token-qrQGQKtce8oq);
   --token-jSPiWjWlft7K: Podkova;
   --plasmic-token-font-type-44: var(--token-jSPiWjWlft7K);
+  --token-3-tJKfg6zfvE: 5rem;
+  --plasmic-token-space-08: var(--token-3-tJKfg6zfvE);
 }
 
 @media (max-width: 768px) {

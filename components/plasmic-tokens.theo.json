@@ -3961,6 +3961,16 @@
       }
     },
     {
+      "name": "space.08",
+      "type": "spacing",
+      "value": "5rem",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "3-tJKfg6zfvE"
+      }
+    },
+    {
       "name": "space.base",
       "type": "spacing",
       "value": "1px",
