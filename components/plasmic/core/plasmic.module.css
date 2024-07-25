@@ -1466,12 +1466,6 @@
   --mixin-H0ncmFn_yECl-3BHMW_white-space: pre-wrap;
 }
 
-.plasmic_mixins,
-.plasmic_mixins:where(.global_mode_dark) {
-  --mixin-zHpE_cOiegG2_white-space: pre-wrap;
-  --plasmic-mixin-font-45_white-space: var(--mixin-zHpE_cOiegG2_white-space);
-}
-
 :where(.all) {
   display: block;
   white-space: inherit;
