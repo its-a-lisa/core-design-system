@@ -577,8 +577,8 @@
   --plasmic-token-color-brand-github: var(--token-wH8F4BoeXSaC);
   --token-iEijkIOiaQzJ: #000000;
   --plasmic-token-color-brand-gitlab: var(--token-iEijkIOiaQzJ);
-  --token-l-Fln81b4i55: 6px;
-  --plasmic-token-space-d-075: var(--token-l-Fln81b4i55);
+  --token-l-Fln81b4i55: 0.375rem;
+  --plasmic-token-space-00: var(--token-l-Fln81b4i55);
   --token-JOrZM21jax0q: 0.25rem;
   --plasmic-token-space-01: var(--token-JOrZM21jax0q);
   --token-3n22ukpxGnYm: 4px;
