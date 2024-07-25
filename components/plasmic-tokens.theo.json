@@ -2261,7 +2261,7 @@
       }
     },
     {
-      "name": "font.size.01",
+      "name": "font.size.008",
       "type": "fontsize",
       "value": "0.5rem",
       "category": "fontsize",
@@ -2271,7 +2271,7 @@
       }
     },
     {
-      "name": "font.size.02",
+      "name": "font.size.010",
       "type": "fontsize",
       "value": "0.63rem",
       "category": "fontsize",
@@ -2281,7 +2281,7 @@
       }
     },
     {
-      "name": "font.size.03",
+      "name": "font.size.012",
       "type": "fontsize",
       "value": "0.75rem",
       "category": "fontsize",
@@ -2291,7 +2291,7 @@
       }
     },
     {
-      "name": "font.size.04",
+      "name": "font.size.014",
       "type": "fontsize",
       "value": "0.88rem",
       "category": "fontsize",
@@ -2301,7 +2301,7 @@
       }
     },
     {
-      "name": "font.size.05",
+      "name": "font.size.016",
       "type": "fontsize",
       "value": "1rem",
       "category": "fontsize",
@@ -2311,7 +2311,7 @@
       }
     },
     {
-      "name": "font.size.06",
+      "name": "font.size.020",
       "type": "fontsize",
       "value": "1.13rem",
       "category": "fontsize",
@@ -2321,7 +2321,7 @@
       }
     },
     {
-      "name": "font.size.07",
+      "name": "font.size.022",
       "type": "fontsize",
       "value": "1.25rem",
       "category": "fontsize",
@@ -2331,7 +2331,7 @@
       }
     },
     {
-      "name": "font.size.08",
+      "name": "font.size.024",
       "type": "fontsize",
       "value": "1.5rem",
       "category": "fontsize",
@@ -2341,7 +2341,7 @@
       }
     },
     {
-      "name": "font.size.09",
+      "name": "font.size.028",
       "type": "fontsize",
       "value": "1.75rem",
       "category": "fontsize",
@@ -2351,7 +2351,7 @@
       }
     },
     {
-      "name": "font.size.10",
+      "name": "font.size.032",
       "type": "fontsize",
       "value": "2rem",
       "category": "fontsize",
@@ -2361,7 +2361,7 @@
       }
     },
     {
-      "name": "font.size.11",
+      "name": "font.size.036",
       "type": "fontsize",
       "value": "2.13rem",
       "category": "fontsize",
@@ -2371,7 +2371,7 @@
       }
     },
     {
-      "name": "font.size.12",
+      "name": "font.size.038",
       "type": "fontsize",
       "value": "2.25rem",
       "category": "fontsize",
@@ -2381,7 +2381,7 @@
       }
     },
     {
-      "name": "font.size.13",
+      "name": "font.size.040",
       "type": "fontsize",
       "value": "2.5rem",
       "category": "fontsize",
@@ -2391,7 +2391,7 @@
       }
     },
     {
-      "name": "font.size.14",
+      "name": "font.size.044",
       "type": "fontsize",
       "value": "2.69rem",
       "category": "fontsize",
@@ -2401,7 +2401,7 @@
       }
     },
     {
-      "name": "font.size.15",
+      "name": "font.size.046",
       "type": "fontsize",
       "value": "2.86rem",
       "category": "fontsize",
@@ -2411,7 +2411,7 @@
       }
     },
     {
-      "name": "font.size.16",
+      "name": "font.size.048",
       "type": "fontsize",
       "value": "3rem",
       "category": "fontsize",
@@ -2421,7 +2421,7 @@
       }
     },
     {
-      "name": "font.size.17",
+      "name": "font.size.052",
       "type": "fontsize",
       "value": "3.38rem",
       "category": "fontsize",
@@ -2431,7 +2431,7 @@
       }
     },
     {
-      "name": "font.size.18",
+      "name": "font.size.062",
       "type": "fontsize",
       "value": "3.8rem",
       "category": "fontsize",
@@ -2441,7 +2441,7 @@
       }
     },
     {
-      "name": "font.size.19",
+      "name": "font.size.068",
       "type": "fontsize",
       "value": "4.12rem",
       "category": "fontsize",
@@ -2451,7 +2451,7 @@
       }
     },
     {
-      "name": "font.size.20",
+      "name": "font.size.074",
       "type": "fontsize",
       "value": "4.66rem",
       "category": "fontsize",
@@ -3361,9 +3361,9 @@
       }
     },
     {
-      "name": "radii.0025",
+      "name": "radii.002",
       "type": "spacing",
-      "value": "2px",
+      "value": "0.125rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3371,9 +3371,9 @@
       }
     },
     {
-      "name": "radii.0050",
+      "name": "radii.004",
       "type": "spacing",
-      "value": "4px",
+      "value": "0.25rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3381,9 +3381,9 @@
       }
     },
     {
-      "name": "radii.0075",
+      "name": "radii.006",
       "type": "spacing",
-      "value": "6px",
+      "value": "0.375rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3391,19 +3391,9 @@
       }
     },
     {
-      "name": "radii.0100",
+      "name": "radii.008",
       "type": "spacing",
-      "value": "8px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "y5sUbvFQVuYU"
-      }
-    },
-    {
-      "name": "radii.0150",
-      "type": "spacing",
-      "value": "12px",
+      "value": "0.5rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3411,9 +3401,19 @@
       }
     },
     {
-      "name": "radii.0200",
+      "name": "radii.012",
       "type": "spacing",
-      "value": "16px",
+      "value": "0.75rem",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "y5sUbvFQVuYU"
+      }
+    },
+    {
+      "name": "radii.016",
+      "type": "spacing",
+      "value": "1rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3421,9 +3421,9 @@
       }
     },
     {
-      "name": "radii.0250",
+      "name": "radii.020",
       "type": "spacing",
-      "value": "20px",
+      "value": "1.123rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3431,9 +3431,9 @@
       }
     },
     {
-      "name": "radii.0300",
+      "name": "radii.024",
       "type": "spacing",
-      "value": "24px",
+      "value": "1.5rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3441,9 +3441,9 @@
       }
     },
     {
-      "name": "radii.0400",
+      "name": "radii.032",
       "type": "spacing",
-      "value": "32px",
+      "value": "2rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3453,7 +3453,7 @@
     {
       "name": "radii.0500",
       "type": "spacing",
-      "value": "40px",
+      "value": "2.5rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3463,7 +3463,7 @@
     {
       "name": "radii.0600",
       "type": "spacing",
-      "value": "48px",
+      "value": "3rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3473,7 +3473,7 @@
     {
       "name": "radii.0800",
       "type": "spacing",
-      "value": "64px",
+      "value": "4rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3483,7 +3483,7 @@
     {
       "name": "radii.none",
       "type": "spacing",
-      "value": "0px",
+      "value": "0rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3493,7 +3493,7 @@
     {
       "name": "radii.round",
       "type": "spacing",
-      "value": "9999px",
+      "value": "624.938rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3503,7 +3503,7 @@
     {
       "name": "size.0000",
       "type": "spacing",
-      "value": "0px",
+      "value": "0rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3511,19 +3511,9 @@
       }
     },
     {
-      "name": "size.0012",
+      "name": "size.002",
       "type": "spacing",
-      "value": "1px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "8gyiWhX8pTqM"
-      }
-    },
-    {
-      "name": "size.0025",
-      "type": "spacing",
-      "value": "2px",
+      "value": "0.125rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3531,9 +3521,9 @@
       }
     },
     {
-      "name": "size.0050",
+      "name": "size.004",
       "type": "spacing",
-      "value": "4px",
+      "value": "0.25rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3541,9 +3531,9 @@
       }
     },
     {
-      "name": "size.0075",
+      "name": "size.006",
       "type": "spacing",
-      "value": "6px",
+      "value": "0.237rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3551,9 +3541,9 @@
       }
     },
     {
-      "name": "size.0100",
+      "name": "size.008",
       "type": "spacing",
-      "value": "8px",
+      "value": "0.5rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3561,29 +3551,9 @@
       }
     },
     {
-      "name": "size.0125",
+      "name": "size.012",
       "type": "spacing",
-      "value": "10px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "w2cANRxTLJxA"
-      }
-    },
-    {
-      "name": "size.0150",
-      "type": "spacing",
-      "value": "12px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "744tScXZ63iK"
-      }
-    },
-    {
-      "name": "size.0175",
-      "type": "spacing",
-      "value": "14px",
+      "value": "0.75rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3591,9 +3561,9 @@
       }
     },
     {
-      "name": "size.0200",
+      "name": "size.016",
       "type": "spacing",
-      "value": "16px",
+      "value": "1rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3601,39 +3571,9 @@
       }
     },
     {
-      "name": "size.0225",
+      "name": "size.024",
       "type": "spacing",
-      "value": "18px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "4akJxuzMTjvS"
-      }
-    },
-    {
-      "name": "size.0250",
-      "type": "spacing",
-      "value": "20px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "OcVJRGl78icJ"
-      }
-    },
-    {
-      "name": "size.0275",
-      "type": "spacing",
-      "value": "22px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "43IycFTW8Np1"
-      }
-    },
-    {
-      "name": "size.0300",
-      "type": "spacing",
-      "value": "24px",
+      "value": "1.5rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3641,9 +3581,19 @@
       }
     },
     {
-      "name": "size.0400",
+      "name": "size.028",
       "type": "spacing",
-      "value": "32px",
+      "value": "1.75rem",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "43IycFTW8Np1"
+      }
+    },
+    {
+      "name": "size.032",
+      "type": "spacing",
+      "value": "2rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3651,9 +3601,9 @@
       }
     },
     {
-      "name": "size.0450",
+      "name": "size.036",
       "type": "spacing",
-      "value": "36px",
+      "value": "2.25rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3661,9 +3611,9 @@
       }
     },
     {
-      "name": "size.0500",
+      "name": "size.040",
       "type": "spacing",
-      "value": "40px",
+      "value": "2.5rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3671,9 +3621,9 @@
       }
     },
     {
-      "name": "size.0600",
+      "name": "size.048",
       "type": "spacing",
-      "value": "48px",
+      "value": "3rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3681,9 +3631,9 @@
       }
     },
     {
-      "name": "size.0700",
+      "name": "size.056",
       "type": "spacing",
-      "value": "56px",
+      "value": "3.5rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3691,9 +3641,9 @@
       }
     },
     {
-      "name": "size.0800",
+      "name": "size.064",
       "type": "spacing",
-      "value": "64px",
+      "value": "4rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3701,9 +3651,9 @@
       }
     },
     {
-      "name": "size.0900",
+      "name": "size.072",
       "type": "spacing",
-      "value": "72px",
+      "value": "4.5rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3711,9 +3661,9 @@
       }
     },
     {
-      "name": "size.1000",
+      "name": "size.080",
       "type": "spacing",
-      "value": "80px",
+      "value": "5rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3721,9 +3671,9 @@
       }
     },
     {
-      "name": "size.1200",
+      "name": "size.096",
       "type": "spacing",
-      "value": "96px",
+      "value": "6rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -3731,167 +3681,17 @@
       }
     },
     {
-      "name": "size.1400",
+      "name": "space.002",
       "type": "spacing",
-      "value": "112px",
+      "value": "0.125rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "515LvfsM8nDX"
+        "id": "wWumU0U8aJjH"
       }
     },
     {
-      "name": "size.1600",
-      "type": "spacing",
-      "value": "128px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "dQI4taF7a7Q7"
-      }
-    },
-    {
-      "name": "size.1800",
-      "type": "spacing",
-      "value": "144px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "58_xl-juqW4o"
-      }
-    },
-    {
-      "name": "size.2000",
-      "type": "spacing",
-      "value": "150px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "FP8Q5B7Rp2ar"
-      }
-    },
-    {
-      "name": "size.2200",
-      "type": "spacing",
-      "value": "176px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "T35FWItgkK5I"
-      }
-    },
-    {
-      "name": "size.2400",
-      "type": "spacing",
-      "value": "192px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "G8-8UepOU0Zr"
-      }
-    },
-    {
-      "name": "size.2600",
-      "type": "spacing",
-      "value": "208px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "ZaHbFN7TyRWB"
-      }
-    },
-    {
-      "name": "size.2800",
-      "type": "spacing",
-      "value": "224px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "T6i-P1fx8idR"
-      }
-    },
-    {
-      "name": "size.3000",
-      "type": "spacing",
-      "value": "240px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "xBMD4aA9rYxj"
-      }
-    },
-    {
-      "name": "size.3200",
-      "type": "spacing",
-      "value": "256px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "xmnFNWWt8nGe"
-      }
-    },
-    {
-      "name": "size.3400",
-      "type": "spacing",
-      "value": "288px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "C5Jniit74Uva"
-      }
-    },
-    {
-      "name": "size.3600",
-      "type": "spacing",
-      "value": "320px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "ErK_q31PBS52"
-      }
-    },
-    {
-      "name": "size.3800",
-      "type": "spacing",
-      "value": "384px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "QZvW-aJN2yJc"
-      }
-    },
-    {
-      "name": "size.6750",
-      "type": "spacing",
-      "value": "540px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "GrVB_wybn_mq"
-      }
-    },
-    {
-      "name": "size.base",
-      "type": "spacing",
-      "value": "8px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "SYqap5kNfji3"
-      }
-    },
-    {
-      "name": "space.00",
-      "type": "spacing",
-      "value": "0.375rem",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "l-Fln81b4i55"
-      }
-    },
-    {
-      "name": "space.01",
+      "name": "space.004",
       "type": "spacing",
       "value": "0.25rem",
       "category": "spacing",
@@ -3901,7 +3701,17 @@
       }
     },
     {
-      "name": "space.02",
+      "name": "space.006",
+      "type": "spacing",
+      "value": "0.375rem",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "l-Fln81b4i55"
+      }
+    },
+    {
+      "name": "space.008",
       "type": "spacing",
       "value": "0.5rem",
       "category": "spacing",
@@ -3911,7 +3721,17 @@
       }
     },
     {
-      "name": "space.03",
+      "name": "space.012",
+      "type": "spacing",
+      "value": "0.75rem",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "5jNKgEkegZqB"
+      }
+    },
+    {
+      "name": "space.016",
       "type": "spacing",
       "value": "1rem",
       "category": "spacing",
@@ -3921,7 +3741,17 @@
       }
     },
     {
-      "name": "space.04",
+      "name": "space.020",
+      "type": "spacing",
+      "value": "1.123rem",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "O4XyKPIYNSFV"
+      }
+    },
+    {
+      "name": "space.024",
       "type": "spacing",
       "value": "1.5rem",
       "category": "spacing",
@@ -3931,7 +3761,17 @@
       }
     },
     {
-      "name": "space.05",
+      "name": "space.028",
+      "type": "spacing",
+      "value": "1.75rem",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "C2PMwG8fF_K2"
+      }
+    },
+    {
+      "name": "space.032",
       "type": "spacing",
       "value": "2rem",
       "category": "spacing",
@@ -3941,7 +3781,37 @@
       }
     },
     {
-      "name": "space.06",
+      "name": "space.036",
+      "type": "spacing",
+      "value": "2.25rem",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "r8K-KLfWg7ov"
+      }
+    },
+    {
+      "name": "space.040",
+      "type": "spacing",
+      "value": "2.5rem",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "uGRLJwfQsMfQ"
+      }
+    },
+    {
+      "name": "space.044",
+      "type": "spacing",
+      "value": "2.75rem",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "A4UhFa8jp3NH"
+      }
+    },
+    {
+      "name": "space.048",
       "type": "spacing",
       "value": "3rem",
       "category": "spacing",
@@ -3951,7 +3821,17 @@
       }
     },
     {
-      "name": "space.07",
+      "name": "space.056",
+      "type": "spacing",
+      "value": "3.5rem",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "uJUZCDgr1tZh"
+      }
+    },
+    {
+      "name": "space.064",
       "type": "spacing",
       "value": "4rem",
       "category": "spacing",
@@ -3961,7 +3841,17 @@
       }
     },
     {
-      "name": "space.08",
+      "name": "space.072",
+      "type": "spacing",
+      "value": "4.5rem",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "FPbJjy-o8tzn"
+      }
+    },
+    {
+      "name": "space.080",
       "type": "spacing",
       "value": "5rem",
       "category": "spacing",
@@ -3971,143 +3861,33 @@
       }
     },
     {
-      "name": "space.base",
+      "name": "space.096",
       "type": "spacing",
-      "value": "1px",
+      "value": "6rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "k8RSjeTgB1hP"
+        "id": "U-vHSrWllYI2"
       }
     },
     {
-      "name": "space.d025",
+      "name": "space.112",
       "type": "spacing",
-      "value": "2px",
+      "value": "7rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "wWumU0U8aJjH"
+        "id": "af9aSXLg4NYK"
       }
     },
     {
-      "name": "space.d1000",
+      "name": "space.128",
       "type": "spacing",
-      "value": "80px",
+      "value": "8rem",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "vvs8O6Em336I"
-      }
-    },
-    {
-      "name": "space.d1200",
-      "type": "spacing",
-      "value": "96px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "rsBXKVvnGRls"
-      }
-    },
-    {
-      "name": "space.d150",
-      "type": "spacing",
-      "value": "12px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "viO3dwZjnQHc"
-      }
-    },
-    {
-      "name": "space.d1600",
-      "type": "spacing",
-      "value": "128px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "DEN2kcCXecpr"
-      }
-    },
-    {
-      "name": "space.d175",
-      "type": "spacing",
-      "value": "10px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "9vAcySeDTtyy"
-      }
-    },
-    {
-      "name": "space.d2000",
-      "type": "spacing",
-      "value": "160px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "MPTUUme6x_Tk"
-      }
-    },
-    {
-      "name": "space.d2200",
-      "type": "spacing",
-      "value": "176px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "pzhibM7xjgx3"
-      }
-    },
-    {
-      "name": "space.d250",
-      "type": "spacing",
-      "value": "20px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "O4XyKPIYNSFV"
-      }
-    },
-    {
-      "name": "space.d2600",
-      "type": "spacing",
-      "value": "208px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "u8BczeA7IHpx"
-      }
-    },
-    {
-      "name": "space.d500",
-      "type": "spacing",
-      "value": "40px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "uGRLJwfQsMfQ"
-      }
-    },
-    {
-      "name": "space.d700",
-      "type": "spacing",
-      "value": "56px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "uJUZCDgr1tZh"
-      }
-    },
-    {
-      "name": "space.d900",
-      "type": "spacing",
-      "value": "72px",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "FPbJjy-o8tzn"
+        "id": "4IHudl6MpFHS"
       }
     }
   ],

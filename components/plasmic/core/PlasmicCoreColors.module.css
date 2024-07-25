@@ -76,7 +76,7 @@
   justify-content: flex-start;
   width: 100%;
   background: var(--token-F2j0Fb6y5GQ3);
-  height: var(--token-dQI4taF7a7Q7);
+  height: 128px;
   min-width: 0;
   padding: 16px;
 }
@@ -103,7 +103,7 @@
   justify-content: flex-start;
   width: 100%;
   background: var(--token-MWQMPSVubdO1);
-  height: var(--token-dQI4taF7a7Q7);
+  height: 128px;
   min-width: 0;
   padding: 16px;
 }
@@ -130,7 +130,7 @@
   justify-content: flex-start;
   width: 100%;
   background: var(--token-b4UF7wnPwVPI);
-  height: var(--token-dQI4taF7a7Q7);
+  height: 128px;
   min-width: 0;
   padding: 16px;
 }
