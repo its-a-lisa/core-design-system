@@ -4151,6 +4151,16 @@
       }
     },
     {
+      "name": "space.112",
+      "type": "spacing",
+      "value": "7rem",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "Xq8Xuu2btIT0"
+      }
+    },
+    {
       "name": "space.128",
       "type": "spacing",
       "value": "8rem",
@@ -4158,16 +4168,6 @@
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
         "id": "vvqMfpZkDKjw"
-      }
-    },
-    {
-      "name": "space.128 2",
-      "type": "spacing",
-      "value": "8rem",
-      "category": "spacing",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "Xq8Xuu2btIT0"
       }
     },
     {
