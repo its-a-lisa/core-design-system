@@ -43,20 +43,6 @@
           "path": "/core"
         },
         {
-          "id": "IIPSaX_3M5QL",
-          "name": "FontSizes",
-          "type": "managed",
-          "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-          "renderModuleFilePath": "plasmic/core/PlasmicFontSizes.tsx",
-          "importSpec": {
-            "modulePath": "../pages/font-sizes.tsx"
-          },
-          "cssFilePath": "plasmic/core/PlasmicFontSizes.module.css",
-          "scheme": "blackbox",
-          "componentType": "page",
-          "path": "/font-sizes"
-        },
-        {
           "id": "YklQ4BJbkrNW",
           "name": "Font",
           "type": "managed",
