@@ -6,7 +6,7 @@
 import * as React from "react";
 import { createUseScreenVariants } from "@plasmicapp/react-web";
 
-export type ModeValue = "dark";
+export type ModeValue = "dark" | "grayscale" | "darkGrayscale";
 export const ModeContext = React.createContext<ModeValue | undefined>(
   "PLEASE_RENDER_INSIDE_PROVIDER" as any
 );

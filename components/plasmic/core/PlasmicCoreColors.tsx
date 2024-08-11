@@ -81,36 +81,227 @@ export const PlasmicCoreColors__ArgProps = new Array<ArgPropType>();
 export type PlasmicCoreColors__OverridesType = {
   root?: Flex__<"div">;
   h1?: Flex__<"h1">;
-  basics2?: Flex__<"div">;
-  transparency2?: Flex__<"div">;
-  transparency?: Flex__<"div">;
-  black2?: Flex__<"div">;
-  blackAlpha?: Flex__<"div">;
-  blackAlpha2?: Flex__<"div">;
-  columns?: Flex__<"div">;
-  column?: Flex__<"div">;
-  grays?: Flex__<"div">;
-  gray?: Flex__<"div">;
-  slate?: Flex__<"div">;
-  zinc?: Flex__<"div">;
-  neutral?: Flex__<"div">;
-  stone?: Flex__<"div">;
-  mountain?: Flex__<"div">;
-  pink?: Flex__<"div">;
-  purple?: Flex__<"div">;
-  water?: Flex__<"div">;
+  colors?: Flex__<"div">;
+  colorStacks?: Flex__<"div">;
+  basicsGroup?: Flex__<"div">;
+  baseStack?: Flex__<"div">;
+  lowBase?: Flex__<"div">;
+  transparentBase?: Flex__<"div">;
+  highBase?: Flex__<"div">;
+  blackAphaStack?: Flex__<"div">;
+  blackApha10?: Flex__<"div">;
+  blackApha20?: Flex__<"div">;
+  blackApha30?: Flex__<"div">;
+  blackApha40?: Flex__<"div">;
+  blackApha50?: Flex__<"div">;
+  blackApha60?: Flex__<"div">;
+  blackApha70?: Flex__<"div">;
+  blackApha80?: Flex__<"div">;
+  blackApha90?: Flex__<"div">;
+  blackApha100?: Flex__<"div">;
+  whiteAlphaStack?: Flex__<"div">;
+  whiteAlpha10?: Flex__<"div">;
+  whiteAlpha20?: Flex__<"div">;
+  whiteAlpha30?: Flex__<"div">;
+  whiteAlpha40?: Flex__<"div">;
+  whiteAlpha50?: Flex__<"div">;
+  whiteAlpha60?: Flex__<"div">;
+  whiteAlpha70?: Flex__<"div">;
+  whiteAlpha80?: Flex__<"div">;
+  whiteAlpha90?: Flex__<"div">;
+  whiteAlpha100?: Flex__<"div">;
+  grayGroup?: Flex__<"div">;
+  grayStack?: Flex__<"div">;
+  gray10?: Flex__<"div">;
+  gray20?: Flex__<"div">;
+  gray30?: Flex__<"div">;
+  gray40?: Flex__<"div">;
+  gray50?: Flex__<"div">;
+  gray60?: Flex__<"div">;
+  gray70?: Flex__<"div">;
+  gray80?: Flex__<"div">;
+  gray90?: Flex__<"div">;
+  gray100?: Flex__<"div">;
+  slateStack?: Flex__<"div">;
+  slate10?: Flex__<"div">;
+  slate20?: Flex__<"div">;
+  slate30?: Flex__<"div">;
+  slate40?: Flex__<"div">;
+  slate50?: Flex__<"div">;
+  slate60?: Flex__<"div">;
+  slate70?: Flex__<"div">;
+  slate80?: Flex__<"div">;
+  slate90?: Flex__<"div">;
+  slate100?: Flex__<"div">;
+  zincStack?: Flex__<"div">;
+  zinc10?: Flex__<"div">;
+  zinc20?: Flex__<"div">;
+  zinc30?: Flex__<"div">;
+  zinc40?: Flex__<"div">;
+  zinc50?: Flex__<"div">;
+  zinc60?: Flex__<"div">;
+  zinc70?: Flex__<"div">;
+  zinc80?: Flex__<"div">;
+  zinc90?: Flex__<"div">;
+  zinc100?: Flex__<"div">;
+  neutralStack?: Flex__<"div">;
+  neutral10?: Flex__<"div">;
+  neutral20?: Flex__<"div">;
+  neutral30?: Flex__<"div">;
+  neutral40?: Flex__<"div">;
+  neutral50?: Flex__<"div">;
+  neutral60?: Flex__<"div">;
+  neutral70?: Flex__<"div">;
+  neutral80?: Flex__<"div">;
+  neutral90?: Flex__<"div">;
+  neutral100?: Flex__<"div">;
+  stoneStack?: Flex__<"div">;
+  stone10?: Flex__<"div">;
+  stone20?: Flex__<"div">;
+  stone30?: Flex__<"div">;
+  stone40?: Flex__<"div">;
+  stone50?: Flex__<"div">;
+  stone60?: Flex__<"div">;
+  stone70?: Flex__<"div">;
+  stone80?: Flex__<"div">;
+  stone90?: Flex__<"div">;
+  stone100?: Flex__<"div">;
+  mountainGroup?: Flex__<"div">;
+  pinkStack?: Flex__<"div">;
+  pink10?: Flex__<"div">;
+  pink20?: Flex__<"div">;
+  pink30?: Flex__<"div">;
+  pink40?: Flex__<"div">;
+  pink50?: Flex__<"div">;
+  pink60?: Flex__<"div">;
+  pink70?: Flex__<"div">;
+  pink80?: Flex__<"div">;
+  pink90?: Flex__<"div">;
+  pink100?: Flex__<"div">;
+  purpleStack?: Flex__<"div">;
+  purple10?: Flex__<"div">;
+  purple20?: Flex__<"div">;
+  purple30?: Flex__<"div">;
+  purple40?: Flex__<"div">;
+  purple50?: Flex__<"div">;
+  purple60?: Flex__<"div">;
+  purple70?: Flex__<"div">;
+  purple80?: Flex__<"div">;
+  purple90?: Flex__<"div">;
+  purple100?: Flex__<"div">;
+  waterGroup?: Flex__<"div">;
   cyan?: Flex__<"div">;
+  cyan10?: Flex__<"div">;
+  cyan20?: Flex__<"div">;
+  cyan30?: Flex__<"div">;
+  cyan40?: Flex__<"div">;
+  cyan50?: Flex__<"div">;
+  cyan60?: Flex__<"div">;
+  cyan70?: Flex__<"div">;
+  cyan80?: Flex__<"div">;
+  cyan90?: Flex__<"div">;
+  cyan100?: Flex__<"div">;
   blue?: Flex__<"div">;
+  blue10?: Flex__<"div">;
+  blue20?: Flex__<"div">;
+  blue30?: Flex__<"div">;
+  blue40?: Flex__<"div">;
+  blue50?: Flex__<"div">;
+  blue60?: Flex__<"div">;
+  blue70?: Flex__<"div">;
+  blue80?: Flex__<"div">;
+  blue90?: Flex__<"div">;
+  blue100?: Flex__<"div">;
   indigo?: Flex__<"div">;
-  grass?: Flex__<"div">;
-  lime2?: Flex__<"div">;
+  indigo10?: Flex__<"div">;
+  indigo20?: Flex__<"div">;
+  indigo30?: Flex__<"div">;
+  indigo40?: Flex__<"div">;
+  indigo50?: Flex__<"div">;
+  indigo60?: Flex__<"div">;
+  indigo70?: Flex__<"div">;
+  indigo80?: Flex__<"div">;
+  indigo90?: Flex__<"div">;
+  indigo100?: Flex__<"div">;
+  grassGroup?: Flex__<"div">;
+  lime?: Flex__<"div">;
+  lime10?: Flex__<"div">;
+  lime20?: Flex__<"div">;
+  lime30?: Flex__<"div">;
+  lime40?: Flex__<"div">;
+  lime50?: Flex__<"div">;
+  lime60?: Flex__<"div">;
+  lime70?: Flex__<"div">;
+  lime80?: Flex__<"div">;
+  lime90?: Flex__<"div">;
+  lime100?: Flex__<"div">;
   green?: Flex__<"div">;
+  green10?: Flex__<"div">;
+  green20?: Flex__<"div">;
+  green30?: Flex__<"div">;
+  green40?: Flex__<"div">;
+  green50?: Flex__<"div">;
+  green60?: Flex__<"div">;
+  green70?: Flex__<"div">;
+  green80?: Flex__<"div">;
+  green90?: Flex__<"div">;
+  green100?: Flex__<"div">;
   teal?: Flex__<"div">;
-  teal2?: Flex__<"div">;
-  fire?: Flex__<"div">;
+  teal10?: Flex__<"div">;
+  teal20?: Flex__<"div">;
+  teal30?: Flex__<"div">;
+  teal40?: Flex__<"div">;
+  teal50?: Flex__<"div">;
+  teal60?: Flex__<"div">;
+  teal70?: Flex__<"div">;
+  teal80?: Flex__<"div">;
+  teal90?: Flex__<"div">;
+  teal100?: Flex__<"div">;
+  turquoise?: Flex__<"div">;
+  turquoise10?: Flex__<"div">;
+  turquoise20?: Flex__<"div">;
+  turquoise30?: Flex__<"div">;
+  turquoise40?: Flex__<"div">;
+  turquoise50?: Flex__<"div">;
+  turquoise60?: Flex__<"div">;
+  turquoise70?: Flex__<"div">;
+  turquoise80?: Flex__<"div">;
+  turquoise90?: Flex__<"div">;
+  turquoise100?: Flex__<"div">;
+  fireGroup?: Flex__<"div">;
   yellow?: Flex__<"div">;
+  yellow10?: Flex__<"div">;
+  yellow20?: Flex__<"div">;
+  yellow30?: Flex__<"div">;
+  yellow40?: Flex__<"div">;
+  yellow50?: Flex__<"div">;
+  yellow60?: Flex__<"div">;
+  yellow70?: Flex__<"div">;
+  yellow80?: Flex__<"div">;
+  yellow90?: Flex__<"div">;
+  yellow100?: Flex__<"div">;
   orange?: Flex__<"div">;
+  orange10?: Flex__<"div">;
+  orange20?: Flex__<"div">;
+  orange30?: Flex__<"div">;
+  orange40?: Flex__<"div">;
+  orange50?: Flex__<"div">;
+  orange60?: Flex__<"div">;
+  orange70?: Flex__<"div">;
+  orange80?: Flex__<"div">;
+  orange90?: Flex__<"div">;
+  orange100?: Flex__<"div">;
   red?: Flex__<"div">;
+  red10?: Flex__<"div">;
+  red20?: Flex__<"div">;
+  red30?: Flex__<"div">;
+  red40?: Flex__<"div">;
+  red50?: Flex__<"div">;
+  red60?: Flex__<"div">;
+  red70?: Flex__<"div">;
+  red80?: Flex__<"div">;
+  red90?: Flex__<"div">;
+  red100?: Flex__<"div">;
 };
 
 export interface DefaultCoreColorsProps {}
@@ -173,15 +364,35 @@ function PlasmicCoreColors__RenderFunc(props: {
             projectcss.plasmic_tokens,
             sty.root,
             {
+              [projectcss.global_mode_darkGrayscale]: hasVariant(
+                globalVariants,
+                "mode",
+                "darkGrayscale"
+              ),
               [projectcss.global_mode_dark]: hasVariant(
                 globalVariants,
                 "mode",
                 "dark"
               ),
+              [projectcss.global_mode_grayscale]: hasVariant(
+                globalVariants,
+                "mode",
+                "grayscale"
+              ),
+              [sty.rootglobal_mode_darkGrayscale]: hasVariant(
+                globalVariants,
+                "mode",
+                "darkGrayscale"
+              ),
               [sty.rootglobal_mode_dark]: hasVariant(
                 globalVariants,
                 "mode",
                 "dark"
+              ),
+              [sty.rootglobal_mode_grayscale]: hasVariant(
+                globalVariants,
+                "mode",
+                "grayscale"
               )
             }
           )}
@@ -198,3306 +409,3294 @@ function PlasmicCoreColors__RenderFunc(props: {
           >
             {"17S Design System Colors"}
           </h1>
-          <div
-            data-plasmic-name={"basics2"}
-            data-plasmic-override={overrides.basics2}
-            className={classNames(projectcss.all, sty.basics2)}
+          <Stack__
+            as={"div"}
+            data-plasmic-name={"colors"}
+            data-plasmic-override={overrides.colors}
+            hasGap={true}
+            className={classNames(projectcss.all, sty.colors)}
           >
-            <div className={classNames(projectcss.all, sty.freeBox__eI990)}>
-              <div
-                data-plasmic-name={"transparency2"}
-                data-plasmic-override={overrides.transparency2}
-                className={classNames(projectcss.all, sty.transparency2, {
-                  [sty.transparency2global_mode_dark]: hasVariant(
-                    globalVariants,
-                    "mode",
-                    "dark"
-                  )
-                })}
-              >
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__mOkn4
-                  )}
-                >
-                  {"color.default.low"}
-                </div>
-              </div>
-              <div
-                data-plasmic-name={"transparency"}
-                data-plasmic-override={overrides.transparency}
-                className={classNames(projectcss.all, sty.transparency)}
-              >
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__bo2Mu
-                  )}
-                >
-                  {"color.transparent"}
-                </div>
-              </div>
-              <div
-                data-plasmic-name={"black2"}
-                data-plasmic-override={overrides.black2}
-                className={classNames(projectcss.all, sty.black2, {
-                  [sty.black2global_mode_dark]: hasVariant(
-                    globalVariants,
-                    "mode",
-                    "dark"
-                  )
-                })}
-              >
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__ccExR
-                  )}
-                >
-                  {"color.default.high"}
-                </div>
-              </div>
-            </div>
-            <Stack__
-              as={"div"}
-              data-plasmic-name={"blackAlpha"}
-              data-plasmic-override={overrides.blackAlpha}
-              hasGap={true}
-              className={classNames(projectcss.all, sty.blackAlpha)}
+            <div
+              data-plasmic-name={"colorStacks"}
+              data-plasmic-override={overrides.colorStacks}
+              className={classNames(projectcss.all, sty.colorStacks)}
             >
-              <div className={classNames(projectcss.all, sty.freeBox__xIlaI)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text___8S111
-                  )}
-                >
-                  {"color.black-alpha.50"}
-                </div>
-              </div>
-              <div className={classNames(projectcss.all, sty.freeBox__yfrdr)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__qM0Mv
-                  )}
-                >
-                  {"color.black-alpha.100"}
-                </div>
-              </div>
-              <div className={classNames(projectcss.all, sty.freeBox__jk3Pv)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__spvli
-                  )}
-                >
-                  {"color.black-alpha.200"}
-                </div>
-              </div>
-              <div className={classNames(projectcss.all, sty.freeBox___2Yz8J)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__ynWnp
-                  )}
-                >
-                  {"color.black-alpha.300"}
-                </div>
-              </div>
-              <div className={classNames(projectcss.all, sty.freeBox__vyiR8)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__moXQ
-                  )}
-                >
-                  {"color.black-alpha.400"}
-                </div>
-              </div>
-              <div className={classNames(projectcss.all, sty.freeBox___6PSUs)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__gFqWq
-                  )}
-                >
-                  {"color.black-alpha.500"}
-                </div>
-              </div>
-              <div className={classNames(projectcss.all, sty.freeBox__plVnz)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__pL8X
-                  )}
-                >
-                  {"color.black-alpha.600"}
-                </div>
-              </div>
-              <div
-                className={classNames(projectcss.all, sty.freeBox__lp7U9, {
-                  [sty.freeBoxglobal_mode_dark__lp7U9E6UCs]: hasVariant(
-                    globalVariants,
-                    "mode",
-                    "dark"
-                  )
-                })}
+              <Stack__
+                as={"div"}
+                data-plasmic-name={"basicsGroup"}
+                data-plasmic-override={overrides.basicsGroup}
+                hasGap={true}
+                className={classNames(projectcss.all, sty.basicsGroup)}
               >
                 <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__demlM
-                  )}
+                  data-plasmic-name={"baseStack"}
+                  data-plasmic-override={overrides.baseStack}
+                  className={classNames(projectcss.all, sty.baseStack)}
                 >
-                  {"color.black-alpha.700"}
-                </div>
-              </div>
-              <div className={classNames(projectcss.all, sty.freeBox__pbPvL)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__usYqM
-                  )}
-                >
-                  {"color.black-alpha.800"}
-                </div>
-              </div>
-              <div className={classNames(projectcss.all, sty.freeBox__hhMuY)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__cegDv
-                  )}
-                >
-                  {"color.black-alpha.900"}
-                </div>
-              </div>
-            </Stack__>
-            <Stack__
-              as={"div"}
-              data-plasmic-name={"blackAlpha2"}
-              data-plasmic-override={overrides.blackAlpha2}
-              hasGap={true}
-              className={classNames(projectcss.all, sty.blackAlpha2)}
-            >
-              <div className={classNames(projectcss.all, sty.freeBox__klPrN)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__yyAeN
-                  )}
-                >
-                  {"color.white-alpha.50"}
-                </div>
-              </div>
-              <div className={classNames(projectcss.all, sty.freeBox__klf6V)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__iu4
-                  )}
-                >
-                  {"color.white-alpha.100"}
-                </div>
-              </div>
-              <div className={classNames(projectcss.all, sty.freeBox__ennSi)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__pVaX8
-                  )}
-                >
-                  {"color.white-alpha.200"}
-                </div>
-              </div>
-              <div className={classNames(projectcss.all, sty.freeBox__dA1V7)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__qzSVn
-                  )}
-                >
-                  {"color.white-alpha.300"}
-                </div>
-              </div>
-              <div className={classNames(projectcss.all, sty.freeBox__yHks1)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__wqMxd
-                  )}
-                >
-                  {"color.white-alpha.400"}
-                </div>
-              </div>
-              <div className={classNames(projectcss.all, sty.freeBox__w2KRa)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__iysS
-                  )}
-                >
-                  {"color.white-alpha.500"}
-                </div>
-              </div>
-              <div className={classNames(projectcss.all, sty.freeBox__iMu7B)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__ovo4Q
-                  )}
-                >
-                  {"color.white-alpha.600"}
-                </div>
-              </div>
-              <div className={classNames(projectcss.all, sty.freeBox__jrNlu)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__jx8Ef
-                  )}
-                >
-                  {"color.white-alpha.700"}
-                </div>
-              </div>
-              <div className={classNames(projectcss.all, sty.freeBox___1V3QQ)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__hdHxN
-                  )}
-                >
-                  {"color.white-alpha.800"}
-                </div>
-              </div>
-              <div className={classNames(projectcss.all, sty.freeBox___4Fry9)}>
-                <div
-                  className={classNames(
-                    projectcss.all,
-                    projectcss.__wab_text,
-                    sty.text__nWvnf,
-                    {
-                      [sty.textglobal_mode_dark__nWvnFe6UCs]: hasVariant(
+                  <div
+                    data-plasmic-name={"lowBase"}
+                    data-plasmic-override={overrides.lowBase}
+                    className={classNames(projectcss.all, sty.lowBase, {
+                      [sty.lowBaseglobal_mode_dark]: hasVariant(
                         globalVariants,
                         "mode",
                         "dark"
                       )
-                    }
-                  )}
-                >
-                  {"color.white-alpha.900"}
-                </div>
-              </div>
-            </Stack__>
-          </div>
-          <Stack__
-            as={"div"}
-            hasGap={true}
-            className={classNames(projectcss.all, sty.freeBox__qOTg)}
-          >
-            <Stack__
-              as={"div"}
-              data-plasmic-name={"columns"}
-              data-plasmic-override={overrides.columns}
-              hasGap={true}
-              className={classNames(projectcss.all, sty.columns)}
-            >
-              <Stack__
-                as={"div"}
-                data-plasmic-name={"column"}
-                data-plasmic-override={overrides.column}
-                hasGap={true}
-                className={classNames(projectcss.all, sty.column)}
-              >
-                <div
-                  className={classNames(projectcss.all, sty.freeBox___1ROp9)}
-                >
-                  <div
-                    data-plasmic-name={"grays"}
-                    data-plasmic-override={overrides.grays}
-                    className={classNames(projectcss.all, sty.grays)}
+                    })}
                   >
-                    <Stack__
-                      as={"div"}
-                      data-plasmic-name={"gray"}
-                      data-plasmic-override={overrides.gray}
-                      hasGap={true}
-                      className={classNames(projectcss.all, sty.gray)}
-                    >
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__nBjK
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__ezEHi
-                          )}
-                        >
-                          {"color.gray.50"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__jJaxB
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__qKm7M
-                          )}
-                        >
-                          {"color.gray.100"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__qvPwz
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___2Uvaz
-                          )}
-                        >
-                          {"color.gray.200"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__dxZ5S
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__amoLc
-                          )}
-                        >
-                          {"color.gray.300"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__hcGgd
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___9T2Rh
-                          )}
-                        >
-                          {"color.gray.400"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__iyC1P
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__lezsz
-                          )}
-                        >
-                          {"color.gray.500"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__j1Ckr
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__q367H
-                          )}
-                        >
-                          {"color.gray.600"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__uilW
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___2AjPp
-                          )}
-                        >
-                          {"color.gray.700"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__azzxG
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__oYx
-                          )}
-                        >
-                          {"color.gray.800"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__hnGtw
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__nBjsB
-                          )}
-                        >
-                          {"color.gray.900"}
-                        </div>
-                      </div>
-                    </Stack__>
-                    <Stack__
-                      as={"div"}
-                      data-plasmic-name={"slate"}
-                      data-plasmic-override={overrides.slate}
-                      hasGap={true}
-                      className={classNames(projectcss.all, sty.slate)}
-                    >
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___3Io7E
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__b6Qdf
-                          )}
-                        >
-                          {"color.slate.50"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__uFdY
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__dKtFz
-                          )}
-                        >
-                          {"color.slate.100"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__nR3Xb
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___4BiQa
-                          )}
-                        >
-                          {"color.slate.200"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__mI7TN
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__jQoYf
-                          )}
-                        >
-                          {"color.slate.300"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__cjsc
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___7Dpc
-                          )}
-                        >
-                          {"color.slate.400"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__ru8FP
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__z42Eo
-                          )}
-                        >
-                          {"color.slate.500"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__fVzji
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__xr03T
-                          )}
-                        >
-                          {"color.slate.600"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__rpQJv
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__zZkDg
-                          )}
-                        >
-                          {"color.slate.700"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(projectcss.all, sty.freeBox__tk7)}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__aSfL0
-                          )}
-                        >
-                          {"color.slate.800"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__u91Lw
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__vCkvy
-                          )}
-                        >
-                          {"color.slate.900"}
-                        </div>
-                      </div>
-                    </Stack__>
-                    <Stack__
-                      as={"div"}
-                      data-plasmic-name={"zinc"}
-                      data-plasmic-override={overrides.zinc}
-                      hasGap={true}
-                      className={classNames(projectcss.all, sty.zinc)}
-                    >
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__yNQzq,
-                          {
-                            [sty.freeBoxglobal_mode_dark__yNQzqe6UCs]:
-                              hasVariant(globalVariants, "mode", "dark")
-                          }
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__v4Qw
-                          )}
-                        >
-                          {"color.zinc.50"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__c05Sb
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__et2G2
-                          )}
-                        >
-                          {"color.zinc.100"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__eK4H
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__nGizv
-                          )}
-                        >
-                          {"color.zinc.200"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__xG8Fh
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__itllY
-                          )}
-                        >
-                          {"color.zinc.300"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__aKzY2
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__nQaeS
-                          )}
-                        >
-                          {"color.zinc.400"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__pBIov
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__y1IyS
-                          )}
-                        >
-                          {"color.zinc.500"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__eEh4P
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__geKqh
-                          )}
-                        >
-                          {"color.zinc.600"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__yFi54
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__uuDla
-                          )}
-                        >
-                          {"color.zinc.700"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__vNb8I
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__lGcUw
-                          )}
-                        >
-                          {"color.zinc.800"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__zwHAx
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__gO1Nv
-                          )}
-                        >
-                          {"color.zinc.900"}
-                        </div>
-                      </div>
-                    </Stack__>
-                    <Stack__
-                      as={"div"}
-                      data-plasmic-name={"neutral"}
-                      data-plasmic-override={overrides.neutral}
-                      hasGap={true}
-                      className={classNames(projectcss.all, sty.neutral)}
-                    >
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__eT74
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__sJanS
-                          )}
-                        >
-                          {"color.neutral.50"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__env8G
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__aNsXw
-                          )}
-                        >
-                          {"color.neutral.100"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___6MEUn
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__x2OZs
-                          )}
-                        >
-                          {"color.neutral.200"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__hteMx
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__dfmYh,
-                            {
-                              [sty.textglobal_mode_dark__dfmYHe6UCs]:
-                                hasVariant(globalVariants, "mode", "dark")
-                            }
-                          )}
-                        >
-                          {"color.neutral.300"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___9Pfap
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___3S8TW
-                          )}
-                        >
-                          {"color.neutral.400"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__x8OZ
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__qjp0B
-                          )}
-                        >
-                          {"color.neutral.500"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__sPmI5
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__uXib
-                          )}
-                        >
-                          {"color.neutral.600"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___5DUhY
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__lHzhl
-                          )}
-                        >
-                          {"color.neutral.700"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__h3FvX
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__iBfMv
-                          )}
-                        >
-                          {"color.neutral.800"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__vHoOm
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__k2Viy
-                          )}
-                        >
-                          {"color.neutral.900"}
-                        </div>
-                      </div>
-                    </Stack__>
                     <div
-                      data-plasmic-name={"stone"}
-                      data-plasmic-override={overrides.stone}
-                      className={classNames(projectcss.all, sty.stone)}
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__mOkn4
+                      )}
                     >
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__olSsb
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___0TGqI
-                          )}
-                        >
-                          {"color.stone.50"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__oK5S
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__fCUnP
-                          )}
-                        >
-                          {"color.stone.100"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___2M38Y
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__voZLb
-                          )}
-                        >
-                          {"color.stone.200"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__jHy5
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__vUpqr
-                          )}
-                        >
-                          {"color.stone.300"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__wNgnd
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__mf9H7
-                          )}
-                        >
-                          {"color.stone.400"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__cWbZe
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__gfDs3
-                          )}
-                        >
-                          {"color.stone.500"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__r8Crm
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__nNlPj
-                          )}
-                        >
-                          {"color.stone.600"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__n5SHj
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__p2D0E
-                          )}
-                        >
-                          {"color.stone.700"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__bvfpt
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__scJFj
-                          )}
-                        >
-                          {"color.stone.800"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__cxfe2
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__fruWr
-                          )}
-                        >
-                          {"color.stone.900"}
-                        </div>
-                      </div>
+                      {"color.default.low"}
                     </div>
                   </div>
                   <div
-                    data-plasmic-name={"mountain"}
-                    data-plasmic-override={overrides.mountain}
-                    className={classNames(projectcss.all, sty.mountain)}
+                    data-plasmic-name={"transparentBase"}
+                    data-plasmic-override={overrides.transparentBase}
+                    className={classNames(projectcss.all, sty.transparentBase)}
                   >
-                    <Stack__
-                      as={"div"}
-                      data-plasmic-name={"pink"}
-                      data-plasmic-override={overrides.pink}
-                      hasGap={true}
-                      className={classNames(projectcss.all, sty.pink)}
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__bo2Mu
+                      )}
                     >
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__b2MuF
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__ttNiv
-                          )}
-                        >
-                          {"color.pink.010"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__woK9V
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__aI5Lq
-                          )}
-                        >
-                          {"color.pink.020"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__ap7Ch
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__mpfCf
-                          )}
-                        >
-                          {"color.pink.030"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__ev4V1
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___7HWd3
-                          )}
-                        >
-                          {"color.pink.040"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___06MJi
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__ux5ZY
-                          )}
-                        >
-                          {"color.pink.050"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__g42Ht
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__wW6D
-                          )}
-                        >
-                          {"color.pink.060"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__owBdv
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__nJoar
-                          )}
-                        >
-                          {"color.pink.070"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__igjU7
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__tdfKf
-                          )}
-                        >
-                          {"color.pink.080"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___7KzX
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__i8T
-                          )}
-                        >
-                          {"color.pink.090"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__qpQ8E
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__hiiv8
-                          )}
-                        >
-                          {"color.pink.100"}
-                        </div>
-                      </div>
-                    </Stack__>
-                    <Stack__
-                      as={"div"}
-                      data-plasmic-name={"purple"}
-                      data-plasmic-override={overrides.purple}
-                      hasGap={true}
-                      className={classNames(projectcss.all, sty.purple)}
-                    >
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__k8TEt
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___4JUGa
-                          )}
-                        >
-                          {"color.purple.010"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__wtJgu
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__ohOvl
-                          )}
-                        >
-                          {"color.purple.020"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__inwww
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___4D4QE
-                          )}
-                        >
-                          {"color.purple.030"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___95Drf
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__lHa3
-                          )}
-                        >
-                          {"color.purple.040"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__psgQb
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__co1En
-                          )}
-                        >
-                          {"color.purple.050"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__wxMa6
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__wPTg6
-                          )}
-                        >
-                          {"color.purple.060"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__bzIiN
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__gR4X
-                          )}
-                        >
-                          {"color.purple.070"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__fTX1
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__yhkpy
-                          )}
-                        >
-                          {"color.purple.080"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___1MoCa
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__jbxln
-                          )}
-                        >
-                          {"color.purple.090"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__cMz3A
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__guXDq
-                          )}
-                        >
-                          {"color.purple.100"}
-                        </div>
-                      </div>
-                    </Stack__>
+                      {"color.transparent"}
+                    </div>
                   </div>
                   <div
-                    data-plasmic-name={"water"}
-                    data-plasmic-override={overrides.water}
-                    className={classNames(projectcss.all, sty.water)}
+                    data-plasmic-name={"highBase"}
+                    data-plasmic-override={overrides.highBase}
+                    className={classNames(projectcss.all, sty.highBase, {
+                      [sty.highBaseglobal_mode_dark]: hasVariant(
+                        globalVariants,
+                        "mode",
+                        "dark"
+                      )
+                    })}
                   >
-                    <Stack__
-                      as={"div"}
-                      data-plasmic-name={"cyan"}
-                      data-plasmic-override={overrides.cyan}
-                      hasGap={true}
-                      className={classNames(projectcss.all, sty.cyan, {
-                        [sty.cyanglobal_mode_dark]: hasVariant(
-                          globalVariants,
-                          "mode",
-                          "dark"
-                        )
-                      })}
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__ccExR
+                      )}
                     >
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__hYths
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__gqyvH
-                          )}
-                        >
-                          {"color.aqua.010"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__kiHhb
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__gZrJz
-                          )}
-                        >
-                          {"color.aqua.020"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__gv0O1
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__sT6D
-                          )}
-                        >
-                          {"color.aqua.030"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__g07Ei,
-                          {
-                            [sty.freeBoxglobal_mode_dark__g07Eie6UCs]:
-                              hasVariant(globalVariants, "mode", "dark")
-                          }
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__a4UlV
-                          )}
-                        >
-                          {"color.aqua.040"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__nDhgp
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__xafC
-                          )}
-                        >
-                          {"color.aqua.050"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__saXkG
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___9VgC
-                          )}
-                        >
-                          {"color.aqua.060"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__sb74J
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__iG3UG
-                          )}
-                        >
-                          {"color.aqua.070"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__tNDnG
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__yLeXw
-                          )}
-                        >
-                          {"color.aqua.080"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__cdLL
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__zlQ9
-                          )}
-                        >
-                          {"color.aqua.090"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__jYldI
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___79IN7
-                          )}
-                        >
-                          {"color.aqua..100"}
-                        </div>
-                      </div>
-                    </Stack__>
-                    <Stack__
-                      as={"div"}
-                      data-plasmic-name={"blue"}
-                      data-plasmic-override={overrides.blue}
-                      hasGap={true}
-                      className={classNames(projectcss.all, sty.blue)}
-                    >
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__sLl5V
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__dKyD
-                          )}
-                        >
-                          {"color.blue.010"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__pzDxR
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__gznOw
-                          )}
-                        >
-                          {"color.blue.020"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__dtmGu,
-                          {
-                            [sty.freeBoxglobal_mode_dark__dtmGue6UCs]:
-                              hasVariant(globalVariants, "mode", "dark")
-                          }
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___75Ymx
-                          )}
-                        >
-                          {"color.blue.030"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___3QEzN,
-                          {
-                            [sty.freeBoxglobal_mode_dark___3QEzNe6UCs]:
-                              hasVariant(globalVariants, "mode", "dark")
-                          }
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__zKezq,
-                            {
-                              [sty.textglobal_mode_dark__zKezqe6UCs]:
-                                hasVariant(globalVariants, "mode", "dark")
-                            }
-                          )}
-                        >
-                          {"color.blue.040"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___8TgiE,
-                          {
-                            [sty.freeBoxglobal_mode_dark___8TgiEe6UCs]:
-                              hasVariant(globalVariants, "mode", "dark")
-                          }
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__vtnHj,
-                            {
-                              [sty.textglobal_mode_dark__vtnHje6UCs]:
-                                hasVariant(globalVariants, "mode", "dark")
-                            }
-                          )}
-                        >
-                          {hasVariant(globalVariants, "mode", "dark")
-                            ? "color.blue.050"
-                            : "color.blue.050"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__riJr9,
-                          {
-                            [sty.freeBoxglobal_mode_dark__riJr9E6UCs]:
-                              hasVariant(globalVariants, "mode", "dark")
-                          }
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__xtekF,
-                            {
-                              [sty.textglobal_mode_dark__xtekFe6UCs]:
-                                hasVariant(globalVariants, "mode", "dark")
-                            }
-                          )}
-                        >
-                          {hasVariant(globalVariants, "mode", "dark")
-                            ? "color.blue.060"
-                            : "color.blue.060"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__gjaJ,
-                          {
-                            [sty.freeBoxglobal_mode_dark__gjaJe6UCs]:
-                              hasVariant(globalVariants, "mode", "dark")
-                          }
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__mpMHb,
-                            {
-                              [sty.textglobal_mode_dark__mpMHbe6UCs]:
-                                hasVariant(globalVariants, "mode", "dark")
-                            }
-                          )}
-                        >
-                          {"color.blue.070"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__eQVvD
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___0HqQz
-                          )}
-                        >
-                          {"color.blue.080"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__tlhMc
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__q85Vw
-                          )}
-                        >
-                          {"color.blue.090"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__lc4Gf
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__ckQ2W
-                          )}
-                        >
-                          {"color.blue.100"}
-                        </div>
-                      </div>
-                    </Stack__>
-                    <Stack__
-                      as={"div"}
-                      data-plasmic-name={"indigo"}
-                      data-plasmic-override={overrides.indigo}
-                      hasGap={true}
-                      className={classNames(projectcss.all, sty.indigo)}
-                    >
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___9DczK
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__wZhoM
-                          )}
-                        >
-                          {"color.indigo.010"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__iw0Fe
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___1BXs6
-                          )}
-                        >
-                          {"color.indigo.020"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__fjqSr
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__aCE
-                          )}
-                        >
-                          {"color.indigo.030"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__dYgFp
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__leEwd
-                          )}
-                        >
-                          {"color.indigo.040"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__gLfWl
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__aOiRm
-                          )}
-                        >
-                          {"color.indigo.050"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__raEve
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__bYaKx
-                          )}
-                        >
-                          {"color.indigo.060"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__c9TDn
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__prpCn
-                          )}
-                        >
-                          {"color.indigo.070"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__bLyJj
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__dxdr9
-                          )}
-                        >
-                          {"color.indigo.080"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__i88J
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__jaRcd
-                          )}
-                        >
-                          {"color.indigo.090"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__vDv0P
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__kGsN
-                          )}
-                        >
-                          {"color.indigo.100"}
-                        </div>
-                      </div>
-                    </Stack__>
-                  </div>
-                  <div
-                    data-plasmic-name={"grass"}
-                    data-plasmic-override={overrides.grass}
-                    className={classNames(projectcss.all, sty.grass)}
-                  >
-                    <Stack__
-                      as={"div"}
-                      data-plasmic-name={"lime2"}
-                      data-plasmic-override={overrides.lime2}
-                      hasGap={true}
-                      className={classNames(projectcss.all, sty.lime2)}
-                    >
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__rmG0Z
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__ka3F8
-                          )}
-                        >
-                          {"color.lime.010"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__bFfGz
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__nXoPv
-                          )}
-                        >
-                          {"color.lime.020"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__aq4FG,
-                          {
-                            [sty.freeBoxglobal_mode_dark__aq4FGe6UCs]:
-                              hasVariant(globalVariants, "mode", "dark")
-                          }
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__osBNs
-                          )}
-                        >
-                          {"color.lime.030"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__os3Hg
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__vh0N5
-                          )}
-                        >
-                          {"color.lime.040"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__qxJtg,
-                          {
-                            [sty.freeBoxglobal_mode_dark__qxJtGe6UCs]:
-                              hasVariant(globalVariants, "mode", "dark")
-                          }
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__nM0PI
-                          )}
-                        >
-                          {"color.lime.050"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__vJel
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__vDb
-                          )}
-                        >
-                          {"color.lime.060"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__wv2Dd
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__yONgP
-                          )}
-                        >
-                          {"color.lime.070"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__w908M
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__s9V2A
-                          )}
-                        >
-                          {"color.lime.080"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__pzLNl
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__pDmtQ
-                          )}
-                        >
-                          {"color.lime.090"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__kiY6S
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__vgSIc
-                          )}
-                        >
-                          {"color.lime.100"}
-                        </div>
-                      </div>
-                    </Stack__>
-                    <Stack__
-                      as={"div"}
-                      data-plasmic-name={"green"}
-                      data-plasmic-override={overrides.green}
-                      hasGap={true}
-                      className={classNames(projectcss.all, sty.green)}
-                    >
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__v6IAz
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__svrXz
-                          )}
-                        >
-                          {"color.green.010"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__uuJrH
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__kCjE
-                          )}
-                        >
-                          {"color.green.020"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__t0U6D
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__vbO8
-                          )}
-                        >
-                          {"color.green.030"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__lBy3Q
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___2HUlx
-                          )}
-                        >
-                          {"color.green.040"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__pCfj
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__oDjYp
-                          )}
-                        >
-                          {"color.green.050"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__ncU7A
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__u5Qv3
-                          )}
-                        >
-                          {"color.green.060"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__lXp7Y
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__x91Z
-                          )}
-                        >
-                          {"color.green.070"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__tzHgR
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___29Gn
-                          )}
-                        >
-                          {"color.green.080"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__oqQg
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___3TuGw
-                          )}
-                        >
-                          {"color.green.090"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__so0Mk
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__pWKcb
-                          )}
-                        >
-                          {"color.green.100"}
-                        </div>
-                      </div>
-                    </Stack__>
-                    <Stack__
-                      as={"div"}
-                      data-plasmic-name={"teal"}
-                      data-plasmic-override={overrides.teal}
-                      hasGap={true}
-                      className={classNames(projectcss.all, sty.teal)}
-                    >
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__yk2My
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__yfxr5
-                          )}
-                        >
-                          {"color.teal.010"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___51N9B
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___0RsCh
-                          )}
-                        >
-                          {"color.teal.020"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__dxrZ9
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___7GpB5
-                          )}
-                        >
-                          {"color.teal.030"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__hDskf
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__v0FiN
-                          )}
-                        >
-                          {"color.teal.040"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___290SQ
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___58T87
-                          )}
-                        >
-                          {"color.teal.050"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__mFsRy
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__wY5Dp
-                          )}
-                        >
-                          {"color.teal.060"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__flMyp
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__kFEzP
-                          )}
-                        >
-                          {"color.teal.070"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__hg5K
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__kHtsh
-                          )}
-                        >
-                          {"color.teal.080"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__jcVbt
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__d1Rrl
-                          )}
-                        >
-                          {"color.teal.090"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__pgMOd
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___6VKmZ
-                          )}
-                        >
-                          {"color.teal.100"}
-                        </div>
-                      </div>
-                    </Stack__>
-                    <Stack__
-                      as={"div"}
-                      data-plasmic-name={"teal2"}
-                      data-plasmic-override={overrides.teal2}
-                      hasGap={true}
-                      className={classNames(projectcss.all, sty.teal2)}
-                    >
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__jtJxw
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__cMxGk
-                          )}
-                        >
-                          {"color.turquoise.010"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__gf2S1
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___8ACka
-                          )}
-                        >
-                          {"color.turquoise.020"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___0JYgU
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__gKl4A
-                          )}
-                        >
-                          {"color.turquoise.030"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__fvbrq
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__lhSna,
-                            {
-                              [sty.textglobal_mode_dark__lhSnAe6UCs]:
-                                hasVariant(globalVariants, "mode", "dark")
-                            }
-                          )}
-                        >
-                          {"color.turquoise.040"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__qcReb,
-                          {
-                            [sty.freeBoxglobal_mode_dark__qcRebe6UCs]:
-                              hasVariant(globalVariants, "mode", "dark")
-                          }
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__fBkhI
-                          )}
-                        >
-                          {"color.turquoise.050"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__afvAe
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__bV3Cl
-                          )}
-                        >
-                          {"color.turquoise.060"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__uR6Xm
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__rHtRq
-                          )}
-                        >
-                          {"color.turquoise.070"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__sJqZr
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__rvp4J
-                          )}
-                        >
-                          {"color.turquoise.080"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__qe8Y1
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__mK8Cj
-                          )}
-                        >
-                          {"color.turquoise.090"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___9CY
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__sktGs
-                          )}
-                        >
-                          {"color.mint.900"}
-                        </div>
-                      </div>
-                    </Stack__>
-                  </div>
-                  <div
-                    data-plasmic-name={"fire"}
-                    data-plasmic-override={overrides.fire}
-                    className={classNames(projectcss.all, sty.fire)}
-                  >
-                    <Stack__
-                      as={"div"}
-                      data-plasmic-name={"yellow"}
-                      data-plasmic-override={overrides.yellow}
-                      hasGap={true}
-                      className={classNames(projectcss.all, sty.yellow)}
-                    >
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__tsDva
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__uj4K2
-                          )}
-                        >
-                          {"color.yellow.50"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__b2Iz
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___3Iur2
-                          )}
-                        >
-                          {"color.yellow.100"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__ahj8D
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__mIkM5
-                          )}
-                        >
-                          {"color.yellow.200"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__eUsD
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__lmMKp
-                          )}
-                        >
-                          {"color.yellow.300"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__j0CHf
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__f5Yyf
-                          )}
-                        >
-                          {"color.yellow.400"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__ldQzd
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__b8Ytj,
-                            {
-                              [sty.textglobal_mode_dark__b8YtJe6UCs]:
-                                hasVariant(globalVariants, "mode", "dark")
-                            }
-                          )}
-                        >
-                          {"color.yellow.500"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__rqLut
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__dm4Zt
-                          )}
-                        >
-                          {"color.yellow.600"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___24MOp
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___2QeHm
-                          )}
-                        >
-                          {"color.yellow.700"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__wVfwN
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__kFgEw
-                          )}
-                        >
-                          {"color.yellow.800"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__dp7Qv
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__cdU35
-                          )}
-                        >
-                          {"color.yellow.900"}
-                        </div>
-                      </div>
-                    </Stack__>
-                    <Stack__
-                      as={"div"}
-                      data-plasmic-name={"orange"}
-                      data-plasmic-override={overrides.orange}
-                      hasGap={true}
-                      className={classNames(projectcss.all, sty.orange)}
-                    >
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__j8Jpi
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__zrPz1
-                          )}
-                        >
-                          {"color.orange.50"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___09XGc
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__adIyb
-                          )}
-                        >
-                          {"color.orange.100"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__sg8Fu
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__bVwdR
-                          )}
-                        >
-                          {"color.orange.200"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__uengD
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__lxYoZ
-                          )}
-                        >
-                          {"color.orange.300"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___4ZIse
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__vvLZz
-                          )}
-                        >
-                          {"color.orange.400"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__miFnx
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__k8CcS
-                          )}
-                        >
-                          {"color.orange.500"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___2Wuo
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__nlkZt
-                          )}
-                        >
-                          {"color.orange.600"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__by49W
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__nUhaI
-                          )}
-                        >
-                          {"color.orange.700"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__syp8H
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__fxMc8
-                          )}
-                        >
-                          {"color.orange.800"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___9Neyu
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__qw68G
-                          )}
-                        >
-                          {"color.orange.900"}
-                        </div>
-                      </div>
-                    </Stack__>
-                    <Stack__
-                      as={"div"}
-                      data-plasmic-name={"red"}
-                      data-plasmic-override={overrides.red}
-                      hasGap={true}
-                      className={classNames(projectcss.all, sty.red)}
-                    >
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__iVrMd
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__iOgUv
-                          )}
-                        >
-                          {"color.red.50"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__en5U1
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__vlVIx
-                          )}
-                        >
-                          {"color.red.100"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__lozdN
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__x8Zhj
-                          )}
-                        >
-                          {"color.red.200"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__zxTlU
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__t64I
-                          )}
-                        >
-                          {"color.red.300"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__mtTfl
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__n28O3
-                          )}
-                        >
-                          {"color.red.400"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__wqMvh
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__koXuG
-                          )}
-                        >
-                          {"color.red.500"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__vkgdn
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__mfNf
-                          )}
-                        >
-                          {"color.red.600"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox___2HG7U
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__qgCi
-                          )}
-                        >
-                          {"color.red.700"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__ym4Df
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text__uRtEo
-                          )}
-                        >
-                          {"color.red.800"}
-                        </div>
-                      </div>
-                      <div
-                        className={classNames(
-                          projectcss.all,
-                          sty.freeBox__do6Jd
-                        )}
-                      >
-                        <div
-                          className={classNames(
-                            projectcss.all,
-                            projectcss.__wab_text,
-                            sty.text___3Rz9D
-                          )}
-                        >
-                          {"color.red.900"}
-                        </div>
-                      </div>
-                    </Stack__>
+                      {"color.default.high"}
+                    </div>
                   </div>
                 </div>
+                <Stack__
+                  as={"div"}
+                  data-plasmic-name={"blackAphaStack"}
+                  data-plasmic-override={overrides.blackAphaStack}
+                  hasGap={true}
+                  className={classNames(projectcss.all, sty.blackAphaStack)}
+                >
+                  <div
+                    data-plasmic-name={"blackApha10"}
+                    data-plasmic-override={overrides.blackApha10}
+                    className={classNames(projectcss.all, sty.blackApha10)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___8S111
+                      )}
+                    >
+                      {"color.black-alpha.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"blackApha20"}
+                    data-plasmic-override={overrides.blackApha20}
+                    className={classNames(projectcss.all, sty.blackApha20)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__qM0Mv
+                      )}
+                    >
+                      {"color.black-alpha.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"blackApha30"}
+                    data-plasmic-override={overrides.blackApha30}
+                    className={classNames(projectcss.all, sty.blackApha30)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__spvli
+                      )}
+                    >
+                      {"color.black-alpha.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"blackApha40"}
+                    data-plasmic-override={overrides.blackApha40}
+                    className={classNames(projectcss.all, sty.blackApha40)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__ynWnp
+                      )}
+                    >
+                      {"color.black-alpha.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"blackApha50"}
+                    data-plasmic-override={overrides.blackApha50}
+                    className={classNames(projectcss.all, sty.blackApha50)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__moXQ
+                      )}
+                    >
+                      {"color.black-alpha.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"blackApha60"}
+                    data-plasmic-override={overrides.blackApha60}
+                    className={classNames(projectcss.all, sty.blackApha60)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__gFqWq
+                      )}
+                    >
+                      {"color.black-alpha.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"blackApha70"}
+                    data-plasmic-override={overrides.blackApha70}
+                    className={classNames(projectcss.all, sty.blackApha70)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__pL8X
+                      )}
+                    >
+                      {"color.black-alpha.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"blackApha80"}
+                    data-plasmic-override={overrides.blackApha80}
+                    className={classNames(projectcss.all, sty.blackApha80, {
+                      [sty.blackApha80global_mode_dark]: hasVariant(
+                        globalVariants,
+                        "mode",
+                        "dark"
+                      )
+                    })}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__demlM
+                      )}
+                    >
+                      {"color.black-alpha.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"blackApha90"}
+                    data-plasmic-override={overrides.blackApha90}
+                    className={classNames(projectcss.all, sty.blackApha90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__usYqM
+                      )}
+                    >
+                      {"color.black-alpha.800"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"blackApha100"}
+                    data-plasmic-override={overrides.blackApha100}
+                    className={classNames(projectcss.all, sty.blackApha100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__cegDv
+                      )}
+                    >
+                      {"color.black-alpha.900"}
+                    </div>
+                  </div>
+                </Stack__>
+                <Stack__
+                  as={"div"}
+                  data-plasmic-name={"whiteAlphaStack"}
+                  data-plasmic-override={overrides.whiteAlphaStack}
+                  hasGap={true}
+                  className={classNames(projectcss.all, sty.whiteAlphaStack)}
+                >
+                  <div
+                    data-plasmic-name={"whiteAlpha10"}
+                    data-plasmic-override={overrides.whiteAlpha10}
+                    className={classNames(projectcss.all, sty.whiteAlpha10)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__yyAeN
+                      )}
+                    >
+                      {"color.white-alpha.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"whiteAlpha20"}
+                    data-plasmic-override={overrides.whiteAlpha20}
+                    className={classNames(projectcss.all, sty.whiteAlpha20)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__iu4
+                      )}
+                    >
+                      {"color.white-alpha.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"whiteAlpha30"}
+                    data-plasmic-override={overrides.whiteAlpha30}
+                    className={classNames(projectcss.all, sty.whiteAlpha30)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__pVaX8
+                      )}
+                    >
+                      {"color.white-alpha.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"whiteAlpha40"}
+                    data-plasmic-override={overrides.whiteAlpha40}
+                    className={classNames(projectcss.all, sty.whiteAlpha40)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__qzSVn
+                      )}
+                    >
+                      {"color.white-alpha.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"whiteAlpha50"}
+                    data-plasmic-override={overrides.whiteAlpha50}
+                    className={classNames(projectcss.all, sty.whiteAlpha50)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__wqMxd
+                      )}
+                    >
+                      {"color.white-alpha.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"whiteAlpha60"}
+                    data-plasmic-override={overrides.whiteAlpha60}
+                    className={classNames(projectcss.all, sty.whiteAlpha60)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__iysS
+                      )}
+                    >
+                      {"color.white-alpha.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"whiteAlpha70"}
+                    data-plasmic-override={overrides.whiteAlpha70}
+                    className={classNames(projectcss.all, sty.whiteAlpha70)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__ovo4Q
+                      )}
+                    >
+                      {"color.white-alpha.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"whiteAlpha80"}
+                    data-plasmic-override={overrides.whiteAlpha80}
+                    className={classNames(projectcss.all, sty.whiteAlpha80)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__jx8Ef
+                      )}
+                    >
+                      {"color.white-alpha.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"whiteAlpha90"}
+                    data-plasmic-override={overrides.whiteAlpha90}
+                    className={classNames(projectcss.all, sty.whiteAlpha90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__hdHxN
+                      )}
+                    >
+                      {"color.white-alpha.800"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"whiteAlpha100"}
+                    data-plasmic-override={overrides.whiteAlpha100}
+                    className={classNames(projectcss.all, sty.whiteAlpha100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__nWvnf,
+                        {
+                          [sty.textglobal_mode_dark__nWvnFe6UCs]: hasVariant(
+                            globalVariants,
+                            "mode",
+                            "dark"
+                          )
+                        }
+                      )}
+                    >
+                      {"color.white-alpha.900"}
+                    </div>
+                  </div>
+                </Stack__>
               </Stack__>
-            </Stack__>
+              <div
+                data-plasmic-name={"grayGroup"}
+                data-plasmic-override={overrides.grayGroup}
+                className={classNames(projectcss.all, sty.grayGroup)}
+              >
+                <Stack__
+                  as={"div"}
+                  data-plasmic-name={"grayStack"}
+                  data-plasmic-override={overrides.grayStack}
+                  hasGap={true}
+                  className={classNames(projectcss.all, sty.grayStack)}
+                >
+                  <div
+                    data-plasmic-name={"gray10"}
+                    data-plasmic-override={overrides.gray10}
+                    className={classNames(projectcss.all, sty.gray10)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__ezEHi
+                      )}
+                    >
+                      {"color.gray.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"gray20"}
+                    data-plasmic-override={overrides.gray20}
+                    className={classNames(projectcss.all, sty.gray20)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__qKm7M
+                      )}
+                    >
+                      {"color.gray.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"gray30"}
+                    data-plasmic-override={overrides.gray30}
+                    className={classNames(projectcss.all, sty.gray30)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___2Uvaz
+                      )}
+                    >
+                      {"color.gray.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"gray40"}
+                    data-plasmic-override={overrides.gray40}
+                    className={classNames(projectcss.all, sty.gray40)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__amoLc
+                      )}
+                    >
+                      {"color.gray.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"gray50"}
+                    data-plasmic-override={overrides.gray50}
+                    className={classNames(projectcss.all, sty.gray50)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___9T2Rh
+                      )}
+                    >
+                      {"color.gray.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"gray60"}
+                    data-plasmic-override={overrides.gray60}
+                    className={classNames(projectcss.all, sty.gray60)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__lezsz
+                      )}
+                    >
+                      {"color.gray.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"gray70"}
+                    data-plasmic-override={overrides.gray70}
+                    className={classNames(projectcss.all, sty.gray70)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__q367H
+                      )}
+                    >
+                      {"color.gray.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"gray80"}
+                    data-plasmic-override={overrides.gray80}
+                    className={classNames(projectcss.all, sty.gray80)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___2AjPp
+                      )}
+                    >
+                      {"color.gray.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"gray90"}
+                    data-plasmic-override={overrides.gray90}
+                    className={classNames(projectcss.all, sty.gray90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__oYx
+                      )}
+                    >
+                      {"color.gray.800"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"gray100"}
+                    data-plasmic-override={overrides.gray100}
+                    className={classNames(projectcss.all, sty.gray100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__nBjsB
+                      )}
+                    >
+                      {"color.gray.900"}
+                    </div>
+                  </div>
+                </Stack__>
+                <Stack__
+                  as={"div"}
+                  data-plasmic-name={"slateStack"}
+                  data-plasmic-override={overrides.slateStack}
+                  hasGap={true}
+                  className={classNames(projectcss.all, sty.slateStack)}
+                >
+                  <div
+                    data-plasmic-name={"slate10"}
+                    data-plasmic-override={overrides.slate10}
+                    className={classNames(projectcss.all, sty.slate10, {
+                      [sty.slate10global_mode_grayscale]: hasVariant(
+                        globalVariants,
+                        "mode",
+                        "grayscale"
+                      )
+                    })}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__b6Qdf
+                      )}
+                    >
+                      {"color.slate.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"slate20"}
+                    data-plasmic-override={overrides.slate20}
+                    className={classNames(projectcss.all, sty.slate20, {
+                      [sty.slate20global_mode_grayscale]: hasVariant(
+                        globalVariants,
+                        "mode",
+                        "grayscale"
+                      )
+                    })}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__dKtFz
+                      )}
+                    >
+                      {"color.slate.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"slate30"}
+                    data-plasmic-override={overrides.slate30}
+                    className={classNames(projectcss.all, sty.slate30, {
+                      [sty.slate30global_mode_dark]: hasVariant(
+                        globalVariants,
+                        "mode",
+                        "dark"
+                      ),
+                      [sty.slate30global_mode_grayscale]: hasVariant(
+                        globalVariants,
+                        "mode",
+                        "grayscale"
+                      )
+                    })}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___4BiQa
+                      )}
+                    >
+                      {"color.slate.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"slate40"}
+                    data-plasmic-override={overrides.slate40}
+                    className={classNames(projectcss.all, sty.slate40, {
+                      [sty.slate40global_mode_grayscale]: hasVariant(
+                        globalVariants,
+                        "mode",
+                        "grayscale"
+                      )
+                    })}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__jQoYf
+                      )}
+                    >
+                      {"color.slate.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"slate50"}
+                    data-plasmic-override={overrides.slate50}
+                    className={classNames(projectcss.all, sty.slate50)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___7Dpc
+                      )}
+                    >
+                      {"color.slate.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"slate60"}
+                    data-plasmic-override={overrides.slate60}
+                    className={classNames(projectcss.all, sty.slate60)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__z42Eo
+                      )}
+                    >
+                      {"color.slate.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"slate70"}
+                    data-plasmic-override={overrides.slate70}
+                    className={classNames(projectcss.all, sty.slate70)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__xr03T,
+                        {
+                          [sty.textglobal_mode_dark__xr03Te6UCs]: hasVariant(
+                            globalVariants,
+                            "mode",
+                            "dark"
+                          )
+                        }
+                      )}
+                    >
+                      {"color.slate.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"slate80"}
+                    data-plasmic-override={overrides.slate80}
+                    className={classNames(projectcss.all, sty.slate80)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__zZkDg
+                      )}
+                    >
+                      {"color.slate.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"slate90"}
+                    data-plasmic-override={overrides.slate90}
+                    className={classNames(projectcss.all, sty.slate90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__aSfL0
+                      )}
+                    >
+                      {"color.slate.800"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"slate100"}
+                    data-plasmic-override={overrides.slate100}
+                    className={classNames(projectcss.all, sty.slate100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__vCkvy
+                      )}
+                    >
+                      {"color.slate.900"}
+                    </div>
+                  </div>
+                </Stack__>
+                <Stack__
+                  as={"div"}
+                  data-plasmic-name={"zincStack"}
+                  data-plasmic-override={overrides.zincStack}
+                  hasGap={true}
+                  className={classNames(projectcss.all, sty.zincStack)}
+                >
+                  <div
+                    data-plasmic-name={"zinc10"}
+                    data-plasmic-override={overrides.zinc10}
+                    className={classNames(projectcss.all, sty.zinc10, {
+                      [sty.zinc10global_mode_dark]: hasVariant(
+                        globalVariants,
+                        "mode",
+                        "dark"
+                      )
+                    })}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__v4Qw
+                      )}
+                    >
+                      {"color.zinc.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"zinc20"}
+                    data-plasmic-override={overrides.zinc20}
+                    className={classNames(projectcss.all, sty.zinc20)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__et2G2
+                      )}
+                    >
+                      {"color.zinc.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"zinc30"}
+                    data-plasmic-override={overrides.zinc30}
+                    className={classNames(projectcss.all, sty.zinc30)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__nGizv
+                      )}
+                    >
+                      {"color.zinc.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"zinc40"}
+                    data-plasmic-override={overrides.zinc40}
+                    className={classNames(projectcss.all, sty.zinc40)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__itllY
+                      )}
+                    >
+                      {"color.zinc.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"zinc50"}
+                    data-plasmic-override={overrides.zinc50}
+                    className={classNames(projectcss.all, sty.zinc50)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__nQaeS
+                      )}
+                    >
+                      {"color.zinc.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"zinc60"}
+                    data-plasmic-override={overrides.zinc60}
+                    className={classNames(projectcss.all, sty.zinc60)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__y1IyS
+                      )}
+                    >
+                      {"color.zinc.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"zinc70"}
+                    data-plasmic-override={overrides.zinc70}
+                    className={classNames(projectcss.all, sty.zinc70)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__geKqh
+                      )}
+                    >
+                      {"color.zinc.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"zinc80"}
+                    data-plasmic-override={overrides.zinc80}
+                    className={classNames(projectcss.all, sty.zinc80)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__uuDla
+                      )}
+                    >
+                      {"color.zinc.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"zinc90"}
+                    data-plasmic-override={overrides.zinc90}
+                    className={classNames(projectcss.all, sty.zinc90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__lGcUw
+                      )}
+                    >
+                      {"color.zinc.800"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"zinc100"}
+                    data-plasmic-override={overrides.zinc100}
+                    className={classNames(projectcss.all, sty.zinc100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__gO1Nv
+                      )}
+                    >
+                      {"color.zinc.900"}
+                    </div>
+                  </div>
+                </Stack__>
+                <Stack__
+                  as={"div"}
+                  data-plasmic-name={"neutralStack"}
+                  data-plasmic-override={overrides.neutralStack}
+                  hasGap={true}
+                  className={classNames(projectcss.all, sty.neutralStack)}
+                >
+                  <div
+                    data-plasmic-name={"neutral10"}
+                    data-plasmic-override={overrides.neutral10}
+                    className={classNames(projectcss.all, sty.neutral10)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__sJanS
+                      )}
+                    >
+                      {"color.neutral.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"neutral20"}
+                    data-plasmic-override={overrides.neutral20}
+                    className={classNames(projectcss.all, sty.neutral20)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__aNsXw
+                      )}
+                    >
+                      {"color.neutral.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"neutral30"}
+                    data-plasmic-override={overrides.neutral30}
+                    className={classNames(projectcss.all, sty.neutral30)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__x2OZs
+                      )}
+                    >
+                      {"color.neutral.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"neutral40"}
+                    data-plasmic-override={overrides.neutral40}
+                    className={classNames(projectcss.all, sty.neutral40)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__dfmYh,
+                        {
+                          [sty.textglobal_mode_dark__dfmYHe6UCs]: hasVariant(
+                            globalVariants,
+                            "mode",
+                            "dark"
+                          )
+                        }
+                      )}
+                    >
+                      {"color.neutral.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"neutral50"}
+                    data-plasmic-override={overrides.neutral50}
+                    className={classNames(projectcss.all, sty.neutral50)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___3S8TW
+                      )}
+                    >
+                      {"color.neutral.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"neutral60"}
+                    data-plasmic-override={overrides.neutral60}
+                    className={classNames(projectcss.all, sty.neutral60)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__qjp0B
+                      )}
+                    >
+                      {"color.neutral.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"neutral70"}
+                    data-plasmic-override={overrides.neutral70}
+                    className={classNames(projectcss.all, sty.neutral70)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__uXib
+                      )}
+                    >
+                      {"color.neutral.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"neutral80"}
+                    data-plasmic-override={overrides.neutral80}
+                    className={classNames(projectcss.all, sty.neutral80)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__lHzhl
+                      )}
+                    >
+                      {"color.neutral.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"neutral90"}
+                    data-plasmic-override={overrides.neutral90}
+                    className={classNames(projectcss.all, sty.neutral90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__iBfMv
+                      )}
+                    >
+                      {"color.neutral.800"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"neutral100"}
+                    data-plasmic-override={overrides.neutral100}
+                    className={classNames(projectcss.all, sty.neutral100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__k2Viy
+                      )}
+                    >
+                      {"color.neutral.900"}
+                    </div>
+                  </div>
+                </Stack__>
+                <div
+                  data-plasmic-name={"stoneStack"}
+                  data-plasmic-override={overrides.stoneStack}
+                  className={classNames(projectcss.all, sty.stoneStack)}
+                >
+                  <div
+                    data-plasmic-name={"stone10"}
+                    data-plasmic-override={overrides.stone10}
+                    className={classNames(projectcss.all, sty.stone10)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___0TGqI
+                      )}
+                    >
+                      {"color.stone.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"stone20"}
+                    data-plasmic-override={overrides.stone20}
+                    className={classNames(projectcss.all, sty.stone20)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__fCUnP
+                      )}
+                    >
+                      {"color.stone.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"stone30"}
+                    data-plasmic-override={overrides.stone30}
+                    className={classNames(projectcss.all, sty.stone30)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__voZLb
+                      )}
+                    >
+                      {"color.stone.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"stone40"}
+                    data-plasmic-override={overrides.stone40}
+                    className={classNames(projectcss.all, sty.stone40)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__vUpqr
+                      )}
+                    >
+                      {"color.stone.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"stone50"}
+                    data-plasmic-override={overrides.stone50}
+                    className={classNames(projectcss.all, sty.stone50)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__mf9H7
+                      )}
+                    >
+                      {"color.stone.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"stone60"}
+                    data-plasmic-override={overrides.stone60}
+                    className={classNames(projectcss.all, sty.stone60)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__gfDs3
+                      )}
+                    >
+                      {"color.stone.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"stone70"}
+                    data-plasmic-override={overrides.stone70}
+                    className={classNames(projectcss.all, sty.stone70)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__nNlPj
+                      )}
+                    >
+                      {"color.stone.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"stone80"}
+                    data-plasmic-override={overrides.stone80}
+                    className={classNames(projectcss.all, sty.stone80)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__p2D0E
+                      )}
+                    >
+                      {"color.stone.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"stone90"}
+                    data-plasmic-override={overrides.stone90}
+                    className={classNames(projectcss.all, sty.stone90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__scJFj
+                      )}
+                    >
+                      {"color.stone.800"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"stone100"}
+                    data-plasmic-override={overrides.stone100}
+                    className={classNames(projectcss.all, sty.stone100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__fruWr
+                      )}
+                    >
+                      {"color.stone.900"}
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                data-plasmic-name={"mountainGroup"}
+                data-plasmic-override={overrides.mountainGroup}
+                className={classNames(projectcss.all, sty.mountainGroup)}
+              >
+                <Stack__
+                  as={"div"}
+                  data-plasmic-name={"pinkStack"}
+                  data-plasmic-override={overrides.pinkStack}
+                  hasGap={true}
+                  className={classNames(projectcss.all, sty.pinkStack)}
+                >
+                  <div
+                    data-plasmic-name={"pink10"}
+                    data-plasmic-override={overrides.pink10}
+                    className={classNames(projectcss.all, sty.pink10)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__ttNiv
+                      )}
+                    >
+                      {"color.pink.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"pink20"}
+                    data-plasmic-override={overrides.pink20}
+                    className={classNames(projectcss.all, sty.pink20)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__aI5Lq
+                      )}
+                    >
+                      {"color.pink.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"pink30"}
+                    data-plasmic-override={overrides.pink30}
+                    className={classNames(projectcss.all, sty.pink30)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__mpfCf
+                      )}
+                    >
+                      {"color.pink.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"pink40"}
+                    data-plasmic-override={overrides.pink40}
+                    className={classNames(projectcss.all, sty.pink40)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___7HWd3
+                      )}
+                    >
+                      {"color.pink.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"pink50"}
+                    data-plasmic-override={overrides.pink50}
+                    className={classNames(projectcss.all, sty.pink50)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__ux5ZY
+                      )}
+                    >
+                      {"color.pink.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"pink60"}
+                    data-plasmic-override={overrides.pink60}
+                    className={classNames(projectcss.all, sty.pink60)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__wW6D
+                      )}
+                    >
+                      {"color.pink.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"pink70"}
+                    data-plasmic-override={overrides.pink70}
+                    className={classNames(projectcss.all, sty.pink70)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__nJoar
+                      )}
+                    >
+                      {"color.pink.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"pink80"}
+                    data-plasmic-override={overrides.pink80}
+                    className={classNames(projectcss.all, sty.pink80)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__tdfKf
+                      )}
+                    >
+                      {"color.pink.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"pink90"}
+                    data-plasmic-override={overrides.pink90}
+                    className={classNames(projectcss.all, sty.pink90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__i8T
+                      )}
+                    >
+                      {"color.pink.090"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"pink100"}
+                    data-plasmic-override={overrides.pink100}
+                    className={classNames(projectcss.all, sty.pink100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__hiiv8
+                      )}
+                    >
+                      {"color.pink.100"}
+                    </div>
+                  </div>
+                </Stack__>
+                <Stack__
+                  as={"div"}
+                  data-plasmic-name={"purpleStack"}
+                  data-plasmic-override={overrides.purpleStack}
+                  hasGap={true}
+                  className={classNames(projectcss.all, sty.purpleStack)}
+                >
+                  <div
+                    data-plasmic-name={"purple10"}
+                    data-plasmic-override={overrides.purple10}
+                    className={classNames(projectcss.all, sty.purple10)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___4JUGa
+                      )}
+                    >
+                      {"color.purple.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"purple20"}
+                    data-plasmic-override={overrides.purple20}
+                    className={classNames(projectcss.all, sty.purple20)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__ohOvl
+                      )}
+                    >
+                      {"color.purple.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"purple30"}
+                    data-plasmic-override={overrides.purple30}
+                    className={classNames(projectcss.all, sty.purple30)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___4D4QE
+                      )}
+                    >
+                      {"color.purple.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"purple40"}
+                    data-plasmic-override={overrides.purple40}
+                    className={classNames(projectcss.all, sty.purple40)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__lHa3
+                      )}
+                    >
+                      {"color.purple.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"purple50"}
+                    data-plasmic-override={overrides.purple50}
+                    className={classNames(projectcss.all, sty.purple50)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__co1En
+                      )}
+                    >
+                      {"color.purple.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"purple60"}
+                    data-plasmic-override={overrides.purple60}
+                    className={classNames(projectcss.all, sty.purple60)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__wPTg6
+                      )}
+                    >
+                      {"color.purple.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"purple70"}
+                    data-plasmic-override={overrides.purple70}
+                    className={classNames(projectcss.all, sty.purple70)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__gR4X
+                      )}
+                    >
+                      {"color.purple.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"purple80"}
+                    data-plasmic-override={overrides.purple80}
+                    className={classNames(projectcss.all, sty.purple80)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__yhkpy
+                      )}
+                    >
+                      {"color.purple.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"purple90"}
+                    data-plasmic-override={overrides.purple90}
+                    className={classNames(projectcss.all, sty.purple90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__jbxln
+                      )}
+                    >
+                      {"color.purple.090"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"purple100"}
+                    data-plasmic-override={overrides.purple100}
+                    className={classNames(projectcss.all, sty.purple100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__guXDq
+                      )}
+                    >
+                      {"color.purple.100"}
+                    </div>
+                  </div>
+                </Stack__>
+              </div>
+              <div
+                data-plasmic-name={"waterGroup"}
+                data-plasmic-override={overrides.waterGroup}
+                className={classNames(projectcss.all, sty.waterGroup)}
+              >
+                <Stack__
+                  as={"div"}
+                  data-plasmic-name={"cyan"}
+                  data-plasmic-override={overrides.cyan}
+                  hasGap={true}
+                  className={classNames(projectcss.all, sty.cyan, {
+                    [sty.cyanglobal_mode_dark]: hasVariant(
+                      globalVariants,
+                      "mode",
+                      "dark"
+                    )
+                  })}
+                >
+                  <div
+                    data-plasmic-name={"cyan10"}
+                    data-plasmic-override={overrides.cyan10}
+                    className={classNames(projectcss.all, sty.cyan10)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__gqyvH
+                      )}
+                    >
+                      {"color.aqua.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"cyan20"}
+                    data-plasmic-override={overrides.cyan20}
+                    className={classNames(projectcss.all, sty.cyan20)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__gZrJz
+                      )}
+                    >
+                      {"color.aqua.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"cyan30"}
+                    data-plasmic-override={overrides.cyan30}
+                    className={classNames(projectcss.all, sty.cyan30)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__sT6D
+                      )}
+                    >
+                      {"color.aqua.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"cyan40"}
+                    data-plasmic-override={overrides.cyan40}
+                    className={classNames(projectcss.all, sty.cyan40, {
+                      [sty.cyan40global_mode_dark]: hasVariant(
+                        globalVariants,
+                        "mode",
+                        "dark"
+                      )
+                    })}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__a4UlV
+                      )}
+                    >
+                      {"color.aqua.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"cyan50"}
+                    data-plasmic-override={overrides.cyan50}
+                    className={classNames(projectcss.all, sty.cyan50)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__xafC
+                      )}
+                    >
+                      {"color.aqua.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"cyan60"}
+                    data-plasmic-override={overrides.cyan60}
+                    className={classNames(projectcss.all, sty.cyan60)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___9VgC
+                      )}
+                    >
+                      {"color.aqua.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"cyan70"}
+                    data-plasmic-override={overrides.cyan70}
+                    className={classNames(projectcss.all, sty.cyan70)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__iG3UG
+                      )}
+                    >
+                      {"color.aqua.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"cyan80"}
+                    data-plasmic-override={overrides.cyan80}
+                    className={classNames(projectcss.all, sty.cyan80)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__yLeXw
+                      )}
+                    >
+                      {"color.aqua.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"cyan90"}
+                    data-plasmic-override={overrides.cyan90}
+                    className={classNames(projectcss.all, sty.cyan90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__zlQ9
+                      )}
+                    >
+                      {"color.aqua.090"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"cyan100"}
+                    data-plasmic-override={overrides.cyan100}
+                    className={classNames(projectcss.all, sty.cyan100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___79IN7
+                      )}
+                    >
+                      {"color.aqua..100"}
+                    </div>
+                  </div>
+                </Stack__>
+                <Stack__
+                  as={"div"}
+                  data-plasmic-name={"blue"}
+                  data-plasmic-override={overrides.blue}
+                  hasGap={true}
+                  className={classNames(projectcss.all, sty.blue)}
+                >
+                  <div
+                    data-plasmic-name={"blue10"}
+                    data-plasmic-override={overrides.blue10}
+                    className={classNames(projectcss.all, sty.blue10)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__dKyD
+                      )}
+                    >
+                      {"color.blue.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"blue20"}
+                    data-plasmic-override={overrides.blue20}
+                    className={classNames(projectcss.all, sty.blue20)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__gznOw
+                      )}
+                    >
+                      {"color.blue.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"blue30"}
+                    data-plasmic-override={overrides.blue30}
+                    className={classNames(projectcss.all, sty.blue30, {
+                      [sty.blue30global_mode_dark]: hasVariant(
+                        globalVariants,
+                        "mode",
+                        "dark"
+                      )
+                    })}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___75Ymx
+                      )}
+                    >
+                      {"color.blue.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"blue40"}
+                    data-plasmic-override={overrides.blue40}
+                    className={classNames(projectcss.all, sty.blue40, {
+                      [sty.blue40global_mode_dark]: hasVariant(
+                        globalVariants,
+                        "mode",
+                        "dark"
+                      )
+                    })}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__zKezq,
+                        {
+                          [sty.textglobal_mode_dark__zKezqe6UCs]: hasVariant(
+                            globalVariants,
+                            "mode",
+                            "dark"
+                          )
+                        }
+                      )}
+                    >
+                      {"color.blue.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"blue50"}
+                    data-plasmic-override={overrides.blue50}
+                    className={classNames(projectcss.all, sty.blue50, {
+                      [sty.blue50global_mode_dark]: hasVariant(
+                        globalVariants,
+                        "mode",
+                        "dark"
+                      )
+                    })}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__vtnHj,
+                        {
+                          [sty.textglobal_mode_dark__vtnHje6UCs]: hasVariant(
+                            globalVariants,
+                            "mode",
+                            "dark"
+                          )
+                        }
+                      )}
+                    >
+                      {hasVariant(globalVariants, "mode", "dark")
+                        ? "color.blue.050"
+                        : "color.blue.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"blue60"}
+                    data-plasmic-override={overrides.blue60}
+                    className={classNames(projectcss.all, sty.blue60, {
+                      [sty.blue60global_mode_dark]: hasVariant(
+                        globalVariants,
+                        "mode",
+                        "dark"
+                      )
+                    })}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__xtekF,
+                        {
+                          [sty.textglobal_mode_dark__xtekFe6UCs]: hasVariant(
+                            globalVariants,
+                            "mode",
+                            "dark"
+                          )
+                        }
+                      )}
+                    >
+                      {hasVariant(globalVariants, "mode", "dark")
+                        ? "color.blue.060"
+                        : "color.blue.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"blue70"}
+                    data-plasmic-override={overrides.blue70}
+                    className={classNames(projectcss.all, sty.blue70, {
+                      [sty.blue70global_mode_dark]: hasVariant(
+                        globalVariants,
+                        "mode",
+                        "dark"
+                      )
+                    })}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__mpMHb,
+                        {
+                          [sty.textglobal_mode_dark__mpMHbe6UCs]: hasVariant(
+                            globalVariants,
+                            "mode",
+                            "dark"
+                          )
+                        }
+                      )}
+                    >
+                      {"color.blue.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"blue80"}
+                    data-plasmic-override={overrides.blue80}
+                    className={classNames(projectcss.all, sty.blue80)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___0HqQz
+                      )}
+                    >
+                      {"color.blue.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"blue90"}
+                    data-plasmic-override={overrides.blue90}
+                    className={classNames(projectcss.all, sty.blue90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__q85Vw
+                      )}
+                    >
+                      {"color.blue.090"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"blue100"}
+                    data-plasmic-override={overrides.blue100}
+                    className={classNames(projectcss.all, sty.blue100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__ckQ2W
+                      )}
+                    >
+                      {"color.blue.100"}
+                    </div>
+                  </div>
+                </Stack__>
+                <Stack__
+                  as={"div"}
+                  data-plasmic-name={"indigo"}
+                  data-plasmic-override={overrides.indigo}
+                  hasGap={true}
+                  className={classNames(projectcss.all, sty.indigo)}
+                >
+                  <div
+                    data-plasmic-name={"indigo10"}
+                    data-plasmic-override={overrides.indigo10}
+                    className={classNames(projectcss.all, sty.indigo10)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__wZhoM
+                      )}
+                    >
+                      {"color.indigo.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"indigo20"}
+                    data-plasmic-override={overrides.indigo20}
+                    className={classNames(projectcss.all, sty.indigo20)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___1BXs6
+                      )}
+                    >
+                      {"color.indigo.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"indigo30"}
+                    data-plasmic-override={overrides.indigo30}
+                    className={classNames(projectcss.all, sty.indigo30)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__aCE
+                      )}
+                    >
+                      {"color.indigo.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"indigo40"}
+                    data-plasmic-override={overrides.indigo40}
+                    className={classNames(projectcss.all, sty.indigo40)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__leEwd
+                      )}
+                    >
+                      {"color.indigo.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"indigo50"}
+                    data-plasmic-override={overrides.indigo50}
+                    className={classNames(projectcss.all, sty.indigo50)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__aOiRm
+                      )}
+                    >
+                      {"color.indigo.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"indigo60"}
+                    data-plasmic-override={overrides.indigo60}
+                    className={classNames(projectcss.all, sty.indigo60)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__bYaKx
+                      )}
+                    >
+                      {"color.indigo.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"indigo70"}
+                    data-plasmic-override={overrides.indigo70}
+                    className={classNames(projectcss.all, sty.indigo70)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__prpCn
+                      )}
+                    >
+                      {"color.indigo.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"indigo80"}
+                    data-plasmic-override={overrides.indigo80}
+                    className={classNames(projectcss.all, sty.indigo80)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__dxdr9
+                      )}
+                    >
+                      {"color.indigo.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"indigo90"}
+                    data-plasmic-override={overrides.indigo90}
+                    className={classNames(projectcss.all, sty.indigo90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__jaRcd
+                      )}
+                    >
+                      {"color.indigo.090"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"indigo100"}
+                    data-plasmic-override={overrides.indigo100}
+                    className={classNames(projectcss.all, sty.indigo100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__kGsN
+                      )}
+                    >
+                      {"color.indigo.100"}
+                    </div>
+                  </div>
+                </Stack__>
+              </div>
+              <div
+                data-plasmic-name={"grassGroup"}
+                data-plasmic-override={overrides.grassGroup}
+                className={classNames(projectcss.all, sty.grassGroup)}
+              >
+                <Stack__
+                  as={"div"}
+                  data-plasmic-name={"lime"}
+                  data-plasmic-override={overrides.lime}
+                  hasGap={true}
+                  className={classNames(projectcss.all, sty.lime)}
+                >
+                  <div
+                    data-plasmic-name={"lime10"}
+                    data-plasmic-override={overrides.lime10}
+                    className={classNames(projectcss.all, sty.lime10)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__ka3F8
+                      )}
+                    >
+                      {"color.lime.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"lime20"}
+                    data-plasmic-override={overrides.lime20}
+                    className={classNames(projectcss.all, sty.lime20)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__nXoPv
+                      )}
+                    >
+                      {"color.lime.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"lime30"}
+                    data-plasmic-override={overrides.lime30}
+                    className={classNames(projectcss.all, sty.lime30, {
+                      [sty.lime30global_mode_dark]: hasVariant(
+                        globalVariants,
+                        "mode",
+                        "dark"
+                      )
+                    })}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__osBNs
+                      )}
+                    >
+                      {"color.lime.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"lime40"}
+                    data-plasmic-override={overrides.lime40}
+                    className={classNames(projectcss.all, sty.lime40)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__vh0N5
+                      )}
+                    >
+                      {"color.lime.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"lime50"}
+                    data-plasmic-override={overrides.lime50}
+                    className={classNames(projectcss.all, sty.lime50, {
+                      [sty.lime50global_mode_dark]: hasVariant(
+                        globalVariants,
+                        "mode",
+                        "dark"
+                      )
+                    })}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__nM0PI
+                      )}
+                    >
+                      {"color.lime.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"lime60"}
+                    data-plasmic-override={overrides.lime60}
+                    className={classNames(projectcss.all, sty.lime60)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__vDb
+                      )}
+                    >
+                      {"color.lime.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"lime70"}
+                    data-plasmic-override={overrides.lime70}
+                    className={classNames(projectcss.all, sty.lime70)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__yONgP
+                      )}
+                    >
+                      {"color.lime.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"lime80"}
+                    data-plasmic-override={overrides.lime80}
+                    className={classNames(projectcss.all, sty.lime80)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__s9V2A
+                      )}
+                    >
+                      {"color.lime.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"lime90"}
+                    data-plasmic-override={overrides.lime90}
+                    className={classNames(projectcss.all, sty.lime90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__pDmtQ
+                      )}
+                    >
+                      {"color.lime.090"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"lime100"}
+                    data-plasmic-override={overrides.lime100}
+                    className={classNames(projectcss.all, sty.lime100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__vgSIc
+                      )}
+                    >
+                      {"color.lime.100"}
+                    </div>
+                  </div>
+                </Stack__>
+                <Stack__
+                  as={"div"}
+                  data-plasmic-name={"green"}
+                  data-plasmic-override={overrides.green}
+                  hasGap={true}
+                  className={classNames(projectcss.all, sty.green)}
+                >
+                  <div
+                    data-plasmic-name={"green10"}
+                    data-plasmic-override={overrides.green10}
+                    className={classNames(projectcss.all, sty.green10)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__svrXz
+                      )}
+                    >
+                      {"color.green.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"green20"}
+                    data-plasmic-override={overrides.green20}
+                    className={classNames(projectcss.all, sty.green20)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__kCjE
+                      )}
+                    >
+                      {"color.green.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"green30"}
+                    data-plasmic-override={overrides.green30}
+                    className={classNames(projectcss.all, sty.green30)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__vbO8
+                      )}
+                    >
+                      {"color.green.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"green40"}
+                    data-plasmic-override={overrides.green40}
+                    className={classNames(projectcss.all, sty.green40)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___2HUlx
+                      )}
+                    >
+                      {"color.green.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"green50"}
+                    data-plasmic-override={overrides.green50}
+                    className={classNames(projectcss.all, sty.green50)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__oDjYp
+                      )}
+                    >
+                      {"color.green.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"green60"}
+                    data-plasmic-override={overrides.green60}
+                    className={classNames(projectcss.all, sty.green60)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__u5Qv3
+                      )}
+                    >
+                      {"color.green.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"green70"}
+                    data-plasmic-override={overrides.green70}
+                    className={classNames(projectcss.all, sty.green70)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__x91Z
+                      )}
+                    >
+                      {"color.green.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"green80"}
+                    data-plasmic-override={overrides.green80}
+                    className={classNames(projectcss.all, sty.green80)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___29Gn
+                      )}
+                    >
+                      {"color.green.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"green90"}
+                    data-plasmic-override={overrides.green90}
+                    className={classNames(projectcss.all, sty.green90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___3TuGw
+                      )}
+                    >
+                      {"color.green.090"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"green100"}
+                    data-plasmic-override={overrides.green100}
+                    className={classNames(projectcss.all, sty.green100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__pWKcb
+                      )}
+                    >
+                      {"color.green.100"}
+                    </div>
+                  </div>
+                </Stack__>
+                <Stack__
+                  as={"div"}
+                  data-plasmic-name={"teal"}
+                  data-plasmic-override={overrides.teal}
+                  hasGap={true}
+                  className={classNames(projectcss.all, sty.teal)}
+                >
+                  <div
+                    data-plasmic-name={"teal10"}
+                    data-plasmic-override={overrides.teal10}
+                    className={classNames(projectcss.all, sty.teal10)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__yfxr5
+                      )}
+                    >
+                      {"color.teal.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"teal20"}
+                    data-plasmic-override={overrides.teal20}
+                    className={classNames(projectcss.all, sty.teal20)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___0RsCh
+                      )}
+                    >
+                      {"color.teal.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"teal30"}
+                    data-plasmic-override={overrides.teal30}
+                    className={classNames(projectcss.all, sty.teal30)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___7GpB5
+                      )}
+                    >
+                      {"color.teal.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"teal40"}
+                    data-plasmic-override={overrides.teal40}
+                    className={classNames(projectcss.all, sty.teal40)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__v0FiN
+                      )}
+                    >
+                      {"color.teal.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"teal50"}
+                    data-plasmic-override={overrides.teal50}
+                    className={classNames(projectcss.all, sty.teal50)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___58T87
+                      )}
+                    >
+                      {"color.teal.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"teal60"}
+                    data-plasmic-override={overrides.teal60}
+                    className={classNames(projectcss.all, sty.teal60)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__wY5Dp
+                      )}
+                    >
+                      {"color.teal.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"teal70"}
+                    data-plasmic-override={overrides.teal70}
+                    className={classNames(projectcss.all, sty.teal70)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__kFEzP
+                      )}
+                    >
+                      {"color.teal.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"teal80"}
+                    data-plasmic-override={overrides.teal80}
+                    className={classNames(projectcss.all, sty.teal80)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__kHtsh
+                      )}
+                    >
+                      {"color.teal.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"teal90"}
+                    data-plasmic-override={overrides.teal90}
+                    className={classNames(projectcss.all, sty.teal90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__d1Rrl
+                      )}
+                    >
+                      {"color.teal.090"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"teal100"}
+                    data-plasmic-override={overrides.teal100}
+                    className={classNames(projectcss.all, sty.teal100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___6VKmZ
+                      )}
+                    >
+                      {"color.teal.100"}
+                    </div>
+                  </div>
+                </Stack__>
+                <Stack__
+                  as={"div"}
+                  data-plasmic-name={"turquoise"}
+                  data-plasmic-override={overrides.turquoise}
+                  hasGap={true}
+                  className={classNames(projectcss.all, sty.turquoise, {
+                    [sty.turquoiseglobal_mode_darkGrayscale]: hasVariant(
+                      globalVariants,
+                      "mode",
+                      "darkGrayscale"
+                    )
+                  })}
+                >
+                  <div
+                    data-plasmic-name={"turquoise10"}
+                    data-plasmic-override={overrides.turquoise10}
+                    className={classNames(projectcss.all, sty.turquoise10)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__cMxGk
+                      )}
+                    >
+                      {"color.turquoise.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"turquoise20"}
+                    data-plasmic-override={overrides.turquoise20}
+                    className={classNames(projectcss.all, sty.turquoise20)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___8ACka
+                      )}
+                    >
+                      {"color.turquoise.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"turquoise30"}
+                    data-plasmic-override={overrides.turquoise30}
+                    className={classNames(projectcss.all, sty.turquoise30)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__gKl4A
+                      )}
+                    >
+                      {"color.turquoise.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"turquoise40"}
+                    data-plasmic-override={overrides.turquoise40}
+                    className={classNames(projectcss.all, sty.turquoise40)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__lhSna,
+                        {
+                          [sty.textglobal_mode_dark__lhSnAe6UCs]: hasVariant(
+                            globalVariants,
+                            "mode",
+                            "dark"
+                          )
+                        }
+                      )}
+                    >
+                      {"color.turquoise.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"turquoise50"}
+                    data-plasmic-override={overrides.turquoise50}
+                    className={classNames(projectcss.all, sty.turquoise50, {
+                      [sty.turquoise50global_mode_dark]: hasVariant(
+                        globalVariants,
+                        "mode",
+                        "dark"
+                      )
+                    })}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__fBkhI
+                      )}
+                    >
+                      {"color.turquoise.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"turquoise60"}
+                    data-plasmic-override={overrides.turquoise60}
+                    className={classNames(projectcss.all, sty.turquoise60)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__bV3Cl
+                      )}
+                    >
+                      {"color.turquoise.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"turquoise70"}
+                    data-plasmic-override={overrides.turquoise70}
+                    className={classNames(projectcss.all, sty.turquoise70)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__rHtRq
+                      )}
+                    >
+                      {"color.turquoise.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"turquoise80"}
+                    data-plasmic-override={overrides.turquoise80}
+                    className={classNames(projectcss.all, sty.turquoise80)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__rvp4J
+                      )}
+                    >
+                      {"color.turquoise.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"turquoise90"}
+                    data-plasmic-override={overrides.turquoise90}
+                    className={classNames(projectcss.all, sty.turquoise90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__mK8Cj
+                      )}
+                    >
+                      {"color.turquoise.090"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"turquoise100"}
+                    data-plasmic-override={overrides.turquoise100}
+                    className={classNames(projectcss.all, sty.turquoise100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__sktGs
+                      )}
+                    >
+                      {"color.mint.900"}
+                    </div>
+                  </div>
+                </Stack__>
+              </div>
+              <div
+                data-plasmic-name={"fireGroup"}
+                data-plasmic-override={overrides.fireGroup}
+                className={classNames(projectcss.all, sty.fireGroup)}
+              >
+                <Stack__
+                  as={"div"}
+                  data-plasmic-name={"yellow"}
+                  data-plasmic-override={overrides.yellow}
+                  hasGap={true}
+                  className={classNames(projectcss.all, sty.yellow)}
+                >
+                  <div
+                    data-plasmic-name={"yellow10"}
+                    data-plasmic-override={overrides.yellow10}
+                    className={classNames(projectcss.all, sty.yellow10)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__uj4K2
+                      )}
+                    >
+                      {"color.yellow.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"yellow20"}
+                    data-plasmic-override={overrides.yellow20}
+                    className={classNames(projectcss.all, sty.yellow20)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___3Iur2
+                      )}
+                    >
+                      {"color.yellow.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"yellow30"}
+                    data-plasmic-override={overrides.yellow30}
+                    className={classNames(projectcss.all, sty.yellow30)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__mIkM5
+                      )}
+                    >
+                      {"color.yellow.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"yellow40"}
+                    data-plasmic-override={overrides.yellow40}
+                    className={classNames(projectcss.all, sty.yellow40)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__lmMKp
+                      )}
+                    >
+                      {"color.yellow.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"yellow50"}
+                    data-plasmic-override={overrides.yellow50}
+                    className={classNames(projectcss.all, sty.yellow50)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__f5Yyf
+                      )}
+                    >
+                      {"color.yellow.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"yellow60"}
+                    data-plasmic-override={overrides.yellow60}
+                    className={classNames(projectcss.all, sty.yellow60)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__b8Ytj,
+                        {
+                          [sty.textglobal_mode_dark__b8YtJe6UCs]: hasVariant(
+                            globalVariants,
+                            "mode",
+                            "dark"
+                          )
+                        }
+                      )}
+                    >
+                      {"color.yellow.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"yellow70"}
+                    data-plasmic-override={overrides.yellow70}
+                    className={classNames(projectcss.all, sty.yellow70)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__dm4Zt
+                      )}
+                    >
+                      {"color.yellow.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"yellow80"}
+                    data-plasmic-override={overrides.yellow80}
+                    className={classNames(projectcss.all, sty.yellow80)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___2QeHm
+                      )}
+                    >
+                      {"color.yellow.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"yellow90"}
+                    data-plasmic-override={overrides.yellow90}
+                    className={classNames(projectcss.all, sty.yellow90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__kFgEw
+                      )}
+                    >
+                      {"color.yellow.800"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"yellow100"}
+                    data-plasmic-override={overrides.yellow100}
+                    className={classNames(projectcss.all, sty.yellow100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__cdU35
+                      )}
+                    >
+                      {"color.yellow.900"}
+                    </div>
+                  </div>
+                </Stack__>
+                <Stack__
+                  as={"div"}
+                  data-plasmic-name={"orange"}
+                  data-plasmic-override={overrides.orange}
+                  hasGap={true}
+                  className={classNames(projectcss.all, sty.orange)}
+                >
+                  <div
+                    data-plasmic-name={"orange10"}
+                    data-plasmic-override={overrides.orange10}
+                    className={classNames(projectcss.all, sty.orange10)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__zrPz1
+                      )}
+                    >
+                      {"color.orange.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"orange20"}
+                    data-plasmic-override={overrides.orange20}
+                    className={classNames(projectcss.all, sty.orange20)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__adIyb
+                      )}
+                    >
+                      {"color.orange.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"orange30"}
+                    data-plasmic-override={overrides.orange30}
+                    className={classNames(projectcss.all, sty.orange30)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__bVwdR
+                      )}
+                    >
+                      {"color.orange.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"orange40"}
+                    data-plasmic-override={overrides.orange40}
+                    className={classNames(projectcss.all, sty.orange40)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__lxYoZ
+                      )}
+                    >
+                      {"color.orange.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"orange50"}
+                    data-plasmic-override={overrides.orange50}
+                    className={classNames(projectcss.all, sty.orange50)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__vvLZz
+                      )}
+                    >
+                      {"color.orange.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"orange60"}
+                    data-plasmic-override={overrides.orange60}
+                    className={classNames(projectcss.all, sty.orange60)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__k8CcS
+                      )}
+                    >
+                      {"color.orange.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"orange70"}
+                    data-plasmic-override={overrides.orange70}
+                    className={classNames(projectcss.all, sty.orange70)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__nlkZt
+                      )}
+                    >
+                      {"color.orange.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"orange80"}
+                    data-plasmic-override={overrides.orange80}
+                    className={classNames(projectcss.all, sty.orange80)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__nUhaI
+                      )}
+                    >
+                      {"color.orange.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"orange90"}
+                    data-plasmic-override={overrides.orange90}
+                    className={classNames(projectcss.all, sty.orange90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__fxMc8
+                      )}
+                    >
+                      {"color.orange.800"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"orange100"}
+                    data-plasmic-override={overrides.orange100}
+                    className={classNames(projectcss.all, sty.orange100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__qw68G
+                      )}
+                    >
+                      {"color.orange.900"}
+                    </div>
+                  </div>
+                </Stack__>
+                <Stack__
+                  as={"div"}
+                  data-plasmic-name={"red"}
+                  data-plasmic-override={overrides.red}
+                  hasGap={true}
+                  className={classNames(projectcss.all, sty.red)}
+                >
+                  <div
+                    data-plasmic-name={"red10"}
+                    data-plasmic-override={overrides.red10}
+                    className={classNames(projectcss.all, sty.red10)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__iOgUv
+                      )}
+                    >
+                      {"color.red.010"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"red20"}
+                    data-plasmic-override={overrides.red20}
+                    className={classNames(projectcss.all, sty.red20)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__vlVIx
+                      )}
+                    >
+                      {"color.red.020"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"red30"}
+                    data-plasmic-override={overrides.red30}
+                    className={classNames(projectcss.all, sty.red30)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__x8Zhj
+                      )}
+                    >
+                      {"color.red.030"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"red40"}
+                    data-plasmic-override={overrides.red40}
+                    className={classNames(projectcss.all, sty.red40)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__t64I
+                      )}
+                    >
+                      {"color.red.040"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"red50"}
+                    data-plasmic-override={overrides.red50}
+                    className={classNames(projectcss.all, sty.red50)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__n28O3
+                      )}
+                    >
+                      {"color.red.050"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"red60"}
+                    data-plasmic-override={overrides.red60}
+                    className={classNames(projectcss.all, sty.red60)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__koXuG
+                      )}
+                    >
+                      {"color.red.060"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"red70"}
+                    data-plasmic-override={overrides.red70}
+                    className={classNames(projectcss.all, sty.red70)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__mfNf
+                      )}
+                    >
+                      {"color.red.070"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"red80"}
+                    data-plasmic-override={overrides.red80}
+                    className={classNames(projectcss.all, sty.red80)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__qgCi
+                      )}
+                    >
+                      {"color.red.080"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"red90"}
+                    data-plasmic-override={overrides.red90}
+                    className={classNames(projectcss.all, sty.red90)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text__uRtEo
+                      )}
+                    >
+                      {"color.red.800"}
+                    </div>
+                  </div>
+                  <div
+                    data-plasmic-name={"red100"}
+                    data-plasmic-override={overrides.red100}
+                    className={classNames(projectcss.all, sty.red100)}
+                  >
+                    <div
+                      className={classNames(
+                        projectcss.all,
+                        projectcss.__wab_text,
+                        sty.text___3Rz9D
+                      )}
+                    >
+                      {"color.red.900"}
+                    </div>
+                  </div>
+                </Stack__>
+              </div>
+            </div>
           </Stack__>
         </div>
       </div>
@@ -3509,124 +3708,1346 @@ const PlasmicDescendants = {
   root: [
     "root",
     "h1",
-    "basics2",
-    "transparency2",
-    "transparency",
-    "black2",
-    "blackAlpha",
-    "blackAlpha2",
-    "columns",
-    "column",
-    "grays",
-    "gray",
-    "slate",
-    "zinc",
-    "neutral",
-    "stone",
-    "mountain",
-    "pink",
-    "purple",
-    "water",
+    "colors",
+    "colorStacks",
+    "basicsGroup",
+    "baseStack",
+    "lowBase",
+    "transparentBase",
+    "highBase",
+    "blackAphaStack",
+    "blackApha10",
+    "blackApha20",
+    "blackApha30",
+    "blackApha40",
+    "blackApha50",
+    "blackApha60",
+    "blackApha70",
+    "blackApha80",
+    "blackApha90",
+    "blackApha100",
+    "whiteAlphaStack",
+    "whiteAlpha10",
+    "whiteAlpha20",
+    "whiteAlpha30",
+    "whiteAlpha40",
+    "whiteAlpha50",
+    "whiteAlpha60",
+    "whiteAlpha70",
+    "whiteAlpha80",
+    "whiteAlpha90",
+    "whiteAlpha100",
+    "grayGroup",
+    "grayStack",
+    "gray10",
+    "gray20",
+    "gray30",
+    "gray40",
+    "gray50",
+    "gray60",
+    "gray70",
+    "gray80",
+    "gray90",
+    "gray100",
+    "slateStack",
+    "slate10",
+    "slate20",
+    "slate30",
+    "slate40",
+    "slate50",
+    "slate60",
+    "slate70",
+    "slate80",
+    "slate90",
+    "slate100",
+    "zincStack",
+    "zinc10",
+    "zinc20",
+    "zinc30",
+    "zinc40",
+    "zinc50",
+    "zinc60",
+    "zinc70",
+    "zinc80",
+    "zinc90",
+    "zinc100",
+    "neutralStack",
+    "neutral10",
+    "neutral20",
+    "neutral30",
+    "neutral40",
+    "neutral50",
+    "neutral60",
+    "neutral70",
+    "neutral80",
+    "neutral90",
+    "neutral100",
+    "stoneStack",
+    "stone10",
+    "stone20",
+    "stone30",
+    "stone40",
+    "stone50",
+    "stone60",
+    "stone70",
+    "stone80",
+    "stone90",
+    "stone100",
+    "mountainGroup",
+    "pinkStack",
+    "pink10",
+    "pink20",
+    "pink30",
+    "pink40",
+    "pink50",
+    "pink60",
+    "pink70",
+    "pink80",
+    "pink90",
+    "pink100",
+    "purpleStack",
+    "purple10",
+    "purple20",
+    "purple30",
+    "purple40",
+    "purple50",
+    "purple60",
+    "purple70",
+    "purple80",
+    "purple90",
+    "purple100",
+    "waterGroup",
     "cyan",
+    "cyan10",
+    "cyan20",
+    "cyan30",
+    "cyan40",
+    "cyan50",
+    "cyan60",
+    "cyan70",
+    "cyan80",
+    "cyan90",
+    "cyan100",
     "blue",
+    "blue10",
+    "blue20",
+    "blue30",
+    "blue40",
+    "blue50",
+    "blue60",
+    "blue70",
+    "blue80",
+    "blue90",
+    "blue100",
     "indigo",
-    "grass",
-    "lime2",
+    "indigo10",
+    "indigo20",
+    "indigo30",
+    "indigo40",
+    "indigo50",
+    "indigo60",
+    "indigo70",
+    "indigo80",
+    "indigo90",
+    "indigo100",
+    "grassGroup",
+    "lime",
+    "lime10",
+    "lime20",
+    "lime30",
+    "lime40",
+    "lime50",
+    "lime60",
+    "lime70",
+    "lime80",
+    "lime90",
+    "lime100",
     "green",
+    "green10",
+    "green20",
+    "green30",
+    "green40",
+    "green50",
+    "green60",
+    "green70",
+    "green80",
+    "green90",
+    "green100",
     "teal",
-    "teal2",
-    "fire",
+    "teal10",
+    "teal20",
+    "teal30",
+    "teal40",
+    "teal50",
+    "teal60",
+    "teal70",
+    "teal80",
+    "teal90",
+    "teal100",
+    "turquoise",
+    "turquoise10",
+    "turquoise20",
+    "turquoise30",
+    "turquoise40",
+    "turquoise50",
+    "turquoise60",
+    "turquoise70",
+    "turquoise80",
+    "turquoise90",
+    "turquoise100",
+    "fireGroup",
     "yellow",
+    "yellow10",
+    "yellow20",
+    "yellow30",
+    "yellow40",
+    "yellow50",
+    "yellow60",
+    "yellow70",
+    "yellow80",
+    "yellow90",
+    "yellow100",
     "orange",
-    "red"
+    "orange10",
+    "orange20",
+    "orange30",
+    "orange40",
+    "orange50",
+    "orange60",
+    "orange70",
+    "orange80",
+    "orange90",
+    "orange100",
+    "red",
+    "red10",
+    "red20",
+    "red30",
+    "red40",
+    "red50",
+    "red60",
+    "red70",
+    "red80",
+    "red90",
+    "red100"
   ],
   h1: ["h1"],
-  basics2: [
-    "basics2",
-    "transparency2",
-    "transparency",
-    "black2",
-    "blackAlpha",
-    "blackAlpha2"
-  ],
-  transparency2: ["transparency2"],
-  transparency: ["transparency"],
-  black2: ["black2"],
-  blackAlpha: ["blackAlpha"],
-  blackAlpha2: ["blackAlpha2"],
-  columns: [
-    "columns",
-    "column",
-    "grays",
-    "gray",
-    "slate",
-    "zinc",
-    "neutral",
-    "stone",
-    "mountain",
-    "pink",
-    "purple",
-    "water",
+  colors: [
+    "colors",
+    "colorStacks",
+    "basicsGroup",
+    "baseStack",
+    "lowBase",
+    "transparentBase",
+    "highBase",
+    "blackAphaStack",
+    "blackApha10",
+    "blackApha20",
+    "blackApha30",
+    "blackApha40",
+    "blackApha50",
+    "blackApha60",
+    "blackApha70",
+    "blackApha80",
+    "blackApha90",
+    "blackApha100",
+    "whiteAlphaStack",
+    "whiteAlpha10",
+    "whiteAlpha20",
+    "whiteAlpha30",
+    "whiteAlpha40",
+    "whiteAlpha50",
+    "whiteAlpha60",
+    "whiteAlpha70",
+    "whiteAlpha80",
+    "whiteAlpha90",
+    "whiteAlpha100",
+    "grayGroup",
+    "grayStack",
+    "gray10",
+    "gray20",
+    "gray30",
+    "gray40",
+    "gray50",
+    "gray60",
+    "gray70",
+    "gray80",
+    "gray90",
+    "gray100",
+    "slateStack",
+    "slate10",
+    "slate20",
+    "slate30",
+    "slate40",
+    "slate50",
+    "slate60",
+    "slate70",
+    "slate80",
+    "slate90",
+    "slate100",
+    "zincStack",
+    "zinc10",
+    "zinc20",
+    "zinc30",
+    "zinc40",
+    "zinc50",
+    "zinc60",
+    "zinc70",
+    "zinc80",
+    "zinc90",
+    "zinc100",
+    "neutralStack",
+    "neutral10",
+    "neutral20",
+    "neutral30",
+    "neutral40",
+    "neutral50",
+    "neutral60",
+    "neutral70",
+    "neutral80",
+    "neutral90",
+    "neutral100",
+    "stoneStack",
+    "stone10",
+    "stone20",
+    "stone30",
+    "stone40",
+    "stone50",
+    "stone60",
+    "stone70",
+    "stone80",
+    "stone90",
+    "stone100",
+    "mountainGroup",
+    "pinkStack",
+    "pink10",
+    "pink20",
+    "pink30",
+    "pink40",
+    "pink50",
+    "pink60",
+    "pink70",
+    "pink80",
+    "pink90",
+    "pink100",
+    "purpleStack",
+    "purple10",
+    "purple20",
+    "purple30",
+    "purple40",
+    "purple50",
+    "purple60",
+    "purple70",
+    "purple80",
+    "purple90",
+    "purple100",
+    "waterGroup",
     "cyan",
+    "cyan10",
+    "cyan20",
+    "cyan30",
+    "cyan40",
+    "cyan50",
+    "cyan60",
+    "cyan70",
+    "cyan80",
+    "cyan90",
+    "cyan100",
     "blue",
+    "blue10",
+    "blue20",
+    "blue30",
+    "blue40",
+    "blue50",
+    "blue60",
+    "blue70",
+    "blue80",
+    "blue90",
+    "blue100",
     "indigo",
-    "grass",
-    "lime2",
+    "indigo10",
+    "indigo20",
+    "indigo30",
+    "indigo40",
+    "indigo50",
+    "indigo60",
+    "indigo70",
+    "indigo80",
+    "indigo90",
+    "indigo100",
+    "grassGroup",
+    "lime",
+    "lime10",
+    "lime20",
+    "lime30",
+    "lime40",
+    "lime50",
+    "lime60",
+    "lime70",
+    "lime80",
+    "lime90",
+    "lime100",
     "green",
+    "green10",
+    "green20",
+    "green30",
+    "green40",
+    "green50",
+    "green60",
+    "green70",
+    "green80",
+    "green90",
+    "green100",
     "teal",
-    "teal2",
-    "fire",
+    "teal10",
+    "teal20",
+    "teal30",
+    "teal40",
+    "teal50",
+    "teal60",
+    "teal70",
+    "teal80",
+    "teal90",
+    "teal100",
+    "turquoise",
+    "turquoise10",
+    "turquoise20",
+    "turquoise30",
+    "turquoise40",
+    "turquoise50",
+    "turquoise60",
+    "turquoise70",
+    "turquoise80",
+    "turquoise90",
+    "turquoise100",
+    "fireGroup",
     "yellow",
+    "yellow10",
+    "yellow20",
+    "yellow30",
+    "yellow40",
+    "yellow50",
+    "yellow60",
+    "yellow70",
+    "yellow80",
+    "yellow90",
+    "yellow100",
     "orange",
-    "red"
+    "orange10",
+    "orange20",
+    "orange30",
+    "orange40",
+    "orange50",
+    "orange60",
+    "orange70",
+    "orange80",
+    "orange90",
+    "orange100",
+    "red",
+    "red10",
+    "red20",
+    "red30",
+    "red40",
+    "red50",
+    "red60",
+    "red70",
+    "red80",
+    "red90",
+    "red100"
   ],
-  column: [
-    "column",
-    "grays",
-    "gray",
-    "slate",
-    "zinc",
-    "neutral",
-    "stone",
-    "mountain",
-    "pink",
-    "purple",
-    "water",
+  colorStacks: [
+    "colorStacks",
+    "basicsGroup",
+    "baseStack",
+    "lowBase",
+    "transparentBase",
+    "highBase",
+    "blackAphaStack",
+    "blackApha10",
+    "blackApha20",
+    "blackApha30",
+    "blackApha40",
+    "blackApha50",
+    "blackApha60",
+    "blackApha70",
+    "blackApha80",
+    "blackApha90",
+    "blackApha100",
+    "whiteAlphaStack",
+    "whiteAlpha10",
+    "whiteAlpha20",
+    "whiteAlpha30",
+    "whiteAlpha40",
+    "whiteAlpha50",
+    "whiteAlpha60",
+    "whiteAlpha70",
+    "whiteAlpha80",
+    "whiteAlpha90",
+    "whiteAlpha100",
+    "grayGroup",
+    "grayStack",
+    "gray10",
+    "gray20",
+    "gray30",
+    "gray40",
+    "gray50",
+    "gray60",
+    "gray70",
+    "gray80",
+    "gray90",
+    "gray100",
+    "slateStack",
+    "slate10",
+    "slate20",
+    "slate30",
+    "slate40",
+    "slate50",
+    "slate60",
+    "slate70",
+    "slate80",
+    "slate90",
+    "slate100",
+    "zincStack",
+    "zinc10",
+    "zinc20",
+    "zinc30",
+    "zinc40",
+    "zinc50",
+    "zinc60",
+    "zinc70",
+    "zinc80",
+    "zinc90",
+    "zinc100",
+    "neutralStack",
+    "neutral10",
+    "neutral20",
+    "neutral30",
+    "neutral40",
+    "neutral50",
+    "neutral60",
+    "neutral70",
+    "neutral80",
+    "neutral90",
+    "neutral100",
+    "stoneStack",
+    "stone10",
+    "stone20",
+    "stone30",
+    "stone40",
+    "stone50",
+    "stone60",
+    "stone70",
+    "stone80",
+    "stone90",
+    "stone100",
+    "mountainGroup",
+    "pinkStack",
+    "pink10",
+    "pink20",
+    "pink30",
+    "pink40",
+    "pink50",
+    "pink60",
+    "pink70",
+    "pink80",
+    "pink90",
+    "pink100",
+    "purpleStack",
+    "purple10",
+    "purple20",
+    "purple30",
+    "purple40",
+    "purple50",
+    "purple60",
+    "purple70",
+    "purple80",
+    "purple90",
+    "purple100",
+    "waterGroup",
     "cyan",
+    "cyan10",
+    "cyan20",
+    "cyan30",
+    "cyan40",
+    "cyan50",
+    "cyan60",
+    "cyan70",
+    "cyan80",
+    "cyan90",
+    "cyan100",
     "blue",
+    "blue10",
+    "blue20",
+    "blue30",
+    "blue40",
+    "blue50",
+    "blue60",
+    "blue70",
+    "blue80",
+    "blue90",
+    "blue100",
     "indigo",
-    "grass",
-    "lime2",
+    "indigo10",
+    "indigo20",
+    "indigo30",
+    "indigo40",
+    "indigo50",
+    "indigo60",
+    "indigo70",
+    "indigo80",
+    "indigo90",
+    "indigo100",
+    "grassGroup",
+    "lime",
+    "lime10",
+    "lime20",
+    "lime30",
+    "lime40",
+    "lime50",
+    "lime60",
+    "lime70",
+    "lime80",
+    "lime90",
+    "lime100",
     "green",
+    "green10",
+    "green20",
+    "green30",
+    "green40",
+    "green50",
+    "green60",
+    "green70",
+    "green80",
+    "green90",
+    "green100",
     "teal",
-    "teal2",
-    "fire",
+    "teal10",
+    "teal20",
+    "teal30",
+    "teal40",
+    "teal50",
+    "teal60",
+    "teal70",
+    "teal80",
+    "teal90",
+    "teal100",
+    "turquoise",
+    "turquoise10",
+    "turquoise20",
+    "turquoise30",
+    "turquoise40",
+    "turquoise50",
+    "turquoise60",
+    "turquoise70",
+    "turquoise80",
+    "turquoise90",
+    "turquoise100",
+    "fireGroup",
     "yellow",
+    "yellow10",
+    "yellow20",
+    "yellow30",
+    "yellow40",
+    "yellow50",
+    "yellow60",
+    "yellow70",
+    "yellow80",
+    "yellow90",
+    "yellow100",
     "orange",
-    "red"
+    "orange10",
+    "orange20",
+    "orange30",
+    "orange40",
+    "orange50",
+    "orange60",
+    "orange70",
+    "orange80",
+    "orange90",
+    "orange100",
+    "red",
+    "red10",
+    "red20",
+    "red30",
+    "red40",
+    "red50",
+    "red60",
+    "red70",
+    "red80",
+    "red90",
+    "red100"
   ],
-  grays: ["grays", "gray", "slate", "zinc", "neutral", "stone"],
-  gray: ["gray"],
-  slate: ["slate"],
-  zinc: ["zinc"],
-  neutral: ["neutral"],
-  stone: ["stone"],
-  mountain: ["mountain", "pink", "purple"],
-  pink: ["pink"],
-  purple: ["purple"],
-  water: ["water", "cyan", "blue", "indigo"],
-  cyan: ["cyan"],
-  blue: ["blue"],
-  indigo: ["indigo"],
-  grass: ["grass", "lime2", "green", "teal", "teal2"],
-  lime2: ["lime2"],
-  green: ["green"],
-  teal: ["teal"],
-  teal2: ["teal2"],
-  fire: ["fire", "yellow", "orange", "red"],
-  yellow: ["yellow"],
-  orange: ["orange"],
-  red: ["red"]
+  basicsGroup: [
+    "basicsGroup",
+    "baseStack",
+    "lowBase",
+    "transparentBase",
+    "highBase",
+    "blackAphaStack",
+    "blackApha10",
+    "blackApha20",
+    "blackApha30",
+    "blackApha40",
+    "blackApha50",
+    "blackApha60",
+    "blackApha70",
+    "blackApha80",
+    "blackApha90",
+    "blackApha100",
+    "whiteAlphaStack",
+    "whiteAlpha10",
+    "whiteAlpha20",
+    "whiteAlpha30",
+    "whiteAlpha40",
+    "whiteAlpha50",
+    "whiteAlpha60",
+    "whiteAlpha70",
+    "whiteAlpha80",
+    "whiteAlpha90",
+    "whiteAlpha100"
+  ],
+  baseStack: ["baseStack", "lowBase", "transparentBase", "highBase"],
+  lowBase: ["lowBase"],
+  transparentBase: ["transparentBase"],
+  highBase: ["highBase"],
+  blackAphaStack: [
+    "blackAphaStack",
+    "blackApha10",
+    "blackApha20",
+    "blackApha30",
+    "blackApha40",
+    "blackApha50",
+    "blackApha60",
+    "blackApha70",
+    "blackApha80",
+    "blackApha90",
+    "blackApha100"
+  ],
+  blackApha10: ["blackApha10"],
+  blackApha20: ["blackApha20"],
+  blackApha30: ["blackApha30"],
+  blackApha40: ["blackApha40"],
+  blackApha50: ["blackApha50"],
+  blackApha60: ["blackApha60"],
+  blackApha70: ["blackApha70"],
+  blackApha80: ["blackApha80"],
+  blackApha90: ["blackApha90"],
+  blackApha100: ["blackApha100"],
+  whiteAlphaStack: [
+    "whiteAlphaStack",
+    "whiteAlpha10",
+    "whiteAlpha20",
+    "whiteAlpha30",
+    "whiteAlpha40",
+    "whiteAlpha50",
+    "whiteAlpha60",
+    "whiteAlpha70",
+    "whiteAlpha80",
+    "whiteAlpha90",
+    "whiteAlpha100"
+  ],
+  whiteAlpha10: ["whiteAlpha10"],
+  whiteAlpha20: ["whiteAlpha20"],
+  whiteAlpha30: ["whiteAlpha30"],
+  whiteAlpha40: ["whiteAlpha40"],
+  whiteAlpha50: ["whiteAlpha50"],
+  whiteAlpha60: ["whiteAlpha60"],
+  whiteAlpha70: ["whiteAlpha70"],
+  whiteAlpha80: ["whiteAlpha80"],
+  whiteAlpha90: ["whiteAlpha90"],
+  whiteAlpha100: ["whiteAlpha100"],
+  grayGroup: [
+    "grayGroup",
+    "grayStack",
+    "gray10",
+    "gray20",
+    "gray30",
+    "gray40",
+    "gray50",
+    "gray60",
+    "gray70",
+    "gray80",
+    "gray90",
+    "gray100",
+    "slateStack",
+    "slate10",
+    "slate20",
+    "slate30",
+    "slate40",
+    "slate50",
+    "slate60",
+    "slate70",
+    "slate80",
+    "slate90",
+    "slate100",
+    "zincStack",
+    "zinc10",
+    "zinc20",
+    "zinc30",
+    "zinc40",
+    "zinc50",
+    "zinc60",
+    "zinc70",
+    "zinc80",
+    "zinc90",
+    "zinc100",
+    "neutralStack",
+    "neutral10",
+    "neutral20",
+    "neutral30",
+    "neutral40",
+    "neutral50",
+    "neutral60",
+    "neutral70",
+    "neutral80",
+    "neutral90",
+    "neutral100",
+    "stoneStack",
+    "stone10",
+    "stone20",
+    "stone30",
+    "stone40",
+    "stone50",
+    "stone60",
+    "stone70",
+    "stone80",
+    "stone90",
+    "stone100"
+  ],
+  grayStack: [
+    "grayStack",
+    "gray10",
+    "gray20",
+    "gray30",
+    "gray40",
+    "gray50",
+    "gray60",
+    "gray70",
+    "gray80",
+    "gray90",
+    "gray100"
+  ],
+  gray10: ["gray10"],
+  gray20: ["gray20"],
+  gray30: ["gray30"],
+  gray40: ["gray40"],
+  gray50: ["gray50"],
+  gray60: ["gray60"],
+  gray70: ["gray70"],
+  gray80: ["gray80"],
+  gray90: ["gray90"],
+  gray100: ["gray100"],
+  slateStack: [
+    "slateStack",
+    "slate10",
+    "slate20",
+    "slate30",
+    "slate40",
+    "slate50",
+    "slate60",
+    "slate70",
+    "slate80",
+    "slate90",
+    "slate100"
+  ],
+  slate10: ["slate10"],
+  slate20: ["slate20"],
+  slate30: ["slate30"],
+  slate40: ["slate40"],
+  slate50: ["slate50"],
+  slate60: ["slate60"],
+  slate70: ["slate70"],
+  slate80: ["slate80"],
+  slate90: ["slate90"],
+  slate100: ["slate100"],
+  zincStack: [
+    "zincStack",
+    "zinc10",
+    "zinc20",
+    "zinc30",
+    "zinc40",
+    "zinc50",
+    "zinc60",
+    "zinc70",
+    "zinc80",
+    "zinc90",
+    "zinc100"
+  ],
+  zinc10: ["zinc10"],
+  zinc20: ["zinc20"],
+  zinc30: ["zinc30"],
+  zinc40: ["zinc40"],
+  zinc50: ["zinc50"],
+  zinc60: ["zinc60"],
+  zinc70: ["zinc70"],
+  zinc80: ["zinc80"],
+  zinc90: ["zinc90"],
+  zinc100: ["zinc100"],
+  neutralStack: [
+    "neutralStack",
+    "neutral10",
+    "neutral20",
+    "neutral30",
+    "neutral40",
+    "neutral50",
+    "neutral60",
+    "neutral70",
+    "neutral80",
+    "neutral90",
+    "neutral100"
+  ],
+  neutral10: ["neutral10"],
+  neutral20: ["neutral20"],
+  neutral30: ["neutral30"],
+  neutral40: ["neutral40"],
+  neutral50: ["neutral50"],
+  neutral60: ["neutral60"],
+  neutral70: ["neutral70"],
+  neutral80: ["neutral80"],
+  neutral90: ["neutral90"],
+  neutral100: ["neutral100"],
+  stoneStack: [
+    "stoneStack",
+    "stone10",
+    "stone20",
+    "stone30",
+    "stone40",
+    "stone50",
+    "stone60",
+    "stone70",
+    "stone80",
+    "stone90",
+    "stone100"
+  ],
+  stone10: ["stone10"],
+  stone20: ["stone20"],
+  stone30: ["stone30"],
+  stone40: ["stone40"],
+  stone50: ["stone50"],
+  stone60: ["stone60"],
+  stone70: ["stone70"],
+  stone80: ["stone80"],
+  stone90: ["stone90"],
+  stone100: ["stone100"],
+  mountainGroup: [
+    "mountainGroup",
+    "pinkStack",
+    "pink10",
+    "pink20",
+    "pink30",
+    "pink40",
+    "pink50",
+    "pink60",
+    "pink70",
+    "pink80",
+    "pink90",
+    "pink100",
+    "purpleStack",
+    "purple10",
+    "purple20",
+    "purple30",
+    "purple40",
+    "purple50",
+    "purple60",
+    "purple70",
+    "purple80",
+    "purple90",
+    "purple100"
+  ],
+  pinkStack: [
+    "pinkStack",
+    "pink10",
+    "pink20",
+    "pink30",
+    "pink40",
+    "pink50",
+    "pink60",
+    "pink70",
+    "pink80",
+    "pink90",
+    "pink100"
+  ],
+  pink10: ["pink10"],
+  pink20: ["pink20"],
+  pink30: ["pink30"],
+  pink40: ["pink40"],
+  pink50: ["pink50"],
+  pink60: ["pink60"],
+  pink70: ["pink70"],
+  pink80: ["pink80"],
+  pink90: ["pink90"],
+  pink100: ["pink100"],
+  purpleStack: [
+    "purpleStack",
+    "purple10",
+    "purple20",
+    "purple30",
+    "purple40",
+    "purple50",
+    "purple60",
+    "purple70",
+    "purple80",
+    "purple90",
+    "purple100"
+  ],
+  purple10: ["purple10"],
+  purple20: ["purple20"],
+  purple30: ["purple30"],
+  purple40: ["purple40"],
+  purple50: ["purple50"],
+  purple60: ["purple60"],
+  purple70: ["purple70"],
+  purple80: ["purple80"],
+  purple90: ["purple90"],
+  purple100: ["purple100"],
+  waterGroup: [
+    "waterGroup",
+    "cyan",
+    "cyan10",
+    "cyan20",
+    "cyan30",
+    "cyan40",
+    "cyan50",
+    "cyan60",
+    "cyan70",
+    "cyan80",
+    "cyan90",
+    "cyan100",
+    "blue",
+    "blue10",
+    "blue20",
+    "blue30",
+    "blue40",
+    "blue50",
+    "blue60",
+    "blue70",
+    "blue80",
+    "blue90",
+    "blue100",
+    "indigo",
+    "indigo10",
+    "indigo20",
+    "indigo30",
+    "indigo40",
+    "indigo50",
+    "indigo60",
+    "indigo70",
+    "indigo80",
+    "indigo90",
+    "indigo100"
+  ],
+  cyan: [
+    "cyan",
+    "cyan10",
+    "cyan20",
+    "cyan30",
+    "cyan40",
+    "cyan50",
+    "cyan60",
+    "cyan70",
+    "cyan80",
+    "cyan90",
+    "cyan100"
+  ],
+  cyan10: ["cyan10"],
+  cyan20: ["cyan20"],
+  cyan30: ["cyan30"],
+  cyan40: ["cyan40"],
+  cyan50: ["cyan50"],
+  cyan60: ["cyan60"],
+  cyan70: ["cyan70"],
+  cyan80: ["cyan80"],
+  cyan90: ["cyan90"],
+  cyan100: ["cyan100"],
+  blue: [
+    "blue",
+    "blue10",
+    "blue20",
+    "blue30",
+    "blue40",
+    "blue50",
+    "blue60",
+    "blue70",
+    "blue80",
+    "blue90",
+    "blue100"
+  ],
+  blue10: ["blue10"],
+  blue20: ["blue20"],
+  blue30: ["blue30"],
+  blue40: ["blue40"],
+  blue50: ["blue50"],
+  blue60: ["blue60"],
+  blue70: ["blue70"],
+  blue80: ["blue80"],
+  blue90: ["blue90"],
+  blue100: ["blue100"],
+  indigo: [
+    "indigo",
+    "indigo10",
+    "indigo20",
+    "indigo30",
+    "indigo40",
+    "indigo50",
+    "indigo60",
+    "indigo70",
+    "indigo80",
+    "indigo90",
+    "indigo100"
+  ],
+  indigo10: ["indigo10"],
+  indigo20: ["indigo20"],
+  indigo30: ["indigo30"],
+  indigo40: ["indigo40"],
+  indigo50: ["indigo50"],
+  indigo60: ["indigo60"],
+  indigo70: ["indigo70"],
+  indigo80: ["indigo80"],
+  indigo90: ["indigo90"],
+  indigo100: ["indigo100"],
+  grassGroup: [
+    "grassGroup",
+    "lime",
+    "lime10",
+    "lime20",
+    "lime30",
+    "lime40",
+    "lime50",
+    "lime60",
+    "lime70",
+    "lime80",
+    "lime90",
+    "lime100",
+    "green",
+    "green10",
+    "green20",
+    "green30",
+    "green40",
+    "green50",
+    "green60",
+    "green70",
+    "green80",
+    "green90",
+    "green100",
+    "teal",
+    "teal10",
+    "teal20",
+    "teal30",
+    "teal40",
+    "teal50",
+    "teal60",
+    "teal70",
+    "teal80",
+    "teal90",
+    "teal100",
+    "turquoise",
+    "turquoise10",
+    "turquoise20",
+    "turquoise30",
+    "turquoise40",
+    "turquoise50",
+    "turquoise60",
+    "turquoise70",
+    "turquoise80",
+    "turquoise90",
+    "turquoise100"
+  ],
+  lime: [
+    "lime",
+    "lime10",
+    "lime20",
+    "lime30",
+    "lime40",
+    "lime50",
+    "lime60",
+    "lime70",
+    "lime80",
+    "lime90",
+    "lime100"
+  ],
+  lime10: ["lime10"],
+  lime20: ["lime20"],
+  lime30: ["lime30"],
+  lime40: ["lime40"],
+  lime50: ["lime50"],
+  lime60: ["lime60"],
+  lime70: ["lime70"],
+  lime80: ["lime80"],
+  lime90: ["lime90"],
+  lime100: ["lime100"],
+  green: [
+    "green",
+    "green10",
+    "green20",
+    "green30",
+    "green40",
+    "green50",
+    "green60",
+    "green70",
+    "green80",
+    "green90",
+    "green100"
+  ],
+  green10: ["green10"],
+  green20: ["green20"],
+  green30: ["green30"],
+  green40: ["green40"],
+  green50: ["green50"],
+  green60: ["green60"],
+  green70: ["green70"],
+  green80: ["green80"],
+  green90: ["green90"],
+  green100: ["green100"],
+  teal: [
+    "teal",
+    "teal10",
+    "teal20",
+    "teal30",
+    "teal40",
+    "teal50",
+    "teal60",
+    "teal70",
+    "teal80",
+    "teal90",
+    "teal100"
+  ],
+  teal10: ["teal10"],
+  teal20: ["teal20"],
+  teal30: ["teal30"],
+  teal40: ["teal40"],
+  teal50: ["teal50"],
+  teal60: ["teal60"],
+  teal70: ["teal70"],
+  teal80: ["teal80"],
+  teal90: ["teal90"],
+  teal100: ["teal100"],
+  turquoise: [
+    "turquoise",
+    "turquoise10",
+    "turquoise20",
+    "turquoise30",
+    "turquoise40",
+    "turquoise50",
+    "turquoise60",
+    "turquoise70",
+    "turquoise80",
+    "turquoise90",
+    "turquoise100"
+  ],
+  turquoise10: ["turquoise10"],
+  turquoise20: ["turquoise20"],
+  turquoise30: ["turquoise30"],
+  turquoise40: ["turquoise40"],
+  turquoise50: ["turquoise50"],
+  turquoise60: ["turquoise60"],
+  turquoise70: ["turquoise70"],
+  turquoise80: ["turquoise80"],
+  turquoise90: ["turquoise90"],
+  turquoise100: ["turquoise100"],
+  fireGroup: [
+    "fireGroup",
+    "yellow",
+    "yellow10",
+    "yellow20",
+    "yellow30",
+    "yellow40",
+    "yellow50",
+    "yellow60",
+    "yellow70",
+    "yellow80",
+    "yellow90",
+    "yellow100",
+    "orange",
+    "orange10",
+    "orange20",
+    "orange30",
+    "orange40",
+    "orange50",
+    "orange60",
+    "orange70",
+    "orange80",
+    "orange90",
+    "orange100",
+    "red",
+    "red10",
+    "red20",
+    "red30",
+    "red40",
+    "red50",
+    "red60",
+    "red70",
+    "red80",
+    "red90",
+    "red100"
+  ],
+  yellow: [
+    "yellow",
+    "yellow10",
+    "yellow20",
+    "yellow30",
+    "yellow40",
+    "yellow50",
+    "yellow60",
+    "yellow70",
+    "yellow80",
+    "yellow90",
+    "yellow100"
+  ],
+  yellow10: ["yellow10"],
+  yellow20: ["yellow20"],
+  yellow30: ["yellow30"],
+  yellow40: ["yellow40"],
+  yellow50: ["yellow50"],
+  yellow60: ["yellow60"],
+  yellow70: ["yellow70"],
+  yellow80: ["yellow80"],
+  yellow90: ["yellow90"],
+  yellow100: ["yellow100"],
+  orange: [
+    "orange",
+    "orange10",
+    "orange20",
+    "orange30",
+    "orange40",
+    "orange50",
+    "orange60",
+    "orange70",
+    "orange80",
+    "orange90",
+    "orange100"
+  ],
+  orange10: ["orange10"],
+  orange20: ["orange20"],
+  orange30: ["orange30"],
+  orange40: ["orange40"],
+  orange50: ["orange50"],
+  orange60: ["orange60"],
+  orange70: ["orange70"],
+  orange80: ["orange80"],
+  orange90: ["orange90"],
+  orange100: ["orange100"],
+  red: [
+    "red",
+    "red10",
+    "red20",
+    "red30",
+    "red40",
+    "red50",
+    "red60",
+    "red70",
+    "red80",
+    "red90",
+    "red100"
+  ],
+  red10: ["red10"],
+  red20: ["red20"],
+  red30: ["red30"],
+  red40: ["red40"],
+  red50: ["red50"],
+  red60: ["red60"],
+  red70: ["red70"],
+  red80: ["red80"],
+  red90: ["red90"],
+  red100: ["red100"]
 } as const;
 type NodeNameType = keyof typeof PlasmicDescendants;
 type DescendantsType<T extends NodeNameType> =
@@ -3634,36 +5055,227 @@ type DescendantsType<T extends NodeNameType> =
 type NodeDefaultElementType = {
   root: "div";
   h1: "h1";
-  basics2: "div";
-  transparency2: "div";
-  transparency: "div";
-  black2: "div";
-  blackAlpha: "div";
-  blackAlpha2: "div";
-  columns: "div";
-  column: "div";
-  grays: "div";
-  gray: "div";
-  slate: "div";
-  zinc: "div";
-  neutral: "div";
-  stone: "div";
-  mountain: "div";
-  pink: "div";
-  purple: "div";
-  water: "div";
+  colors: "div";
+  colorStacks: "div";
+  basicsGroup: "div";
+  baseStack: "div";
+  lowBase: "div";
+  transparentBase: "div";
+  highBase: "div";
+  blackAphaStack: "div";
+  blackApha10: "div";
+  blackApha20: "div";
+  blackApha30: "div";
+  blackApha40: "div";
+  blackApha50: "div";
+  blackApha60: "div";
+  blackApha70: "div";
+  blackApha80: "div";
+  blackApha90: "div";
+  blackApha100: "div";
+  whiteAlphaStack: "div";
+  whiteAlpha10: "div";
+  whiteAlpha20: "div";
+  whiteAlpha30: "div";
+  whiteAlpha40: "div";
+  whiteAlpha50: "div";
+  whiteAlpha60: "div";
+  whiteAlpha70: "div";
+  whiteAlpha80: "div";
+  whiteAlpha90: "div";
+  whiteAlpha100: "div";
+  grayGroup: "div";
+  grayStack: "div";
+  gray10: "div";
+  gray20: "div";
+  gray30: "div";
+  gray40: "div";
+  gray50: "div";
+  gray60: "div";
+  gray70: "div";
+  gray80: "div";
+  gray90: "div";
+  gray100: "div";
+  slateStack: "div";
+  slate10: "div";
+  slate20: "div";
+  slate30: "div";
+  slate40: "div";
+  slate50: "div";
+  slate60: "div";
+  slate70: "div";
+  slate80: "div";
+  slate90: "div";
+  slate100: "div";
+  zincStack: "div";
+  zinc10: "div";
+  zinc20: "div";
+  zinc30: "div";
+  zinc40: "div";
+  zinc50: "div";
+  zinc60: "div";
+  zinc70: "div";
+  zinc80: "div";
+  zinc90: "div";
+  zinc100: "div";
+  neutralStack: "div";
+  neutral10: "div";
+  neutral20: "div";
+  neutral30: "div";
+  neutral40: "div";
+  neutral50: "div";
+  neutral60: "div";
+  neutral70: "div";
+  neutral80: "div";
+  neutral90: "div";
+  neutral100: "div";
+  stoneStack: "div";
+  stone10: "div";
+  stone20: "div";
+  stone30: "div";
+  stone40: "div";
+  stone50: "div";
+  stone60: "div";
+  stone70: "div";
+  stone80: "div";
+  stone90: "div";
+  stone100: "div";
+  mountainGroup: "div";
+  pinkStack: "div";
+  pink10: "div";
+  pink20: "div";
+  pink30: "div";
+  pink40: "div";
+  pink50: "div";
+  pink60: "div";
+  pink70: "div";
+  pink80: "div";
+  pink90: "div";
+  pink100: "div";
+  purpleStack: "div";
+  purple10: "div";
+  purple20: "div";
+  purple30: "div";
+  purple40: "div";
+  purple50: "div";
+  purple60: "div";
+  purple70: "div";
+  purple80: "div";
+  purple90: "div";
+  purple100: "div";
+  waterGroup: "div";
   cyan: "div";
+  cyan10: "div";
+  cyan20: "div";
+  cyan30: "div";
+  cyan40: "div";
+  cyan50: "div";
+  cyan60: "div";
+  cyan70: "div";
+  cyan80: "div";
+  cyan90: "div";
+  cyan100: "div";
   blue: "div";
+  blue10: "div";
+  blue20: "div";
+  blue30: "div";
+  blue40: "div";
+  blue50: "div";
+  blue60: "div";
+  blue70: "div";
+  blue80: "div";
+  blue90: "div";
+  blue100: "div";
   indigo: "div";
-  grass: "div";
-  lime2: "div";
+  indigo10: "div";
+  indigo20: "div";
+  indigo30: "div";
+  indigo40: "div";
+  indigo50: "div";
+  indigo60: "div";
+  indigo70: "div";
+  indigo80: "div";
+  indigo90: "div";
+  indigo100: "div";
+  grassGroup: "div";
+  lime: "div";
+  lime10: "div";
+  lime20: "div";
+  lime30: "div";
+  lime40: "div";
+  lime50: "div";
+  lime60: "div";
+  lime70: "div";
+  lime80: "div";
+  lime90: "div";
+  lime100: "div";
   green: "div";
+  green10: "div";
+  green20: "div";
+  green30: "div";
+  green40: "div";
+  green50: "div";
+  green60: "div";
+  green70: "div";
+  green80: "div";
+  green90: "div";
+  green100: "div";
   teal: "div";
-  teal2: "div";
-  fire: "div";
+  teal10: "div";
+  teal20: "div";
+  teal30: "div";
+  teal40: "div";
+  teal50: "div";
+  teal60: "div";
+  teal70: "div";
+  teal80: "div";
+  teal90: "div";
+  teal100: "div";
+  turquoise: "div";
+  turquoise10: "div";
+  turquoise20: "div";
+  turquoise30: "div";
+  turquoise40: "div";
+  turquoise50: "div";
+  turquoise60: "div";
+  turquoise70: "div";
+  turquoise80: "div";
+  turquoise90: "div";
+  turquoise100: "div";
+  fireGroup: "div";
   yellow: "div";
+  yellow10: "div";
+  yellow20: "div";
+  yellow30: "div";
+  yellow40: "div";
+  yellow50: "div";
+  yellow60: "div";
+  yellow70: "div";
+  yellow80: "div";
+  yellow90: "div";
+  yellow100: "div";
   orange: "div";
+  orange10: "div";
+  orange20: "div";
+  orange30: "div";
+  orange40: "div";
+  orange50: "div";
+  orange60: "div";
+  orange70: "div";
+  orange80: "div";
+  orange90: "div";
+  orange100: "div";
   red: "div";
+  red10: "div";
+  red20: "div";
+  red30: "div";
+  red40: "div";
+  red50: "div";
+  red60: "div";
+  red70: "div";
+  red80: "div";
+  red90: "div";
+  red100: "div";
 };
 
 type ReservedPropsType = "variants" | "args" | "overrides";
@@ -3727,36 +5339,227 @@ export const PlasmicCoreColors = Object.assign(
   {
     // Helper components rendering sub-elements
     h1: makeNodeComponent("h1"),
-    basics2: makeNodeComponent("basics2"),
-    transparency2: makeNodeComponent("transparency2"),
-    transparency: makeNodeComponent("transparency"),
-    black2: makeNodeComponent("black2"),
-    blackAlpha: makeNodeComponent("blackAlpha"),
-    blackAlpha2: makeNodeComponent("blackAlpha2"),
-    columns: makeNodeComponent("columns"),
-    column: makeNodeComponent("column"),
-    grays: makeNodeComponent("grays"),
-    gray: makeNodeComponent("gray"),
-    slate: makeNodeComponent("slate"),
-    zinc: makeNodeComponent("zinc"),
-    neutral: makeNodeComponent("neutral"),
-    stone: makeNodeComponent("stone"),
-    mountain: makeNodeComponent("mountain"),
-    pink: makeNodeComponent("pink"),
-    purple: makeNodeComponent("purple"),
-    water: makeNodeComponent("water"),
+    colors: makeNodeComponent("colors"),
+    colorStacks: makeNodeComponent("colorStacks"),
+    basicsGroup: makeNodeComponent("basicsGroup"),
+    baseStack: makeNodeComponent("baseStack"),
+    lowBase: makeNodeComponent("lowBase"),
+    transparentBase: makeNodeComponent("transparentBase"),
+    highBase: makeNodeComponent("highBase"),
+    blackAphaStack: makeNodeComponent("blackAphaStack"),
+    blackApha10: makeNodeComponent("blackApha10"),
+    blackApha20: makeNodeComponent("blackApha20"),
+    blackApha30: makeNodeComponent("blackApha30"),
+    blackApha40: makeNodeComponent("blackApha40"),
+    blackApha50: makeNodeComponent("blackApha50"),
+    blackApha60: makeNodeComponent("blackApha60"),
+    blackApha70: makeNodeComponent("blackApha70"),
+    blackApha80: makeNodeComponent("blackApha80"),
+    blackApha90: makeNodeComponent("blackApha90"),
+    blackApha100: makeNodeComponent("blackApha100"),
+    whiteAlphaStack: makeNodeComponent("whiteAlphaStack"),
+    whiteAlpha10: makeNodeComponent("whiteAlpha10"),
+    whiteAlpha20: makeNodeComponent("whiteAlpha20"),
+    whiteAlpha30: makeNodeComponent("whiteAlpha30"),
+    whiteAlpha40: makeNodeComponent("whiteAlpha40"),
+    whiteAlpha50: makeNodeComponent("whiteAlpha50"),
+    whiteAlpha60: makeNodeComponent("whiteAlpha60"),
+    whiteAlpha70: makeNodeComponent("whiteAlpha70"),
+    whiteAlpha80: makeNodeComponent("whiteAlpha80"),
+    whiteAlpha90: makeNodeComponent("whiteAlpha90"),
+    whiteAlpha100: makeNodeComponent("whiteAlpha100"),
+    grayGroup: makeNodeComponent("grayGroup"),
+    grayStack: makeNodeComponent("grayStack"),
+    gray10: makeNodeComponent("gray10"),
+    gray20: makeNodeComponent("gray20"),
+    gray30: makeNodeComponent("gray30"),
+    gray40: makeNodeComponent("gray40"),
+    gray50: makeNodeComponent("gray50"),
+    gray60: makeNodeComponent("gray60"),
+    gray70: makeNodeComponent("gray70"),
+    gray80: makeNodeComponent("gray80"),
+    gray90: makeNodeComponent("gray90"),
+    gray100: makeNodeComponent("gray100"),
+    slateStack: makeNodeComponent("slateStack"),
+    slate10: makeNodeComponent("slate10"),
+    slate20: makeNodeComponent("slate20"),
+    slate30: makeNodeComponent("slate30"),
+    slate40: makeNodeComponent("slate40"),
+    slate50: makeNodeComponent("slate50"),
+    slate60: makeNodeComponent("slate60"),
+    slate70: makeNodeComponent("slate70"),
+    slate80: makeNodeComponent("slate80"),
+    slate90: makeNodeComponent("slate90"),
+    slate100: makeNodeComponent("slate100"),
+    zincStack: makeNodeComponent("zincStack"),
+    zinc10: makeNodeComponent("zinc10"),
+    zinc20: makeNodeComponent("zinc20"),
+    zinc30: makeNodeComponent("zinc30"),
+    zinc40: makeNodeComponent("zinc40"),
+    zinc50: makeNodeComponent("zinc50"),
+    zinc60: makeNodeComponent("zinc60"),
+    zinc70: makeNodeComponent("zinc70"),
+    zinc80: makeNodeComponent("zinc80"),
+    zinc90: makeNodeComponent("zinc90"),
+    zinc100: makeNodeComponent("zinc100"),
+    neutralStack: makeNodeComponent("neutralStack"),
+    neutral10: makeNodeComponent("neutral10"),
+    neutral20: makeNodeComponent("neutral20"),
+    neutral30: makeNodeComponent("neutral30"),
+    neutral40: makeNodeComponent("neutral40"),
+    neutral50: makeNodeComponent("neutral50"),
+    neutral60: makeNodeComponent("neutral60"),
+    neutral70: makeNodeComponent("neutral70"),
+    neutral80: makeNodeComponent("neutral80"),
+    neutral90: makeNodeComponent("neutral90"),
+    neutral100: makeNodeComponent("neutral100"),
+    stoneStack: makeNodeComponent("stoneStack"),
+    stone10: makeNodeComponent("stone10"),
+    stone20: makeNodeComponent("stone20"),
+    stone30: makeNodeComponent("stone30"),
+    stone40: makeNodeComponent("stone40"),
+    stone50: makeNodeComponent("stone50"),
+    stone60: makeNodeComponent("stone60"),
+    stone70: makeNodeComponent("stone70"),
+    stone80: makeNodeComponent("stone80"),
+    stone90: makeNodeComponent("stone90"),
+    stone100: makeNodeComponent("stone100"),
+    mountainGroup: makeNodeComponent("mountainGroup"),
+    pinkStack: makeNodeComponent("pinkStack"),
+    pink10: makeNodeComponent("pink10"),
+    pink20: makeNodeComponent("pink20"),
+    pink30: makeNodeComponent("pink30"),
+    pink40: makeNodeComponent("pink40"),
+    pink50: makeNodeComponent("pink50"),
+    pink60: makeNodeComponent("pink60"),
+    pink70: makeNodeComponent("pink70"),
+    pink80: makeNodeComponent("pink80"),
+    pink90: makeNodeComponent("pink90"),
+    pink100: makeNodeComponent("pink100"),
+    purpleStack: makeNodeComponent("purpleStack"),
+    purple10: makeNodeComponent("purple10"),
+    purple20: makeNodeComponent("purple20"),
+    purple30: makeNodeComponent("purple30"),
+    purple40: makeNodeComponent("purple40"),
+    purple50: makeNodeComponent("purple50"),
+    purple60: makeNodeComponent("purple60"),
+    purple70: makeNodeComponent("purple70"),
+    purple80: makeNodeComponent("purple80"),
+    purple90: makeNodeComponent("purple90"),
+    purple100: makeNodeComponent("purple100"),
+    waterGroup: makeNodeComponent("waterGroup"),
     cyan: makeNodeComponent("cyan"),
+    cyan10: makeNodeComponent("cyan10"),
+    cyan20: makeNodeComponent("cyan20"),
+    cyan30: makeNodeComponent("cyan30"),
+    cyan40: makeNodeComponent("cyan40"),
+    cyan50: makeNodeComponent("cyan50"),
+    cyan60: makeNodeComponent("cyan60"),
+    cyan70: makeNodeComponent("cyan70"),
+    cyan80: makeNodeComponent("cyan80"),
+    cyan90: makeNodeComponent("cyan90"),
+    cyan100: makeNodeComponent("cyan100"),
     blue: makeNodeComponent("blue"),
+    blue10: makeNodeComponent("blue10"),
+    blue20: makeNodeComponent("blue20"),
+    blue30: makeNodeComponent("blue30"),
+    blue40: makeNodeComponent("blue40"),
+    blue50: makeNodeComponent("blue50"),
+    blue60: makeNodeComponent("blue60"),
+    blue70: makeNodeComponent("blue70"),
+    blue80: makeNodeComponent("blue80"),
+    blue90: makeNodeComponent("blue90"),
+    blue100: makeNodeComponent("blue100"),
     indigo: makeNodeComponent("indigo"),
-    grass: makeNodeComponent("grass"),
-    lime2: makeNodeComponent("lime2"),
+    indigo10: makeNodeComponent("indigo10"),
+    indigo20: makeNodeComponent("indigo20"),
+    indigo30: makeNodeComponent("indigo30"),
+    indigo40: makeNodeComponent("indigo40"),
+    indigo50: makeNodeComponent("indigo50"),
+    indigo60: makeNodeComponent("indigo60"),
+    indigo70: makeNodeComponent("indigo70"),
+    indigo80: makeNodeComponent("indigo80"),
+    indigo90: makeNodeComponent("indigo90"),
+    indigo100: makeNodeComponent("indigo100"),
+    grassGroup: makeNodeComponent("grassGroup"),
+    lime: makeNodeComponent("lime"),
+    lime10: makeNodeComponent("lime10"),
+    lime20: makeNodeComponent("lime20"),
+    lime30: makeNodeComponent("lime30"),
+    lime40: makeNodeComponent("lime40"),
+    lime50: makeNodeComponent("lime50"),
+    lime60: makeNodeComponent("lime60"),
+    lime70: makeNodeComponent("lime70"),
+    lime80: makeNodeComponent("lime80"),
+    lime90: makeNodeComponent("lime90"),
+    lime100: makeNodeComponent("lime100"),
     green: makeNodeComponent("green"),
+    green10: makeNodeComponent("green10"),
+    green20: makeNodeComponent("green20"),
+    green30: makeNodeComponent("green30"),
+    green40: makeNodeComponent("green40"),
+    green50: makeNodeComponent("green50"),
+    green60: makeNodeComponent("green60"),
+    green70: makeNodeComponent("green70"),
+    green80: makeNodeComponent("green80"),
+    green90: makeNodeComponent("green90"),
+    green100: makeNodeComponent("green100"),
     teal: makeNodeComponent("teal"),
-    teal2: makeNodeComponent("teal2"),
-    fire: makeNodeComponent("fire"),
+    teal10: makeNodeComponent("teal10"),
+    teal20: makeNodeComponent("teal20"),
+    teal30: makeNodeComponent("teal30"),
+    teal40: makeNodeComponent("teal40"),
+    teal50: makeNodeComponent("teal50"),
+    teal60: makeNodeComponent("teal60"),
+    teal70: makeNodeComponent("teal70"),
+    teal80: makeNodeComponent("teal80"),
+    teal90: makeNodeComponent("teal90"),
+    teal100: makeNodeComponent("teal100"),
+    turquoise: makeNodeComponent("turquoise"),
+    turquoise10: makeNodeComponent("turquoise10"),
+    turquoise20: makeNodeComponent("turquoise20"),
+    turquoise30: makeNodeComponent("turquoise30"),
+    turquoise40: makeNodeComponent("turquoise40"),
+    turquoise50: makeNodeComponent("turquoise50"),
+    turquoise60: makeNodeComponent("turquoise60"),
+    turquoise70: makeNodeComponent("turquoise70"),
+    turquoise80: makeNodeComponent("turquoise80"),
+    turquoise90: makeNodeComponent("turquoise90"),
+    turquoise100: makeNodeComponent("turquoise100"),
+    fireGroup: makeNodeComponent("fireGroup"),
     yellow: makeNodeComponent("yellow"),
+    yellow10: makeNodeComponent("yellow10"),
+    yellow20: makeNodeComponent("yellow20"),
+    yellow30: makeNodeComponent("yellow30"),
+    yellow40: makeNodeComponent("yellow40"),
+    yellow50: makeNodeComponent("yellow50"),
+    yellow60: makeNodeComponent("yellow60"),
+    yellow70: makeNodeComponent("yellow70"),
+    yellow80: makeNodeComponent("yellow80"),
+    yellow90: makeNodeComponent("yellow90"),
+    yellow100: makeNodeComponent("yellow100"),
     orange: makeNodeComponent("orange"),
+    orange10: makeNodeComponent("orange10"),
+    orange20: makeNodeComponent("orange20"),
+    orange30: makeNodeComponent("orange30"),
+    orange40: makeNodeComponent("orange40"),
+    orange50: makeNodeComponent("orange50"),
+    orange60: makeNodeComponent("orange60"),
+    orange70: makeNodeComponent("orange70"),
+    orange80: makeNodeComponent("orange80"),
+    orange90: makeNodeComponent("orange90"),
+    orange100: makeNodeComponent("orange100"),
     red: makeNodeComponent("red"),
+    red10: makeNodeComponent("red10"),
+    red20: makeNodeComponent("red20"),
+    red30: makeNodeComponent("red30"),
+    red40: makeNodeComponent("red40"),
+    red50: makeNodeComponent("red50"),
+    red60: makeNodeComponent("red60"),
+    red70: makeNodeComponent("red70"),
+    red80: makeNodeComponent("red80"),
+    red90: makeNodeComponent("red90"),
+    red100: makeNodeComponent("red100"),
 
     // Metadata about props expected for PlasmicCoreColors
     internalVariantProps: PlasmicCoreColors__VariantProps,

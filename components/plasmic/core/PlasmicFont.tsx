@@ -1079,10 +1079,20 @@ function PlasmicFont__RenderFunc(props: {
             projectcss.plasmic_tokens,
             sty.root,
             {
+              [projectcss.global_mode_darkGrayscale]: hasVariant(
+                globalVariants,
+                "mode",
+                "darkGrayscale"
+              ),
               [projectcss.global_mode_dark]: hasVariant(
                 globalVariants,
                 "mode",
                 "dark"
+              ),
+              [projectcss.global_mode_grayscale]: hasVariant(
+                globalVariants,
+                "mode",
+                "grayscale"
               )
             }
           )}
