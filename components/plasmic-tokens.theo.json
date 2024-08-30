@@ -1,237 +1,7 @@
 {
   "props": [
     {
-      "name": "color / aqua / aqua.10",
-      "type": "color",
-      "value": "#EBF3F7",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "njV1csG1kB8s"
-      }
-    },
-    {
-      "name": "color / aqua / aqua.100",
-      "type": "color",
-      "value": "#0B1724",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "aUwjgR0qxY5C"
-      }
-    },
-    {
-      "name": "color / aqua / aqua.20",
-      "type": "color",
-      "value": "#C9E7F5",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "7-3iSscEdlg0"
-      }
-    },
-    {
-      "name": "color / aqua / aqua.30",
-      "type": "color",
-      "value": "#8BD3F7",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "csqv4R-bbrvA"
-      }
-    },
-    {
-      "name": "color / aqua / aqua.40",
-      "type": "color",
-      "value": "#48B8F0",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "5S6dYHnehuGg"
-      }
-    },
-    {
-      "name": "color / aqua / aqua.50",
-      "type": "color",
-      "value": "#1195D6",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "-qh8euPIU7Eq"
-      }
-    },
-    {
-      "name": "color / aqua / aqua.60",
-      "type": "color",
-      "value": "#0073BA",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "GFX8yHdC_hN_"
-      }
-    },
-    {
-      "name": "color / aqua / aqua.70",
-      "type": "color",
-      "value": "#08548A",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "xfw_8MpNiAN0"
-      }
-    },
-    {
-      "name": "color / aqua / aqua.80",
-      "type": "color",
-      "value": "#0E3D66",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "lLPoRkuR8otF"
-      }
-    },
-    {
-      "name": "color / aqua / aqua.90",
-      "type": "color",
-      "value": "#0C2B45",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "TWwvJRcwlDVK"
-      }
-    },
-    {
-      "name": "color / aqua / aqua.disabled",
-      "type": "color",
-      "value": "#1195D661",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "FUqrdrjUJPJh"
-      }
-    },
-    {
-      "name": "color / blue / blue.020",
-      "type": "color",
-      "value": "#D4E4FA",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "C03HFbvprM_l"
-      }
-    },
-    {
-      "name": "color / blue / blue.100",
-      "type": "color",
-      "value": "#0D1826",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "FLTF-BFdzkQH"
-      }
-    },
-    {
-      "name": "color / blue / blue.30",
-      "type": "color",
-      "value": "#F0F4FA",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "7zTqsHdGy3IA"
-      }
-    },
-    {
-      "name": "color / blue / blue.30 2",
-      "type": "color",
-      "value": "#ADCCF7",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "enZJMAS-eyCi"
-      }
-    },
-    {
-      "name": "color / blue / blue.40",
-      "type": "color",
-      "value": "#75B1FF",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "FUkyk0iogTUf"
-      }
-    },
-    {
-      "name": "color / blue / blue.50",
-      "type": "color",
-      "value": "#3D8DF5",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "F2O_xB0C-3dk"
-      }
-    },
-    {
-      "name": "color / blue / blue.60",
-      "type": "color",
-      "value": "#186ADE",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "axyCJIfdO6Zm"
-      }
-    },
-    {
-      "name": "color / blue / blue.70",
-      "type": "color",
-      "value": "#0D4EA6",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "Y0K1k-y_PS2a"
-      }
-    },
-    {
-      "name": "color / blue / blue.80",
-      "type": "color",
-      "value": "#103A75",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "Gty8_2GA06Cb"
-      }
-    },
-    {
-      "name": "color / blue / blue.90",
-      "type": "color",
-      "value": "#11294D",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "khZgvDKYlFhV"
-      }
-    },
-    {
-      "name": "color / blue / blue.disabled",
-      "type": "color",
-      "value": "#3D8DF561",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "rbYBMbSPHLHb"
-      }
-    },
-    {
-      "name": "color / brand / brand.behance",
-      "type": "color",
-      "value": "#1769FF",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "A007WGcEe4pY"
-      }
-    },
-    {
-      "name": "color / brand / brand.discord",
+      "name": "core /  brand / brand.discord",
       "type": "color",
       "value": "#7289DA",
       "category": "color",
@@ -241,17 +11,7 @@
       }
     },
     {
-      "name": "color / brand / brand.discourse",
-      "type": "color",
-      "value": "#000000",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "UJl4O4KefAjb"
-      }
-    },
-    {
-      "name": "color / brand / brand.dribble",
+      "name": "core /  brand / brand.dribble",
       "type": "color",
       "value": "#EA4C89",
       "category": "color",
@@ -261,27 +21,7 @@
       }
     },
     {
-      "name": "color / brand / brand.facebook",
-      "type": "color",
-      "value": "#3B5998",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "YtJNzLMBX2ht"
-      }
-    },
-    {
-      "name": "color / brand / brand.figma",
-      "type": "color",
-      "value": "#000000",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "aDY4L20KsgIm"
-      }
-    },
-    {
-      "name": "color / brand / brand.github",
+      "name": "core /  brand / brand.github",
       "type": "color",
       "value": "#000000",
       "category": "color",
@@ -291,7 +31,7 @@
       }
     },
     {
-      "name": "color / brand / brand.gitlab",
+      "name": "core /  brand / brand.gitlab",
       "type": "color",
       "value": "#000000",
       "category": "color",
@@ -301,7 +41,7 @@
       }
     },
     {
-      "name": "color / brand / brand.instagram",
+      "name": "core /  brand / brand.instagram",
       "type": "color",
       "value": "#000000",
       "category": "color",
@@ -311,7 +51,7 @@
       }
     },
     {
-      "name": "color / brand / brand.lastfm",
+      "name": "core /  brand / brand.lastfm",
       "type": "color",
       "value": "#D51007",
       "category": "color",
@@ -321,7 +61,7 @@
       }
     },
     {
-      "name": "color / brand / brand.linkedin",
+      "name": "core /  brand / brand.linkedin",
       "type": "color",
       "value": "#0077B5",
       "category": "color",
@@ -331,177 +71,7 @@
       }
     },
     {
-      "name": "color / brand / brand.mastadon",
-      "type": "color",
-      "value": "#6364FF",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "FToQ3lJDC7sV"
-      }
-    },
-    {
-      "name": "color / brand / brand.medium",
-      "type": "color",
-      "value": "#000000",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "b6OCe25D0OB9"
-      }
-    },
-    {
-      "name": "color / brand / brand.meetup",
-      "type": "color",
-      "value": "#EA2245",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "J2HTffx49754"
-      }
-    },
-    {
-      "name": "color / brand / brand.messenger",
-      "type": "color",
-      "value": "#1787FB",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "dVXOTq36bNRT"
-      }
-    },
-    {
-      "name": "color / brand / brand.pinterest",
-      "type": "color",
-      "value": "#E60023",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "atYfCdXkQwaJ"
-      }
-    },
-    {
-      "name": "color / brand / brand.reddit",
-      "type": "color",
-      "value": "#FF4500",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "O51XU4ocfN17"
-      }
-    },
-    {
-      "name": "color / brand / brand.shopify",
-      "type": "color",
-      "value": "#96BF48",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "U3hkRceLvJBn"
-      }
-    },
-    {
-      "name": "color / brand / brand.skype",
-      "type": "color",
-      "value": "#00AFF0",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "A2qt3WnHkMSk"
-      }
-    },
-    {
-      "name": "color / brand / brand.slack",
-      "type": "color",
-      "value": "#000000",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "ai81XqjeuRQg"
-      }
-    },
-    {
-      "name": "color / brand / brand.snapchat",
-      "type": "color",
-      "value": "#000000",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "bpTbbqSI06rM"
-      }
-    },
-    {
-      "name": "color / brand / brand.soundcloud",
-      "type": "color",
-      "value": "#FF8800",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "rsxZzeyDMaUr"
-      }
-    },
-    {
-      "name": "color / brand / brand.spotify",
-      "type": "color",
-      "value": "#1ED760",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "sXeBZuXh-nFt"
-      }
-    },
-    {
-      "name": "color / brand / brand.steam",
-      "type": "color",
-      "value": "#00ADEE",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "c9qdyAol3NaH"
-      }
-    },
-    {
-      "name": "color / brand / brand.telegram",
-      "type": "color",
-      "value": "#0088CC",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "Rou3dOdh_Bwq"
-      }
-    },
-    {
-      "name": "color / brand / brand.tiktok",
-      "type": "color",
-      "value": "#FF0050",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "_3pt5tFrjpz9"
-      }
-    },
-    {
-      "name": "color / brand / brand.tumblr",
-      "type": "color",
-      "value": "#35465C",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "bM5Hdl9c9-fe"
-      }
-    },
-    {
-      "name": "color / brand / brand.twitch",
-      "type": "color",
-      "value": "#6441A5",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "TMzugepRDjWm"
-      }
-    },
-    {
-      "name": "color / brand / brand.upsplash",
+      "name": "core /  brand / brand.upsplash",
       "type": "color",
       "value": "#000000",
       "category": "color",
@@ -511,7 +81,217 @@
       }
     },
     {
-      "name": "color / brand / brand.vimeo",
+      "name": "core / brand / brand.behance",
+      "type": "color",
+      "value": "#1769FF",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "A007WGcEe4pY"
+      }
+    },
+    {
+      "name": "core / brand / brand.discourse",
+      "type": "color",
+      "value": "#000000",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "UJl4O4KefAjb"
+      }
+    },
+    {
+      "name": "core / brand / brand.facebook",
+      "type": "color",
+      "value": "#3B5998",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "YtJNzLMBX2ht"
+      }
+    },
+    {
+      "name": "core / brand / brand.figma",
+      "type": "color",
+      "value": "#000000",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "aDY4L20KsgIm"
+      }
+    },
+    {
+      "name": "core / brand / brand.mastadon",
+      "type": "color",
+      "value": "#6364FF",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "FToQ3lJDC7sV"
+      }
+    },
+    {
+      "name": "core / brand / brand.medium",
+      "type": "color",
+      "value": "#000000",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "b6OCe25D0OB9"
+      }
+    },
+    {
+      "name": "core / brand / brand.meetup",
+      "type": "color",
+      "value": "#EA2245",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "J2HTffx49754"
+      }
+    },
+    {
+      "name": "core / brand / brand.messenger",
+      "type": "color",
+      "value": "#1787FB",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "dVXOTq36bNRT"
+      }
+    },
+    {
+      "name": "core / brand / brand.pinterest",
+      "type": "color",
+      "value": "#E60023",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "atYfCdXkQwaJ"
+      }
+    },
+    {
+      "name": "core / brand / brand.reddit",
+      "type": "color",
+      "value": "#FF4500",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "O51XU4ocfN17"
+      }
+    },
+    {
+      "name": "core / brand / brand.shopify",
+      "type": "color",
+      "value": "#96BF48",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "U3hkRceLvJBn"
+      }
+    },
+    {
+      "name": "core / brand / brand.skype",
+      "type": "color",
+      "value": "#00AFF0",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "A2qt3WnHkMSk"
+      }
+    },
+    {
+      "name": "core / brand / brand.slack",
+      "type": "color",
+      "value": "#000000",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "ai81XqjeuRQg"
+      }
+    },
+    {
+      "name": "core / brand / brand.snapchat",
+      "type": "color",
+      "value": "#000000",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "bpTbbqSI06rM"
+      }
+    },
+    {
+      "name": "core / brand / brand.soundcloud",
+      "type": "color",
+      "value": "#FF8800",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "rsxZzeyDMaUr"
+      }
+    },
+    {
+      "name": "core / brand / brand.spotify",
+      "type": "color",
+      "value": "#1ED760",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "sXeBZuXh-nFt"
+      }
+    },
+    {
+      "name": "core / brand / brand.steam",
+      "type": "color",
+      "value": "#00ADEE",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "c9qdyAol3NaH"
+      }
+    },
+    {
+      "name": "core / brand / brand.telegram",
+      "type": "color",
+      "value": "#0088CC",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "Rou3dOdh_Bwq"
+      }
+    },
+    {
+      "name": "core / brand / brand.tiktok",
+      "type": "color",
+      "value": "#FF0050",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "_3pt5tFrjpz9"
+      }
+    },
+    {
+      "name": "core / brand / brand.tumblr",
+      "type": "color",
+      "value": "#35465C",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "bM5Hdl9c9-fe"
+      }
+    },
+    {
+      "name": "core / brand / brand.twitch",
+      "type": "color",
+      "value": "#6441A5",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "TMzugepRDjWm"
+      }
+    },
+    {
+      "name": "core / brand / brand.vimeo",
       "type": "color",
       "value": "#45BBFF",
       "category": "color",
@@ -521,7 +301,7 @@
       }
     },
     {
-      "name": "color / brand / brand.whatsapp",
+      "name": "core / brand / brand.whatsapp",
       "type": "color",
       "value": "#25D366",
       "category": "color",
@@ -531,7 +311,7 @@
       }
     },
     {
-      "name": "color / brand / brand.x",
+      "name": "core / brand / brand.x",
       "type": "color",
       "value": "#000000",
       "category": "color",
@@ -541,7 +321,7 @@
       }
     },
     {
-      "name": "color / brand / brand.youtube",
+      "name": "core / brand / brand.youtube",
       "type": "color",
       "value": "#FF0000",
       "category": "color",
@@ -551,7 +331,227 @@
       }
     },
     {
-      "name": "color / default / alpha / high / high.10",
+      "name": "core / color / aqua / aqua.10",
+      "type": "color",
+      "value": "#EBF3F7",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "njV1csG1kB8s"
+      }
+    },
+    {
+      "name": "core / color / aqua / aqua.100",
+      "type": "color",
+      "value": "#0B1724",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "aUwjgR0qxY5C"
+      }
+    },
+    {
+      "name": "core / color / aqua / aqua.20",
+      "type": "color",
+      "value": "#C9E7F5",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "7-3iSscEdlg0"
+      }
+    },
+    {
+      "name": "core / color / aqua / aqua.30",
+      "type": "color",
+      "value": "#8BD3F7",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "csqv4R-bbrvA"
+      }
+    },
+    {
+      "name": "core / color / aqua / aqua.40",
+      "type": "color",
+      "value": "#48B8F0",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "5S6dYHnehuGg"
+      }
+    },
+    {
+      "name": "core / color / aqua / aqua.50",
+      "type": "color",
+      "value": "#1195D6",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "-qh8euPIU7Eq"
+      }
+    },
+    {
+      "name": "core / color / aqua / aqua.60",
+      "type": "color",
+      "value": "#0073BA",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "GFX8yHdC_hN_"
+      }
+    },
+    {
+      "name": "core / color / aqua / aqua.70",
+      "type": "color",
+      "value": "#08548A",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "xfw_8MpNiAN0"
+      }
+    },
+    {
+      "name": "core / color / aqua / aqua.80",
+      "type": "color",
+      "value": "#0E3D66",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "lLPoRkuR8otF"
+      }
+    },
+    {
+      "name": "core / color / aqua / aqua.90",
+      "type": "color",
+      "value": "#0C2B45",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "TWwvJRcwlDVK"
+      }
+    },
+    {
+      "name": "core / color / aqua / aqua.disabled",
+      "type": "color",
+      "value": "#1195D661",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "FUqrdrjUJPJh"
+      }
+    },
+    {
+      "name": "core / color / blue / blue.100",
+      "type": "color",
+      "value": "#0D1826",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "FLTF-BFdzkQH"
+      }
+    },
+    {
+      "name": "core / color / blue / blue.20",
+      "type": "color",
+      "value": "#D4E4FA",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "C03HFbvprM_l"
+      }
+    },
+    {
+      "name": "core / color / blue / blue.20 2",
+      "type": "color",
+      "value": "#F0F4FA",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "7zTqsHdGy3IA"
+      }
+    },
+    {
+      "name": "core / color / blue / blue.30",
+      "type": "color",
+      "value": "#ADCCF7",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "enZJMAS-eyCi"
+      }
+    },
+    {
+      "name": "core / color / blue / blue.40",
+      "type": "color",
+      "value": "#75B1FF",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "FUkyk0iogTUf"
+      }
+    },
+    {
+      "name": "core / color / blue / blue.50",
+      "type": "color",
+      "value": "#3D8DF5",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "F2O_xB0C-3dk"
+      }
+    },
+    {
+      "name": "core / color / blue / blue.60",
+      "type": "color",
+      "value": "#186ADE",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "axyCJIfdO6Zm"
+      }
+    },
+    {
+      "name": "core / color / blue / blue.70",
+      "type": "color",
+      "value": "#0D4EA6",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "Y0K1k-y_PS2a"
+      }
+    },
+    {
+      "name": "core / color / blue / blue.80",
+      "type": "color",
+      "value": "#103A75",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "Gty8_2GA06Cb"
+      }
+    },
+    {
+      "name": "core / color / blue / blue.90",
+      "type": "color",
+      "value": "#11294D",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "khZgvDKYlFhV"
+      }
+    },
+    {
+      "name": "core / color / blue / blue.disabled",
+      "type": "color",
+      "value": "#3D8DF561",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "rbYBMbSPHLHb"
+      }
+    },
+    {
+      "name": "core / color / default / alpha / high / high.10",
       "type": "color",
       "value": "#1212120D",
       "category": "color",
@@ -561,7 +561,7 @@
       }
     },
     {
-      "name": "color / default / alpha / high / high.100",
+      "name": "core / color / default / alpha / high / high.100",
       "type": "color",
       "value": "#121212E6",
       "category": "color",
@@ -571,7 +571,7 @@
       }
     },
     {
-      "name": "color / default / alpha / high / high.20",
+      "name": "core / color / default / alpha / high / high.20",
       "type": "color",
       "value": "#1212121A",
       "category": "color",
@@ -581,7 +581,7 @@
       }
     },
     {
-      "name": "color / default / alpha / high / high.30",
+      "name": "core / color / default / alpha / high / high.30",
       "type": "color",
       "value": "#12121233",
       "category": "color",
@@ -591,7 +591,7 @@
       }
     },
     {
-      "name": "color / default / alpha / high / high.40",
+      "name": "core / color / default / alpha / high / high.40",
       "type": "color",
       "value": "#1212124D",
       "category": "color",
@@ -601,7 +601,7 @@
       }
     },
     {
-      "name": "color / default / alpha / high / high.50",
+      "name": "core / color / default / alpha / high / high.50",
       "type": "color",
       "value": "#12121266",
       "category": "color",
@@ -611,7 +611,7 @@
       }
     },
     {
-      "name": "color / default / alpha / high / high.60",
+      "name": "core / color / default / alpha / high / high.60",
       "type": "color",
       "value": "#12121280",
       "category": "color",
@@ -621,7 +621,7 @@
       }
     },
     {
-      "name": "color / default / alpha / high / high.70",
+      "name": "core / color / default / alpha / high / high.70",
       "type": "color",
       "value": "#12121299",
       "category": "color",
@@ -631,7 +631,7 @@
       }
     },
     {
-      "name": "color / default / alpha / high / high.80",
+      "name": "core / color / default / alpha / high / high.80",
       "type": "color",
       "value": "#121212B3",
       "category": "color",
@@ -641,7 +641,7 @@
       }
     },
     {
-      "name": "color / default / alpha / high / high.90",
+      "name": "core / color / default / alpha / high / high.90",
       "type": "color",
       "value": "#121212CC",
       "category": "color",
@@ -651,7 +651,7 @@
       }
     },
     {
-      "name": "color / default / alpha / low / low.10",
+      "name": "core / color / default / alpha / low / low.10",
       "type": "color",
       "value": "#FFFFFF0D",
       "category": "color",
@@ -661,7 +661,7 @@
       }
     },
     {
-      "name": "color / default / alpha / low / low.100",
+      "name": "core / color / default / alpha / low / low.100",
       "type": "color",
       "value": "#FFFFFFB3",
       "category": "color",
@@ -671,7 +671,7 @@
       }
     },
     {
-      "name": "color / default / alpha / low / low.20",
+      "name": "core / color / default / alpha / low / low.20",
       "type": "color",
       "value": "#FFFFFF1A",
       "category": "color",
@@ -681,7 +681,7 @@
       }
     },
     {
-      "name": "color / default / alpha / low / low.30",
+      "name": "core / color / default / alpha / low / low.30",
       "type": "color",
       "value": "#FFFFFF33",
       "category": "color",
@@ -691,7 +691,7 @@
       }
     },
     {
-      "name": "color / default / alpha / low / low.40",
+      "name": "core / color / default / alpha / low / low.40",
       "type": "color",
       "value": "#FFFFFF4D",
       "category": "color",
@@ -701,7 +701,7 @@
       }
     },
     {
-      "name": "color / default / alpha / low / low.50",
+      "name": "core / color / default / alpha / low / low.50",
       "type": "color",
       "value": "#FFFFFF66",
       "category": "color",
@@ -711,7 +711,7 @@
       }
     },
     {
-      "name": "color / default / alpha / low / low.60",
+      "name": "core / color / default / alpha / low / low.60",
       "type": "color",
       "value": "#FFFFFF80",
       "category": "color",
@@ -721,7 +721,7 @@
       }
     },
     {
-      "name": "color / default / alpha / low / low.70",
+      "name": "core / color / default / alpha / low / low.70",
       "type": "color",
       "value": "#FFFFFF99",
       "category": "color",
@@ -731,7 +731,7 @@
       }
     },
     {
-      "name": "color / default / alpha / low / low.80",
+      "name": "core / color / default / alpha / low / low.80",
       "type": "color",
       "value": "#FFFFFFB3",
       "category": "color",
@@ -741,7 +741,7 @@
       }
     },
     {
-      "name": "color / default / alpha / low / low.90",
+      "name": "core / color / default / alpha / low / low.90",
       "type": "color",
       "value": "#FFFFFFB3",
       "category": "color",
@@ -751,7 +751,7 @@
       }
     },
     {
-      "name": "color / default / default.high",
+      "name": "core / color / default / default.high",
       "type": "color",
       "value": "#131313",
       "category": "color",
@@ -761,7 +761,7 @@
       }
     },
     {
-      "name": "color / default / default.low",
+      "name": "core / color / default / default.low",
       "type": "color",
       "value": "#FFFFFF",
       "category": "color",
@@ -771,7 +771,7 @@
       }
     },
     {
-      "name": "color / default / default.transparent",
+      "name": "core / color / default / default.transparent",
       "type": "color",
       "value": "#FFFFFF00",
       "category": "color",
@@ -781,7 +781,7 @@
       }
     },
     {
-      "name": "color / gray / gray.10",
+      "name": "core / color / gray / gray.10",
       "type": "color",
       "value": "#F2F5F7",
       "category": "color",
@@ -791,7 +791,7 @@
       }
     },
     {
-      "name": "color / gray / gray.100",
+      "name": "core / color / gray / gray.100",
       "type": "color",
       "value": "#0E171F",
       "category": "color",
@@ -801,7 +801,7 @@
       }
     },
     {
-      "name": "color / gray / gray.20",
+      "name": "core / color / gray / gray.20",
       "type": "color",
       "value": "#DCE3E8",
       "category": "color",
@@ -811,7 +811,7 @@
       }
     },
     {
-      "name": "color / gray / gray.30",
+      "name": "core / color / gray / gray.30",
       "type": "color",
       "value": "#C1CCD6",
       "category": "color",
@@ -821,7 +821,7 @@
       }
     },
     {
-      "name": "color / gray / gray.40",
+      "name": "core / color / gray / gray.40",
       "type": "color",
       "value": "#9FB1BD",
       "category": "color",
@@ -831,7 +831,7 @@
       }
     },
     {
-      "name": "color / gray / gray.50",
+      "name": "core / color / gray / gray.50",
       "type": "color",
       "value": "#7A909E",
       "category": "color",
@@ -841,7 +841,7 @@
       }
     },
     {
-      "name": "color / gray / gray.60",
+      "name": "core / color / gray / gray.60",
       "type": "color",
       "value": "#5B7282",
       "category": "color",
@@ -851,7 +851,7 @@
       }
     },
     {
-      "name": "color / gray / gray.70",
+      "name": "core / color / gray / gray.70",
       "type": "color",
       "value": "#3E5463",
       "category": "color",
@@ -861,7 +861,7 @@
       }
     },
     {
-      "name": "color / gray / gray.80",
+      "name": "core / color / gray / gray.80",
       "type": "color",
       "value": "#2A3F4D",
       "category": "color",
@@ -871,7 +871,7 @@
       }
     },
     {
-      "name": "color / gray / gray.90",
+      "name": "core / color / gray / gray.90",
       "type": "color",
       "value": "#1C2B36",
       "category": "color",
@@ -881,7 +881,7 @@
       }
     },
     {
-      "name": "color / gray / gray.disabled",
+      "name": "core / color / gray / gray.disabled",
       "type": "color",
       "value": "#7A909E61",
       "category": "color",
@@ -891,7 +891,7 @@
       }
     },
     {
-      "name": "color / green / green.10",
+      "name": "core / color / green / green.10",
       "type": "color",
       "value": "#EBF7ED",
       "category": "color",
@@ -901,7 +901,7 @@
       }
     },
     {
-      "name": "color / green / green.100",
+      "name": "core / color / green / green.100",
       "type": "color",
       "value": "#081A15",
       "category": "color",
@@ -911,7 +911,7 @@
       }
     },
     {
-      "name": "color / green / green.20",
+      "name": "core / color / green / green.20",
       "type": "color",
       "value": "#C7EBD1",
       "category": "color",
@@ -921,7 +921,7 @@
       }
     },
     {
-      "name": "color / green / green.30",
+      "name": "core / color / green / green.30",
       "type": "color",
       "value": "#88DBA8",
       "category": "color",
@@ -931,7 +931,7 @@
       }
     },
     {
-      "name": "color / green / green.40",
+      "name": "core / color / green / green.40",
       "type": "color",
       "value": "#43C478",
       "category": "color",
@@ -941,7 +941,7 @@
       }
     },
     {
-      "name": "color / green / green.50",
+      "name": "core / color / green / green.50",
       "type": "color",
       "value": "#16A163",
       "category": "color",
@@ -951,7 +951,7 @@
       }
     },
     {
-      "name": "color / green / green.60",
+      "name": "core / color / green / green.60",
       "type": "color",
       "value": "#077D55",
       "category": "color",
@@ -961,7 +961,7 @@
       }
     },
     {
-      "name": "color / green / green.70",
+      "name": "core / color / green / green.70",
       "type": "color",
       "value": "#075E45",
       "category": "color",
@@ -971,7 +971,7 @@
       }
     },
     {
-      "name": "color / green / green.80",
+      "name": "core / color / green / green.80",
       "type": "color",
       "value": "#094536",
       "category": "color",
@@ -981,7 +981,7 @@
       }
     },
     {
-      "name": "color / green / green.90",
+      "name": "core / color / green / green.90",
       "type": "color",
       "value": "#092E25",
       "category": "color",
@@ -991,7 +991,7 @@
       }
     },
     {
-      "name": "color / green / green.disabled",
+      "name": "core / color / green / green.disabled",
       "type": "color",
       "value": "#16A16361",
       "category": "color",
@@ -1001,7 +1001,7 @@
       }
     },
     {
-      "name": "color / indigo / indigo.10",
+      "name": "core / color / indigo / indigo.10",
       "type": "color",
       "value": "#F2F3FA",
       "category": "color",
@@ -1011,7 +1011,7 @@
       }
     },
     {
-      "name": "color / indigo / indigo.100",
+      "name": "core / color / indigo / indigo.100",
       "type": "color",
       "value": "#141429",
       "category": "color",
@@ -1021,7 +1021,7 @@
       }
     },
     {
-      "name": "color / indigo / indigo.20",
+      "name": "core / color / indigo / indigo.20",
       "type": "color",
       "value": "#DEE0FA",
       "category": "color",
@@ -1031,7 +1031,7 @@
       }
     },
     {
-      "name": "color / indigo / indigo.30",
+      "name": "core / color / indigo / indigo.30",
       "type": "color",
       "value": "#C2C7FC",
       "category": "color",
@@ -1041,7 +1041,7 @@
       }
     },
     {
-      "name": "color / indigo / indigo.40",
+      "name": "core / color / indigo / indigo.40",
       "type": "color",
       "value": "#A0A7FA",
       "category": "color",
@@ -1051,7 +1051,7 @@
       }
     },
     {
-      "name": "color / indigo / indigo.50",
+      "name": "core / color / indigo / indigo.50",
       "type": "color",
       "value": "#7681FC",
       "category": "color",
@@ -1061,7 +1061,7 @@
       }
     },
     {
-      "name": "color / indigo / indigo.60",
+      "name": "core / color / indigo / indigo.60",
       "type": "color",
       "value": "#545FE8",
       "category": "color",
@@ -1071,7 +1071,7 @@
       }
     },
     {
-      "name": "color / indigo / indigo.70",
+      "name": "core / color / indigo / indigo.70",
       "type": "color",
       "value": "#3A45B0",
       "category": "color",
@@ -1081,7 +1081,7 @@
       }
     },
     {
-      "name": "color / indigo / indigo.80",
+      "name": "core / color / indigo / indigo.80",
       "type": "color",
       "value": "#2F337D",
       "category": "color",
@@ -1091,7 +1091,7 @@
       }
     },
     {
-      "name": "color / indigo / indigo.90",
+      "name": "core / color / indigo / indigo.90",
       "type": "color",
       "value": "#23254D",
       "category": "color",
@@ -1101,7 +1101,7 @@
       }
     },
     {
-      "name": "color / indigo / indigo.disabled",
+      "name": "core / color / indigo / indigo.disabled",
       "type": "color",
       "value": "#7681FC61",
       "category": "color",
@@ -1111,7 +1111,7 @@
       }
     },
     {
-      "name": "color / lime / lime.10",
+      "name": "core / color / lime / lime.10",
       "type": "color",
       "value": "#EBF7DA",
       "category": "color",
@@ -1121,7 +1121,7 @@
       }
     },
     {
-      "name": "color / lime / lime.100",
+      "name": "core / color / lime / lime.100",
       "type": "color",
       "value": "#121A0D",
       "category": "color",
@@ -1131,7 +1131,7 @@
       }
     },
     {
-      "name": "color / lime / lime.20",
+      "name": "core / color / lime / lime.20",
       "type": "color",
       "value": "#D5F0B1",
       "category": "color",
@@ -1141,7 +1141,7 @@
       }
     },
     {
-      "name": "color / lime / lime.30",
+      "name": "core / color / lime / lime.30",
       "type": "color",
       "value": "#AAD971",
       "category": "color",
@@ -1151,7 +1151,7 @@
       }
     },
     {
-      "name": "color / lime / lime.40",
+      "name": "core / color / lime / lime.40",
       "type": "color",
       "value": "#78BF39",
       "category": "color",
@@ -1161,7 +1161,7 @@
       }
     },
     {
-      "name": "color / lime / lime.50",
+      "name": "core / color / lime / lime.50",
       "type": "color",
       "value": "#52A31D",
       "category": "color",
@@ -1171,7 +1171,7 @@
       }
     },
     {
-      "name": "color / lime / lime.60",
+      "name": "core / color / lime / lime.60",
       "type": "color",
       "value": "#3C7D0E",
       "category": "color",
@@ -1181,7 +1181,7 @@
       }
     },
     {
-      "name": "color / lime / lime.70",
+      "name": "core / color / lime / lime.70",
       "type": "color",
       "value": "#2E5C0E",
       "category": "color",
@@ -1191,7 +1191,7 @@
       }
     },
     {
-      "name": "color / lime / lime.80",
+      "name": "core / color / lime / lime.80",
       "type": "color",
       "value": "#254211",
       "category": "color",
@@ -1201,7 +1201,7 @@
       }
     },
     {
-      "name": "color / lime / lime.90",
+      "name": "core / color / lime / lime.90",
       "type": "color",
       "value": "#1C2E10",
       "category": "color",
@@ -1211,7 +1211,7 @@
       }
     },
     {
-      "name": "color / lime / lime.disabled",
+      "name": "core / color / lime / lime.disabled",
       "type": "color",
       "value": "#52A31D61",
       "category": "color",
@@ -1221,7 +1221,7 @@
       }
     },
     {
-      "name": "color / neutral / neutral.10",
+      "name": "core / color / neutral / neutral.10",
       "type": "color",
       "value": "#FAFAFA",
       "category": "color",
@@ -1231,7 +1231,7 @@
       }
     },
     {
-      "name": "color / neutral / neutral.100",
+      "name": "core / color / neutral / neutral.100",
       "type": "color",
       "value": "#171717",
       "category": "color",
@@ -1241,7 +1241,7 @@
       }
     },
     {
-      "name": "color / neutral / neutral.20",
+      "name": "core / color / neutral / neutral.20",
       "type": "color",
       "value": "#F5F5F5",
       "category": "color",
@@ -1251,7 +1251,7 @@
       }
     },
     {
-      "name": "color / neutral / neutral.30",
+      "name": "core / color / neutral / neutral.30",
       "type": "color",
       "value": "#E5E5E5",
       "category": "color",
@@ -1261,7 +1261,7 @@
       }
     },
     {
-      "name": "color / neutral / neutral.40",
+      "name": "core / color / neutral / neutral.40",
       "type": "color",
       "value": "#D4D4D4",
       "category": "color",
@@ -1271,7 +1271,7 @@
       }
     },
     {
-      "name": "color / neutral / neutral.50",
+      "name": "core / color / neutral / neutral.50",
       "type": "color",
       "value": "#A3A3A3",
       "category": "color",
@@ -1281,7 +1281,7 @@
       }
     },
     {
-      "name": "color / neutral / neutral.60",
+      "name": "core / color / neutral / neutral.60",
       "type": "color",
       "value": "#737373",
       "category": "color",
@@ -1291,7 +1291,7 @@
       }
     },
     {
-      "name": "color / neutral / neutral.70",
+      "name": "core / color / neutral / neutral.70",
       "type": "color",
       "value": "#525252",
       "category": "color",
@@ -1301,7 +1301,7 @@
       }
     },
     {
-      "name": "color / neutral / neutral.80",
+      "name": "core / color / neutral / neutral.80",
       "type": "color",
       "value": "#404040",
       "category": "color",
@@ -1311,7 +1311,7 @@
       }
     },
     {
-      "name": "color / neutral / neutral.90",
+      "name": "core / color / neutral / neutral.90",
       "type": "color",
       "value": "#262626",
       "category": "color",
@@ -1321,7 +1321,7 @@
       }
     },
     {
-      "name": "color / neutral / neutral.disabled",
+      "name": "core / color / neutral / neutral.disabled",
       "type": "color",
       "value": "#A3A3A361",
       "category": "color",
@@ -1331,7 +1331,7 @@
       }
     },
     {
-      "name": "color / orange / orange.10",
+      "name": "core / color / orange / orange.10",
       "type": "color",
       "value": "#FCF2EB",
       "category": "color",
@@ -1341,7 +1341,7 @@
       }
     },
     {
-      "name": "color / orange / orange.100",
+      "name": "core / color / orange / orange.100",
       "type": "color",
       "value": "#1F1410",
       "category": "color",
@@ -1351,7 +1351,7 @@
       }
     },
     {
-      "name": "color / orange / orange.20",
+      "name": "core / color / orange / orange.20",
       "type": "color",
       "value": "#FCDDC7",
       "category": "color",
@@ -1361,7 +1361,7 @@
       }
     },
     {
-      "name": "color / orange / orange.30",
+      "name": "core / color / orange / orange.30",
       "type": "color",
       "value": "#FCBC97",
       "category": "color",
@@ -1371,7 +1371,7 @@
       }
     },
     {
-      "name": "color / orange / orange.40",
+      "name": "core / color / orange / orange.40",
       "type": "color",
       "value": "#FC9162",
       "category": "color",
@@ -1381,7 +1381,7 @@
       }
     },
     {
-      "name": "color / orange / orange.50",
+      "name": "core / color / orange / orange.50",
       "type": "color",
       "value": "#E86427",
       "category": "color",
@@ -1391,7 +1391,7 @@
       }
     },
     {
-      "name": "color / orange / orange.60",
+      "name": "core / color / orange / orange.60",
       "type": "color",
       "value": "#BF4815",
       "category": "color",
@@ -1401,7 +1401,7 @@
       }
     },
     {
-      "name": "color / orange / orange.70",
+      "name": "core / color / orange / orange.70",
       "type": "color",
       "value": "#8F3415",
       "category": "color",
@@ -1411,7 +1411,7 @@
       }
     },
     {
-      "name": "color / orange / orange.80",
+      "name": "core / color / orange / orange.80",
       "type": "color",
       "value": "#632B17",
       "category": "color",
@@ -1421,7 +1421,7 @@
       }
     },
     {
-      "name": "color / orange / orange.90",
+      "name": "core / color / orange / orange.90",
       "type": "color",
       "value": "#402117",
       "category": "color",
@@ -1431,7 +1431,7 @@
       }
     },
     {
-      "name": "color / orange / orange.disabled",
+      "name": "core / color / orange / orange.disabled",
       "type": "color",
       "value": "#E8642761",
       "category": "color",
@@ -1441,7 +1441,7 @@
       }
     },
     {
-      "name": "color / pink / pink.10",
+      "name": "core / color / pink / pink.10",
       "type": "color",
       "value": "#FCF0F8",
       "category": "color",
@@ -1451,7 +1451,7 @@
       }
     },
     {
-      "name": "color / pink / pink.100",
+      "name": "core / color / pink / pink.100",
       "type": "color",
       "value": "#241020",
       "category": "color",
@@ -1461,7 +1461,7 @@
       }
     },
     {
-      "name": "color / pink / pink.20",
+      "name": "core / color / pink / pink.20",
       "type": "color",
       "value": "#F7DAED",
       "category": "color",
@@ -1471,7 +1471,7 @@
       }
     },
     {
-      "name": "color / pink / pink.30",
+      "name": "core / color / pink / pink.30",
       "type": "color",
       "value": "#F7B7E2",
       "category": "color",
@@ -1481,7 +1481,7 @@
       }
     },
     {
-      "name": "color / pink / pink.40",
+      "name": "core / color / pink / pink.40",
       "type": "color",
       "value": "#FA87D4",
       "category": "color",
@@ -1491,7 +1491,7 @@
       }
     },
     {
-      "name": "color / pink / pink.50",
+      "name": "core / color / pink / pink.50",
       "type": "color",
       "value": "#ED4CB7",
       "category": "color",
@@ -1501,7 +1501,7 @@
       }
     },
     {
-      "name": "color / pink / pink.60",
+      "name": "core / color / pink / pink.60",
       "type": "color",
       "value": "#CC1D92",
       "category": "color",
@@ -1511,7 +1511,7 @@
       }
     },
     {
-      "name": "color / pink / pink.70",
+      "name": "core / color / pink / pink.70",
       "type": "color",
       "value": "#961574",
       "category": "color",
@@ -1521,7 +1521,7 @@
       }
     },
     {
-      "name": "color / pink / pink.80",
+      "name": "core / color / pink / pink.80",
       "type": "color",
       "value": "#6B155A",
       "category": "color",
@@ -1531,7 +1531,7 @@
       }
     },
     {
-      "name": "color / pink / pink.90",
+      "name": "core / color / pink / pink.90",
       "type": "color",
       "value": "#47153F",
       "category": "color",
@@ -1541,7 +1541,7 @@
       }
     },
     {
-      "name": "color / pink / pink.disabled",
+      "name": "core / color / pink / pink.disabled",
       "type": "color",
       "value": "#ED4CB761",
       "category": "color",
@@ -1551,7 +1551,7 @@
       }
     },
     {
-      "name": "color / purple / purple.10",
+      "name": "core / color / purple / purple.10",
       "type": "color",
       "value": "#F7F2FC",
       "category": "color",
@@ -1561,7 +1561,7 @@
       }
     },
     {
-      "name": "color / purple / purple.100",
+      "name": "core / color / purple / purple.100",
       "type": "color",
       "value": "#1C1229",
       "category": "color",
@@ -1571,7 +1571,7 @@
       }
     },
     {
-      "name": "color / purple / purple.20",
+      "name": "core / color / purple / purple.20",
       "type": "color",
       "value": "#EADCFC",
       "category": "color",
@@ -1581,7 +1581,7 @@
       }
     },
     {
-      "name": "color / purple / purple.30",
+      "name": "core / color / purple / purple.30",
       "type": "color",
       "value": "#DABEFA",
       "category": "color",
@@ -1591,7 +1591,7 @@
       }
     },
     {
-      "name": "color / purple / purple.40",
+      "name": "core / color / purple / purple.40",
       "type": "color",
       "value": "#C89AFC",
       "category": "color",
@@ -1601,7 +1601,7 @@
       }
     },
     {
-      "name": "color / purple / purple.50",
+      "name": "core / color / purple / purple.50",
       "type": "color",
       "value": "#AC71F0",
       "category": "color",
@@ -1611,7 +1611,7 @@
       }
     },
     {
-      "name": "color / purple / purple.60",
+      "name": "core / color / purple / purple.60",
       "type": "color",
       "value": "#8F49DE",
       "category": "color",
@@ -1621,7 +1621,7 @@
       }
     },
     {
-      "name": "color / purple / purple.70",
+      "name": "core / color / purple / purple.70",
       "type": "color",
       "value": "#6B30AB",
       "category": "color",
@@ -1631,7 +1631,7 @@
       }
     },
     {
-      "name": "color / purple / purple.80",
+      "name": "core / color / purple / purple.80",
       "type": "color",
       "value": "#4C277D",
       "category": "color",
@@ -1641,7 +1641,7 @@
       }
     },
     {
-      "name": "color / purple / purple.90",
+      "name": "core / color / purple / purple.90",
       "type": "color",
       "value": "#331F4D",
       "category": "color",
@@ -1651,7 +1651,7 @@
       }
     },
     {
-      "name": "color / purple / purple.disabled",
+      "name": "core / color / purple / purple.disabled",
       "type": "color",
       "value": "#AC71F061",
       "category": "color",
@@ -1661,7 +1661,7 @@
       }
     },
     {
-      "name": "color / red / red.10",
+      "name": "core / color / red / red.10",
       "type": "color",
       "value": "#FCF3F2",
       "category": "color",
@@ -1671,7 +1671,7 @@
       }
     },
     {
-      "name": "color / red / red.100",
+      "name": "core / color / red / red.100",
       "type": "color",
       "value": "#24120C",
       "category": "color",
@@ -1681,7 +1681,7 @@
       }
     },
     {
-      "name": "color / red / red.20",
+      "name": "core / color / red / red.20",
       "type": "color",
       "value": "#FADCD9",
       "category": "color",
@@ -1691,7 +1691,7 @@
       }
     },
     {
-      "name": "color / red / red.30",
+      "name": "core / color / red / red.30",
       "type": "color",
       "value": "#FABBB4",
       "category": "color",
@@ -1701,7 +1701,7 @@
       }
     },
     {
-      "name": "color / red / red.40",
+      "name": "core / color / red / red.40",
       "type": "color",
       "value": "#FC9086",
       "category": "color",
@@ -1711,7 +1711,7 @@
       }
     },
     {
-      "name": "color / red / red.50",
+      "name": "core / color / red / red.50",
       "type": "color",
       "value": "#FA5343",
       "category": "color",
@@ -1721,7 +1721,7 @@
       }
     },
     {
-      "name": "color / red / red.60",
+      "name": "core / color / red / red.60",
       "type": "color",
       "value": "#D91F11",
       "category": "color",
@@ -1731,7 +1731,7 @@
       }
     },
     {
-      "name": "color / red / red.70",
+      "name": "core / color / red / red.70",
       "type": "color",
       "value": "#A1160A",
       "category": "color",
@@ -1741,7 +1741,7 @@
       }
     },
     {
-      "name": "color / red / red.80",
+      "name": "core / color / red / red.80",
       "type": "color",
       "value": "#75160C",
       "category": "color",
@@ -1751,7 +1751,7 @@
       }
     },
     {
-      "name": "color / red / red.90",
+      "name": "core / color / red / red.90",
       "type": "color",
       "value": "#4F150F",
       "category": "color",
@@ -1761,7 +1761,7 @@
       }
     },
     {
-      "name": "color / red / red.disabled",
+      "name": "core / color / red / red.disabled",
       "type": "color",
       "value": "#FA534361",
       "category": "color",
@@ -1771,7 +1771,7 @@
       }
     },
     {
-      "name": "color / slate / slate.10",
+      "name": "core / color / slate / slate.10",
       "type": "color",
       "value": "#F8FAFC",
       "category": "color",
@@ -1781,7 +1781,7 @@
       }
     },
     {
-      "name": "color / slate / slate.100",
+      "name": "core / color / slate / slate.100",
       "type": "color",
       "value": "#0F172A",
       "category": "color",
@@ -1791,7 +1791,7 @@
       }
     },
     {
-      "name": "color / slate / slate.20",
+      "name": "core / color / slate / slate.20",
       "type": "color",
       "value": "#F1F5F9",
       "category": "color",
@@ -1801,7 +1801,7 @@
       }
     },
     {
-      "name": "color / slate / slate.30",
+      "name": "core / color / slate / slate.30",
       "type": "color",
       "value": "#E2E8F0",
       "category": "color",
@@ -1811,7 +1811,7 @@
       }
     },
     {
-      "name": "color / slate / slate.40",
+      "name": "core / color / slate / slate.40",
       "type": "color",
       "value": "#CBD5E1",
       "category": "color",
@@ -1821,7 +1821,7 @@
       }
     },
     {
-      "name": "color / slate / slate.50",
+      "name": "core / color / slate / slate.50",
       "type": "color",
       "value": "#94A3B8",
       "category": "color",
@@ -1831,7 +1831,7 @@
       }
     },
     {
-      "name": "color / slate / slate.60",
+      "name": "core / color / slate / slate.60",
       "type": "color",
       "value": "#64748B",
       "category": "color",
@@ -1841,7 +1841,7 @@
       }
     },
     {
-      "name": "color / slate / slate.70",
+      "name": "core / color / slate / slate.70",
       "type": "color",
       "value": "#475569",
       "category": "color",
@@ -1851,7 +1851,7 @@
       }
     },
     {
-      "name": "color / slate / slate.80",
+      "name": "core / color / slate / slate.80",
       "type": "color",
       "value": "#334155",
       "category": "color",
@@ -1861,7 +1861,7 @@
       }
     },
     {
-      "name": "color / slate / slate.90",
+      "name": "core / color / slate / slate.90",
       "type": "color",
       "value": "#1E293B",
       "category": "color",
@@ -1871,7 +1871,7 @@
       }
     },
     {
-      "name": "color / slate / slate.disabled",
+      "name": "core / color / slate / slate.disabled",
       "type": "color",
       "value": "#94A3B861",
       "category": "color",
@@ -1881,7 +1881,7 @@
       }
     },
     {
-      "name": "color / stone / stone.10",
+      "name": "core / color / stone / stone.10",
       "type": "color",
       "value": "#FAFAF9",
       "category": "color",
@@ -1891,7 +1891,7 @@
       }
     },
     {
-      "name": "color / stone / stone.100",
+      "name": "core / color / stone / stone.100",
       "type": "color",
       "value": "#1C1917",
       "category": "color",
@@ -1901,7 +1901,7 @@
       }
     },
     {
-      "name": "color / stone / stone.20",
+      "name": "core / color / stone / stone.20",
       "type": "color",
       "value": "#F5F5F4",
       "category": "color",
@@ -1911,7 +1911,7 @@
       }
     },
     {
-      "name": "color / stone / stone.30",
+      "name": "core / color / stone / stone.30",
       "type": "color",
       "value": "#E7E5E4",
       "category": "color",
@@ -1921,7 +1921,7 @@
       }
     },
     {
-      "name": "color / stone / stone.40",
+      "name": "core / color / stone / stone.40",
       "type": "color",
       "value": "#D6D3D1",
       "category": "color",
@@ -1931,7 +1931,7 @@
       }
     },
     {
-      "name": "color / stone / stone.50",
+      "name": "core / color / stone / stone.50",
       "type": "color",
       "value": "#A8A29E",
       "category": "color",
@@ -1941,7 +1941,7 @@
       }
     },
     {
-      "name": "color / stone / stone.60",
+      "name": "core / color / stone / stone.60",
       "type": "color",
       "value": "#78716C",
       "category": "color",
@@ -1951,7 +1951,7 @@
       }
     },
     {
-      "name": "color / stone / stone.70",
+      "name": "core / color / stone / stone.70",
       "type": "color",
       "value": "#57534E",
       "category": "color",
@@ -1961,7 +1961,7 @@
       }
     },
     {
-      "name": "color / stone / stone.80",
+      "name": "core / color / stone / stone.80",
       "type": "color",
       "value": "#44403C",
       "category": "color",
@@ -1971,7 +1971,7 @@
       }
     },
     {
-      "name": "color / stone / stone.90",
+      "name": "core / color / stone / stone.90",
       "type": "color",
       "value": "#292524",
       "category": "color",
@@ -1981,7 +1981,7 @@
       }
     },
     {
-      "name": "color / stone / stone.disabled",
+      "name": "core / color / stone / stone.disabled",
       "type": "color",
       "value": "#A8A29E61",
       "category": "color",
@@ -1991,7 +1991,7 @@
       }
     },
     {
-      "name": "color / teal / teal.10",
+      "name": "core / color / teal / teal.10",
       "type": "color",
       "value": "#EBF5F4",
       "category": "color",
@@ -2001,7 +2001,7 @@
       }
     },
     {
-      "name": "color / teal / teal.100",
+      "name": "core / color / teal / teal.100",
       "type": "color",
       "value": "#0C1A19",
       "category": "color",
@@ -2011,7 +2011,7 @@
       }
     },
     {
-      "name": "color / teal / teal.20",
+      "name": "core / color / teal / teal.20",
       "type": "color",
       "value": "#BEEBE7",
       "category": "color",
@@ -2021,7 +2021,7 @@
       }
     },
     {
-      "name": "color / teal / teal.30",
+      "name": "core / color / teal / teal.30",
       "type": "color",
       "value": "#86D9D4",
       "category": "color",
@@ -2031,7 +2031,7 @@
       }
     },
     {
-      "name": "color / teal / teal.40",
+      "name": "core / color / teal / teal.40",
       "type": "color",
       "value": "#4EBFB9",
       "category": "color",
@@ -2041,7 +2041,7 @@
       }
     },
     {
-      "name": "color / teal / teal.50",
+      "name": "core / color / teal / teal.50",
       "type": "color",
       "value": "#279C9C",
       "category": "color",
@@ -2051,7 +2051,7 @@
       }
     },
     {
-      "name": "color / teal / teal.60",
+      "name": "core / color / teal / teal.60",
       "type": "color",
       "value": "#167B7D",
       "category": "color",
@@ -2061,7 +2061,7 @@
       }
     },
     {
-      "name": "color / teal / teal.70",
+      "name": "core / color / teal / teal.70",
       "type": "color",
       "value": "#155C5E",
       "category": "color",
@@ -2071,7 +2071,7 @@
       }
     },
     {
-      "name": "color / teal / teal.80",
+      "name": "core / color / teal / teal.80",
       "type": "color",
       "value": "#124241",
       "category": "color",
@@ -2081,7 +2081,7 @@
       }
     },
     {
-      "name": "color / teal / teal.90",
+      "name": "core / color / teal / teal.90",
       "type": "color",
       "value": "#102E2D",
       "category": "color",
@@ -2091,7 +2091,7 @@
       }
     },
     {
-      "name": "color / teal / teal.disabled",
+      "name": "core / color / teal / teal.disabled",
       "type": "color",
       "value": "#279C9C61",
       "category": "color",
@@ -2101,7 +2101,7 @@
       }
     },
     {
-      "name": "color / turquoise / turquoise.10",
+      "name": "core / color / turquoise / turquoise.10",
       "type": "color",
       "value": "#EBF5F4",
       "category": "color",
@@ -2111,7 +2111,7 @@
       }
     },
     {
-      "name": "color / turquoise / turquoise.100",
+      "name": "core / color / turquoise / turquoise.100",
       "type": "color",
       "value": "#0F181A",
       "category": "color",
@@ -2121,7 +2121,7 @@
       }
     },
     {
-      "name": "color / turquoise / turquoise.20",
+      "name": "core / color / turquoise / turquoise.20",
       "type": "color",
       "value": "#C7E8ED",
       "category": "color",
@@ -2131,7 +2131,7 @@
       }
     },
     {
-      "name": "color / turquoise / turquoise.30",
+      "name": "core / color / turquoise / turquoise.30",
       "type": "color",
       "value": "#81D8E6",
       "category": "color",
@@ -2141,7 +2141,7 @@
       }
     },
     {
-      "name": "color / turquoise / turquoise.40",
+      "name": "core / color / turquoise / turquoise.40",
       "type": "color",
       "value": "#45BCD1",
       "category": "color",
@@ -2151,7 +2151,7 @@
       }
     },
     {
-      "name": "color / turquoise / turquoise.50",
+      "name": "core / color / turquoise / turquoise.50",
       "type": "color",
       "value": "#159AB3",
       "category": "color",
@@ -2161,7 +2161,7 @@
       }
     },
     {
-      "name": "color / turquoise / turquoise.60",
+      "name": "core / color / turquoise / turquoise.60",
       "type": "color",
       "value": "#067A91",
       "category": "color",
@@ -2171,7 +2171,7 @@
       }
     },
     {
-      "name": "color / turquoise / turquoise.70",
+      "name": "core / color / turquoise / turquoise.70",
       "type": "color",
       "value": "#09596B",
       "category": "color",
@@ -2181,7 +2181,7 @@
       }
     },
     {
-      "name": "color / turquoise / turquoise.80",
+      "name": "core / color / turquoise / turquoise.80",
       "type": "color",
       "value": "#0C424D",
       "category": "color",
@@ -2191,7 +2191,7 @@
       }
     },
     {
-      "name": "color / turquoise / turquoise.90",
+      "name": "core / color / turquoise / turquoise.90",
       "type": "color",
       "value": "#102D33",
       "category": "color",
@@ -2201,7 +2201,7 @@
       }
     },
     {
-      "name": "color / turquoise / turquoise.disabled",
+      "name": "core / color / turquoise / turquoise.disabled",
       "type": "color",
       "value": "#159AB361",
       "category": "color",
@@ -2211,7 +2211,7 @@
       }
     },
     {
-      "name": "color / yellow / yellow.10",
+      "name": "core / color / yellow / yellow.10",
       "type": "color",
       "value": "#FAF6CF",
       "category": "color",
@@ -2221,7 +2221,7 @@
       }
     },
     {
-      "name": "color / yellow / yellow.100",
+      "name": "core / color / yellow / yellow.100",
       "type": "color",
       "value": "#1C1613",
       "category": "color",
@@ -2231,7 +2231,7 @@
       }
     },
     {
-      "name": "color / yellow / yellow.20",
+      "name": "core / color / yellow / yellow.20",
       "type": "color",
       "value": "#F7E379",
       "category": "color",
@@ -2241,7 +2241,7 @@
       }
     },
     {
-      "name": "color / yellow / yellow.30",
+      "name": "core / color / yellow / yellow.30",
       "type": "color",
       "value": "#F5C518",
       "category": "color",
@@ -2251,7 +2251,7 @@
       }
     },
     {
-      "name": "color / yellow / yellow.40",
+      "name": "core / color / yellow / yellow.40",
       "type": "color",
       "value": "#D9A514",
       "category": "color",
@@ -2261,7 +2261,7 @@
       }
     },
     {
-      "name": "color / yellow / yellow.50",
+      "name": "core / color / yellow / yellow.50",
       "type": "color",
       "value": "#B3870E",
       "category": "color",
@@ -2271,7 +2271,7 @@
       }
     },
     {
-      "name": "color / yellow / yellow.60",
+      "name": "core / color / yellow / yellow.60",
       "type": "color",
       "value": "#946613",
       "category": "color",
@@ -2281,7 +2281,7 @@
       }
     },
     {
-      "name": "color / yellow / yellow.70",
+      "name": "core / color / yellow / yellow.70",
       "type": "color",
       "value": "#70491C",
       "category": "color",
@@ -2291,7 +2291,7 @@
       }
     },
     {
-      "name": "color / yellow / yellow.80",
+      "name": "core / color / yellow / yellow.80",
       "type": "color",
       "value": "#54341F",
       "category": "color",
@@ -2301,7 +2301,7 @@
       }
     },
     {
-      "name": "color / yellow / yellow.90",
+      "name": "core / color / yellow / yellow.90",
       "type": "color",
       "value": "#38251B",
       "category": "color",
@@ -2311,7 +2311,7 @@
       }
     },
     {
-      "name": "color / yellow / yellow.disabled",
+      "name": "core / color / yellow / yellow.disabled",
       "type": "color",
       "value": "#B3870E61",
       "category": "color",
@@ -2321,7 +2321,7 @@
       }
     },
     {
-      "name": "color / zinc / zinc.10",
+      "name": "core / color / zinc / zinc.10",
       "type": "color",
       "value": "#FAFAFA",
       "category": "color",
@@ -2331,7 +2331,7 @@
       }
     },
     {
-      "name": "color / zinc / zinc.100",
+      "name": "core / color / zinc / zinc.100",
       "type": "color",
       "value": "#18181B",
       "category": "color",
@@ -2341,7 +2341,7 @@
       }
     },
     {
-      "name": "color / zinc / zinc.20",
+      "name": "core / color / zinc / zinc.20",
       "type": "color",
       "value": "#F4F4F5",
       "category": "color",
@@ -2351,7 +2351,7 @@
       }
     },
     {
-      "name": "color / zinc / zinc.30",
+      "name": "core / color / zinc / zinc.30",
       "type": "color",
       "value": "#E4E4E7",
       "category": "color",
@@ -2361,7 +2361,7 @@
       }
     },
     {
-      "name": "color / zinc / zinc.40",
+      "name": "core / color / zinc / zinc.40",
       "type": "color",
       "value": "#D4D4D8",
       "category": "color",
@@ -2371,7 +2371,7 @@
       }
     },
     {
-      "name": "color / zinc / zinc.50",
+      "name": "core / color / zinc / zinc.50",
       "type": "color",
       "value": "#A1A1AA",
       "category": "color",
@@ -2381,7 +2381,7 @@
       }
     },
     {
-      "name": "color / zinc / zinc.60",
+      "name": "core / color / zinc / zinc.60",
       "type": "color",
       "value": "#71717A",
       "category": "color",
@@ -2391,7 +2391,7 @@
       }
     },
     {
-      "name": "color / zinc / zinc.70",
+      "name": "core / color / zinc / zinc.70",
       "type": "color",
       "value": "#52525B",
       "category": "color",
@@ -2401,7 +2401,7 @@
       }
     },
     {
-      "name": "color / zinc / zinc.80",
+      "name": "core / color / zinc / zinc.80",
       "type": "color",
       "value": "#3F3F46",
       "category": "color",
@@ -2411,7 +2411,7 @@
       }
     },
     {
-      "name": "color / zinc / zinc.80 2",
+      "name": "core / color / zinc / zinc.90",
       "type": "color",
       "value": "#27272A",
       "category": "color",
@@ -2421,7 +2421,7 @@
       }
     },
     {
-      "name": "color / zinc / zinc.disabled",
+      "name": "core / color / zinc / zinc.disabled",
       "type": "color",
       "value": "#A1A1AA61",
       "category": "color",
