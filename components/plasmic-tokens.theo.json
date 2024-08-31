@@ -1,167 +1,7 @@
 {
   "props": [
     {
-      "name": "core /  brand / brand-discord",
-      "type": "color",
-      "value": "#7289DA",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "EVpHfWX4Ds1Z"
-      }
-    },
-    {
-      "name": "core /  brand / brand-dribble",
-      "type": "color",
-      "value": "#EA4C89",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "QAg6SoOhytqM"
-      }
-    },
-    {
-      "name": "core /  brand / brand-github",
-      "type": "color",
-      "value": "#000000",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "wH8F4BoeXSaC"
-      }
-    },
-    {
-      "name": "core /  brand / brand-gitlab",
-      "type": "color",
-      "value": "#000000",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "iEijkIOiaQzJ"
-      }
-    },
-    {
-      "name": "core /  brand / brand-instagram",
-      "type": "color",
-      "value": "#000000",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "geb1U1UFWxw3"
-      }
-    },
-    {
-      "name": "core /  brand / brand-lastfm",
-      "type": "color",
-      "value": "#D51007",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "ZQ2txKr9w2ql"
-      }
-    },
-    {
-      "name": "core /  brand / brand-linkedin",
-      "type": "color",
-      "value": "#0077B5",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "L3ym6vlYAI0n"
-      }
-    },
-    {
-      "name": "core /  brand / brand-upsplash",
-      "type": "color",
-      "value": "#000000",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "X8PnHdpjBTVK"
-      }
-    },
-    {
-      "name": "core / brand / brand-behance",
-      "type": "color",
-      "value": "#1769FF",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "A007WGcEe4pY"
-      }
-    },
-    {
-      "name": "core / brand / brand-discourse",
-      "type": "color",
-      "value": "#000000",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "UJl4O4KefAjb"
-      }
-    },
-    {
-      "name": "core / brand / brand-facebook",
-      "type": "color",
-      "value": "#3B5998",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "YtJNzLMBX2ht"
-      }
-    },
-    {
-      "name": "core / brand / brand-figma",
-      "type": "color",
-      "value": "#000000",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "aDY4L20KsgIm"
-      }
-    },
-    {
-      "name": "core / brand / brand-mastadon",
-      "type": "color",
-      "value": "#6364FF",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "FToQ3lJDC7sV"
-      }
-    },
-    {
-      "name": "core / brand / brand-medium",
-      "type": "color",
-      "value": "#000000",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "b6OCe25D0OB9"
-      }
-    },
-    {
-      "name": "core / brand / brand-meetup",
-      "type": "color",
-      "value": "#EA2245",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "J2HTffx49754"
-      }
-    },
-    {
-      "name": "core / brand / brand-messenger",
-      "type": "color",
-      "value": "#1787FB",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "dVXOTq36bNRT"
-      }
-    },
-    {
-      "name": "core / brand / brand-pinterest",
+      "name": "core /  color / brand / brand-pinterest",
       "type": "color",
       "value": "#E60023",
       "category": "color",
@@ -171,57 +11,7 @@
       }
     },
     {
-      "name": "core / brand / brand-reddit",
-      "type": "color",
-      "value": "#FF4500",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "O51XU4ocfN17"
-      }
-    },
-    {
-      "name": "core / brand / brand-shopify",
-      "type": "color",
-      "value": "#96BF48",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "U3hkRceLvJBn"
-      }
-    },
-    {
-      "name": "core / brand / brand-skype",
-      "type": "color",
-      "value": "#00AFF0",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "A2qt3WnHkMSk"
-      }
-    },
-    {
-      "name": "core / brand / brand-slack",
-      "type": "color",
-      "value": "#000000",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "ai81XqjeuRQg"
-      }
-    },
-    {
-      "name": "core / brand / brand-snapchat",
-      "type": "color",
-      "value": "#000000",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "bpTbbqSI06rM"
-      }
-    },
-    {
-      "name": "core / brand / brand-soundcloud",
+      "name": "core /  color / brand / brand-soundcloud",
       "type": "color",
       "value": "#FF8800",
       "category": "color",
@@ -231,103 +21,13 @@
       }
     },
     {
-      "name": "core / brand / brand-spotify",
+      "name": "core /  color / brand / brand-spotify",
       "type": "color",
       "value": "#1ED760",
       "category": "color",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
         "id": "sXeBZuXh-nFt"
-      }
-    },
-    {
-      "name": "core / brand / brand-steam",
-      "type": "color",
-      "value": "#00ADEE",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "c9qdyAol3NaH"
-      }
-    },
-    {
-      "name": "core / brand / brand-telegram",
-      "type": "color",
-      "value": "#0088CC",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "Rou3dOdh_Bwq"
-      }
-    },
-    {
-      "name": "core / brand / brand-tiktok",
-      "type": "color",
-      "value": "#FF0050",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "_3pt5tFrjpz9"
-      }
-    },
-    {
-      "name": "core / brand / brand-tumblr",
-      "type": "color",
-      "value": "#35465C",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "bM5Hdl9c9-fe"
-      }
-    },
-    {
-      "name": "core / brand / brand-twitch",
-      "type": "color",
-      "value": "#6441A5",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "TMzugepRDjWm"
-      }
-    },
-    {
-      "name": "core / brand / brand-vimeo",
-      "type": "color",
-      "value": "#45BBFF",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "zTrUAMP64VHw"
-      }
-    },
-    {
-      "name": "core / brand / brand-whatsapp",
-      "type": "color",
-      "value": "#25D366",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "4NLgs60-cm7K"
-      }
-    },
-    {
-      "name": "core / brand / brand-x",
-      "type": "color",
-      "value": "#000000",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "MQqaJubGkTV_"
-      }
-    },
-    {
-      "name": "core / brand / brand-youtube",
-      "type": "color",
-      "value": "#FF0000",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "j_7jsWhfDMe2"
       }
     },
     {
@@ -548,6 +248,306 @@
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
         "id": "rbYBMbSPHLHb"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-behance",
+      "type": "color",
+      "value": "#1769FF",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "A007WGcEe4pY"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-discord",
+      "type": "color",
+      "value": "#7289DA",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "EVpHfWX4Ds1Z"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-discourse",
+      "type": "color",
+      "value": "#000000",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "UJl4O4KefAjb"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-dribble",
+      "type": "color",
+      "value": "#EA4C89",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "QAg6SoOhytqM"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-facebook",
+      "type": "color",
+      "value": "#3B5998",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "YtJNzLMBX2ht"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-figma",
+      "type": "color",
+      "value": "#000000",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "aDY4L20KsgIm"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-github",
+      "type": "color",
+      "value": "#000000",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "wH8F4BoeXSaC"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-gitlab",
+      "type": "color",
+      "value": "#030202",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "iEijkIOiaQzJ"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-instagram",
+      "type": "color",
+      "value": "#000000",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "geb1U1UFWxw3"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-lastfm",
+      "type": "color",
+      "value": "#D51007",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "ZQ2txKr9w2ql"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-linkedin",
+      "type": "color",
+      "value": "#0077B5",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "L3ym6vlYAI0n"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-mastadon",
+      "type": "color",
+      "value": "#6364FF",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "FToQ3lJDC7sV"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-medium",
+      "type": "color",
+      "value": "#000000",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "b6OCe25D0OB9"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-meetup",
+      "type": "color",
+      "value": "#EA2245",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "J2HTffx49754"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-messenger",
+      "type": "color",
+      "value": "#1787FB",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "dVXOTq36bNRT"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-reddit",
+      "type": "color",
+      "value": "#FF4500",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "O51XU4ocfN17"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-shopify",
+      "type": "color",
+      "value": "#96BF48",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "U3hkRceLvJBn"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-skype",
+      "type": "color",
+      "value": "#00AFF0",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "A2qt3WnHkMSk"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-slack",
+      "type": "color",
+      "value": "#000000",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "ai81XqjeuRQg"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-snapchat",
+      "type": "color",
+      "value": "#000000",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "bpTbbqSI06rM"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-steam",
+      "type": "color",
+      "value": "#00ADEE",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "c9qdyAol3NaH"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-telegram",
+      "type": "color",
+      "value": "#0088CC",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "Rou3dOdh_Bwq"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-tiktok",
+      "type": "color",
+      "value": "#FF0050",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "_3pt5tFrjpz9"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-tumblr",
+      "type": "color",
+      "value": "#35465C",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "bM5Hdl9c9-fe"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-twitch",
+      "type": "color",
+      "value": "#6441A5",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "TMzugepRDjWm"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-upsplash",
+      "type": "color",
+      "value": "#000000",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "X8PnHdpjBTVK"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-vimeo",
+      "type": "color",
+      "value": "#45BBFF",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "zTrUAMP64VHw"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-whatsapp",
+      "type": "color",
+      "value": "#25D366",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "4NLgs60-cm7K"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-x",
+      "type": "color",
+      "value": "#000000",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "MQqaJubGkTV_"
+      }
+    },
+    {
+      "name": "core / color / brand / brand-youtube",
+      "type": "color",
+      "value": "#FF0000",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "j_7jsWhfDMe2"
       }
     },
     {
@@ -2431,207 +2431,7 @@
       }
     },
     {
-      "name": "font.size.008",
-      "type": "fontsize",
-      "value": "0.5rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "JfuzJEPVALUL"
-      }
-    },
-    {
-      "name": "font.size.010",
-      "type": "fontsize",
-      "value": "0.63rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "GIleTlhNdO1E"
-      }
-    },
-    {
-      "name": "font.size.012",
-      "type": "fontsize",
-      "value": "0.75rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "E-XpXqdEPBpB"
-      }
-    },
-    {
-      "name": "font.size.014",
-      "type": "fontsize",
-      "value": "0.88rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "lSejyBNu19BF"
-      }
-    },
-    {
-      "name": "font.size.016",
-      "type": "fontsize",
-      "value": "1rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "QSSa2VFfR_qN"
-      }
-    },
-    {
-      "name": "font.size.020",
-      "type": "fontsize",
-      "value": "1.13rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "O9vtaTWsBgdj"
-      }
-    },
-    {
-      "name": "font.size.022",
-      "type": "fontsize",
-      "value": "1.25rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "mpivALeJxat5"
-      }
-    },
-    {
-      "name": "font.size.024",
-      "type": "fontsize",
-      "value": "1.5rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "YUUshI2lfBP0"
-      }
-    },
-    {
-      "name": "font.size.028",
-      "type": "fontsize",
-      "value": "1.75rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "CfYR05E2Y9yi"
-      }
-    },
-    {
-      "name": "font.size.032",
-      "type": "fontsize",
-      "value": "2rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "zwVdR2TS28Y-"
-      }
-    },
-    {
-      "name": "font.size.036",
-      "type": "fontsize",
-      "value": "2.13rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "LYrLkb8drA1P"
-      }
-    },
-    {
-      "name": "font.size.038",
-      "type": "fontsize",
-      "value": "2.25rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "BuZv_QBeb2vb"
-      }
-    },
-    {
-      "name": "font.size.040",
-      "type": "fontsize",
-      "value": "2.5rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "NmTA-Nbo4JB4"
-      }
-    },
-    {
-      "name": "font.size.044",
-      "type": "fontsize",
-      "value": "2.69rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "T3Sv8UAUez1R"
-      }
-    },
-    {
-      "name": "font.size.046",
-      "type": "fontsize",
-      "value": "2.86rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "DSe3tNALG7hu"
-      }
-    },
-    {
-      "name": "font.size.048",
-      "type": "fontsize",
-      "value": "3rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "fktwmjOk51kL"
-      }
-    },
-    {
-      "name": "font.size.052",
-      "type": "fontsize",
-      "value": "3.38rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "R4ai3pmJGhRZ"
-      }
-    },
-    {
-      "name": "font.size.062",
-      "type": "fontsize",
-      "value": "3.8rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "tKH9zSWhPTwX"
-      }
-    },
-    {
-      "name": "font.size.068",
-      "type": "fontsize",
-      "value": "4.12rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "ip--FKWYc-rU"
-      }
-    },
-    {
-      "name": "font.size.074",
-      "type": "fontsize",
-      "value": "4.66rem",
-      "category": "fontsize",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "ATkcoPOnR-HH"
-      }
-    },
-    {
-      "name": "font.type.01",
+      "name": "core / font-family / fontType-01",
       "type": "fontfamily",
       "value": "DM Sans",
       "category": "fontfamily",
@@ -2641,7 +2441,7 @@
       }
     },
     {
-      "name": "font.type.02",
+      "name": "core / font-family / fontType-02",
       "type": "fontfamily",
       "value": "Inter",
       "category": "fontfamily",
@@ -2651,7 +2451,7 @@
       }
     },
     {
-      "name": "font.type.03",
+      "name": "core / font-family / fontType-03",
       "type": "fontfamily",
       "value": "Space Mono",
       "category": "fontfamily",
@@ -2661,7 +2461,7 @@
       }
     },
     {
-      "name": "font.type.04",
+      "name": "core / font-family / fontType-04",
       "type": "fontfamily",
       "value": "Space Grotesk",
       "category": "fontfamily",
@@ -2671,7 +2471,7 @@
       }
     },
     {
-      "name": "font.type.05",
+      "name": "core / font-family / fontType-05",
       "type": "fontfamily",
       "value": "Work Sans",
       "category": "fontfamily",
@@ -2681,7 +2481,7 @@
       }
     },
     {
-      "name": "font.type.06",
+      "name": "core / font-family / fontType-06",
       "type": "fontfamily",
       "value": "Syne",
       "category": "fontfamily",
@@ -2691,7 +2491,7 @@
       }
     },
     {
-      "name": "font.type.07",
+      "name": "core / font-family / fontType-07",
       "type": "fontfamily",
       "value": "Libre Franklin",
       "category": "fontfamily",
@@ -2701,7 +2501,7 @@
       }
     },
     {
-      "name": "font.type.08",
+      "name": "core / font-family / fontType-08",
       "type": "fontfamily",
       "value": "Cormorant",
       "category": "fontfamily",
@@ -2711,7 +2511,7 @@
       }
     },
     {
-      "name": "font.type.09",
+      "name": "core / font-family / fontType-09",
       "type": "fontfamily",
       "value": "Fira Sans",
       "category": "fontfamily",
@@ -2721,7 +2521,7 @@
       }
     },
     {
-      "name": "font.type.10",
+      "name": "core / font-family / fontType-10",
       "type": "fontfamily",
       "value": "Eczar",
       "category": "fontfamily",
@@ -2731,7 +2531,7 @@
       }
     },
     {
-      "name": "font.type.11",
+      "name": "core / font-family / fontType-11",
       "type": "fontfamily",
       "value": "Alegreya Sans",
       "category": "fontfamily",
@@ -2741,7 +2541,7 @@
       }
     },
     {
-      "name": "font.type.12",
+      "name": "core / font-family / fontType-12",
       "type": "fontfamily",
       "value": "Alegreya",
       "category": "fontfamily",
@@ -2751,7 +2551,7 @@
       }
     },
     {
-      "name": "font.type.13",
+      "name": "core / font-family / fontType-13",
       "type": "fontfamily",
       "value": "Source Sans Pro",
       "category": "fontfamily",
@@ -2761,7 +2561,7 @@
       }
     },
     {
-      "name": "font.type.14",
+      "name": "core / font-family / fontType-14",
       "type": "fontfamily",
       "value": "Source Serif Pro",
       "category": "fontfamily",
@@ -2771,7 +2571,7 @@
       }
     },
     {
-      "name": "font.type.15",
+      "name": "core / font-family / fontType-15",
       "type": "fontfamily",
       "value": "Roboto",
       "category": "fontfamily",
@@ -2781,7 +2581,7 @@
       }
     },
     {
-      "name": "font.type.16",
+      "name": "core / font-family / fontType-16",
       "type": "fontfamily",
       "value": "Fraunces",
       "category": "fontfamily",
@@ -2791,7 +2591,7 @@
       }
     },
     {
-      "name": "font.type.17",
+      "name": "core / font-family / fontType-17",
       "type": "fontfamily",
       "value": "Inknut Antiqua",
       "category": "fontfamily",
@@ -2801,7 +2601,7 @@
       }
     },
     {
-      "name": "font.type.18",
+      "name": "core / font-family / fontType-18",
       "type": "fontfamily",
       "value": "BioRhyme",
       "category": "fontfamily",
@@ -2811,7 +2611,7 @@
       }
     },
     {
-      "name": "font.type.19",
+      "name": "core / font-family / fontType-19",
       "type": "fontfamily",
       "value": "Poppins",
       "category": "fontfamily",
@@ -2821,7 +2621,7 @@
       }
     },
     {
-      "name": "font.type.20",
+      "name": "core / font-family / fontType-20",
       "type": "fontfamily",
       "value": "Archivo Narrow",
       "category": "fontfamily",
@@ -2831,7 +2631,7 @@
       }
     },
     {
-      "name": "font.type.21",
+      "name": "core / font-family / fontType-21",
       "type": "fontfamily",
       "value": "Libre Baskerville",
       "category": "fontfamily",
@@ -2841,7 +2641,7 @@
       }
     },
     {
-      "name": "font.type.22",
+      "name": "core / font-family / fontType-22",
       "type": "fontfamily",
       "value": "Playfair Display",
       "category": "fontfamily",
@@ -2851,7 +2651,7 @@
       }
     },
     {
-      "name": "font.type.23",
+      "name": "core / font-family / fontType-23",
       "type": "fontfamily",
       "value": "Karla",
       "category": "fontfamily",
@@ -2861,7 +2661,7 @@
       }
     },
     {
-      "name": "font.type.24",
+      "name": "core / font-family / fontType-24",
       "type": "fontfamily",
       "value": "Lora",
       "category": "fontfamily",
@@ -2871,7 +2671,7 @@
       }
     },
     {
-      "name": "font.type.25",
+      "name": "core / font-family / fontType-25",
       "type": "fontfamily",
       "value": "Proza Libre",
       "category": "fontfamily",
@@ -2881,7 +2681,7 @@
       }
     },
     {
-      "name": "font.type.26",
+      "name": "core / font-family / fontType-26",
       "type": "fontfamily",
       "value": "Spectral",
       "category": "fontfamily",
@@ -2891,7 +2691,7 @@
       }
     },
     {
-      "name": "font.type.27",
+      "name": "core / font-family / fontType-27",
       "type": "fontfamily",
       "value": "IBM Plex Sans",
       "category": "fontfamily",
@@ -2901,7 +2701,7 @@
       }
     },
     {
-      "name": "font.type.28",
+      "name": "core / font-family / fontType-28",
       "type": "fontfamily",
       "value": "Manrope",
       "category": "fontfamily",
@@ -2911,7 +2711,7 @@
       }
     },
     {
-      "name": "font.type.29",
+      "name": "core / font-family / fontType-29",
       "type": "fontfamily",
       "value": "Montserrat",
       "category": "fontfamily",
@@ -2921,7 +2721,7 @@
       }
     },
     {
-      "name": "font.type.30",
+      "name": "core / font-family / fontType-30",
       "type": "fontfamily",
       "value": "Lato",
       "category": "fontfamily",
@@ -2931,7 +2731,7 @@
       }
     },
     {
-      "name": "font.type.31",
+      "name": "core / font-family / fontType-31",
       "type": "fontfamily",
       "value": "PT Sans",
       "category": "fontfamily",
@@ -2941,7 +2741,7 @@
       }
     },
     {
-      "name": "font.type.32",
+      "name": "core / font-family / fontType-32",
       "type": "fontfamily",
       "value": "PT Serif",
       "category": "fontfamily",
@@ -2951,7 +2751,7 @@
       }
     },
     {
-      "name": "font.type.33",
+      "name": "core / font-family / fontType-33",
       "type": "fontfamily",
       "value": "Cardo",
       "category": "fontfamily",
@@ -2961,7 +2761,7 @@
       }
     },
     {
-      "name": "font.type.34",
+      "name": "core / font-family / fontType-34",
       "type": "fontfamily",
       "value": "Chivo",
       "category": "fontfamily",
@@ -2971,7 +2771,7 @@
       }
     },
     {
-      "name": "font.type.35",
+      "name": "core / font-family / fontType-35",
       "type": "fontfamily",
       "value": "Neuton",
       "category": "fontfamily",
@@ -2981,7 +2781,7 @@
       }
     },
     {
-      "name": "font.type.36",
+      "name": "core / font-family / fontType-36",
       "type": "fontfamily",
       "value": "Rubik",
       "category": "fontfamily",
@@ -2991,7 +2791,7 @@
       }
     },
     {
-      "name": "font.type.37",
+      "name": "core / font-family / fontType-37",
       "type": "fontfamily",
       "value": "Open Sans",
       "category": "fontfamily",
@@ -3001,7 +2801,7 @@
       }
     },
     {
-      "name": "font.type.38",
+      "name": "core / font-family / fontType-38",
       "type": "fontfamily",
       "value": "Inconsolata",
       "category": "fontfamily",
@@ -3011,7 +2811,7 @@
       }
     },
     {
-      "name": "font.type.39",
+      "name": "core / font-family / fontType-39",
       "type": "fontfamily",
       "value": "Raleway",
       "category": "fontfamily",
@@ -3021,7 +2821,7 @@
       }
     },
     {
-      "name": "font.type.40",
+      "name": "core / font-family / fontType-40",
       "type": "fontfamily",
       "value": "Merriweather",
       "category": "fontfamily",
@@ -3031,7 +2831,7 @@
       }
     },
     {
-      "name": "font.type.41",
+      "name": "core / font-family / fontType-41",
       "type": "fontfamily",
       "value": "Lustria",
       "category": "fontfamily",
@@ -3041,7 +2841,7 @@
       }
     },
     {
-      "name": "font.type.42",
+      "name": "core / font-family / fontType-42",
       "type": "fontfamily",
       "value": "Oswald",
       "category": "fontfamily",
@@ -3051,7 +2851,7 @@
       }
     },
     {
-      "name": "font.type.43",
+      "name": "core / font-family / fontType-43",
       "type": "fontfamily",
       "value": "Quattrocento",
       "category": "fontfamily",
@@ -3061,7 +2861,7 @@
       }
     },
     {
-      "name": "font.type.44",
+      "name": "core / font-family / fontType-44",
       "type": "fontfamily",
       "value": "Podkova",
       "category": "fontfamily",
@@ -3071,7 +2871,7 @@
       }
     },
     {
-      "name": "font.type.45",
+      "name": "core / font-family / fontType-45",
       "type": "fontfamily",
       "value": "Anton",
       "category": "fontfamily",
@@ -3081,7 +2881,7 @@
       }
     },
     {
-      "name": "font.type.46",
+      "name": "core / font-family / fontType-46",
       "type": "fontfamily",
       "value": "Arvo",
       "category": "fontfamily",
@@ -3091,7 +2891,7 @@
       }
     },
     {
-      "name": "font.type.47",
+      "name": "core / font-family / fontType-47",
       "type": "fontfamily",
       "value": "Abril Fatface",
       "category": "fontfamily",
@@ -3101,7 +2901,7 @@
       }
     },
     {
-      "name": "font.type.48",
+      "name": "core / font-family / fontType-48",
       "type": "fontfamily",
       "value": "Abhaya Libre",
       "category": "fontfamily",
@@ -3111,7 +2911,7 @@
       }
     },
     {
-      "name": "font.type.49",
+      "name": "core / font-family / fontType-49",
       "type": "fontfamily",
       "value": "Ultra",
       "category": "fontfamily",
@@ -3121,7 +2921,7 @@
       }
     },
     {
-      "name": "font.type.50",
+      "name": "core / font-family / fontType-50",
       "type": "fontfamily",
       "value": "Nixie One",
       "category": "fontfamily",
@@ -3131,7 +2931,7 @@
       }
     },
     {
-      "name": "font.type.51",
+      "name": "core / font-family / fontType-51",
       "type": "fontfamily",
       "value": "Ledger",
       "category": "fontfamily",
@@ -3141,7 +2941,7 @@
       }
     },
     {
-      "name": "font.type.52",
+      "name": "core / font-family / fontType-52",
       "type": "fontfamily",
       "value": "Stint Ultra Expanded",
       "category": "fontfamily",
@@ -3151,7 +2951,7 @@
       }
     },
     {
-      "name": "font.type.53",
+      "name": "core / font-family / fontType-53",
       "type": "fontfamily",
       "value": "Amatic SC",
       "category": "fontfamily",
@@ -3161,7 +2961,7 @@
       }
     },
     {
-      "name": "font.type.54",
+      "name": "core / font-family / fontType-54",
       "type": "fontfamily",
       "value": "Andika",
       "category": "fontfamily",
@@ -3171,7 +2971,7 @@
       }
     },
     {
-      "name": "font.type.55",
+      "name": "core / font-family / fontType-55",
       "type": "fontfamily",
       "value": "Unica One",
       "category": "fontfamily",
@@ -3181,7 +2981,7 @@
       }
     },
     {
-      "name": "font.type.56",
+      "name": "core / font-family / fontType-56",
       "type": "fontfamily",
       "value": "Philosopher",
       "category": "fontfamily",
@@ -3191,7 +2991,7 @@
       }
     },
     {
-      "name": "font.type.57",
+      "name": "core / font-family / fontType-57",
       "type": "fontfamily",
       "value": "Mulish",
       "category": "fontfamily",
@@ -3201,7 +3001,7 @@
       }
     },
     {
-      "name": "font.type.58",
+      "name": "core / font-family / fontType-58",
       "type": "fontfamily",
       "value": "Sacramento",
       "category": "fontfamily",
@@ -3211,7 +3011,7 @@
       }
     },
     {
-      "name": "font.type.59",
+      "name": "core / font-family / fontType-59",
       "type": "fontfamily",
       "value": "Halant",
       "category": "fontfamily",
@@ -3221,7 +3021,7 @@
       }
     },
     {
-      "name": "font.type.60",
+      "name": "core / font-family / fontType-60",
       "type": "fontfamily",
       "value": "Fjalla One",
       "category": "fontfamily",
@@ -3231,7 +3031,7 @@
       }
     },
     {
-      "name": "font.type.61",
+      "name": "core / font-family / fontType-61",
       "type": "fontfamily",
       "value": "Hind",
       "category": "fontfamily",
@@ -3241,7 +3041,7 @@
       }
     },
     {
-      "name": "font.type.62",
+      "name": "core / font-family / fontType-62",
       "type": "fontfamily",
       "value": "Oxygen",
       "category": "fontfamily",
@@ -3251,7 +3051,7 @@
       }
     },
     {
-      "name": "font.type.63",
+      "name": "core / font-family / fontType-63",
       "type": "fontfamily",
       "value": "Cabin",
       "category": "fontfamily",
@@ -3261,7 +3061,7 @@
       }
     },
     {
-      "name": "font.type.64",
+      "name": "core / font-family / fontType-64",
       "type": "fontfamily",
       "value": "Nunito",
       "category": "fontfamily",
@@ -3271,7 +3071,7 @@
       }
     },
     {
-      "name": "font.type.65",
+      "name": "core / font-family / fontType-65",
       "type": "fontfamily",
       "value": "Quicksand",
       "category": "fontfamily",
@@ -3281,7 +3081,7 @@
       }
     },
     {
-      "name": "font.type.66",
+      "name": "core / font-family / fontType-66",
       "type": "fontfamily",
       "value": "Ubuntu",
       "category": "fontfamily",
@@ -3291,7 +3091,7 @@
       }
     },
     {
-      "name": "font.type.67",
+      "name": "core / font-family / fontType-67",
       "type": "fontfamily",
       "value": "Roboto Mono",
       "category": "fontfamily",
@@ -3301,7 +3101,7 @@
       }
     },
     {
-      "name": "font.type.68",
+      "name": "core / font-family / fontType-68",
       "type": "fontfamily",
       "value": "Slabo 27px",
       "category": "fontfamily",
@@ -3311,7 +3111,7 @@
       }
     },
     {
-      "name": "font.type.69",
+      "name": "core / font-family / fontType-69",
       "type": "fontfamily",
       "value": "Nova Mono",
       "category": "fontfamily",
@@ -3321,7 +3121,7 @@
       }
     },
     {
-      "name": "font.type.70",
+      "name": "core / font-family / fontType-70",
       "type": "fontfamily",
       "value": "Public Sans",
       "category": "fontfamily",
@@ -3331,7 +3131,7 @@
       }
     },
     {
-      "name": "font.type.71",
+      "name": "core / font-family / fontType-71",
       "type": "fontfamily",
       "value": "Bitter",
       "category": "fontfamily",
@@ -3341,7 +3141,7 @@
       }
     },
     {
-      "name": "font.type.72",
+      "name": "core / font-family / fontType-72",
       "type": "fontfamily",
       "value": "Ruda",
       "category": "fontfamily",
@@ -3351,7 +3151,7 @@
       }
     },
     {
-      "name": "font.type.73",
+      "name": "core / font-family / fontType-73",
       "type": "fontfamily",
       "value": "Jura",
       "category": "fontfamily",
@@ -3361,7 +3161,7 @@
       }
     },
     {
-      "name": "font.type.74",
+      "name": "core / font-family / fontType-74",
       "type": "fontfamily",
       "value": "Pacifico",
       "category": "fontfamily",
@@ -3371,7 +3171,7 @@
       }
     },
     {
-      "name": "font.type.75",
+      "name": "core / font-family / fontType-75",
       "type": "fontfamily",
       "value": "Julius Sans One",
       "category": "fontfamily",
@@ -3381,7 +3181,7 @@
       }
     },
     {
-      "name": "font.type.76",
+      "name": "core / font-family / fontType-76",
       "type": "fontfamily",
       "value": "Josefin Slab",
       "category": "fontfamily",
@@ -3391,7 +3191,7 @@
       }
     },
     {
-      "name": "font.type.77",
+      "name": "core / font-family / fontType-77",
       "type": "fontfamily",
       "value": "Patrick Hand",
       "category": "fontfamily",
@@ -3401,7 +3201,7 @@
       }
     },
     {
-      "name": "font.type.78",
+      "name": "core / font-family / fontType-78",
       "type": "fontfamily",
       "value": "Bebas Neue",
       "category": "fontfamily",
@@ -3411,177 +3211,207 @@
       }
     },
     {
-      "name": "layout.00",
-      "type": "spacing",
-      "value": "0%",
-      "category": "spacing",
+      "name": "core / font-size / fontSize-08",
+      "type": "fontsize",
+      "value": "0.5rem",
+      "category": "fontsize",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "Kw5wZEz5C5-3"
+        "id": "JfuzJEPVALUL"
       }
     },
     {
-      "name": "layout.01",
-      "type": "spacing",
-      "value": "1%",
-      "category": "spacing",
+      "name": "core / font-size / fontSize-10",
+      "type": "fontsize",
+      "value": "0.63rem",
+      "category": "fontsize",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "FA0xRawcKeqH"
+        "id": "GIleTlhNdO1E"
       }
     },
     {
-      "name": "layout.03",
-      "type": "spacing",
-      "value": "3%",
-      "category": "spacing",
+      "name": "core / font-size / fontSize-12",
+      "type": "fontsize",
+      "value": "0.75rem",
+      "category": "fontsize",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "1T94wzenqTBR"
+        "id": "E-XpXqdEPBpB"
       }
     },
     {
-      "name": "layout.05",
-      "type": "spacing",
-      "value": "5%",
-      "category": "spacing",
+      "name": "core / font-size / fontSize-14",
+      "type": "fontsize",
+      "value": "0.88rem",
+      "category": "fontsize",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "DEgVXldwmhlZ"
+        "id": "lSejyBNu19BF"
       }
     },
     {
-      "name": "layout.10",
-      "type": "spacing",
-      "value": "10%",
-      "category": "spacing",
+      "name": "core / font-size / fontSize-16",
+      "type": "fontsize",
+      "value": "1rem",
+      "category": "fontsize",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "bfZH3Kis2NP6"
+        "id": "QSSa2VFfR_qN"
       }
     },
     {
-      "name": "layout.100",
-      "type": "spacing",
-      "value": "100%",
-      "category": "spacing",
+      "name": "core / font-size / fontSize-20",
+      "type": "fontsize",
+      "value": "1.13rem",
+      "category": "fontsize",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "2utqFeXKo4fY"
+        "id": "O9vtaTWsBgdj"
       }
     },
     {
-      "name": "layout.13",
-      "type": "spacing",
-      "value": "13%",
-      "category": "spacing",
+      "name": "core / font-size / fontSize-22",
+      "type": "fontsize",
+      "value": "1.25rem",
+      "category": "fontsize",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "Zo1KcKgWAZOr"
+        "id": "mpivALeJxat5"
       }
     },
     {
-      "name": "layout.25",
-      "type": "spacing",
-      "value": "25%",
-      "category": "spacing",
+      "name": "core / font-size / fontSize-24",
+      "type": "fontsize",
+      "value": "1.5rem",
+      "category": "fontsize",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "C_fBtaSIxVHo"
+        "id": "YUUshI2lfBP0"
       }
     },
     {
-      "name": "layout.33",
-      "type": "spacing",
-      "value": "33%",
-      "category": "spacing",
+      "name": "core / font-size / fontSize-28",
+      "type": "fontsize",
+      "value": "1.75rem",
+      "category": "fontsize",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "XbUWQakeFT3Z"
+        "id": "CfYR05E2Y9yi"
       }
     },
     {
-      "name": "layout.50",
-      "type": "spacing",
-      "value": "50%",
-      "category": "spacing",
+      "name": "core / font-size / fontSize-32",
+      "type": "fontsize",
+      "value": "2rem",
+      "category": "fontsize",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "KLAU8REipuvV"
+        "id": "zwVdR2TS28Y-"
       }
     },
     {
-      "name": "layout.66",
-      "type": "spacing",
-      "value": "66%",
-      "category": "spacing",
+      "name": "core / font-size / fontSize-36",
+      "type": "fontsize",
+      "value": "2.13rem",
+      "category": "fontsize",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "HllraYDyYmkz"
+        "id": "LYrLkb8drA1P"
       }
     },
     {
-      "name": "layout.75",
-      "type": "spacing",
-      "value": "75%",
-      "category": "spacing",
+      "name": "core / font-size / fontSize-38",
+      "type": "fontsize",
+      "value": "2.25rem",
+      "category": "fontsize",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "S8OhXXjG7a01"
+        "id": "BuZv_QBeb2vb"
       }
     },
     {
-      "name": "layout.83",
-      "type": "spacing",
-      "value": "83%",
-      "category": "spacing",
+      "name": "core / font-size / fontSize-40",
+      "type": "fontsize",
+      "value": "2.5rem",
+      "category": "fontsize",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "wjA43emTrOAL"
+        "id": "NmTA-Nbo4JB4"
       }
     },
     {
-      "name": "layout.90",
-      "type": "spacing",
-      "value": "90%",
-      "category": "spacing",
+      "name": "core / font-size / fontSize-44",
+      "type": "fontsize",
+      "value": "2.69rem",
+      "category": "fontsize",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "6xd9S-KNmZRy"
+        "id": "T3Sv8UAUez1R"
       }
     },
     {
-      "name": "layout.95",
-      "type": "spacing",
-      "value": "95%",
-      "category": "spacing",
+      "name": "core / font-size / fontSize-46",
+      "type": "fontsize",
+      "value": "2.86rem",
+      "category": "fontsize",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "68NmkAeXvOQX"
+        "id": "DSe3tNALG7hu"
       }
     },
     {
-      "name": "layout.97",
-      "type": "spacing",
-      "value": "97%",
-      "category": "spacing",
+      "name": "core / font-size / fontSize-48",
+      "type": "fontsize",
+      "value": "3rem",
+      "category": "fontsize",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "VHN0qff4pu40"
+        "id": "fktwmjOk51kL"
       }
     },
     {
-      "name": "layout.99",
-      "type": "spacing",
-      "value": "99%",
-      "category": "spacing",
+      "name": "core / font-size / fontSize-52",
+      "type": "fontsize",
+      "value": "3.38rem",
+      "category": "fontsize",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "PITsREHQ3DCb"
+        "id": "R4ai3pmJGhRZ"
       }
     },
     {
-      "name": "line.height.01",
+      "name": "core / font-size / fontSize-62",
+      "type": "fontsize",
+      "value": "3.8rem",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "tKH9zSWhPTwX"
+      }
+    },
+    {
+      "name": "core / font-size / fontSize-68",
+      "type": "fontsize",
+      "value": "4.12rem",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "ip--FKWYc-rU"
+      }
+    },
+    {
+      "name": "core / font-size / fontSize-74",
+      "type": "fontsize",
+      "value": "4.66rem",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "ATkcoPOnR-HH"
+      }
+    },
+    {
+      "name": "core / line-height / lineHeight-01",
       "type": "lineheight",
       "value": "0.88",
       "category": "lineheight",
@@ -3591,7 +3421,7 @@
       }
     },
     {
-      "name": "line.height.02",
+      "name": "core / line-height / lineHeight-02",
       "type": "lineheight",
       "value": "1.13",
       "category": "lineheight",
@@ -3601,7 +3431,7 @@
       }
     },
     {
-      "name": "line.height.03",
+      "name": "core / line-height / lineHeight-03",
       "type": "lineheight",
       "value": "1.25",
       "category": "lineheight",
@@ -3611,7 +3441,7 @@
       }
     },
     {
-      "name": "line.height.04",
+      "name": "core / line-height / lineHeight-04",
       "type": "lineheight",
       "value": "1.5",
       "category": "lineheight",
@@ -3621,7 +3451,7 @@
       }
     },
     {
-      "name": "line.height.05",
+      "name": "core / line-height / lineHeight-05",
       "type": "lineheight",
       "value": "1.75",
       "category": "lineheight",
@@ -3631,7 +3461,7 @@
       }
     },
     {
-      "name": "line.height.06",
+      "name": "core / line-height / lineHeight-06",
       "type": "lineheight",
       "value": "1.88",
       "category": "lineheight",
@@ -3641,7 +3471,7 @@
       }
     },
     {
-      "name": "line.height.07",
+      "name": "core / line-height / lineHeight-07",
       "type": "lineheight",
       "value": "2.12",
       "category": "lineheight",
@@ -3651,7 +3481,7 @@
       }
     },
     {
-      "name": "opacity.0000",
+      "name": "core / opacity / opacity-00",
       "type": "opacity",
       "value": "0",
       "category": "opacity",
@@ -3661,37 +3491,7 @@
       }
     },
     {
-      "name": "opacity.0025",
-      "type": "opacity",
-      "value": "0.25",
-      "category": "opacity",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "rbT4luOXRSJQ"
-      }
-    },
-    {
-      "name": "opacity.0050",
-      "type": "opacity",
-      "value": "0.5",
-      "category": "opacity",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "UO-yoYwgFbDc"
-      }
-    },
-    {
-      "name": "opacity.0075",
-      "type": "opacity",
-      "value": "0.75",
-      "category": "opacity",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "P5HXaIMv3nKM"
-      }
-    },
-    {
-      "name": "opacity.0100",
+      "name": "core / opacity / opacity-100",
       "type": "opacity",
       "value": "1",
       "category": "opacity",
@@ -3701,7 +3501,207 @@
       }
     },
     {
-      "name": "radii.002",
+      "name": "core / opacity / opacity-25",
+      "type": "opacity",
+      "value": "0.25",
+      "category": "opacity",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "rbT4luOXRSJQ"
+      }
+    },
+    {
+      "name": "core / opacity / opacity-50",
+      "type": "opacity",
+      "value": "0.5",
+      "category": "opacity",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "UO-yoYwgFbDc"
+      }
+    },
+    {
+      "name": "core / opacity / opacity-75",
+      "type": "opacity",
+      "value": "0.75",
+      "category": "opacity",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "P5HXaIMv3nKM"
+      }
+    },
+    {
+      "name": "core / spacing / layout / layout-00",
+      "type": "spacing",
+      "value": "0%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "Kw5wZEz5C5-3"
+      }
+    },
+    {
+      "name": "core / spacing / layout / layout-01",
+      "type": "spacing",
+      "value": "1%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "FA0xRawcKeqH"
+      }
+    },
+    {
+      "name": "core / spacing / layout / layout-03",
+      "type": "spacing",
+      "value": "3%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "1T94wzenqTBR"
+      }
+    },
+    {
+      "name": "core / spacing / layout / layout-05",
+      "type": "spacing",
+      "value": "5%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "DEgVXldwmhlZ"
+      }
+    },
+    {
+      "name": "core / spacing / layout / layout-10",
+      "type": "spacing",
+      "value": "10%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "bfZH3Kis2NP6"
+      }
+    },
+    {
+      "name": "core / spacing / layout / layout-100",
+      "type": "spacing",
+      "value": "100%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "2utqFeXKo4fY"
+      }
+    },
+    {
+      "name": "core / spacing / layout / layout-13",
+      "type": "spacing",
+      "value": "13%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "Zo1KcKgWAZOr"
+      }
+    },
+    {
+      "name": "core / spacing / layout / layout-25",
+      "type": "spacing",
+      "value": "25%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "C_fBtaSIxVHo"
+      }
+    },
+    {
+      "name": "core / spacing / layout / layout-33",
+      "type": "spacing",
+      "value": "33%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "XbUWQakeFT3Z"
+      }
+    },
+    {
+      "name": "core / spacing / layout / layout-50",
+      "type": "spacing",
+      "value": "50%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "KLAU8REipuvV"
+      }
+    },
+    {
+      "name": "core / spacing / layout / layout-66",
+      "type": "spacing",
+      "value": "66%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "HllraYDyYmkz"
+      }
+    },
+    {
+      "name": "core / spacing / layout / layout-75",
+      "type": "spacing",
+      "value": "75%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "S8OhXXjG7a01"
+      }
+    },
+    {
+      "name": "core / spacing / layout / layout-83",
+      "type": "spacing",
+      "value": "83%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "wjA43emTrOAL"
+      }
+    },
+    {
+      "name": "core / spacing / layout / layout-90",
+      "type": "spacing",
+      "value": "90%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "6xd9S-KNmZRy"
+      }
+    },
+    {
+      "name": "core / spacing / layout / layout-95",
+      "type": "spacing",
+      "value": "95%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "68NmkAeXvOQX"
+      }
+    },
+    {
+      "name": "core / spacing / layout / layout-97",
+      "type": "spacing",
+      "value": "97%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "VHN0qff4pu40"
+      }
+    },
+    {
+      "name": "core / spacing / layout / layout-99",
+      "type": "spacing",
+      "value": "99%",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "PITsREHQ3DCb"
+      }
+    },
+    {
+      "name": "core / spacing / radius / radii-0002",
       "type": "spacing",
       "value": "0.125rem",
       "category": "spacing",
@@ -3711,7 +3711,7 @@
       }
     },
     {
-      "name": "radii.004",
+      "name": "core / spacing / radius / radii-0004",
       "type": "spacing",
       "value": "0.25rem",
       "category": "spacing",
@@ -3721,7 +3721,7 @@
       }
     },
     {
-      "name": "radii.006",
+      "name": "core / spacing / radius / radii-0006",
       "type": "spacing",
       "value": "0.375rem",
       "category": "spacing",
@@ -3731,7 +3731,7 @@
       }
     },
     {
-      "name": "radii.008",
+      "name": "core / spacing / radius / radii-0008",
       "type": "spacing",
       "value": "0.5rem",
       "category": "spacing",
@@ -3741,7 +3741,7 @@
       }
     },
     {
-      "name": "radii.012",
+      "name": "core / spacing / radius / radii-0012",
       "type": "spacing",
       "value": "0.75rem",
       "category": "spacing",
@@ -3751,7 +3751,7 @@
       }
     },
     {
-      "name": "radii.016",
+      "name": "core / spacing / radius / radii-0016",
       "type": "spacing",
       "value": "1rem",
       "category": "spacing",
@@ -3761,7 +3761,7 @@
       }
     },
     {
-      "name": "radii.020",
+      "name": "core / spacing / radius / radii-0020",
       "type": "spacing",
       "value": "1.123rem",
       "category": "spacing",
@@ -3771,7 +3771,7 @@
       }
     },
     {
-      "name": "radii.024",
+      "name": "core / spacing / radius / radii-0024",
       "type": "spacing",
       "value": "1.5rem",
       "category": "spacing",
@@ -3781,7 +3781,7 @@
       }
     },
     {
-      "name": "radii.032",
+      "name": "core / spacing / radius / radii-0032",
       "type": "spacing",
       "value": "2rem",
       "category": "spacing",
@@ -3791,7 +3791,7 @@
       }
     },
     {
-      "name": "radii.0500",
+      "name": "core / spacing / radius / radii-0500",
       "type": "spacing",
       "value": "2.5rem",
       "category": "spacing",
@@ -3801,7 +3801,7 @@
       }
     },
     {
-      "name": "radii.0600",
+      "name": "core / spacing / radius / radii-0600",
       "type": "spacing",
       "value": "3rem",
       "category": "spacing",
@@ -3811,7 +3811,7 @@
       }
     },
     {
-      "name": "radii.0800",
+      "name": "core / spacing / radius / radii-0800",
       "type": "spacing",
       "value": "4rem",
       "category": "spacing",
@@ -3821,7 +3821,7 @@
       }
     },
     {
-      "name": "radii.none",
+      "name": "core / spacing / radius / radii-none",
       "type": "spacing",
       "value": "0rem",
       "category": "spacing",
@@ -3831,7 +3831,7 @@
       }
     },
     {
-      "name": "radii.pill",
+      "name": "core / spacing / radius / radii-pill",
       "type": "spacing",
       "value": "9999px",
       "category": "spacing",
@@ -3841,7 +3841,7 @@
       }
     },
     {
-      "name": "radii.round",
+      "name": "core / spacing / radius / radii-round",
       "type": "spacing",
       "value": "50%",
       "category": "spacing",
@@ -3851,7 +3851,7 @@
       }
     },
     {
-      "name": "size.0000",
+      "name": "core / spacing / size / size-000",
       "type": "spacing",
       "value": "0rem",
       "category": "spacing",
@@ -3861,7 +3861,7 @@
       }
     },
     {
-      "name": "size.002",
+      "name": "core / spacing / size / size-002",
       "type": "spacing",
       "value": "0.125rem",
       "category": "spacing",
@@ -3871,7 +3871,7 @@
       }
     },
     {
-      "name": "size.004",
+      "name": "core / spacing / size / size-004",
       "type": "spacing",
       "value": "0.25rem",
       "category": "spacing",
@@ -3881,7 +3881,7 @@
       }
     },
     {
-      "name": "size.006",
+      "name": "core / spacing / size / size-006",
       "type": "spacing",
       "value": "0.237rem",
       "category": "spacing",
@@ -3891,7 +3891,7 @@
       }
     },
     {
-      "name": "size.008",
+      "name": "core / spacing / size / size-008",
       "type": "spacing",
       "value": "0.5rem",
       "category": "spacing",
@@ -3901,7 +3901,7 @@
       }
     },
     {
-      "name": "size.012",
+      "name": "core / spacing / size / size-012",
       "type": "spacing",
       "value": "0.75rem",
       "category": "spacing",
@@ -3911,7 +3911,7 @@
       }
     },
     {
-      "name": "size.016",
+      "name": "core / spacing / size / size-016",
       "type": "spacing",
       "value": "1rem",
       "category": "spacing",
@@ -3921,7 +3921,7 @@
       }
     },
     {
-      "name": "size.024",
+      "name": "core / spacing / size / size-024",
       "type": "spacing",
       "value": "1.5rem",
       "category": "spacing",
@@ -3931,7 +3931,7 @@
       }
     },
     {
-      "name": "size.028",
+      "name": "core / spacing / size / size-028",
       "type": "spacing",
       "value": "1.75rem",
       "category": "spacing",
@@ -3941,7 +3941,7 @@
       }
     },
     {
-      "name": "size.032",
+      "name": "core / spacing / size / size-032",
       "type": "spacing",
       "value": "2rem",
       "category": "spacing",
@@ -3951,7 +3951,7 @@
       }
     },
     {
-      "name": "size.036",
+      "name": "core / spacing / size / size-036",
       "type": "spacing",
       "value": "2.25rem",
       "category": "spacing",
@@ -3961,7 +3961,7 @@
       }
     },
     {
-      "name": "size.040",
+      "name": "core / spacing / size / size-040",
       "type": "spacing",
       "value": "2.5rem",
       "category": "spacing",
@@ -3971,7 +3971,7 @@
       }
     },
     {
-      "name": "size.048",
+      "name": "core / spacing / size / size-048",
       "type": "spacing",
       "value": "3rem",
       "category": "spacing",
@@ -3981,7 +3981,7 @@
       }
     },
     {
-      "name": "size.056",
+      "name": "core / spacing / size / size-056",
       "type": "spacing",
       "value": "3.5rem",
       "category": "spacing",
@@ -3991,7 +3991,7 @@
       }
     },
     {
-      "name": "size.064",
+      "name": "core / spacing / size / size-064",
       "type": "spacing",
       "value": "4rem",
       "category": "spacing",
@@ -4001,7 +4001,7 @@
       }
     },
     {
-      "name": "size.072",
+      "name": "core / spacing / size / size-072",
       "type": "spacing",
       "value": "4.5rem",
       "category": "spacing",
@@ -4011,7 +4011,7 @@
       }
     },
     {
-      "name": "size.080",
+      "name": "core / spacing / size / size-080",
       "type": "spacing",
       "value": "5rem",
       "category": "spacing",
@@ -4021,7 +4021,7 @@
       }
     },
     {
-      "name": "size.104",
+      "name": "core / spacing / size / size-104",
       "type": "spacing",
       "value": "6.5rem",
       "category": "spacing",
@@ -4031,7 +4031,7 @@
       }
     },
     {
-      "name": "size.128",
+      "name": "core / spacing / size / size-128",
       "type": "spacing",
       "value": "8rem",
       "category": "spacing",
@@ -4041,7 +4041,7 @@
       }
     },
     {
-      "name": "size.152",
+      "name": "core / spacing / size / size-152",
       "type": "spacing",
       "value": "9.5rem",
       "category": "spacing",
@@ -4051,7 +4051,7 @@
       }
     },
     {
-      "name": "size.176",
+      "name": "core / spacing / size / size-176",
       "type": "spacing",
       "value": "11rem",
       "category": "spacing",
@@ -4061,7 +4061,7 @@
       }
     },
     {
-      "name": "size.200",
+      "name": "core / spacing / size / size-200",
       "type": "spacing",
       "value": "12.5rem",
       "category": "spacing",
@@ -4071,7 +4071,7 @@
       }
     },
     {
-      "name": "size.224",
+      "name": "core / spacing / size / size-224",
       "type": "spacing",
       "value": "14rem",
       "category": "spacing",
@@ -4081,7 +4081,7 @@
       }
     },
     {
-      "name": "size.248",
+      "name": "core / spacing / size / size-248",
       "type": "spacing",
       "value": "15.5rem",
       "category": "spacing",
@@ -4091,7 +4091,7 @@
       }
     },
     {
-      "name": "size.272",
+      "name": "core / spacing / size / size-272",
       "type": "spacing",
       "value": "17rem",
       "category": "spacing",
@@ -4101,7 +4101,7 @@
       }
     },
     {
-      "name": "size.296",
+      "name": "core / spacing / size / size-296",
       "type": "spacing",
       "value": "18.5rem",
       "category": "spacing",
@@ -4111,7 +4111,7 @@
       }
     },
     {
-      "name": "size.320",
+      "name": "core / spacing / size / size-320",
       "type": "spacing",
       "value": "20rem",
       "category": "spacing",
@@ -4121,7 +4121,7 @@
       }
     },
     {
-      "name": "size.344",
+      "name": "core / spacing / size / size-344",
       "type": "spacing",
       "value": "21.5rem",
       "category": "spacing",
@@ -4131,7 +4131,7 @@
       }
     },
     {
-      "name": "space.002",
+      "name": "core / spacing / space / space-002",
       "type": "spacing",
       "value": "0.125rem",
       "category": "spacing",
@@ -4141,7 +4141,7 @@
       }
     },
     {
-      "name": "space.004",
+      "name": "core / spacing / space / space-004",
       "type": "spacing",
       "value": "0.25rem",
       "category": "spacing",
@@ -4151,7 +4151,7 @@
       }
     },
     {
-      "name": "space.006",
+      "name": "core / spacing / space / space-006",
       "type": "spacing",
       "value": "0.375rem",
       "category": "spacing",
@@ -4161,7 +4161,7 @@
       }
     },
     {
-      "name": "space.008",
+      "name": "core / spacing / space / space-008",
       "type": "spacing",
       "value": "0.5rem",
       "category": "spacing",
@@ -4171,7 +4171,7 @@
       }
     },
     {
-      "name": "space.012",
+      "name": "core / spacing / space / space-012",
       "type": "spacing",
       "value": "0.75rem",
       "category": "spacing",
@@ -4181,7 +4181,7 @@
       }
     },
     {
-      "name": "space.016",
+      "name": "core / spacing / space / space-016",
       "type": "spacing",
       "value": "1rem",
       "category": "spacing",
@@ -4191,7 +4191,7 @@
       }
     },
     {
-      "name": "space.020",
+      "name": "core / spacing / space / space-020",
       "type": "spacing",
       "value": "1.123rem",
       "category": "spacing",
@@ -4201,7 +4201,7 @@
       }
     },
     {
-      "name": "space.024",
+      "name": "core / spacing / space / space-024",
       "type": "spacing",
       "value": "1.5rem",
       "category": "spacing",
@@ -4211,7 +4211,7 @@
       }
     },
     {
-      "name": "space.028",
+      "name": "core / spacing / space / space-028",
       "type": "spacing",
       "value": "1.75rem",
       "category": "spacing",
@@ -4221,7 +4221,7 @@
       }
     },
     {
-      "name": "space.032",
+      "name": "core / spacing / space / space-032",
       "type": "spacing",
       "value": "2rem",
       "category": "spacing",
@@ -4231,7 +4231,7 @@
       }
     },
     {
-      "name": "space.036",
+      "name": "core / spacing / space / space-036",
       "type": "spacing",
       "value": "2.25rem",
       "category": "spacing",
@@ -4241,7 +4241,7 @@
       }
     },
     {
-      "name": "space.040",
+      "name": "core / spacing / space / space-040",
       "type": "spacing",
       "value": "2.5rem",
       "category": "spacing",
@@ -4251,7 +4251,7 @@
       }
     },
     {
-      "name": "space.044",
+      "name": "core / spacing / space / space-044",
       "type": "spacing",
       "value": "2.75rem",
       "category": "spacing",
@@ -4261,7 +4261,7 @@
       }
     },
     {
-      "name": "space.048",
+      "name": "core / spacing / space / space-048",
       "type": "spacing",
       "value": "3rem",
       "category": "spacing",
@@ -4271,7 +4271,7 @@
       }
     },
     {
-      "name": "space.056",
+      "name": "core / spacing / space / space-056",
       "type": "spacing",
       "value": "3.5rem",
       "category": "spacing",
@@ -4281,7 +4281,7 @@
       }
     },
     {
-      "name": "space.064",
+      "name": "core / spacing / space / space-064",
       "type": "spacing",
       "value": "4rem",
       "category": "spacing",
@@ -4291,7 +4291,7 @@
       }
     },
     {
-      "name": "space.072",
+      "name": "core / spacing / space / space-072",
       "type": "spacing",
       "value": "4.5rem",
       "category": "spacing",
@@ -4301,7 +4301,7 @@
       }
     },
     {
-      "name": "space.080",
+      "name": "core / spacing / space / space-080",
       "type": "spacing",
       "value": "5rem",
       "category": "spacing",
@@ -4311,7 +4311,7 @@
       }
     },
     {
-      "name": "space.104",
+      "name": "core / spacing / space / space-104",
       "type": "spacing",
       "value": "6.5rem",
       "category": "spacing",
@@ -4321,7 +4321,7 @@
       }
     },
     {
-      "name": "space.112",
+      "name": "core / spacing / space / space-112",
       "type": "spacing",
       "value": "7rem",
       "category": "spacing",
@@ -4331,7 +4331,7 @@
       }
     },
     {
-      "name": "space.128",
+      "name": "core / spacing / space / space-128",
       "type": "spacing",
       "value": "8rem",
       "category": "spacing",
@@ -4341,7 +4341,7 @@
       }
     },
     {
-      "name": "space.152",
+      "name": "core / spacing / space / space-152",
       "type": "spacing",
       "value": "9.5rem",
       "category": "spacing",
@@ -4351,7 +4351,7 @@
       }
     },
     {
-      "name": "space.176",
+      "name": "core / spacing / space / space-176",
       "type": "spacing",
       "value": "11rem",
       "category": "spacing",
@@ -4361,7 +4361,7 @@
       }
     },
     {
-      "name": "space.200",
+      "name": "core / spacing / space / space-200",
       "type": "spacing",
       "value": "12.5rem",
       "category": "spacing",
@@ -4371,7 +4371,7 @@
       }
     },
     {
-      "name": "space.224",
+      "name": "core / spacing / space / space-224",
       "type": "spacing",
       "value": "14rem",
       "category": "spacing",
@@ -4381,7 +4381,7 @@
       }
     },
     {
-      "name": "space.248",
+      "name": "core / spacing / space / space-248",
       "type": "spacing",
       "value": "15.5rem",
       "category": "spacing",
@@ -4391,7 +4391,7 @@
       }
     },
     {
-      "name": "space.272",
+      "name": "core / spacing / space / space-272",
       "type": "spacing",
       "value": "17rem",
       "category": "spacing",
@@ -4401,7 +4401,7 @@
       }
     },
     {
-      "name": "space.296",
+      "name": "core / spacing / space / space-296",
       "type": "spacing",
       "value": "18.5rem",
       "category": "spacing",
@@ -4411,7 +4411,7 @@
       }
     },
     {
-      "name": "space.320",
+      "name": "core / spacing / space / space-320",
       "type": "spacing",
       "value": "20rem",
       "category": "spacing",
@@ -4421,7 +4421,7 @@
       }
     },
     {
-      "name": "space.344",
+      "name": "core / spacing / space / space-344",
       "type": "spacing",
       "value": "21.5rem",
       "category": "spacing",

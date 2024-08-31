@@ -3698,6 +3698,15 @@ function PlasmicCoreColors__RenderFunc(props: {
               </div>
             </div>
           </Stack__>
+          <div
+            className={classNames(
+              projectcss.all,
+              projectcss.__wab_text,
+              sty.text___1PRvL
+            )}
+          >
+            {"fontType"}
+          </div>
         </div>
       </div>
     </React.Fragment>
