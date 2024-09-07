@@ -3531,6 +3531,66 @@
       }
     },
     {
+      "name": "core / spacing / border / border-00",
+      "type": "spacing",
+      "value": "0px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "ZmZMqjZNOXZ5"
+      }
+    },
+    {
+      "name": "core / spacing / border / border-01",
+      "type": "spacing",
+      "value": "1px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "V0UtiR-ZpFlL"
+      }
+    },
+    {
+      "name": "core / spacing / border / border-02",
+      "type": "spacing",
+      "value": "2px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "K7du7Od72BZN"
+      }
+    },
+    {
+      "name": "core / spacing / border / border-03",
+      "type": "spacing",
+      "value": "3px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "376lLb_hUdxO"
+      }
+    },
+    {
+      "name": "core / spacing / border / border-04",
+      "type": "spacing",
+      "value": "4px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "e8cScwMSpaJn"
+      }
+    },
+    {
+      "name": "core / spacing / border / border-05",
+      "type": "spacing",
+      "value": "5px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "3VqioWv9mV0N"
+      }
+    },
+    {
       "name": "core / spacing / layout / layout-00",
       "type": "spacing",
       "value": "0%",
