@@ -895,44 +895,70 @@
   --plasmic-token-core-spacing-layout-layout-00: var(--token-Kw5wZEz5C5-3);
   --token-2utqFeXKo4fY: 100%;
   --plasmic-token-core-spacing-layout-layout-100: var(--token-2utqFeXKo4fY);
-  --token-FUqrdrjUJPJh: #1195d661;
-  --plasmic-token-core-color-aqua-aqua-disabled: var(--token-FUqrdrjUJPJh);
-  --token-rbYBMbSPHLHb: #3d8df561;
-  --plasmic-token-core-color-blue-blue-disabled: var(--token-rbYBMbSPHLHb);
-  --token-yBSOg0YRIGK5: #7a909e61;
-  --plasmic-token-core-color-gray-gray-disabled: var(--token-yBSOg0YRIGK5);
-  --token-a6WiddKVxPY4: #16a16361;
-  --plasmic-token-core-color-green-green-disabled: var(--token-a6WiddKVxPY4);
-  --token-UX9Q9l83IXsw: #7681fc61;
-  --plasmic-token-core-color-indigo-indigo-disabled: var(--token-UX9Q9l83IXsw);
-  --token-tHyRBHmNz2T1: #52a31d61;
-  --plasmic-token-core-color-lime-lime-disabled: var(--token-tHyRBHmNz2T1);
-  --token-hl8t5CiG29kk: #a3a3a361;
-  --plasmic-token-core-color-neutral-neutral-disabled: var(
+  --token-FUqrdrjUJPJh: #1195d673;
+  --plasmic-token-core-color-aqua-aqua-transparent-45: var(
+    --token-FUqrdrjUJPJh
+  );
+  --token-rbYBMbSPHLHb: #3d8df526;
+  --plasmic-token-core-color-blue-blue-transparent-15: var(
+    --token-rbYBMbSPHLHb
+  );
+  --token-yBSOg0YRIGK5: #7a909e26;
+  --plasmic-token-core-color-gray-gray-transparent-15: var(
+    --token-yBSOg0YRIGK5
+  );
+  --token-a6WiddKVxPY4: #16a16326;
+  --plasmic-token-core-color-green-green-transparent-15: var(
+    --token-a6WiddKVxPY4
+  );
+  --token-UX9Q9l83IXsw: #7681fc26;
+  --plasmic-token-core-color-indigo-indigo-transparent-15: var(
+    --token-UX9Q9l83IXsw
+  );
+  --token-tHyRBHmNz2T1: #52a31d26;
+  --plasmic-token-core-color-lime-lime-transparent-15: var(
+    --token-tHyRBHmNz2T1
+  );
+  --token-hl8t5CiG29kk: #a3a3a3bf;
+  --plasmic-token-core-color-neutral-neutral-transparent-75: var(
     --token-hl8t5CiG29kk
   );
-  --token-S9XzQLfT6xWN: #e8642761;
-  --plasmic-token-core-color-orange-orange-disabled: var(--token-S9XzQLfT6xWN);
-  --token-qru3H8GOWPdC: #ed4cb761;
-  --plasmic-token-core-color-pink-pink-disabled: var(--token-qru3H8GOWPdC);
-  --token-exeA2B7uuDH8: #ac71f061;
-  --plasmic-token-core-color-purple-purple-disabled: var(--token-exeA2B7uuDH8);
-  --token-Vw_UIMSK39yl: #fa534361;
-  --plasmic-token-core-color-red-red-disabled: var(--token-Vw_UIMSK39yl);
+  --token-S9XzQLfT6xWN: #e8642726;
+  --plasmic-token-core-color-orange-orange-transparent-15: var(
+    --token-S9XzQLfT6xWN
+  );
+  --token-qru3H8GOWPdC: #ed4cb7bf;
+  --plasmic-token-core-color-pink-pink-transparent-75: var(
+    --token-qru3H8GOWPdC
+  );
+  --token-exeA2B7uuDH8: #ac71f026;
+  --plasmic-token-core-color-purple-purple-transparent-15: var(
+    --token-exeA2B7uuDH8
+  );
+  --token-Vw_UIMSK39yl: #fa534326;
+  --plasmic-token-core-color-red-red-transparent-15: var(--token-Vw_UIMSK39yl);
   --token-i0YtzT-iWkyM: #94a3b861;
   --plasmic-token-core-color-slate-slate-disabled: var(--token-i0YtzT-iWkyM);
-  --token-NmXXiiMJ6cll: #a8a29e61;
-  --plasmic-token-core-color-stone-stone-disabled: var(--token-NmXXiiMJ6cll);
-  --token-6NCrvdDsKmfX: #279c9c61;
-  --plasmic-token-core-color-teal-teal-disabled: var(--token-6NCrvdDsKmfX);
-  --token-e4NSe0uksT5H: #159ab361;
-  --plasmic-token-core-color-turquoise-turquoise-disabled: var(
+  --token-NmXXiiMJ6cll: #a8a29e26;
+  --plasmic-token-core-color-stone-stone-transparent-15: var(
+    --token-NmXXiiMJ6cll
+  );
+  --token-6NCrvdDsKmfX: #279c9c26;
+  --plasmic-token-core-color-teal-teal-transparent-15: var(
+    --token-6NCrvdDsKmfX
+  );
+  --token-e4NSe0uksT5H: #159ab326;
+  --plasmic-token-core-color-turquoise-turquoise-transparent-15: var(
     --token-e4NSe0uksT5H
   );
-  --token-MT_nXvSakA9C: #b3870e61;
-  --plasmic-token-core-color-yellow-yellow-disabled: var(--token-MT_nXvSakA9C);
+  --token-MT_nXvSakA9C: #b3870e26;
+  --plasmic-token-core-color-yellow-yellow-transparent-15: var(
+    --token-MT_nXvSakA9C
+  );
   --token-HKcPgvgdV6qz: #a1a1aa61;
-  --plasmic-token-core-color-zinc-zinc-disabled: var(--token-HKcPgvgdV6qz);
+  --plasmic-token-core-color-zinc-zinc-transparent-15: var(
+    --token-HKcPgvgdV6qz
+  );
   --token-ZmZMqjZNOXZ5: 0px;
   --plasmic-token-core-spacing-border-border-00: var(--token-ZmZMqjZNOXZ5);
   --token-V0UtiR-ZpFlL: 1px;
@@ -945,6 +971,142 @@
   --plasmic-token-core-spacing-border-border-04: var(--token-e8cScwMSpaJn);
   --token-3VqioWv9mV0N: 5px;
   --plasmic-token-core-spacing-border-border-05: var(--token-3VqioWv9mV0N);
+  --token-AxUgkgfvTy3v: #1195d626;
+  --plasmic-token-core-color-aqua-aqua-transparent-15: var(
+    --token-AxUgkgfvTy3v
+  );
+  --token-Q8Yy6fPPs76r: #1195d6bf;
+  --plasmic-token-core-color-aqua-aqua-transparent-75: var(
+    --token-Q8Yy6fPPs76r
+  );
+  --token-jnQWeuYBzfsa: #3d8df573;
+  --plasmic-token-core-color-blue-blue-transparent-45: var(
+    --token-jnQWeuYBzfsa
+  );
+  --token-gowTJs2MRzyl: #3d8df5bf;
+  --plasmic-token-core-color-blue-blue-transparent-75: var(
+    --token-gowTJs2MRzyl
+  );
+  --token-X2clVczufeeL: #7a909e73;
+  --plasmic-token-core-color-gray-gray-transparent-45: var(
+    --token-X2clVczufeeL
+  );
+  --token-H8QY8goVMEYP: #7a909ebf;
+  --plasmic-token-core-color-gray-gray-transparent-75: var(
+    --token-H8QY8goVMEYP
+  );
+  --token-nLks_KmuWF72: #16a16373;
+  --plasmic-token-core-color-green-green-transparent-45: var(
+    --token-nLks_KmuWF72
+  );
+  --token-sOI_l2wPsrPW: #16a163bf;
+  --plasmic-token-core-color-green-green-transparent-75: var(
+    --token-sOI_l2wPsrPW
+  );
+  --token-30H7bLjTe26a: #7681fc73;
+  --plasmic-token-core-color-indigo-indigo-transparent-45: var(
+    --token-30H7bLjTe26a
+  );
+  --token-ghM3NYEzstNs: #7681fcbf;
+  --plasmic-token-core-color-indigo-indigo-transparent-75: var(
+    --token-ghM3NYEzstNs
+  );
+  --token-IvfiLMllhcYM: #52a31d73;
+  --plasmic-token-core-color-lime-lime-transparent-45: var(
+    --token-IvfiLMllhcYM
+  );
+  --token-WstJUgenIY2x: #52a31dbf;
+  --plasmic-token-core-color-lime-lime-transparent-75: var(
+    --token-WstJUgenIY2x
+  );
+  --token--tzl0pvWHsSO: #a3a3a326;
+  --plasmic-token-core-color-neutral-neutral-transparent-15: var(
+    --token--tzl0pvWHsSO
+  );
+  --token--ZPcmlLY4dyj: #a3a3a373;
+  --plasmic-token-core-color-neutral-neutral-transparent-45: var(
+    --token--ZPcmlLY4dyj
+  );
+  --token-q2OP_j8oe4RD: #e8642773;
+  --plasmic-token-core-color-orange-orange-transparent-45: var(
+    --token-q2OP_j8oe4RD
+  );
+  --token-fvW6cwT7TfiT: #e86427bf;
+  --plasmic-token-core-color-orange-orange-transparent-75: var(
+    --token-fvW6cwT7TfiT
+  );
+  --token-gZJ9FcWC7ozV: #ed4cb773;
+  --plasmic-token-core-color-pink-pink-transparent-45: var(
+    --token-gZJ9FcWC7ozV
+  );
+  --token-kBCA-jUWCX5U: #ed4cb773;
+  --plasmic-token-core-color-pink-pink-transparent-15: var(
+    --token-kBCA-jUWCX5U
+  );
+  --token-Ol7dx_-U0pFr: #ac71f073;
+  --plasmic-token-core-color-purple-purple-transparent-45: var(
+    --token-Ol7dx_-U0pFr
+  );
+  --token-nApNHrUKLCqG: #ac71f0bf;
+  --plasmic-token-core-color-purple-purple-transparent-75: var(
+    --token-nApNHrUKLCqG
+  );
+  --token-Mw1SJhraHdnP: #fa534373;
+  --plasmic-token-core-color-red-red-transparent-45: var(--token-Mw1SJhraHdnP);
+  --token-0XEIWsgtAFeA: #fa5343bf;
+  --plasmic-token-core-color-red-red-transparent-75: var(--token-0XEIWsgtAFeA);
+  --token-uT8eE5cn_Lap: #94a3b826;
+  --plasmic-token-core-color-slate-slate-transparent-15: var(
+    --token-uT8eE5cn_Lap
+  );
+  --token-Mv9HCPsKQF99: #94a3b873;
+  --plasmic-token-core-color-slate-slate-transparent-45: var(
+    --token-Mv9HCPsKQF99
+  );
+  --token-R8iVQcAIXTv_: #94a3b8bf;
+  --plasmic-token-core-color-slate-slate-transparent-75: var(
+    --token-R8iVQcAIXTv_
+  );
+  --token-pjGct0NW_Biu: #a8a29e73;
+  --plasmic-token-core-color-stone-stone-transparent-45: var(
+    --token-pjGct0NW_Biu
+  );
+  --token-Jv2OUmwinN4L: #a8a29ebf;
+  --plasmic-token-core-color-stone-stone-transparent-75: var(
+    --token-Jv2OUmwinN4L
+  );
+  --token--Ko_BDg0nkgr: #279c9c73;
+  --plasmic-token-core-color-teal-teal-transparent-45: var(
+    --token--Ko_BDg0nkgr
+  );
+  --token-wfZexVGd8rzs: #279c9cbf;
+  --plasmic-token-core-color-teal-teal-transparent-75: var(
+    --token-wfZexVGd8rzs
+  );
+  --token-Pp6kjBQL6oiU: #159ab373;
+  --plasmic-token-core-color-turquoise-turquoise-transparent-45: var(
+    --token-Pp6kjBQL6oiU
+  );
+  --token-2gQUxb-TXeIk: #159ab3bf;
+  --plasmic-token-core-color-turquoise-turquoise-transparent-75: var(
+    --token-2gQUxb-TXeIk
+  );
+  --token-yKSpa4cnCREt: #b3870e73;
+  --plasmic-token-core-color-yellow-yellow-transparent-45: var(
+    --token-yKSpa4cnCREt
+  );
+  --token-KCcaBJuLbLMS: #b3870ebf;
+  --plasmic-token-core-color-yellow-yellow-transparent-75: var(
+    --token-KCcaBJuLbLMS
+  );
+  --token-VJNkYP0pgaZZ: #a1a1aa73;
+  --plasmic-token-core-color-zinc-zinc-transparent-45: var(
+    --token-VJNkYP0pgaZZ
+  );
+  --token-oHC0Vv4ZV70Y: #a1a1aabf;
+  --plasmic-token-core-color-zinc-zinc-transparent-75: var(
+    --token-oHC0Vv4ZV70Y
+  );
 }
 
 @media (max-width: 768px) {
@@ -1527,43 +1689,205 @@
   --token-iEijkIOiaQzJ: #ffffff;
   --plasmic-token-core-color-brand-brand-gitlab: var(--token-iEijkIOiaQzJ);
   --token-FUqrdrjUJPJh: #0073ba;
-  --plasmic-token-core-color-aqua-aqua-disabled: var(--token-FUqrdrjUJPJh);
+  --plasmic-token-core-color-aqua-aqua-transparent-45: var(
+    --token-FUqrdrjUJPJh
+  );
   --token-rbYBMbSPHLHb: #186ade;
-  --plasmic-token-core-color-blue-blue-disabled: var(--token-rbYBMbSPHLHb);
+  --plasmic-token-core-color-blue-blue-transparent-15: var(
+    --token-rbYBMbSPHLHb
+  );
   --token-yBSOg0YRIGK5: #5b7282;
-  --plasmic-token-core-color-gray-gray-disabled: var(--token-yBSOg0YRIGK5);
+  --plasmic-token-core-color-gray-gray-transparent-15: var(
+    --token-yBSOg0YRIGK5
+  );
   --token-a6WiddKVxPY4: #077d55;
-  --plasmic-token-core-color-green-green-disabled: var(--token-a6WiddKVxPY4);
+  --plasmic-token-core-color-green-green-transparent-15: var(
+    --token-a6WiddKVxPY4
+  );
   --token-UX9Q9l83IXsw: #545fe8;
-  --plasmic-token-core-color-indigo-indigo-disabled: var(--token-UX9Q9l83IXsw);
+  --plasmic-token-core-color-indigo-indigo-transparent-15: var(
+    --token-UX9Q9l83IXsw
+  );
   --token-tHyRBHmNz2T1: #3c7d0e;
-  --plasmic-token-core-color-lime-lime-disabled: var(--token-tHyRBHmNz2T1);
+  --plasmic-token-core-color-lime-lime-transparent-15: var(
+    --token-tHyRBHmNz2T1
+  );
   --token-hl8t5CiG29kk: #737373;
-  --plasmic-token-core-color-neutral-neutral-disabled: var(
+  --plasmic-token-core-color-neutral-neutral-transparent-75: var(
     --token-hl8t5CiG29kk
   );
   --token-S9XzQLfT6xWN: #bf4815;
-  --plasmic-token-core-color-orange-orange-disabled: var(--token-S9XzQLfT6xWN);
+  --plasmic-token-core-color-orange-orange-transparent-15: var(
+    --token-S9XzQLfT6xWN
+  );
   --token-qru3H8GOWPdC: #cc1d92;
-  --plasmic-token-core-color-pink-pink-disabled: var(--token-qru3H8GOWPdC);
+  --plasmic-token-core-color-pink-pink-transparent-75: var(
+    --token-qru3H8GOWPdC
+  );
   --token-exeA2B7uuDH8: #8f49de;
-  --plasmic-token-core-color-purple-purple-disabled: var(--token-exeA2B7uuDH8);
+  --plasmic-token-core-color-purple-purple-transparent-15: var(
+    --token-exeA2B7uuDH8
+  );
   --token-Vw_UIMSK39yl: #d91f11;
-  --plasmic-token-core-color-red-red-disabled: var(--token-Vw_UIMSK39yl);
+  --plasmic-token-core-color-red-red-transparent-15: var(--token-Vw_UIMSK39yl);
   --token-i0YtzT-iWkyM: #64748b;
   --plasmic-token-core-color-slate-slate-disabled: var(--token-i0YtzT-iWkyM);
   --token-NmXXiiMJ6cll: #78716c;
-  --plasmic-token-core-color-stone-stone-disabled: var(--token-NmXXiiMJ6cll);
+  --plasmic-token-core-color-stone-stone-transparent-15: var(
+    --token-NmXXiiMJ6cll
+  );
   --token-6NCrvdDsKmfX: #167b7d;
-  --plasmic-token-core-color-teal-teal-disabled: var(--token-6NCrvdDsKmfX);
+  --plasmic-token-core-color-teal-teal-transparent-15: var(
+    --token-6NCrvdDsKmfX
+  );
   --token-e4NSe0uksT5H: #067a91;
-  --plasmic-token-core-color-turquoise-turquoise-disabled: var(
+  --plasmic-token-core-color-turquoise-turquoise-transparent-15: var(
     --token-e4NSe0uksT5H
   );
   --token-MT_nXvSakA9C: #946613;
-  --plasmic-token-core-color-yellow-yellow-disabled: var(--token-MT_nXvSakA9C);
+  --plasmic-token-core-color-yellow-yellow-transparent-15: var(
+    --token-MT_nXvSakA9C
+  );
   --token-HKcPgvgdV6qz: #71717a;
-  --plasmic-token-core-color-zinc-zinc-disabled: var(--token-HKcPgvgdV6qz);
+  --plasmic-token-core-color-zinc-zinc-transparent-15: var(
+    --token-HKcPgvgdV6qz
+  );
+  --token-AxUgkgfvTy3v: #0073ba;
+  --plasmic-token-core-color-aqua-aqua-transparent-15: var(
+    --token-AxUgkgfvTy3v
+  );
+  --token-Q8Yy6fPPs76r: #0073ba;
+  --plasmic-token-core-color-aqua-aqua-transparent-75: var(
+    --token-Q8Yy6fPPs76r
+  );
+  --token-jnQWeuYBzfsa: #186ade;
+  --plasmic-token-core-color-blue-blue-transparent-45: var(
+    --token-jnQWeuYBzfsa
+  );
+  --token-gowTJs2MRzyl: #186ade;
+  --plasmic-token-core-color-blue-blue-transparent-75: var(
+    --token-gowTJs2MRzyl
+  );
+  --token-X2clVczufeeL: #5b7282;
+  --plasmic-token-core-color-gray-gray-transparent-45: var(
+    --token-X2clVczufeeL
+  );
+  --token-H8QY8goVMEYP: #5b7282;
+  --plasmic-token-core-color-gray-gray-transparent-75: var(
+    --token-H8QY8goVMEYP
+  );
+  --token-nLks_KmuWF72: #077d55;
+  --plasmic-token-core-color-green-green-transparent-45: var(
+    --token-nLks_KmuWF72
+  );
+  --token-sOI_l2wPsrPW: #077d55;
+  --plasmic-token-core-color-green-green-transparent-75: var(
+    --token-sOI_l2wPsrPW
+  );
+  --token-30H7bLjTe26a: #545fe8;
+  --plasmic-token-core-color-indigo-indigo-transparent-45: var(
+    --token-30H7bLjTe26a
+  );
+  --token-ghM3NYEzstNs: #545fe8;
+  --plasmic-token-core-color-indigo-indigo-transparent-75: var(
+    --token-ghM3NYEzstNs
+  );
+  --token-IvfiLMllhcYM: #3c7d0e;
+  --plasmic-token-core-color-lime-lime-transparent-45: var(
+    --token-IvfiLMllhcYM
+  );
+  --token-WstJUgenIY2x: #3c7d0e;
+  --plasmic-token-core-color-lime-lime-transparent-75: var(
+    --token-WstJUgenIY2x
+  );
+  --token--tzl0pvWHsSO: #737373;
+  --plasmic-token-core-color-neutral-neutral-transparent-15: var(
+    --token--tzl0pvWHsSO
+  );
+  --token--ZPcmlLY4dyj: #737373;
+  --plasmic-token-core-color-neutral-neutral-transparent-45: var(
+    --token--ZPcmlLY4dyj
+  );
+  --token-q2OP_j8oe4RD: #bf4815;
+  --plasmic-token-core-color-orange-orange-transparent-45: var(
+    --token-q2OP_j8oe4RD
+  );
+  --token-fvW6cwT7TfiT: #bf4815;
+  --plasmic-token-core-color-orange-orange-transparent-75: var(
+    --token-fvW6cwT7TfiT
+  );
+  --token-gZJ9FcWC7ozV: #cc1d92;
+  --plasmic-token-core-color-pink-pink-transparent-45: var(
+    --token-gZJ9FcWC7ozV
+  );
+  --token-kBCA-jUWCX5U: #cc1d92;
+  --plasmic-token-core-color-pink-pink-transparent-15: var(
+    --token-kBCA-jUWCX5U
+  );
+  --token-Ol7dx_-U0pFr: #8f49de;
+  --plasmic-token-core-color-purple-purple-transparent-45: var(
+    --token-Ol7dx_-U0pFr
+  );
+  --token-nApNHrUKLCqG: #8f49de;
+  --plasmic-token-core-color-purple-purple-transparent-75: var(
+    --token-nApNHrUKLCqG
+  );
+  --token-Mw1SJhraHdnP: #d91f11;
+  --plasmic-token-core-color-red-red-transparent-45: var(--token-Mw1SJhraHdnP);
+  --token-0XEIWsgtAFeA: #d91f11;
+  --plasmic-token-core-color-red-red-transparent-75: var(--token-0XEIWsgtAFeA);
+  --token-uT8eE5cn_Lap: #64748b;
+  --plasmic-token-core-color-slate-slate-transparent-15: var(
+    --token-uT8eE5cn_Lap
+  );
+  --token-Mv9HCPsKQF99: #64748b;
+  --plasmic-token-core-color-slate-slate-transparent-45: var(
+    --token-Mv9HCPsKQF99
+  );
+  --token-R8iVQcAIXTv_: #64748b;
+  --plasmic-token-core-color-slate-slate-transparent-75: var(
+    --token-R8iVQcAIXTv_
+  );
+  --token-pjGct0NW_Biu: #78716c;
+  --plasmic-token-core-color-stone-stone-transparent-45: var(
+    --token-pjGct0NW_Biu
+  );
+  --token-Jv2OUmwinN4L: #78716c;
+  --plasmic-token-core-color-stone-stone-transparent-75: var(
+    --token-Jv2OUmwinN4L
+  );
+  --token--Ko_BDg0nkgr: #167b7d;
+  --plasmic-token-core-color-teal-teal-transparent-45: var(
+    --token--Ko_BDg0nkgr
+  );
+  --token-wfZexVGd8rzs: #167b7d;
+  --plasmic-token-core-color-teal-teal-transparent-75: var(
+    --token-wfZexVGd8rzs
+  );
+  --token-Pp6kjBQL6oiU: #067a91;
+  --plasmic-token-core-color-turquoise-turquoise-transparent-45: var(
+    --token-Pp6kjBQL6oiU
+  );
+  --token-2gQUxb-TXeIk: #067a91;
+  --plasmic-token-core-color-turquoise-turquoise-transparent-75: var(
+    --token-2gQUxb-TXeIk
+  );
+  --token-yKSpa4cnCREt: #946613;
+  --plasmic-token-core-color-yellow-yellow-transparent-45: var(
+    --token-yKSpa4cnCREt
+  );
+  --token-KCcaBJuLbLMS: #946613;
+  --plasmic-token-core-color-yellow-yellow-transparent-75: var(
+    --token-KCcaBJuLbLMS
+  );
+  --token-VJNkYP0pgaZZ: #71717a;
+  --plasmic-token-core-color-zinc-zinc-transparent-45: var(
+    --token-VJNkYP0pgaZZ
+  );
+  --token-oHC0Vv4ZV70Y: #71717a;
+  --plasmic-token-core-color-zinc-zinc-transparent-75: var(
+    --token-oHC0Vv4ZV70Y
+  );
 }
 
 .plasmic_tokens:where(.global_mode_grayscale) {
@@ -2058,43 +2382,205 @@
   --token-wH8F4BoeXSaC: #000000;
   --plasmic-token-core-color-brand-brand-github: var(--token-wH8F4BoeXSaC);
   --token-FUqrdrjUJPJh: #747474;
-  --plasmic-token-core-color-aqua-aqua-disabled: var(--token-FUqrdrjUJPJh);
+  --plasmic-token-core-color-aqua-aqua-transparent-45: var(
+    --token-FUqrdrjUJPJh
+  );
   --token-rbYBMbSPHLHb: #808080;
-  --plasmic-token-core-color-blue-blue-disabled: var(--token-rbYBMbSPHLHb);
+  --plasmic-token-core-color-blue-blue-transparent-15: var(
+    --token-rbYBMbSPHLHb
+  );
   --token-yBSOg0YRIGK5: #8b8b8b;
-  --plasmic-token-core-color-gray-gray-disabled: var(--token-yBSOg0YRIGK5);
+  --plasmic-token-core-color-gray-gray-transparent-15: var(
+    --token-yBSOg0YRIGK5
+  );
   --token-a6WiddKVxPY4: #707070;
-  --plasmic-token-core-color-green-green-disabled: var(--token-a6WiddKVxPY4);
+  --plasmic-token-core-color-green-green-transparent-15: var(
+    --token-a6WiddKVxPY4
+  );
   --token-UX9Q9l83IXsw: #8b8b8b;
-  --plasmic-token-core-color-indigo-indigo-disabled: var(--token-UX9Q9l83IXsw);
+  --plasmic-token-core-color-indigo-indigo-transparent-15: var(
+    --token-UX9Q9l83IXsw
+  );
   --token-tHyRBHmNz2T1: #7b7b7b;
-  --plasmic-token-core-color-lime-lime-disabled: var(--token-tHyRBHmNz2T1);
+  --plasmic-token-core-color-lime-lime-transparent-15: var(
+    --token-tHyRBHmNz2T1
+  );
   --token-hl8t5CiG29kk: #a3a3a3;
-  --plasmic-token-core-color-neutral-neutral-disabled: var(
+  --plasmic-token-core-color-neutral-neutral-transparent-75: var(
     --token-hl8t5CiG29kk
   );
   --token-S9XzQLfT6xWN: #848484;
-  --plasmic-token-core-color-orange-orange-disabled: var(--token-S9XzQLfT6xWN);
+  --plasmic-token-core-color-orange-orange-transparent-15: var(
+    --token-S9XzQLfT6xWN
+  );
   --token-qru3H8GOWPdC: #888888;
-  --plasmic-token-core-color-pink-pink-disabled: var(--token-qru3H8GOWPdC);
+  --plasmic-token-core-color-pink-pink-transparent-75: var(
+    --token-qru3H8GOWPdC
+  );
   --token-exeA2B7uuDH8: #919191;
-  --plasmic-token-core-color-purple-purple-disabled: var(--token-exeA2B7uuDH8);
+  --plasmic-token-core-color-purple-purple-transparent-15: var(
+    --token-exeA2B7uuDH8
+  );
   --token-Vw_UIMSK39yl: #838383;
-  --plasmic-token-core-color-red-red-disabled: var(--token-Vw_UIMSK39yl);
+  --plasmic-token-core-color-red-red-transparent-15: var(--token-Vw_UIMSK39yl);
   --token-i0YtzT-iWkyM: #a0a0a0;
   --plasmic-token-core-color-slate-slate-disabled: var(--token-i0YtzT-iWkyM);
   --token-NmXXiiMJ6cll: #a3a3a3;
-  --plasmic-token-core-color-stone-stone-disabled: var(--token-NmXXiiMJ6cll);
+  --plasmic-token-core-color-stone-stone-transparent-15: var(
+    --token-NmXXiiMJ6cll
+  );
   --token-6NCrvdDsKmfX: #797979;
-  --plasmic-token-core-color-teal-teal-disabled: var(--token-6NCrvdDsKmfX);
+  --plasmic-token-core-color-teal-teal-transparent-15: var(
+    --token-6NCrvdDsKmfX
+  );
   --token-e4NSe0uksT5H: #757575;
-  --plasmic-token-core-color-turquoise-turquoise-disabled: var(
+  --plasmic-token-core-color-turquoise-turquoise-transparent-15: var(
     --token-e4NSe0uksT5H
   );
   --token-MT_nXvSakA9C: #868686;
-  --plasmic-token-core-color-yellow-yellow-disabled: var(--token-MT_nXvSakA9C);
+  --plasmic-token-core-color-yellow-yellow-transparent-15: var(
+    --token-MT_nXvSakA9C
+  );
   --token-HKcPgvgdV6qz: #a2a2a2;
-  --plasmic-token-core-color-zinc-zinc-disabled: var(--token-HKcPgvgdV6qz);
+  --plasmic-token-core-color-zinc-zinc-transparent-15: var(
+    --token-HKcPgvgdV6qz
+  );
+  --token-AxUgkgfvTy3v: #747474;
+  --plasmic-token-core-color-aqua-aqua-transparent-15: var(
+    --token-AxUgkgfvTy3v
+  );
+  --token-Q8Yy6fPPs76r: #747474;
+  --plasmic-token-core-color-aqua-aqua-transparent-75: var(
+    --token-Q8Yy6fPPs76r
+  );
+  --token-jnQWeuYBzfsa: #808080;
+  --plasmic-token-core-color-blue-blue-transparent-45: var(
+    --token-jnQWeuYBzfsa
+  );
+  --token-gowTJs2MRzyl: #808080;
+  --plasmic-token-core-color-blue-blue-transparent-75: var(
+    --token-gowTJs2MRzyl
+  );
+  --token-X2clVczufeeL: #8b8b8b;
+  --plasmic-token-core-color-gray-gray-transparent-45: var(
+    --token-X2clVczufeeL
+  );
+  --token-H8QY8goVMEYP: #8b8b8b;
+  --plasmic-token-core-color-gray-gray-transparent-75: var(
+    --token-H8QY8goVMEYP
+  );
+  --token-nLks_KmuWF72: #707070;
+  --plasmic-token-core-color-green-green-transparent-45: var(
+    --token-nLks_KmuWF72
+  );
+  --token-sOI_l2wPsrPW: #707070;
+  --plasmic-token-core-color-green-green-transparent-75: var(
+    --token-sOI_l2wPsrPW
+  );
+  --token-30H7bLjTe26a: #8b8b8b;
+  --plasmic-token-core-color-indigo-indigo-transparent-45: var(
+    --token-30H7bLjTe26a
+  );
+  --token-ghM3NYEzstNs: #8b8b8b;
+  --plasmic-token-core-color-indigo-indigo-transparent-75: var(
+    --token-ghM3NYEzstNs
+  );
+  --token-IvfiLMllhcYM: #7b7b7b;
+  --plasmic-token-core-color-lime-lime-transparent-45: var(
+    --token-IvfiLMllhcYM
+  );
+  --token-WstJUgenIY2x: #7b7b7b;
+  --plasmic-token-core-color-lime-lime-transparent-75: var(
+    --token-WstJUgenIY2x
+  );
+  --token--tzl0pvWHsSO: #a3a3a3;
+  --plasmic-token-core-color-neutral-neutral-transparent-15: var(
+    --token--tzl0pvWHsSO
+  );
+  --token--ZPcmlLY4dyj: #a3a3a3;
+  --plasmic-token-core-color-neutral-neutral-transparent-45: var(
+    --token--ZPcmlLY4dyj
+  );
+  --token-q2OP_j8oe4RD: #848484;
+  --plasmic-token-core-color-orange-orange-transparent-45: var(
+    --token-q2OP_j8oe4RD
+  );
+  --token-fvW6cwT7TfiT: #848484;
+  --plasmic-token-core-color-orange-orange-transparent-75: var(
+    --token-fvW6cwT7TfiT
+  );
+  --token-gZJ9FcWC7ozV: #888888;
+  --plasmic-token-core-color-pink-pink-transparent-45: var(
+    --token-gZJ9FcWC7ozV
+  );
+  --token-kBCA-jUWCX5U: #888888;
+  --plasmic-token-core-color-pink-pink-transparent-15: var(
+    --token-kBCA-jUWCX5U
+  );
+  --token-Ol7dx_-U0pFr: #919191;
+  --plasmic-token-core-color-purple-purple-transparent-45: var(
+    --token-Ol7dx_-U0pFr
+  );
+  --token-nApNHrUKLCqG: #919191;
+  --plasmic-token-core-color-purple-purple-transparent-75: var(
+    --token-nApNHrUKLCqG
+  );
+  --token-Mw1SJhraHdnP: #838383;
+  --plasmic-token-core-color-red-red-transparent-45: var(--token-Mw1SJhraHdnP);
+  --token-0XEIWsgtAFeA: #838383;
+  --plasmic-token-core-color-red-red-transparent-75: var(--token-0XEIWsgtAFeA);
+  --token-uT8eE5cn_Lap: #a0a0a0;
+  --plasmic-token-core-color-slate-slate-transparent-15: var(
+    --token-uT8eE5cn_Lap
+  );
+  --token-Mv9HCPsKQF99: #a0a0a0;
+  --plasmic-token-core-color-slate-slate-transparent-45: var(
+    --token-Mv9HCPsKQF99
+  );
+  --token-R8iVQcAIXTv_: #a0a0a0;
+  --plasmic-token-core-color-slate-slate-transparent-75: var(
+    --token-R8iVQcAIXTv_
+  );
+  --token-pjGct0NW_Biu: #a3a3a3;
+  --plasmic-token-core-color-stone-stone-transparent-45: var(
+    --token-pjGct0NW_Biu
+  );
+  --token-Jv2OUmwinN4L: #a3a3a3;
+  --plasmic-token-core-color-stone-stone-transparent-75: var(
+    --token-Jv2OUmwinN4L
+  );
+  --token--Ko_BDg0nkgr: #797979;
+  --plasmic-token-core-color-teal-teal-transparent-45: var(
+    --token--Ko_BDg0nkgr
+  );
+  --token-wfZexVGd8rzs: #797979;
+  --plasmic-token-core-color-teal-teal-transparent-75: var(
+    --token-wfZexVGd8rzs
+  );
+  --token-Pp6kjBQL6oiU: #757575;
+  --plasmic-token-core-color-turquoise-turquoise-transparent-45: var(
+    --token-Pp6kjBQL6oiU
+  );
+  --token-2gQUxb-TXeIk: #757575;
+  --plasmic-token-core-color-turquoise-turquoise-transparent-75: var(
+    --token-2gQUxb-TXeIk
+  );
+  --token-yKSpa4cnCREt: #868686;
+  --plasmic-token-core-color-yellow-yellow-transparent-45: var(
+    --token-yKSpa4cnCREt
+  );
+  --token-KCcaBJuLbLMS: #868686;
+  --plasmic-token-core-color-yellow-yellow-transparent-75: var(
+    --token-KCcaBJuLbLMS
+  );
+  --token-VJNkYP0pgaZZ: #a2a2a2;
+  --plasmic-token-core-color-zinc-zinc-transparent-45: var(
+    --token-VJNkYP0pgaZZ
+  );
+  --token-oHC0Vv4ZV70Y: #a2a2a2;
+  --plasmic-token-core-color-zinc-zinc-transparent-75: var(
+    --token-oHC0Vv4ZV70Y
+  );
 }
 
 .plasmic_tokens:where(.global_mode_darkGrayscale) {
@@ -2593,43 +3079,205 @@
   --token-iEijkIOiaQzJ: #ffffff;
   --plasmic-token-core-color-brand-brand-gitlab: var(--token-iEijkIOiaQzJ);
   --token-FUqrdrjUJPJh: #585858;
-  --plasmic-token-core-color-aqua-aqua-disabled: var(--token-FUqrdrjUJPJh);
+  --plasmic-token-core-color-aqua-aqua-transparent-45: var(
+    --token-FUqrdrjUJPJh
+  );
   --token-rbYBMbSPHLHb: #5e5e5e;
-  --plasmic-token-core-color-blue-blue-disabled: var(--token-rbYBMbSPHLHb);
+  --plasmic-token-core-color-blue-blue-transparent-15: var(
+    --token-rbYBMbSPHLHb
+  );
   --token-yBSOg0YRIGK5: #8b8b8b;
-  --plasmic-token-core-color-gray-gray-disabled: var(--token-yBSOg0YRIGK5);
+  --plasmic-token-core-color-gray-gray-transparent-15: var(
+    --token-yBSOg0YRIGK5
+  );
   --token-a6WiddKVxPY4: #555555;
-  --plasmic-token-core-color-green-green-disabled: var(--token-a6WiddKVxPY4);
+  --plasmic-token-core-color-green-green-transparent-15: var(
+    --token-a6WiddKVxPY4
+  );
   --token-UX9Q9l83IXsw: #6b6b6b;
-  --plasmic-token-core-color-indigo-indigo-disabled: var(--token-UX9Q9l83IXsw);
+  --plasmic-token-core-color-indigo-indigo-transparent-15: var(
+    --token-UX9Q9l83IXsw
+  );
   --token-tHyRBHmNz2T1: #5c5c5c;
-  --plasmic-token-core-color-lime-lime-disabled: var(--token-tHyRBHmNz2T1);
+  --plasmic-token-core-color-lime-lime-transparent-15: var(
+    --token-tHyRBHmNz2T1
+  );
   --token-hl8t5CiG29kk: #727272;
-  --plasmic-token-core-color-neutral-neutral-disabled: var(
+  --plasmic-token-core-color-neutral-neutral-transparent-75: var(
     --token-hl8t5CiG29kk
   );
   --token-S9XzQLfT6xWN: #656565;
-  --plasmic-token-core-color-orange-orange-disabled: var(--token-S9XzQLfT6xWN);
+  --plasmic-token-core-color-orange-orange-transparent-15: var(
+    --token-S9XzQLfT6xWN
+  );
   --token-qru3H8GOWPdC: #5e5e5e;
-  --plasmic-token-core-color-pink-pink-disabled: var(--token-qru3H8GOWPdC);
+  --plasmic-token-core-color-pink-pink-transparent-75: var(
+    --token-qru3H8GOWPdC
+  );
   --token-exeA2B7uuDH8: #6e6e6e;
-  --plasmic-token-core-color-purple-purple-disabled: var(--token-exeA2B7uuDH8);
+  --plasmic-token-core-color-purple-purple-transparent-15: var(
+    --token-exeA2B7uuDH8
+  );
   --token-Vw_UIMSK39yl: #555555;
-  --plasmic-token-core-color-red-red-disabled: var(--token-Vw_UIMSK39yl);
+  --plasmic-token-core-color-red-red-transparent-15: var(--token-Vw_UIMSK39yl);
   --token-i0YtzT-iWkyM: #717171;
   --plasmic-token-core-color-slate-slate-disabled: var(--token-i0YtzT-iWkyM);
   --token-NmXXiiMJ6cll: #727272;
-  --plasmic-token-core-color-stone-stone-disabled: var(--token-NmXXiiMJ6cll);
+  --plasmic-token-core-color-stone-stone-transparent-15: var(
+    --token-NmXXiiMJ6cll
+  );
   --token-6NCrvdDsKmfX: #5d5d5d;
-  --plasmic-token-core-color-teal-teal-disabled: var(--token-6NCrvdDsKmfX);
+  --plasmic-token-core-color-teal-teal-transparent-15: var(
+    --token-6NCrvdDsKmfX
+  );
   --token-e4NSe0uksT5H: #595959;
-  --plasmic-token-core-color-turquoise-turquoise-disabled: var(
+  --plasmic-token-core-color-turquoise-turquoise-transparent-15: var(
     --token-e4NSe0uksT5H
   );
   --token-MT_nXvSakA9C: #6a6a6a;
-  --plasmic-token-core-color-yellow-yellow-disabled: var(--token-MT_nXvSakA9C);
+  --plasmic-token-core-color-yellow-yellow-transparent-15: var(
+    --token-MT_nXvSakA9C
+  );
   --token-HKcPgvgdV6qz: #727272;
-  --plasmic-token-core-color-zinc-zinc-disabled: var(--token-HKcPgvgdV6qz);
+  --plasmic-token-core-color-zinc-zinc-transparent-15: var(
+    --token-HKcPgvgdV6qz
+  );
+  --token-AxUgkgfvTy3v: #585858;
+  --plasmic-token-core-color-aqua-aqua-transparent-15: var(
+    --token-AxUgkgfvTy3v
+  );
+  --token-Q8Yy6fPPs76r: #585858;
+  --plasmic-token-core-color-aqua-aqua-transparent-75: var(
+    --token-Q8Yy6fPPs76r
+  );
+  --token-jnQWeuYBzfsa: #5e5e5e;
+  --plasmic-token-core-color-blue-blue-transparent-45: var(
+    --token-jnQWeuYBzfsa
+  );
+  --token-gowTJs2MRzyl: #5e5e5e;
+  --plasmic-token-core-color-blue-blue-transparent-75: var(
+    --token-gowTJs2MRzyl
+  );
+  --token-X2clVczufeeL: #8b8b8b;
+  --plasmic-token-core-color-gray-gray-transparent-45: var(
+    --token-X2clVczufeeL
+  );
+  --token-H8QY8goVMEYP: #8b8b8b;
+  --plasmic-token-core-color-gray-gray-transparent-75: var(
+    --token-H8QY8goVMEYP
+  );
+  --token-nLks_KmuWF72: #555555;
+  --plasmic-token-core-color-green-green-transparent-45: var(
+    --token-nLks_KmuWF72
+  );
+  --token-sOI_l2wPsrPW: #555555;
+  --plasmic-token-core-color-green-green-transparent-75: var(
+    --token-sOI_l2wPsrPW
+  );
+  --token-30H7bLjTe26a: #6b6b6b;
+  --plasmic-token-core-color-indigo-indigo-transparent-45: var(
+    --token-30H7bLjTe26a
+  );
+  --token-ghM3NYEzstNs: #6b6b6b;
+  --plasmic-token-core-color-indigo-indigo-transparent-75: var(
+    --token-ghM3NYEzstNs
+  );
+  --token-IvfiLMllhcYM: #5c5c5c;
+  --plasmic-token-core-color-lime-lime-transparent-45: var(
+    --token-IvfiLMllhcYM
+  );
+  --token-WstJUgenIY2x: #5c5c5c;
+  --plasmic-token-core-color-lime-lime-transparent-75: var(
+    --token-WstJUgenIY2x
+  );
+  --token--tzl0pvWHsSO: #727272;
+  --plasmic-token-core-color-neutral-neutral-transparent-15: var(
+    --token--tzl0pvWHsSO
+  );
+  --token--ZPcmlLY4dyj: #727272;
+  --plasmic-token-core-color-neutral-neutral-transparent-45: var(
+    --token--ZPcmlLY4dyj
+  );
+  --token-q2OP_j8oe4RD: #656565;
+  --plasmic-token-core-color-orange-orange-transparent-45: var(
+    --token-q2OP_j8oe4RD
+  );
+  --token-fvW6cwT7TfiT: #656565;
+  --plasmic-token-core-color-orange-orange-transparent-75: var(
+    --token-fvW6cwT7TfiT
+  );
+  --token-gZJ9FcWC7ozV: #5e5e5e;
+  --plasmic-token-core-color-pink-pink-transparent-45: var(
+    --token-gZJ9FcWC7ozV
+  );
+  --token-kBCA-jUWCX5U: #5e5e5e;
+  --plasmic-token-core-color-pink-pink-transparent-15: var(
+    --token-kBCA-jUWCX5U
+  );
+  --token-Ol7dx_-U0pFr: #6e6e6e;
+  --plasmic-token-core-color-purple-purple-transparent-45: var(
+    --token-Ol7dx_-U0pFr
+  );
+  --token-nApNHrUKLCqG: #6e6e6e;
+  --plasmic-token-core-color-purple-purple-transparent-75: var(
+    --token-nApNHrUKLCqG
+  );
+  --token-Mw1SJhraHdnP: #555555;
+  --plasmic-token-core-color-red-red-transparent-45: var(--token-Mw1SJhraHdnP);
+  --token-0XEIWsgtAFeA: #555555;
+  --plasmic-token-core-color-red-red-transparent-75: var(--token-0XEIWsgtAFeA);
+  --token-uT8eE5cn_Lap: #717171;
+  --plasmic-token-core-color-slate-slate-transparent-15: var(
+    --token-uT8eE5cn_Lap
+  );
+  --token-Mv9HCPsKQF99: #717171;
+  --plasmic-token-core-color-slate-slate-transparent-45: var(
+    --token-Mv9HCPsKQF99
+  );
+  --token-R8iVQcAIXTv_: #717171;
+  --plasmic-token-core-color-slate-slate-transparent-75: var(
+    --token-R8iVQcAIXTv_
+  );
+  --token-pjGct0NW_Biu: #727272;
+  --plasmic-token-core-color-stone-stone-transparent-45: var(
+    --token-pjGct0NW_Biu
+  );
+  --token-Jv2OUmwinN4L: #727272;
+  --plasmic-token-core-color-stone-stone-transparent-75: var(
+    --token-Jv2OUmwinN4L
+  );
+  --token--Ko_BDg0nkgr: #5d5d5d;
+  --plasmic-token-core-color-teal-teal-transparent-45: var(
+    --token--Ko_BDg0nkgr
+  );
+  --token-wfZexVGd8rzs: #5d5d5d;
+  --plasmic-token-core-color-teal-teal-transparent-75: var(
+    --token-wfZexVGd8rzs
+  );
+  --token-Pp6kjBQL6oiU: #595959;
+  --plasmic-token-core-color-turquoise-turquoise-transparent-45: var(
+    --token-Pp6kjBQL6oiU
+  );
+  --token-2gQUxb-TXeIk: #595959;
+  --plasmic-token-core-color-turquoise-turquoise-transparent-75: var(
+    --token-2gQUxb-TXeIk
+  );
+  --token-yKSpa4cnCREt: #6a6a6a;
+  --plasmic-token-core-color-yellow-yellow-transparent-45: var(
+    --token-yKSpa4cnCREt
+  );
+  --token-KCcaBJuLbLMS: #6a6a6a;
+  --plasmic-token-core-color-yellow-yellow-transparent-75: var(
+    --token-KCcaBJuLbLMS
+  );
+  --token-VJNkYP0pgaZZ: #727272;
+  --plasmic-token-core-color-zinc-zinc-transparent-45: var(
+    --token-VJNkYP0pgaZZ
+  );
+  --token-oHC0Vv4ZV70Y: #727272;
+  --plasmic-token-core-color-zinc-zinc-transparent-75: var(
+    --token-oHC0Vv4ZV70Y
+  );
 }
 
 .plasmic_tokens {
