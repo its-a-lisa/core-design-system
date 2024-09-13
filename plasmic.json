@@ -92,12 +92,6 @@
         "name": "Theme",
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
         "contextFilePath": "plasmic/core/PlasmicGlobalVariant__Theme.tsx"
-      },
-      {
-        "id": "-sz9z7Ni694v",
-        "name": "Wireframe",
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "contextFilePath": "plasmic/core/PlasmicGlobalVariant__Wireframe.tsx"
       }
     ]
   },
