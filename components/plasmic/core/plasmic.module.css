@@ -1107,6 +1107,8 @@
   --plasmic-token-core-color-zinc-zinc-transparent-75: var(
     --token-oHC0Vv4ZV70Y
   );
+  --token-ZdgsVCdNy0Zo: 0rem;
+  --plasmic-token-core-spacing-space-space-000: var(--token-ZdgsVCdNy0Zo);
 }
 
 @media (max-width: 768px) {
@@ -1197,7 +1199,7 @@
   }
 }
 
-.plasmic_tokens:where(.global_mode_dark) {
+.plasmic_tokens:where(.global_theme_dark) {
   --token-b4UF7wnPwVPI: #ffffff;
   --plasmic-token-core-color-default-default-high: var(--token-b4UF7wnPwVPI);
   --token-F2j0Fb6y5GQ3: #131313;
@@ -1890,7 +1892,7 @@
   );
 }
 
-.plasmic_tokens:where(.global_mode_grayscale) {
+.plasmic_tokens:where(.global_theme_grayscale) {
   --token-b4UF7wnPwVPI: #131313;
   --plasmic-token-core-color-default-default-high: var(--token-b4UF7wnPwVPI);
   --token-F2j0Fb6y5GQ3: #ffffff;
@@ -2583,7 +2585,7 @@
   );
 }
 
-.plasmic_tokens:where(.global_mode_darkGrayscale) {
+.plasmic_tokens:where(.global_theme_darkGrayscale) {
   --token-b4UF7wnPwVPI: #ffffff;
   --plasmic-token-core-color-default-default-high: var(--token-b4UF7wnPwVPI);
   --token-F2j0Fb6y5GQ3: #131313;
@@ -3291,9 +3293,10 @@
 }
 
 .plasmic_default_styles,
-.plasmic_default_styles:where(.global_mode_dark),
-.plasmic_default_styles:where(.global_mode_grayscale),
-.plasmic_default_styles:where(.global_mode_darkGrayscale) {
+.plasmic_default_styles:where(.global_theme_dark),
+.plasmic_default_styles:where(.global_theme_grayscale),
+.plasmic_default_styles:where(.global_theme_darkGrayscale),
+.plasmic_default_styles:where(.global_wireframe_unnamedVariant) {
   --mixin-SZDm4dY3pLfK_font-family: var(--token-2XOuWYF9V_xl);
   --mixin-SZDm4dY3pLfK_font-size: var(--token-QSSa2VFfR_qN);
   --mixin-SZDm4dY3pLfK_font-weight: 400;

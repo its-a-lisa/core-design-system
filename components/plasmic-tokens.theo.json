@@ -4541,6 +4541,16 @@
       }
     },
     {
+      "name": "core / spacing / space / space-000",
+      "type": "spacing",
+      "value": "0rem",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "ZdgsVCdNy0Zo"
+      }
+    },
+    {
       "name": "core / spacing / space / space-002",
       "type": "spacing",
       "value": "0.125rem",

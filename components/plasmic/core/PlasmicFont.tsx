@@ -59,7 +59,7 @@ import {
   useGlobalActions
 } from "@plasmicapp/react-web/lib/host";
 
-import { ModeValue, useMode } from "./PlasmicGlobalVariant__Mode"; // plasmic-import: yBTVTgAz2Co9/globalVariant
+import { ThemeValue, useTheme } from "./PlasmicGlobalVariant__Theme"; // plasmic-import: yBTVTgAz2Co9/globalVariant
 import { useScreenVariants as useScreenVariantsohEUf6Jd0EV8 } from "./PlasmicGlobalVariant__Screen"; // plasmic-import: OhEUf6Jd0eV8/globalVariant
 
 import "@plasmicapp/react-web/lib/plasmic.css";
@@ -1060,7 +1060,7 @@ function PlasmicFont__RenderFunc(props: {
   const $refs = refsRef.current;
 
   const globalVariants = ensureGlobalVariants({
-    mode: useMode(),
+    theme: useTheme(),
     screen: useScreenVariantsohEUf6Jd0EV8()
   });
 
@@ -1088,19 +1088,19 @@ function PlasmicFont__RenderFunc(props: {
             projectcss.plasmic_tokens,
             sty.root,
             {
-              [projectcss.global_mode_darkGrayscale]: hasVariant(
+              [projectcss.global_theme_darkGrayscale]: hasVariant(
                 globalVariants,
-                "mode",
+                "theme",
                 "darkGrayscale"
               ),
-              [projectcss.global_mode_dark]: hasVariant(
+              [projectcss.global_theme_dark]: hasVariant(
                 globalVariants,
-                "mode",
+                "theme",
                 "dark"
               ),
-              [projectcss.global_mode_grayscale]: hasVariant(
+              [projectcss.global_theme_grayscale]: hasVariant(
                 globalVariants,
-                "mode",
+                "theme",
                 "grayscale"
               )
             }

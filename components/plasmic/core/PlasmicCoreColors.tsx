@@ -59,7 +59,7 @@ import {
   useGlobalActions
 } from "@plasmicapp/react-web/lib/host";
 
-import { ModeValue, useMode } from "./PlasmicGlobalVariant__Mode"; // plasmic-import: yBTVTgAz2Co9/globalVariant
+import { ThemeValue, useTheme } from "./PlasmicGlobalVariant__Theme"; // plasmic-import: yBTVTgAz2Co9/globalVariant
 import { useScreenVariants as useScreenVariantsohEUf6Jd0EV8 } from "./PlasmicGlobalVariant__Screen"; // plasmic-import: OhEUf6Jd0eV8/globalVariant
 
 import "@plasmicapp/react-web/lib/plasmic.css";
@@ -345,7 +345,7 @@ function PlasmicCoreColors__RenderFunc(props: {
   const $refs = refsRef.current;
 
   const globalVariants = ensureGlobalVariants({
-    mode: useMode(),
+    theme: useTheme(),
     screen: useScreenVariantsohEUf6Jd0EV8()
   });
 
@@ -373,34 +373,34 @@ function PlasmicCoreColors__RenderFunc(props: {
             projectcss.plasmic_tokens,
             sty.root,
             {
-              [projectcss.global_mode_darkGrayscale]: hasVariant(
+              [projectcss.global_theme_darkGrayscale]: hasVariant(
                 globalVariants,
-                "mode",
+                "theme",
                 "darkGrayscale"
               ),
-              [projectcss.global_mode_dark]: hasVariant(
+              [projectcss.global_theme_dark]: hasVariant(
                 globalVariants,
-                "mode",
+                "theme",
                 "dark"
               ),
-              [projectcss.global_mode_grayscale]: hasVariant(
+              [projectcss.global_theme_grayscale]: hasVariant(
                 globalVariants,
-                "mode",
+                "theme",
                 "grayscale"
               ),
-              [sty.rootglobal_mode_darkGrayscale]: hasVariant(
+              [sty.rootglobal_theme_darkGrayscale]: hasVariant(
                 globalVariants,
-                "mode",
+                "theme",
                 "darkGrayscale"
               ),
-              [sty.rootglobal_mode_dark]: hasVariant(
+              [sty.rootglobal_theme_dark]: hasVariant(
                 globalVariants,
-                "mode",
+                "theme",
                 "dark"
               ),
-              [sty.rootglobal_mode_grayscale]: hasVariant(
+              [sty.rootglobal_theme_grayscale]: hasVariant(
                 globalVariants,
-                "mode",
+                "theme",
                 "grayscale"
               )
             }
@@ -446,9 +446,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                     data-plasmic-name={"lowBase"}
                     data-plasmic-override={overrides.lowBase}
                     className={classNames(projectcss.all, sty.lowBase, {
-                      [sty.lowBaseglobal_mode_dark]: hasVariant(
+                      [sty.lowBaseglobal_theme_dark]: hasVariant(
                         globalVariants,
-                        "mode",
+                        "theme",
                         "dark"
                       )
                     })}
@@ -482,9 +482,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                     data-plasmic-name={"highBase"}
                     data-plasmic-override={overrides.highBase}
                     className={classNames(projectcss.all, sty.highBase, {
-                      [sty.highBaseglobal_mode_dark]: hasVariant(
+                      [sty.highBaseglobal_theme_dark]: hasVariant(
                         globalVariants,
-                        "mode",
+                        "theme",
                         "dark"
                       )
                     })}
@@ -616,9 +616,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                     data-plasmic-name={"blackApha80"}
                     data-plasmic-override={overrides.blackApha80}
                     className={classNames(projectcss.all, sty.blackApha80, {
-                      [sty.blackApha80global_mode_dark]: hasVariant(
+                      [sty.blackApha80global_theme_dark]: hasVariant(
                         globalVariants,
-                        "mode",
+                        "theme",
                         "dark"
                       )
                     })}
@@ -817,9 +817,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                         projectcss.__wab_text,
                         sty.text__nWvnf,
                         {
-                          [sty.textglobal_mode_dark__nWvnFe6UCs]: hasVariant(
+                          [sty.textglobal_theme_dark__nWvnFe6UCs]: hasVariant(
                             globalVariants,
-                            "mode",
+                            "theme",
                             "dark"
                           )
                         }
@@ -1004,9 +1004,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                     data-plasmic-name={"slate10"}
                     data-plasmic-override={overrides.slate10}
                     className={classNames(projectcss.all, sty.slate10, {
-                      [sty.slate10global_mode_grayscale]: hasVariant(
+                      [sty.slate10global_theme_grayscale]: hasVariant(
                         globalVariants,
-                        "mode",
+                        "theme",
                         "grayscale"
                       )
                     })}
@@ -1025,9 +1025,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                     data-plasmic-name={"slate20"}
                     data-plasmic-override={overrides.slate20}
                     className={classNames(projectcss.all, sty.slate20, {
-                      [sty.slate20global_mode_grayscale]: hasVariant(
+                      [sty.slate20global_theme_grayscale]: hasVariant(
                         globalVariants,
-                        "mode",
+                        "theme",
                         "grayscale"
                       )
                     })}
@@ -1046,14 +1046,14 @@ function PlasmicCoreColors__RenderFunc(props: {
                     data-plasmic-name={"slate30"}
                     data-plasmic-override={overrides.slate30}
                     className={classNames(projectcss.all, sty.slate30, {
-                      [sty.slate30global_mode_dark]: hasVariant(
+                      [sty.slate30global_theme_dark]: hasVariant(
                         globalVariants,
-                        "mode",
+                        "theme",
                         "dark"
                       ),
-                      [sty.slate30global_mode_grayscale]: hasVariant(
+                      [sty.slate30global_theme_grayscale]: hasVariant(
                         globalVariants,
-                        "mode",
+                        "theme",
                         "grayscale"
                       )
                     })}
@@ -1072,9 +1072,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                     data-plasmic-name={"slate40"}
                     data-plasmic-override={overrides.slate40}
                     className={classNames(projectcss.all, sty.slate40, {
-                      [sty.slate40global_mode_grayscale]: hasVariant(
+                      [sty.slate40global_theme_grayscale]: hasVariant(
                         globalVariants,
-                        "mode",
+                        "theme",
                         "grayscale"
                       )
                     })}
@@ -1130,9 +1130,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                         projectcss.__wab_text,
                         sty.text__xr03T,
                         {
-                          [sty.textglobal_mode_dark__xr03Te6UCs]: hasVariant(
+                          [sty.textglobal_theme_dark__xr03Te6UCs]: hasVariant(
                             globalVariants,
-                            "mode",
+                            "theme",
                             "dark"
                           )
                         }
@@ -1198,9 +1198,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                     data-plasmic-name={"zinc10"}
                     data-plasmic-override={overrides.zinc10}
                     className={classNames(projectcss.all, sty.zinc10, {
-                      [sty.zinc10global_mode_dark]: hasVariant(
+                      [sty.zinc10global_theme_dark]: hasVariant(
                         globalVariants,
-                        "mode",
+                        "theme",
                         "dark"
                       )
                     })}
@@ -1414,9 +1414,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                         projectcss.__wab_text,
                         sty.text__dfmYh,
                         {
-                          [sty.textglobal_mode_dark__dfmYHe6UCs]: hasVariant(
+                          [sty.textglobal_theme_dark__dfmYHe6UCs]: hasVariant(
                             globalVariants,
-                            "mode",
+                            "theme",
                             "dark"
                           )
                         }
@@ -2006,9 +2006,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                   data-plasmic-override={overrides.cyan}
                   hasGap={true}
                   className={classNames(projectcss.all, sty.cyan, {
-                    [sty.cyanglobal_mode_dark]: hasVariant(
+                    [sty.cyanglobal_theme_dark]: hasVariant(
                       globalVariants,
-                      "mode",
+                      "theme",
                       "dark"
                     )
                   })}
@@ -2062,9 +2062,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                     data-plasmic-name={"cyan40"}
                     data-plasmic-override={overrides.cyan40}
                     className={classNames(projectcss.all, sty.cyan40, {
-                      [sty.cyan40global_mode_dark]: hasVariant(
+                      [sty.cyan40global_theme_dark]: hasVariant(
                         globalVariants,
-                        "mode",
+                        "theme",
                         "dark"
                       )
                     })}
@@ -2211,9 +2211,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                     data-plasmic-name={"blue30"}
                     data-plasmic-override={overrides.blue30}
                     className={classNames(projectcss.all, sty.blue30, {
-                      [sty.blue30global_mode_dark]: hasVariant(
+                      [sty.blue30global_theme_dark]: hasVariant(
                         globalVariants,
-                        "mode",
+                        "theme",
                         "dark"
                       )
                     })}
@@ -2232,9 +2232,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                     data-plasmic-name={"blue40"}
                     data-plasmic-override={overrides.blue40}
                     className={classNames(projectcss.all, sty.blue40, {
-                      [sty.blue40global_mode_dark]: hasVariant(
+                      [sty.blue40global_theme_dark]: hasVariant(
                         globalVariants,
-                        "mode",
+                        "theme",
                         "dark"
                       )
                     })}
@@ -2245,9 +2245,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                         projectcss.__wab_text,
                         sty.text__zKezq,
                         {
-                          [sty.textglobal_mode_dark__zKezqe6UCs]: hasVariant(
+                          [sty.textglobal_theme_dark__zKezqe6UCs]: hasVariant(
                             globalVariants,
-                            "mode",
+                            "theme",
                             "dark"
                           )
                         }
@@ -2260,9 +2260,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                     data-plasmic-name={"blue50"}
                     data-plasmic-override={overrides.blue50}
                     className={classNames(projectcss.all, sty.blue50, {
-                      [sty.blue50global_mode_dark]: hasVariant(
+                      [sty.blue50global_theme_dark]: hasVariant(
                         globalVariants,
-                        "mode",
+                        "theme",
                         "dark"
                       )
                     })}
@@ -2273,15 +2273,15 @@ function PlasmicCoreColors__RenderFunc(props: {
                         projectcss.__wab_text,
                         sty.text__vtnHj,
                         {
-                          [sty.textglobal_mode_dark__vtnHje6UCs]: hasVariant(
+                          [sty.textglobal_theme_dark__vtnHje6UCs]: hasVariant(
                             globalVariants,
-                            "mode",
+                            "theme",
                             "dark"
                           )
                         }
                       )}
                     >
-                      {hasVariant(globalVariants, "mode", "dark")
+                      {hasVariant(globalVariants, "theme", "dark")
                         ? "color.blue.050"
                         : "color.blue.050"}
                     </div>
@@ -2290,9 +2290,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                     data-plasmic-name={"blue60"}
                     data-plasmic-override={overrides.blue60}
                     className={classNames(projectcss.all, sty.blue60, {
-                      [sty.blue60global_mode_dark]: hasVariant(
+                      [sty.blue60global_theme_dark]: hasVariant(
                         globalVariants,
-                        "mode",
+                        "theme",
                         "dark"
                       )
                     })}
@@ -2303,15 +2303,15 @@ function PlasmicCoreColors__RenderFunc(props: {
                         projectcss.__wab_text,
                         sty.text__xtekF,
                         {
-                          [sty.textglobal_mode_dark__xtekFe6UCs]: hasVariant(
+                          [sty.textglobal_theme_dark__xtekFe6UCs]: hasVariant(
                             globalVariants,
-                            "mode",
+                            "theme",
                             "dark"
                           )
                         }
                       )}
                     >
-                      {hasVariant(globalVariants, "mode", "dark")
+                      {hasVariant(globalVariants, "theme", "dark")
                         ? "color.blue.060"
                         : "color.blue.060"}
                     </div>
@@ -2320,9 +2320,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                     data-plasmic-name={"blue70"}
                     data-plasmic-override={overrides.blue70}
                     className={classNames(projectcss.all, sty.blue70, {
-                      [sty.blue70global_mode_dark]: hasVariant(
+                      [sty.blue70global_theme_dark]: hasVariant(
                         globalVariants,
-                        "mode",
+                        "theme",
                         "dark"
                       )
                     })}
@@ -2333,9 +2333,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                         projectcss.__wab_text,
                         sty.text__mpMHb,
                         {
-                          [sty.textglobal_mode_dark__mpMHbe6UCs]: hasVariant(
+                          [sty.textglobal_theme_dark__mpMHbe6UCs]: hasVariant(
                             globalVariants,
-                            "mode",
+                            "theme",
                             "dark"
                           )
                         }
@@ -2595,9 +2595,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                     data-plasmic-name={"lime30"}
                     data-plasmic-override={overrides.lime30}
                     className={classNames(projectcss.all, sty.lime30, {
-                      [sty.lime30global_mode_dark]: hasVariant(
+                      [sty.lime30global_theme_dark]: hasVariant(
                         globalVariants,
-                        "mode",
+                        "theme",
                         "dark"
                       )
                     })}
@@ -2631,9 +2631,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                     data-plasmic-name={"lime50"}
                     data-plasmic-override={overrides.lime50}
                     className={classNames(projectcss.all, sty.lime50, {
-                      [sty.lime50global_mode_dark]: hasVariant(
+                      [sty.lime50global_theme_dark]: hasVariant(
                         globalVariants,
-                        "mode",
+                        "theme",
                         "dark"
                       )
                     })}
@@ -3046,9 +3046,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                   data-plasmic-override={overrides.turquoise}
                   hasGap={true}
                   className={classNames(projectcss.all, sty.turquoise, {
-                    [sty.turquoiseglobal_mode_darkGrayscale]: hasVariant(
+                    [sty.turquoiseglobal_theme_darkGrayscale]: hasVariant(
                       globalVariants,
-                      "mode",
+                      "theme",
                       "darkGrayscale"
                     )
                   })}
@@ -3109,9 +3109,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                         projectcss.__wab_text,
                         sty.text__lhSna,
                         {
-                          [sty.textglobal_mode_dark__lhSnAe6UCs]: hasVariant(
+                          [sty.textglobal_theme_dark__lhSnAe6UCs]: hasVariant(
                             globalVariants,
-                            "mode",
+                            "theme",
                             "dark"
                           )
                         }
@@ -3124,9 +3124,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                     data-plasmic-name={"turquoise50"}
                     data-plasmic-override={overrides.turquoise50}
                     className={classNames(projectcss.all, sty.turquoise50, {
-                      [sty.turquoise50global_mode_dark]: hasVariant(
+                      [sty.turquoise50global_theme_dark]: hasVariant(
                         globalVariants,
-                        "mode",
+                        "theme",
                         "dark"
                       )
                     })}
@@ -3316,9 +3316,9 @@ function PlasmicCoreColors__RenderFunc(props: {
                         projectcss.__wab_text,
                         sty.text__b8Ytj,
                         {
-                          [sty.textglobal_mode_dark__b8YtJe6UCs]: hasVariant(
+                          [sty.textglobal_theme_dark__b8YtJe6UCs]: hasVariant(
                             globalVariants,
-                            "mode",
+                            "theme",
                             "dark"
                           )
                         }

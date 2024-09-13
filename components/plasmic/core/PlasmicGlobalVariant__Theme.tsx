@@ -6,14 +6,14 @@
 import * as React from "react";
 import { createUseScreenVariants } from "@plasmicapp/react-web";
 
-export type ModeValue = "dark" | "grayscale" | "darkGrayscale";
-export const ModeContext = React.createContext<ModeValue | undefined>(
+export type ThemeValue = "dark" | "grayscale" | "darkGrayscale";
+export const ThemeContext = React.createContext<ThemeValue | undefined>(
   "PLEASE_RENDER_INSIDE_PROVIDER" as any
 );
 
-export function useMode() {
-  return React.useContext(ModeContext);
+export function useTheme() {
+  return React.useContext(ThemeContext);
 }
 
-export default ModeContext;
+export default ThemeContext;
 /* prettier-ignore-end */

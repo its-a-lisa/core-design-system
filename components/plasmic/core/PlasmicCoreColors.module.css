@@ -33,13 +33,13 @@
     grid-column: 4;
   }
 }
-.rootglobal_mode_dark > * {
+.rootglobal_theme_dark > * {
   grid-column: 4;
 }
-.rootglobal_mode_grayscale > * {
+.rootglobal_theme_grayscale > * {
   grid-column: 4;
 }
-.rootglobal_mode_darkGrayscale > * {
+.rootglobal_theme_darkGrayscale > * {
   grid-column: 4;
 }
 .h1 {
@@ -879,7 +879,7 @@
   min-width: 0;
   padding: 16px;
 }
-.slate10global_mode_grayscale {
+.slate10global_theme_grayscale {
   background: var(--token-DlvbYMoAQdmZ);
 }
 .text__b6Qdf {
@@ -896,7 +896,7 @@
   min-width: 0;
   padding: 16px;
 }
-.slate20global_mode_grayscale {
+.slate20global_theme_grayscale {
   background: var(--token-Q4Aga3AsvYE4);
 }
 .text__dKtFz {
@@ -913,7 +913,7 @@
   min-width: 0;
   padding: 16px;
 }
-.slate30global_mode_grayscale {
+.slate30global_theme_grayscale {
   background: var(--token-GJFZNF6fVZG0);
 }
 .text___4BiQa {
