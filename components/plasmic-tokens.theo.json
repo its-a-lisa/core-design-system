@@ -3941,7 +3941,7 @@
       }
     },
     {
-      "name": "core / spacing / layout / layout-00",
+      "name": "core / spacing / layout / percentage / layout-percentage00",
       "type": "spacing",
       "value": "0%",
       "category": "spacing",
@@ -3951,7 +3951,7 @@
       }
     },
     {
-      "name": "core / spacing / layout / layout-01",
+      "name": "core / spacing / layout / percentage / layout-percentage01",
       "type": "spacing",
       "value": "1%",
       "category": "spacing",
@@ -3961,7 +3961,7 @@
       }
     },
     {
-      "name": "core / spacing / layout / layout-03",
+      "name": "core / spacing / layout / percentage / layout-percentage03",
       "type": "spacing",
       "value": "3%",
       "category": "spacing",
@@ -3971,7 +3971,7 @@
       }
     },
     {
-      "name": "core / spacing / layout / layout-05",
+      "name": "core / spacing / layout / percentage / layout-percentage05",
       "type": "spacing",
       "value": "5%",
       "category": "spacing",
@@ -3981,7 +3981,7 @@
       }
     },
     {
-      "name": "core / spacing / layout / layout-10",
+      "name": "core / spacing / layout / percentage / layout-percentage10",
       "type": "spacing",
       "value": "10%",
       "category": "spacing",
@@ -3991,7 +3991,7 @@
       }
     },
     {
-      "name": "core / spacing / layout / layout-100",
+      "name": "core / spacing / layout / percentage / layout-percentage100",
       "type": "spacing",
       "value": "100%",
       "category": "spacing",
@@ -4001,7 +4001,7 @@
       }
     },
     {
-      "name": "core / spacing / layout / layout-13",
+      "name": "core / spacing / layout / percentage / layout-percentage13",
       "type": "spacing",
       "value": "13%",
       "category": "spacing",
@@ -4011,7 +4011,7 @@
       }
     },
     {
-      "name": "core / spacing / layout / layout-25",
+      "name": "core / spacing / layout / percentage / layout-percentage25",
       "type": "spacing",
       "value": "25%",
       "category": "spacing",
@@ -4021,7 +4021,7 @@
       }
     },
     {
-      "name": "core / spacing / layout / layout-33",
+      "name": "core / spacing / layout / percentage / layout-percentage33",
       "type": "spacing",
       "value": "33%",
       "category": "spacing",
@@ -4031,7 +4031,7 @@
       }
     },
     {
-      "name": "core / spacing / layout / layout-50",
+      "name": "core / spacing / layout / percentage / layout-percentage50",
       "type": "spacing",
       "value": "50%",
       "category": "spacing",
@@ -4041,7 +4041,7 @@
       }
     },
     {
-      "name": "core / spacing / layout / layout-66",
+      "name": "core / spacing / layout / percentage / layout-percentage66",
       "type": "spacing",
       "value": "66%",
       "category": "spacing",
@@ -4051,7 +4051,7 @@
       }
     },
     {
-      "name": "core / spacing / layout / layout-75",
+      "name": "core / spacing / layout / percentage / layout-percentage75",
       "type": "spacing",
       "value": "75%",
       "category": "spacing",
@@ -4061,17 +4061,17 @@
       }
     },
     {
-      "name": "core / spacing / layout / layout-83",
+      "name": "core / spacing / layout / percentage / layout-percentage83",
       "type": "spacing",
       "value": "83%",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "wjA43emTrOAL"
+        "id": "lPXKG6Lr9cyB"
       }
     },
     {
-      "name": "core / spacing / layout / layout-90",
+      "name": "core / spacing / layout / percentage / layout-percentage90",
       "type": "spacing",
       "value": "90%",
       "category": "spacing",
@@ -4081,7 +4081,7 @@
       }
     },
     {
-      "name": "core / spacing / layout / layout-95",
+      "name": "core / spacing / layout / percentage / layout-percentage95",
       "type": "spacing",
       "value": "95%",
       "category": "spacing",
@@ -4091,7 +4091,7 @@
       }
     },
     {
-      "name": "core / spacing / layout / layout-97",
+      "name": "core / spacing / layout / percentage / layout-percentage97",
       "type": "spacing",
       "value": "97%",
       "category": "spacing",
@@ -4101,13 +4101,273 @@
       }
     },
     {
-      "name": "core / spacing / layout / layout-99",
+      "name": "core / spacing / layout / percentage / layout-percentage99",
       "type": "spacing",
       "value": "99%",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
         "id": "PITsREHQ3DCb"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel00",
+      "type": "spacing",
+      "value": "0px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "RE-5b0rNKvzf"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel01",
+      "type": "spacing",
+      "value": "1px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "CBJ9p8ySueGW"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel02",
+      "type": "spacing",
+      "value": "2px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "4DZfuHudET-h"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel04",
+      "type": "spacing",
+      "value": "4px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "X-Rd1vV1dY94"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel08",
+      "type": "spacing",
+      "value": "8px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "mO9Mdkj2S3G1"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel12",
+      "type": "spacing",
+      "value": "12px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "oLasZxW3dWtL"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel120",
+      "type": "spacing",
+      "value": "120px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "a-1WMVXIvi24"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel1200",
+      "type": "spacing",
+      "value": "1200px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "bDDYFmGXj-M1"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel1400",
+      "type": "spacing",
+      "value": "1400px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "dHAuWJHU48QG"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel16",
+      "type": "spacing",
+      "value": "16px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "9588XUwd3tEo"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel160",
+      "type": "spacing",
+      "value": "160px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "ZgCT8zaz_veK"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel20",
+      "type": "spacing",
+      "value": "20px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "PRfjGBlOTho5"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel24",
+      "type": "spacing",
+      "value": "24px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "G69ArUxHbDyN"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel240",
+      "type": "spacing",
+      "value": "240px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "a2UEQrMPqaj7"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel32",
+      "type": "spacing",
+      "value": "32px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "mj-l4bEjs88Y"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel320",
+      "type": "spacing",
+      "value": "320px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "3Hm009r80cUo"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel40",
+      "type": "spacing",
+      "value": "40px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "MJ2thlmA6El6"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel48",
+      "type": "spacing",
+      "value": "48px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "yVzWMIO-ABf3"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel480",
+      "type": "spacing",
+      "value": "480px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "YYj8kSZsLLt1"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel56",
+      "type": "spacing",
+      "value": "56px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "F4VhiUw-VX0A"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel64",
+      "type": "spacing",
+      "value": "64px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "CDhFWV84Dut-"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel640",
+      "type": "spacing",
+      "value": "640px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "FjtEUSGVitCe"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel72",
+      "type": "spacing",
+      "value": "72px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "InxOYrz672mp"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel80",
+      "type": "spacing",
+      "value": "80px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "pnXa0HthWtUN"
+      }
+    },
+    {
+      "name": "core / spacing / layout / pixel / layout-pixel880",
+      "type": "spacing",
+      "value": "880px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "GKAPL-c9LMGf"
+      }
+    },
+    {
+      "name": "core / spacing / layout / viewport / layout-vh100",
+      "type": "spacing",
+      "value": "100vh",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "bk0yU7Eidj4h"
       }
     },
     {
