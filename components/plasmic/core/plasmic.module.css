@@ -1303,6 +1303,10 @@
   --plasmic-token-core-spacing-layout-pixel-layout-pixel-1400: var(
     --token-dHAuWJHU48QG
   );
+  --token-bjsONMcLYoJ1: 1024px;
+  --plasmic-token-core-spacing-layout-pixel-layout-pixel-1024: var(
+    --token-bjsONMcLYoJ1
+  );
 }
 
 @media (max-width: 768px) {

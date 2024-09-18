@@ -4161,6 +4161,16 @@
       }
     },
     {
+      "name": "core / spacing / layout / pixel / layout-pixel1024",
+      "type": "spacing",
+      "value": "1024px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "bjsONMcLYoJ1"
+      }
+    },
+    {
       "name": "core / spacing / layout / pixel / layout-pixel12",
       "type": "spacing",
       "value": "12px",
