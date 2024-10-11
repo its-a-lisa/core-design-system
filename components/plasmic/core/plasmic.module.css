@@ -1197,6 +1197,12 @@
   --plasmic-token-pixel-pix-01350: var(--token--RHrXZ9gxwyN);
   --token-I19gfDrZ3mWV: 680px;
   --plasmic-token-pixel-pix-0680: var(--token-I19gfDrZ3mWV);
+  --token-a4HC0coUFHIR: 6px;
+  --plasmic-token-pixel-pix-06: var(--token-a4HC0coUFHIR);
+  --token-M_KOlgD6y9AG: 7px;
+  --plasmic-token-pixel-pix-07: var(--token-M_KOlgD6y9AG);
+  --token-3r07NvHoSe_E: 9px;
+  --plasmic-token-pixel-pix-09: var(--token-3r07NvHoSe_E);
 }
 
 @media (max-width: 768px) {
