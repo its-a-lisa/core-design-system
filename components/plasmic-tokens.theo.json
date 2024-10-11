@@ -4161,6 +4161,16 @@
       }
     },
     {
+      "name": "pixel / pix-018",
+      "type": "spacing",
+      "value": "18px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "2MilEaNFmmom"
+      }
+    },
+    {
       "name": "pixel / pix-01920",
       "type": "spacing",
       "value": "1920px",
@@ -4198,6 +4208,16 @@
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
         "id": "BiiR9Yzfy7-p"
+      }
+    },
+    {
+      "name": "pixel / pix-022",
+      "type": "spacing",
+      "value": "22px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "NmHXmOPo5-qE"
       }
     },
     {

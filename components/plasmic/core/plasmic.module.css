@@ -1203,6 +1203,10 @@
   --plasmic-token-pixel-pix-07: var(--token-M_KOlgD6y9AG);
   --token-3r07NvHoSe_E: 9px;
   --plasmic-token-pixel-pix-09: var(--token-3r07NvHoSe_E);
+  --token-2MilEaNFmmom: 18px;
+  --plasmic-token-pixel-pix-018: var(--token-2MilEaNFmmom);
+  --token-NmHXmOPo5-qE: 22px;
+  --plasmic-token-pixel-pix-022: var(--token-NmHXmOPo5-qE);
 }
 
 @media (max-width: 768px) {
