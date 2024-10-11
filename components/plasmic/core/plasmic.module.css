@@ -1299,6 +1299,8 @@
   --plasmic-token-viewport-width-vw-099: var(--token-xcF3Ab9rbGFi);
   --token--wPcVnZR_1gf: 100vw;
   --plasmic-token-viewport-width-vw-0100: var(--token--wPcVnZR_1gf);
+  --token-EGuiALe8QHmM: 1.25em;
+  --plasmic-token-line-height-line-height-020: var(--token-EGuiALe8QHmM);
 }
 
 @media (max-width: 768px) {

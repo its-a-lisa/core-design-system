@@ -2901,6 +2901,16 @@
       }
     },
     {
+      "name": "line-height / lineHeight-020",
+      "type": "lineheight",
+      "value": "1.25em",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "EGuiALe8QHmM"
+      }
+    },
+    {
       "name": "line-height / lineHeight-022",
       "type": "lineheight",
       "value": "1.38em",
