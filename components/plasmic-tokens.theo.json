@@ -3071,6 +3071,46 @@
       }
     },
     {
+      "name": "line-height / lineHeight-080",
+      "type": "lineheight",
+      "value": "5em",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "1Ji1mRGIIhiJ"
+      }
+    },
+    {
+      "name": "line-height / lineHeight-082",
+      "type": "lineheight",
+      "value": "5.12em",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "zrn1yyWmrsCP"
+      }
+    },
+    {
+      "name": "line-height / lineHeight-084",
+      "type": "lineheight",
+      "value": "5.25em",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "RPvLZoic7kvp"
+      }
+    },
+    {
+      "name": "line-height / lineHeight-088",
+      "type": "lineheight",
+      "value": "5.5em",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "M2U9Mha3Oe7P"
+      }
+    },
+    {
       "name": "neutral / neutral-10",
       "type": "color",
       "value": "#FAFAFA",
