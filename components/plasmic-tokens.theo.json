@@ -1091,6 +1091,16 @@
       }
     },
     {
+      "name": "em / em-014",
+      "type": "spacing",
+      "value": "0.875em",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "IREa5JHYKTze"
+      }
+    },
+    {
       "name": "em / em-0152",
       "type": "spacing",
       "value": "9.5em",
@@ -1121,6 +1131,16 @@
       }
     },
     {
+      "name": "em / em-018",
+      "type": "spacing",
+      "value": "1.112em",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "d_IjjWcSfcyc"
+      }
+    },
+    {
       "name": "em / em-02",
       "type": "spacing",
       "value": "0.125em",
@@ -1148,6 +1168,16 @@
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
         "id": "Zoj5czs_G93r"
+      }
+    },
+    {
+      "name": "em / em-022",
+      "type": "spacing",
+      "value": "1.25em",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "LZF1GAxEDLWG"
       }
     },
     {
@@ -1348,6 +1378,16 @@
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
         "id": "Y3Ar7f2_Jpjp"
+      }
+    },
+    {
+      "name": "em / em-10",
+      "type": "spacing",
+      "value": "0.625em",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "ad9loUFhzNTC"
       }
     },
     {
@@ -5011,6 +5051,16 @@
       }
     },
     {
+      "name": "rem / rem-014",
+      "type": "spacing",
+      "value": "0.875rem",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "3Yh1BtycXMZY"
+      }
+    },
+    {
       "name": "rem / rem-0152",
       "type": "spacing",
       "value": "9.5rem",
@@ -5041,6 +5091,16 @@
       }
     },
     {
+      "name": "rem / rem-018",
+      "type": "spacing",
+      "value": "1.112rem",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "GWcvEEpPecBn"
+      }
+    },
+    {
       "name": "rem / rem-02",
       "type": "spacing",
       "value": "0.125rem",
@@ -5068,6 +5128,16 @@
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
         "id": "5EN6uxHjO4jA"
+      }
+    },
+    {
+      "name": "rem / rem-022",
+      "type": "spacing",
+      "value": "1.25rem",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "DKcNDw_2Q4UN"
       }
     },
     {
@@ -5268,6 +5338,16 @@
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
         "id": "3-tJKfg6zfvE"
+      }
+    },
+    {
+      "name": "rem / rem-10",
+      "type": "spacing",
+      "value": "0.625rem",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "VxqmLFWKBqdy"
       }
     },
     {
