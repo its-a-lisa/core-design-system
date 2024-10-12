@@ -1251,6 +1251,16 @@
       }
     },
     {
+      "name": "em / em-030",
+      "type": "spacing",
+      "value": "1.875em",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "HZWyNFa8cEs-"
+      }
+    },
+    {
       "name": "em / em-032",
       "type": "spacing",
       "value": "2em",
@@ -5208,6 +5218,16 @@
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
         "id": "xD-cBf30b7bn"
+      }
+    },
+    {
+      "name": "rem / rem-030",
+      "type": "spacing",
+      "value": "1.875em",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "WWIYZaG5ITHA"
       }
     },
     {
