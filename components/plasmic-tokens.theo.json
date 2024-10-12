@@ -1,7 +1,7 @@
 {
   "props": [
     {
-      "name": "alpha / high / high-01",
+      "name": "alpha / high / high-1",
       "type": "color",
       "value": "#12121203",
       "category": "color",
@@ -11,7 +11,7 @@
       }
     },
     {
-      "name": "alpha / high / high-010",
+      "name": "alpha / high / high-10",
       "type": "color",
       "value": "#1212121A",
       "category": "color",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "name": "alpha / high / high-012",
+      "name": "alpha / high / high-12",
       "type": "color",
       "value": "#1212121F",
       "category": "color",
@@ -31,7 +31,7 @@
       }
     },
     {
-      "name": "alpha / high / high-014",
+      "name": "alpha / high / high-14",
       "type": "color",
       "value": "#12121224",
       "category": "color",
@@ -41,7 +41,7 @@
       }
     },
     {
-      "name": "alpha / high / high-016",
+      "name": "alpha / high / high-16",
       "type": "color",
       "value": "#12121229",
       "category": "color",
@@ -51,7 +51,7 @@
       }
     },
     {
-      "name": "alpha / high / high-02",
+      "name": "alpha / high / high-2",
       "type": "color",
       "value": "#12121205",
       "category": "color",
@@ -61,7 +61,7 @@
       }
     },
     {
-      "name": "alpha / high / high-020",
+      "name": "alpha / high / high-20",
       "type": "color",
       "value": "#12121233",
       "category": "color",
@@ -71,7 +71,7 @@
       }
     },
     {
-      "name": "alpha / high / high-024",
+      "name": "alpha / high / high-24",
       "type": "color",
       "value": "#1212123D",
       "category": "color",
@@ -81,7 +81,7 @@
       }
     },
     {
-      "name": "alpha / high / high-028",
+      "name": "alpha / high / high-28",
       "type": "color",
       "value": "#12121247",
       "category": "color",
@@ -91,7 +91,7 @@
       }
     },
     {
-      "name": "alpha / high / high-03",
+      "name": "alpha / high / high-3",
       "type": "color",
       "value": "#12121208",
       "category": "color",
@@ -101,7 +101,7 @@
       }
     },
     {
-      "name": "alpha / high / high-032",
+      "name": "alpha / high / high-32",
       "type": "color",
       "value": "#12121252",
       "category": "color",
@@ -111,7 +111,7 @@
       }
     },
     {
-      "name": "alpha / high / high-038",
+      "name": "alpha / high / high-38",
       "type": "color",
       "value": "#12121261",
       "category": "color",
@@ -121,7 +121,7 @@
       }
     },
     {
-      "name": "alpha / high / high-04",
+      "name": "alpha / high / high-4",
       "type": "color",
       "value": "#1212120A",
       "category": "color",
@@ -131,7 +131,7 @@
       }
     },
     {
-      "name": "alpha / high / high-044",
+      "name": "alpha / high / high-44",
       "type": "color",
       "value": "#12121270",
       "category": "color",
@@ -141,7 +141,7 @@
       }
     },
     {
-      "name": "alpha / high / high-052",
+      "name": "alpha / high / high-52",
       "type": "color",
       "value": "#12121285",
       "category": "color",
@@ -151,7 +151,7 @@
       }
     },
     {
-      "name": "alpha / high / high-06",
+      "name": "alpha / high / high-6",
       "type": "color",
       "value": "#1212120F",
       "category": "color",
@@ -161,7 +161,7 @@
       }
     },
     {
-      "name": "alpha / high / high-060",
+      "name": "alpha / high / high-60",
       "type": "color",
       "value": "#12121299",
       "category": "color",
@@ -171,7 +171,7 @@
       }
     },
     {
-      "name": "alpha / high / high-072",
+      "name": "alpha / high / high-72",
       "type": "color",
       "value": "#121212B8",
       "category": "color",
@@ -181,7 +181,7 @@
       }
     },
     {
-      "name": "alpha / high / high-08",
+      "name": "alpha / high / high-8",
       "type": "color",
       "value": "#12121214",
       "category": "color",
@@ -191,7 +191,7 @@
       }
     },
     {
-      "name": "alpha / high / high-086",
+      "name": "alpha / high / high-86",
       "type": "color",
       "value": "#121212DB",
       "category": "color",
@@ -201,7 +201,7 @@
       }
     },
     {
-      "name": "alpha / high / high-094",
+      "name": "alpha / high / high-94",
       "type": "color",
       "value": "#121212EB",
       "category": "color",
@@ -211,7 +211,7 @@
       }
     },
     {
-      "name": "alpha / low / low-01",
+      "name": "alpha / low / low-1",
       "type": "color",
       "value": "#FFFFFF03",
       "category": "color",
@@ -221,7 +221,7 @@
       }
     },
     {
-      "name": "alpha / low / low-010",
+      "name": "alpha / low / low-10",
       "type": "color",
       "value": "#FFFFFF1A",
       "category": "color",
@@ -231,7 +231,7 @@
       }
     },
     {
-      "name": "alpha / low / low-012",
+      "name": "alpha / low / low-12",
       "type": "color",
       "value": "#FFFFFF1F",
       "category": "color",
@@ -241,7 +241,7 @@
       }
     },
     {
-      "name": "alpha / low / low-014",
+      "name": "alpha / low / low-14",
       "type": "color",
       "value": "#FFFFFF24",
       "category": "color",
@@ -251,7 +251,7 @@
       }
     },
     {
-      "name": "alpha / low / low-016",
+      "name": "alpha / low / low-16",
       "type": "color",
       "value": "#FFFFFF29",
       "category": "color",
@@ -261,7 +261,7 @@
       }
     },
     {
-      "name": "alpha / low / low-02",
+      "name": "alpha / low / low-2",
       "type": "color",
       "value": "#FFFFFF05",
       "category": "color",
@@ -271,7 +271,7 @@
       }
     },
     {
-      "name": "alpha / low / low-020",
+      "name": "alpha / low / low-20",
       "type": "color",
       "value": "#FFFFFF33",
       "category": "color",
@@ -281,7 +281,7 @@
       }
     },
     {
-      "name": "alpha / low / low-024",
+      "name": "alpha / low / low-24",
       "type": "color",
       "value": "#FFFFFF3D",
       "category": "color",
@@ -291,7 +291,7 @@
       }
     },
     {
-      "name": "alpha / low / low-028",
+      "name": "alpha / low / low-28",
       "type": "color",
       "value": "#FFFFFF47",
       "category": "color",
@@ -301,7 +301,7 @@
       }
     },
     {
-      "name": "alpha / low / low-03",
+      "name": "alpha / low / low-3",
       "type": "color",
       "value": "#FFFFFF08",
       "category": "color",
@@ -311,7 +311,7 @@
       }
     },
     {
-      "name": "alpha / low / low-032",
+      "name": "alpha / low / low-32",
       "type": "color",
       "value": "#FFFFFF52",
       "category": "color",
@@ -321,7 +321,7 @@
       }
     },
     {
-      "name": "alpha / low / low-038",
+      "name": "alpha / low / low-38",
       "type": "color",
       "value": "#FFFFFF61",
       "category": "color",
@@ -331,7 +331,7 @@
       }
     },
     {
-      "name": "alpha / low / low-04",
+      "name": "alpha / low / low-4",
       "type": "color",
       "value": "#FFFFFF0A",
       "category": "color",
@@ -341,7 +341,7 @@
       }
     },
     {
-      "name": "alpha / low / low-044",
+      "name": "alpha / low / low-44",
       "type": "color",
       "value": "#FFFFFF70",
       "category": "color",
@@ -351,7 +351,7 @@
       }
     },
     {
-      "name": "alpha / low / low-052",
+      "name": "alpha / low / low-52",
       "type": "color",
       "value": "#FFFFFF85",
       "category": "color",
@@ -361,7 +361,7 @@
       }
     },
     {
-      "name": "alpha / low / low-06",
+      "name": "alpha / low / low-6",
       "type": "color",
       "value": "#FFFFFF0F",
       "category": "color",
@@ -371,7 +371,7 @@
       }
     },
     {
-      "name": "alpha / low / low-060",
+      "name": "alpha / low / low-60",
       "type": "color",
       "value": "#FFFFFF99",
       "category": "color",
@@ -381,7 +381,7 @@
       }
     },
     {
-      "name": "alpha / low / low-072",
+      "name": "alpha / low / low-72",
       "type": "color",
       "value": "#FFFFFFB8",
       "category": "color",
@@ -391,7 +391,7 @@
       }
     },
     {
-      "name": "alpha / low / low-08",
+      "name": "alpha / low / low-8",
       "type": "color",
       "value": "#FFFFFF14",
       "category": "color",
@@ -401,7 +401,7 @@
       }
     },
     {
-      "name": "alpha / low / low-086",
+      "name": "alpha / low / low-86",
       "type": "color",
       "value": "#FFFFFFDB",
       "category": "color",
@@ -411,7 +411,7 @@
       }
     },
     {
-      "name": "alpha / low / low-094",
+      "name": "alpha / low / low-94",
       "type": "color",
       "value": "#FFFFFFF0",
       "category": "color",
@@ -1041,7 +1041,7 @@
       }
     },
     {
-      "name": "em / em-00",
+      "name": "em / em-0",
       "type": "spacing",
       "value": "0em",
       "category": "spacing",
@@ -1051,7 +1051,7 @@
       }
     },
     {
-      "name": "em / em-010",
+      "name": "em / em-10",
       "type": "spacing",
       "value": "0.625em",
       "category": "spacing",
@@ -1061,7 +1061,7 @@
       }
     },
     {
-      "name": "em / em-0104",
+      "name": "em / em-104",
       "type": "spacing",
       "value": "6.5em",
       "category": "spacing",
@@ -1071,7 +1071,7 @@
       }
     },
     {
-      "name": "em / em-0112",
+      "name": "em / em-112",
       "type": "spacing",
       "value": "7em",
       "category": "spacing",
@@ -1081,7 +1081,7 @@
       }
     },
     {
-      "name": "em / em-012",
+      "name": "em / em-12",
       "type": "spacing",
       "value": "0.75em",
       "category": "spacing",
@@ -1091,7 +1091,7 @@
       }
     },
     {
-      "name": "em / em-0128",
+      "name": "em / em-128",
       "type": "spacing",
       "value": "8em",
       "category": "spacing",
@@ -1101,7 +1101,7 @@
       }
     },
     {
-      "name": "em / em-014",
+      "name": "em / em-14",
       "type": "spacing",
       "value": "0.875em",
       "category": "spacing",
@@ -1111,7 +1111,7 @@
       }
     },
     {
-      "name": "em / em-015",
+      "name": "em / em-15",
       "type": "spacing",
       "value": "0.94em",
       "category": "spacing",
@@ -1121,7 +1121,7 @@
       }
     },
     {
-      "name": "em / em-0152",
+      "name": "em / em-152",
       "type": "spacing",
       "value": "9.5em",
       "category": "spacing",
@@ -1131,7 +1131,7 @@
       }
     },
     {
-      "name": "em / em-016",
+      "name": "em / em-16",
       "type": "spacing",
       "value": "1em",
       "category": "spacing",
@@ -1141,7 +1141,7 @@
       }
     },
     {
-      "name": "em / em-0176",
+      "name": "em / em-176",
       "type": "spacing",
       "value": "11em",
       "category": "spacing",
@@ -1151,7 +1151,7 @@
       }
     },
     {
-      "name": "em / em-018",
+      "name": "em / em-18",
       "type": "spacing",
       "value": "1.112em",
       "category": "spacing",
@@ -1161,7 +1161,7 @@
       }
     },
     {
-      "name": "em / em-02",
+      "name": "em / em-2",
       "type": "spacing",
       "value": "0.125em",
       "category": "spacing",
@@ -1171,7 +1171,7 @@
       }
     },
     {
-      "name": "em / em-020",
+      "name": "em / em-20",
       "type": "spacing",
       "value": "1.123em",
       "category": "spacing",
@@ -1181,7 +1181,7 @@
       }
     },
     {
-      "name": "em / em-0200",
+      "name": "em / em-200",
       "type": "spacing",
       "value": "12.5em",
       "category": "spacing",
@@ -1191,7 +1191,7 @@
       }
     },
     {
-      "name": "em / em-022",
+      "name": "em / em-22",
       "type": "spacing",
       "value": "1.25em",
       "category": "spacing",
@@ -1201,7 +1201,7 @@
       }
     },
     {
-      "name": "em / em-0224",
+      "name": "em / em-224",
       "type": "spacing",
       "value": "14em",
       "category": "spacing",
@@ -1211,7 +1211,7 @@
       }
     },
     {
-      "name": "em / em-024",
+      "name": "em / em-24",
       "type": "spacing",
       "value": "1.5em",
       "category": "spacing",
@@ -1221,7 +1221,7 @@
       }
     },
     {
-      "name": "em / em-0248",
+      "name": "em / em-248",
       "type": "spacing",
       "value": "15.5em",
       "category": "spacing",
@@ -1231,7 +1231,7 @@
       }
     },
     {
-      "name": "em / em-0272",
+      "name": "em / em-272",
       "type": "spacing",
       "value": "17em",
       "category": "spacing",
@@ -1241,7 +1241,7 @@
       }
     },
     {
-      "name": "em / em-028",
+      "name": "em / em-28",
       "type": "spacing",
       "value": "1.75em",
       "category": "spacing",
@@ -1251,7 +1251,7 @@
       }
     },
     {
-      "name": "em / em-0296",
+      "name": "em / em-296",
       "type": "spacing",
       "value": "18.5em",
       "category": "spacing",
@@ -1261,7 +1261,7 @@
       }
     },
     {
-      "name": "em / em-030",
+      "name": "em / em-30",
       "type": "spacing",
       "value": "1.875em",
       "category": "spacing",
@@ -1271,7 +1271,7 @@
       }
     },
     {
-      "name": "em / em-032",
+      "name": "em / em-32",
       "type": "spacing",
       "value": "2em",
       "category": "spacing",
@@ -1281,7 +1281,7 @@
       }
     },
     {
-      "name": "em / em-0320",
+      "name": "em / em-320",
       "type": "spacing",
       "value": "20em",
       "category": "spacing",
@@ -1291,7 +1291,7 @@
       }
     },
     {
-      "name": "em / em-0344",
+      "name": "em / em-344",
       "type": "spacing",
       "value": "21.5em",
       "category": "spacing",
@@ -1301,7 +1301,7 @@
       }
     },
     {
-      "name": "em / em-036",
+      "name": "em / em-36",
       "type": "spacing",
       "value": "2.25em",
       "category": "spacing",
@@ -1311,7 +1311,7 @@
       }
     },
     {
-      "name": "em / em-04",
+      "name": "em / em-4",
       "type": "spacing",
       "value": "0.25em",
       "category": "spacing",
@@ -1321,7 +1321,7 @@
       }
     },
     {
-      "name": "em / em-040",
+      "name": "em / em-40",
       "type": "spacing",
       "value": "2.5em",
       "category": "spacing",
@@ -1331,7 +1331,7 @@
       }
     },
     {
-      "name": "em / em-044",
+      "name": "em / em-44",
       "type": "spacing",
       "value": "2.75em",
       "category": "spacing",
@@ -1341,7 +1341,7 @@
       }
     },
     {
-      "name": "em / em-048",
+      "name": "em / em-48",
       "type": "spacing",
       "value": "3em",
       "category": "spacing",
@@ -1351,7 +1351,7 @@
       }
     },
     {
-      "name": "em / em-05",
+      "name": "em / em-5",
       "type": "spacing",
       "value": "0.36em",
       "category": "spacing",
@@ -1361,7 +1361,7 @@
       }
     },
     {
-      "name": "em / em-056",
+      "name": "em / em-56",
       "type": "spacing",
       "value": "3.5em",
       "category": "spacing",
@@ -1371,7 +1371,7 @@
       }
     },
     {
-      "name": "em / em-06",
+      "name": "em / em-6",
       "type": "spacing",
       "value": "0.375em",
       "category": "spacing",
@@ -1381,7 +1381,7 @@
       }
     },
     {
-      "name": "em / em-064",
+      "name": "em / em-64",
       "type": "spacing",
       "value": "4em",
       "category": "spacing",
@@ -1391,7 +1391,7 @@
       }
     },
     {
-      "name": "em / em-072",
+      "name": "em / em-72",
       "type": "spacing",
       "value": "4.5em",
       "category": "spacing",
@@ -1401,7 +1401,7 @@
       }
     },
     {
-      "name": "em / em-08",
+      "name": "em / em-8",
       "type": "spacing",
       "value": "0.5rem",
       "category": "spacing",
@@ -1411,7 +1411,7 @@
       }
     },
     {
-      "name": "em / em-080",
+      "name": "em / em-80",
       "type": "spacing",
       "value": "5em",
       "category": "spacing",
@@ -3661,7 +3661,7 @@
       }
     },
     {
-      "name": "percentage / per-00",
+      "name": "percentage / per-0",
       "type": "spacing",
       "value": "0%",
       "category": "spacing",
@@ -3671,7 +3671,7 @@
       }
     },
     {
-      "name": "percentage / per-010",
+      "name": "percentage / per-10",
       "type": "spacing",
       "value": "10%",
       "category": "spacing",
@@ -3681,7 +3681,7 @@
       }
     },
     {
-      "name": "percentage / per-0100",
+      "name": "percentage / per-100",
       "type": "spacing",
       "value": "100%",
       "category": "spacing",
@@ -3691,7 +3691,7 @@
       }
     },
     {
-      "name": "percentage / per-012",
+      "name": "percentage / per-12",
       "type": "spacing",
       "value": "12%",
       "category": "spacing",
@@ -3701,7 +3701,7 @@
       }
     },
     {
-      "name": "percentage / per-015",
+      "name": "percentage / per-15",
       "type": "spacing",
       "value": "15%",
       "category": "spacing",
@@ -3711,7 +3711,7 @@
       }
     },
     {
-      "name": "percentage / per-02",
+      "name": "percentage / per-2",
       "type": "spacing",
       "value": "1%",
       "category": "spacing",
@@ -3721,7 +3721,7 @@
       }
     },
     {
-      "name": "percentage / per-020",
+      "name": "percentage / per-20",
       "type": "spacing",
       "value": "20%",
       "category": "spacing",
@@ -3731,7 +3731,7 @@
       }
     },
     {
-      "name": "percentage / per-025",
+      "name": "percentage / per-25",
       "type": "spacing",
       "value": "25%",
       "category": "spacing",
@@ -3741,7 +3741,7 @@
       }
     },
     {
-      "name": "percentage / per-030",
+      "name": "percentage / per-30",
       "type": "spacing",
       "value": "30%",
       "category": "spacing",
@@ -3751,7 +3751,7 @@
       }
     },
     {
-      "name": "percentage / per-033",
+      "name": "percentage / per-33",
       "type": "spacing",
       "value": "33%",
       "category": "spacing",
@@ -3761,7 +3761,7 @@
       }
     },
     {
-      "name": "percentage / per-04",
+      "name": "percentage / per-4",
       "type": "spacing",
       "value": "3%",
       "category": "spacing",
@@ -3771,7 +3771,7 @@
       }
     },
     {
-      "name": "percentage / per-040",
+      "name": "percentage / per-40",
       "type": "spacing",
       "value": "40%",
       "category": "spacing",
@@ -3781,7 +3781,7 @@
       }
     },
     {
-      "name": "percentage / per-050",
+      "name": "percentage / per-50",
       "type": "spacing",
       "value": "50%",
       "category": "spacing",
@@ -3791,7 +3791,7 @@
       }
     },
     {
-      "name": "percentage / per-06",
+      "name": "percentage / per-6",
       "type": "spacing",
       "value": "6%",
       "category": "spacing",
@@ -3801,7 +3801,7 @@
       }
     },
     {
-      "name": "percentage / per-060",
+      "name": "percentage / per-60",
       "type": "spacing",
       "value": "60%",
       "category": "spacing",
@@ -3811,7 +3811,7 @@
       }
     },
     {
-      "name": "percentage / per-066",
+      "name": "percentage / per-66",
       "type": "spacing",
       "value": "66%",
       "category": "spacing",
@@ -3821,7 +3821,7 @@
       }
     },
     {
-      "name": "percentage / per-070",
+      "name": "percentage / per-70",
       "type": "spacing",
       "value": "70%",
       "category": "spacing",
@@ -3831,7 +3831,7 @@
       }
     },
     {
-      "name": "percentage / per-075",
+      "name": "percentage / per-75",
       "type": "spacing",
       "value": "75%",
       "category": "spacing",
@@ -3841,7 +3841,7 @@
       }
     },
     {
-      "name": "percentage / per-08",
+      "name": "percentage / per-8",
       "type": "spacing",
       "value": "8%",
       "category": "spacing",
@@ -3851,7 +3851,7 @@
       }
     },
     {
-      "name": "percentage / per-080",
+      "name": "percentage / per-80",
       "type": "spacing",
       "value": "80%",
       "category": "spacing",
@@ -3861,7 +3861,7 @@
       }
     },
     {
-      "name": "percentage / per-085",
+      "name": "percentage / per-85",
       "type": "spacing",
       "value": "85%",
       "category": "spacing",
@@ -3871,7 +3871,7 @@
       }
     },
     {
-      "name": "percentage / per-090",
+      "name": "percentage / per-90",
       "type": "spacing",
       "value": "90%",
       "category": "spacing",
@@ -3881,7 +3881,7 @@
       }
     },
     {
-      "name": "percentage / per-095",
+      "name": "percentage / per-95",
       "type": "spacing",
       "value": "95%",
       "category": "spacing",
@@ -3891,7 +3891,7 @@
       }
     },
     {
-      "name": "percentage / per-099",
+      "name": "percentage / per-99",
       "type": "spacing",
       "value": "99%",
       "category": "spacing",
@@ -4031,7 +4031,7 @@
       }
     },
     {
-      "name": "pixel / pix-00",
+      "name": "pixel / pix-0",
       "type": "spacing",
       "value": "0px",
       "category": "spacing",
@@ -4041,7 +4041,7 @@
       }
     },
     {
-      "name": "pixel / pix-01",
+      "name": "pixel / pix-1",
       "type": "spacing",
       "value": "1px",
       "category": "spacing",
@@ -4051,7 +4051,7 @@
       }
     },
     {
-      "name": "pixel / pix-010",
+      "name": "pixel / pix-10",
       "type": "spacing",
       "value": "10px",
       "category": "spacing",
@@ -4061,7 +4061,7 @@
       }
     },
     {
-      "name": "pixel / pix-01000",
+      "name": "pixel / pix-1000",
       "type": "spacing",
       "value": "1000px",
       "category": "spacing",
@@ -4071,7 +4071,7 @@
       }
     },
     {
-      "name": "pixel / pix-01024",
+      "name": "pixel / pix-1024",
       "type": "spacing",
       "value": "1024px",
       "category": "spacing",
@@ -4081,7 +4081,7 @@
       }
     },
     {
-      "name": "pixel / pix-0104",
+      "name": "pixel / pix-104",
       "type": "spacing",
       "value": "104px",
       "category": "spacing",
@@ -4091,7 +4091,7 @@
       }
     },
     {
-      "name": "pixel / pix-01080",
+      "name": "pixel / pix-1080",
       "type": "spacing",
       "value": "1080px",
       "category": "spacing",
@@ -4101,7 +4101,7 @@
       }
     },
     {
-      "name": "pixel / pix-0112",
+      "name": "pixel / pix-112",
       "type": "spacing",
       "value": "112px",
       "category": "spacing",
@@ -4111,7 +4111,7 @@
       }
     },
     {
-      "name": "pixel / pix-01180",
+      "name": "pixel / pix-1180",
       "type": "spacing",
       "value": "1180px",
       "category": "spacing",
@@ -4121,7 +4121,7 @@
       }
     },
     {
-      "name": "pixel / pix-012",
+      "name": "pixel / pix-12",
       "type": "spacing",
       "value": "12px",
       "category": "spacing",
@@ -4131,7 +4131,7 @@
       }
     },
     {
-      "name": "pixel / pix-0120",
+      "name": "pixel / pix-120",
       "type": "spacing",
       "value": "120px",
       "category": "spacing",
@@ -4141,7 +4141,7 @@
       }
     },
     {
-      "name": "pixel / pix-01200",
+      "name": "pixel / pix-1200",
       "type": "spacing",
       "value": "1200px",
       "category": "spacing",
@@ -4151,7 +4151,7 @@
       }
     },
     {
-      "name": "pixel / pix-0128",
+      "name": "pixel / pix-128",
       "type": "spacing",
       "value": "128px",
       "category": "spacing",
@@ -4161,7 +4161,7 @@
       }
     },
     {
-      "name": "pixel / pix-01280",
+      "name": "pixel / pix-1280",
       "type": "spacing",
       "value": "1280px",
       "category": "spacing",
@@ -4171,7 +4171,7 @@
       }
     },
     {
-      "name": "pixel / pix-01350",
+      "name": "pixel / pix-1350",
       "type": "spacing",
       "value": "1350px",
       "category": "spacing",
@@ -4181,7 +4181,7 @@
       }
     },
     {
-      "name": "pixel / pix-01366",
+      "name": "pixel / pix-1366",
       "type": "spacing",
       "value": "1366px",
       "category": "spacing",
@@ -4191,7 +4191,17 @@
       }
     },
     {
-      "name": "pixel / pix-01400",
+      "name": "pixel / pix-14",
+      "type": "spacing",
+      "value": "14px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "pLMK3PJzEXlF"
+      }
+    },
+    {
+      "name": "pixel / pix-1400",
       "type": "spacing",
       "value": "1400px",
       "category": "spacing",
@@ -4201,9 +4211,9 @@
       }
     },
     {
-      "name": "pixel / pix-01440",
+      "name": "pixel / pix-1480",
       "type": "spacing",
-      "value": "1440px",
+      "value": "1480px",
       "category": "spacing",
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
@@ -4211,7 +4221,7 @@
       }
     },
     {
-      "name": "pixel / pix-01500",
+      "name": "pixel / pix-1500",
       "type": "spacing",
       "value": "1500px",
       "category": "spacing",
@@ -4221,7 +4231,7 @@
       }
     },
     {
-      "name": "pixel / pix-0152",
+      "name": "pixel / pix-152",
       "type": "spacing",
       "value": "152px",
       "category": "spacing",
@@ -4231,7 +4241,7 @@
       }
     },
     {
-      "name": "pixel / pix-01536",
+      "name": "pixel / pix-1536",
       "type": "spacing",
       "value": "1500px",
       "category": "spacing",
@@ -4241,7 +4251,7 @@
       }
     },
     {
-      "name": "pixel / pix-016",
+      "name": "pixel / pix-16",
       "type": "spacing",
       "value": "16px",
       "category": "spacing",
@@ -4251,7 +4261,7 @@
       }
     },
     {
-      "name": "pixel / pix-0160",
+      "name": "pixel / pix-160",
       "type": "spacing",
       "value": "160px",
       "category": "spacing",
@@ -4261,7 +4271,7 @@
       }
     },
     {
-      "name": "pixel / pix-01600",
+      "name": "pixel / pix-1600",
       "type": "spacing",
       "value": "1600px",
       "category": "spacing",
@@ -4271,7 +4281,7 @@
       }
     },
     {
-      "name": "pixel / pix-0176",
+      "name": "pixel / pix-176",
       "type": "spacing",
       "value": "176px",
       "category": "spacing",
@@ -4281,7 +4291,7 @@
       }
     },
     {
-      "name": "pixel / pix-018",
+      "name": "pixel / pix-18",
       "type": "spacing",
       "value": "18px",
       "category": "spacing",
@@ -4291,7 +4301,7 @@
       }
     },
     {
-      "name": "pixel / pix-01920",
+      "name": "pixel / pix-1920",
       "type": "spacing",
       "value": "1920px",
       "category": "spacing",
@@ -4301,7 +4311,7 @@
       }
     },
     {
-      "name": "pixel / pix-02",
+      "name": "pixel / pix-2",
       "type": "spacing",
       "value": "2px",
       "category": "spacing",
@@ -4311,7 +4321,7 @@
       }
     },
     {
-      "name": "pixel / pix-020",
+      "name": "pixel / pix-20",
       "type": "spacing",
       "value": "20px",
       "category": "spacing",
@@ -4321,7 +4331,7 @@
       }
     },
     {
-      "name": "pixel / pix-0200",
+      "name": "pixel / pix-200",
       "type": "spacing",
       "value": "200px",
       "category": "spacing",
@@ -4331,7 +4341,7 @@
       }
     },
     {
-      "name": "pixel / pix-022",
+      "name": "pixel / pix-22",
       "type": "spacing",
       "value": "22px",
       "category": "spacing",
@@ -4341,7 +4351,7 @@
       }
     },
     {
-      "name": "pixel / pix-0224",
+      "name": "pixel / pix-224",
       "type": "spacing",
       "value": "224px",
       "category": "spacing",
@@ -4351,7 +4361,7 @@
       }
     },
     {
-      "name": "pixel / pix-024",
+      "name": "pixel / pix-24",
       "type": "spacing",
       "value": "24px",
       "category": "spacing",
@@ -4361,7 +4371,7 @@
       }
     },
     {
-      "name": "pixel / pix-0240",
+      "name": "pixel / pix-240",
       "type": "spacing",
       "value": "240px",
       "category": "spacing",
@@ -4371,7 +4381,7 @@
       }
     },
     {
-      "name": "pixel / pix-03",
+      "name": "pixel / pix-3",
       "type": "spacing",
       "value": "3px",
       "category": "spacing",
@@ -4381,7 +4391,7 @@
       }
     },
     {
-      "name": "pixel / pix-032",
+      "name": "pixel / pix-32",
       "type": "spacing",
       "value": "32px",
       "category": "spacing",
@@ -4391,7 +4401,7 @@
       }
     },
     {
-      "name": "pixel / pix-0320",
+      "name": "pixel / pix-320",
       "type": "spacing",
       "value": "320px",
       "category": "spacing",
@@ -4401,7 +4411,7 @@
       }
     },
     {
-      "name": "pixel / pix-036",
+      "name": "pixel / pix-36",
       "type": "spacing",
       "value": "36px",
       "category": "spacing",
@@ -4411,7 +4421,7 @@
       }
     },
     {
-      "name": "pixel / pix-0360",
+      "name": "pixel / pix-360",
       "type": "spacing",
       "value": "360px",
       "category": "spacing",
@@ -4421,7 +4431,7 @@
       }
     },
     {
-      "name": "pixel / pix-0390",
+      "name": "pixel / pix-390",
       "type": "spacing",
       "value": "390px",
       "category": "spacing",
@@ -4431,7 +4441,7 @@
       }
     },
     {
-      "name": "pixel / pix-0393",
+      "name": "pixel / pix-393",
       "type": "spacing",
       "value": "393px",
       "category": "spacing",
@@ -4441,7 +4451,7 @@
       }
     },
     {
-      "name": "pixel / pix-04",
+      "name": "pixel / pix-4",
       "type": "spacing",
       "value": "4px",
       "category": "spacing",
@@ -4451,7 +4461,7 @@
       }
     },
     {
-      "name": "pixel / pix-040",
+      "name": "pixel / pix-40",
       "type": "spacing",
       "value": "40px",
       "category": "spacing",
@@ -4461,7 +4471,7 @@
       }
     },
     {
-      "name": "pixel / pix-0412",
+      "name": "pixel / pix-412",
       "type": "spacing",
       "value": "412px",
       "category": "spacing",
@@ -4471,7 +4481,7 @@
       }
     },
     {
-      "name": "pixel / pix-0414",
+      "name": "pixel / pix-414",
       "type": "spacing",
       "value": "414px",
       "category": "spacing",
@@ -4481,7 +4491,7 @@
       }
     },
     {
-      "name": "pixel / pix-044",
+      "name": "pixel / pix-44",
       "type": "spacing",
       "value": "44px",
       "category": "spacing",
@@ -4491,7 +4501,7 @@
       }
     },
     {
-      "name": "pixel / pix-048",
+      "name": "pixel / pix-48",
       "type": "spacing",
       "value": "48px",
       "category": "spacing",
@@ -4501,7 +4511,7 @@
       }
     },
     {
-      "name": "pixel / pix-0480",
+      "name": "pixel / pix-480",
       "type": "spacing",
       "value": "480px",
       "category": "spacing",
@@ -4511,7 +4521,7 @@
       }
     },
     {
-      "name": "pixel / pix-05",
+      "name": "pixel / pix-5",
       "type": "spacing",
       "value": "5px",
       "category": "spacing",
@@ -4521,7 +4531,7 @@
       }
     },
     {
-      "name": "pixel / pix-056",
+      "name": "pixel / pix-56",
       "type": "spacing",
       "value": "56px",
       "category": "spacing",
@@ -4531,7 +4541,7 @@
       }
     },
     {
-      "name": "pixel / pix-06",
+      "name": "pixel / pix-6",
       "type": "spacing",
       "value": "6px",
       "category": "spacing",
@@ -4541,7 +4551,7 @@
       }
     },
     {
-      "name": "pixel / pix-0601",
+      "name": "pixel / pix-601",
       "type": "spacing",
       "value": "601px",
       "category": "spacing",
@@ -4551,7 +4561,7 @@
       }
     },
     {
-      "name": "pixel / pix-064",
+      "name": "pixel / pix-64",
       "type": "spacing",
       "value": "64px",
       "category": "spacing",
@@ -4561,7 +4571,7 @@
       }
     },
     {
-      "name": "pixel / pix-0640",
+      "name": "pixel / pix-640",
       "type": "spacing",
       "value": "640px",
       "category": "spacing",
@@ -4571,7 +4581,7 @@
       }
     },
     {
-      "name": "pixel / pix-0680",
+      "name": "pixel / pix-680",
       "type": "spacing",
       "value": "680px",
       "category": "spacing",
@@ -4581,7 +4591,7 @@
       }
     },
     {
-      "name": "pixel / pix-07",
+      "name": "pixel / pix-7",
       "type": "spacing",
       "value": "7px",
       "category": "spacing",
@@ -4591,7 +4601,7 @@
       }
     },
     {
-      "name": "pixel / pix-072",
+      "name": "pixel / pix-72",
       "type": "spacing",
       "value": "72px",
       "category": "spacing",
@@ -4601,7 +4611,7 @@
       }
     },
     {
-      "name": "pixel / pix-0720",
+      "name": "pixel / pix-720",
       "type": "spacing",
       "value": "720px",
       "category": "spacing",
@@ -4611,7 +4621,7 @@
       }
     },
     {
-      "name": "pixel / pix-0768",
+      "name": "pixel / pix-768",
       "type": "spacing",
       "value": "768px",
       "category": "spacing",
@@ -4621,7 +4631,7 @@
       }
     },
     {
-      "name": "pixel / pix-08",
+      "name": "pixel / pix-8",
       "type": "spacing",
       "value": "8px",
       "category": "spacing",
@@ -4631,7 +4641,7 @@
       }
     },
     {
-      "name": "pixel / pix-080",
+      "name": "pixel / pix-80",
       "type": "spacing",
       "value": "80px",
       "category": "spacing",
@@ -4641,7 +4651,7 @@
       }
     },
     {
-      "name": "pixel / pix-0800",
+      "name": "pixel / pix-800",
       "type": "spacing",
       "value": "800px",
       "category": "spacing",
@@ -4651,7 +4661,7 @@
       }
     },
     {
-      "name": "pixel / pix-0810",
+      "name": "pixel / pix-810",
       "type": "spacing",
       "value": "810px",
       "category": "spacing",
@@ -4661,7 +4671,7 @@
       }
     },
     {
-      "name": "pixel / pix-0820",
+      "name": "pixel / pix-820",
       "type": "spacing",
       "value": "820px",
       "category": "spacing",
@@ -4671,7 +4681,7 @@
       }
     },
     {
-      "name": "pixel / pix-0844",
+      "name": "pixel / pix-844",
       "type": "spacing",
       "value": "844px",
       "category": "spacing",
@@ -4681,7 +4691,7 @@
       }
     },
     {
-      "name": "pixel / pix-0864",
+      "name": "pixel / pix-864",
       "type": "spacing",
       "value": "864px",
       "category": "spacing",
@@ -4691,7 +4701,7 @@
       }
     },
     {
-      "name": "pixel / pix-0873",
+      "name": "pixel / pix-873",
       "type": "spacing",
       "value": "873px",
       "category": "spacing",
@@ -4701,7 +4711,7 @@
       }
     },
     {
-      "name": "pixel / pix-0880",
+      "name": "pixel / pix-880",
       "type": "spacing",
       "value": "880px",
       "category": "spacing",
@@ -4711,7 +4721,7 @@
       }
     },
     {
-      "name": "pixel / pix-0896",
+      "name": "pixel / pix-896",
       "type": "spacing",
       "value": "896px",
       "category": "spacing",
@@ -4721,7 +4731,7 @@
       }
     },
     {
-      "name": "pixel / pix-09",
+      "name": "pixel / pix-9",
       "type": "spacing",
       "value": "9px",
       "category": "spacing",
@@ -4731,7 +4741,7 @@
       }
     },
     {
-      "name": "pixel / pix-0900",
+      "name": "pixel / pix-900",
       "type": "spacing",
       "value": "900px",
       "category": "spacing",
@@ -4741,7 +4751,7 @@
       }
     },
     {
-      "name": "pixel / pix-0915",
+      "name": "pixel / pix-915",
       "type": "spacing",
       "value": "915px",
       "category": "spacing",
@@ -4751,7 +4761,7 @@
       }
     },
     {
-      "name": "pixel / pix-0962",
+      "name": "pixel / pix-962",
       "type": "spacing",
       "value": "962px",
       "category": "spacing",
@@ -4761,7 +4771,7 @@
       }
     },
     {
-      "name": "pixel / pix-09999",
+      "name": "pixel / pix-9999",
       "type": "spacing",
       "value": "9999px",
       "category": "spacing",
@@ -5031,7 +5041,7 @@
       }
     },
     {
-      "name": "rem / rem-00",
+      "name": "rem / rem-0",
       "type": "spacing",
       "value": "0rem",
       "category": "spacing",
@@ -5041,7 +5051,7 @@
       }
     },
     {
-      "name": "rem / rem-010",
+      "name": "rem / rem-10",
       "type": "spacing",
       "value": "0.625rem",
       "category": "spacing",
@@ -5051,7 +5061,7 @@
       }
     },
     {
-      "name": "rem / rem-0104",
+      "name": "rem / rem-104",
       "type": "spacing",
       "value": "6.5rem",
       "category": "spacing",
@@ -5061,7 +5071,7 @@
       }
     },
     {
-      "name": "rem / rem-0112",
+      "name": "rem / rem-112",
       "type": "spacing",
       "value": "7rem",
       "category": "spacing",
@@ -5071,7 +5081,7 @@
       }
     },
     {
-      "name": "rem / rem-012",
+      "name": "rem / rem-12",
       "type": "spacing",
       "value": "0.75rem",
       "category": "spacing",
@@ -5081,7 +5091,7 @@
       }
     },
     {
-      "name": "rem / rem-0128",
+      "name": "rem / rem-128",
       "type": "spacing",
       "value": "8rem",
       "category": "spacing",
@@ -5091,7 +5101,7 @@
       }
     },
     {
-      "name": "rem / rem-014",
+      "name": "rem / rem-14",
       "type": "spacing",
       "value": "0.875rem",
       "category": "spacing",
@@ -5101,7 +5111,7 @@
       }
     },
     {
-      "name": "rem / rem-015",
+      "name": "rem / rem-15",
       "type": "spacing",
       "value": "0.94rem",
       "category": "spacing",
@@ -5111,7 +5121,7 @@
       }
     },
     {
-      "name": "rem / rem-0152",
+      "name": "rem / rem-152",
       "type": "spacing",
       "value": "9.5rem",
       "category": "spacing",
@@ -5121,7 +5131,7 @@
       }
     },
     {
-      "name": "rem / rem-016",
+      "name": "rem / rem-16",
       "type": "spacing",
       "value": "1rem",
       "category": "spacing",
@@ -5131,7 +5141,7 @@
       }
     },
     {
-      "name": "rem / rem-0176",
+      "name": "rem / rem-176",
       "type": "spacing",
       "value": "11rem",
       "category": "spacing",
@@ -5141,7 +5151,7 @@
       }
     },
     {
-      "name": "rem / rem-018",
+      "name": "rem / rem-18",
       "type": "spacing",
       "value": "1.112rem",
       "category": "spacing",
@@ -5151,7 +5161,7 @@
       }
     },
     {
-      "name": "rem / rem-02",
+      "name": "rem / rem-2",
       "type": "spacing",
       "value": "0.125rem",
       "category": "spacing",
@@ -5161,7 +5171,7 @@
       }
     },
     {
-      "name": "rem / rem-020",
+      "name": "rem / rem-20",
       "type": "spacing",
       "value": "1.123rem",
       "category": "spacing",
@@ -5171,7 +5181,7 @@
       }
     },
     {
-      "name": "rem / rem-0200",
+      "name": "rem / rem-200",
       "type": "spacing",
       "value": "12.5rem",
       "category": "spacing",
@@ -5181,7 +5191,7 @@
       }
     },
     {
-      "name": "rem / rem-022",
+      "name": "rem / rem-22",
       "type": "spacing",
       "value": "1.25rem",
       "category": "spacing",
@@ -5191,7 +5201,7 @@
       }
     },
     {
-      "name": "rem / rem-0224",
+      "name": "rem / rem-224",
       "type": "spacing",
       "value": "14rem",
       "category": "spacing",
@@ -5201,7 +5211,7 @@
       }
     },
     {
-      "name": "rem / rem-024",
+      "name": "rem / rem-24",
       "type": "spacing",
       "value": "1.5rem",
       "category": "spacing",
@@ -5211,7 +5221,7 @@
       }
     },
     {
-      "name": "rem / rem-0248",
+      "name": "rem / rem-248",
       "type": "spacing",
       "value": "15.5rem",
       "category": "spacing",
@@ -5221,7 +5231,7 @@
       }
     },
     {
-      "name": "rem / rem-0272",
+      "name": "rem / rem-272",
       "type": "spacing",
       "value": "17rem",
       "category": "spacing",
@@ -5231,7 +5241,7 @@
       }
     },
     {
-      "name": "rem / rem-028",
+      "name": "rem / rem-28",
       "type": "spacing",
       "value": "1.75rem",
       "category": "spacing",
@@ -5241,7 +5251,7 @@
       }
     },
     {
-      "name": "rem / rem-0296",
+      "name": "rem / rem-296",
       "type": "spacing",
       "value": "18.5rem",
       "category": "spacing",
@@ -5251,7 +5261,7 @@
       }
     },
     {
-      "name": "rem / rem-030",
+      "name": "rem / rem-30",
       "type": "spacing",
       "value": "1.875em",
       "category": "spacing",
@@ -5261,7 +5271,7 @@
       }
     },
     {
-      "name": "rem / rem-032",
+      "name": "rem / rem-32",
       "type": "spacing",
       "value": "2rem",
       "category": "spacing",
@@ -5271,7 +5281,7 @@
       }
     },
     {
-      "name": "rem / rem-0320",
+      "name": "rem / rem-320",
       "type": "spacing",
       "value": "20rem",
       "category": "spacing",
@@ -5281,7 +5291,7 @@
       }
     },
     {
-      "name": "rem / rem-0344",
+      "name": "rem / rem-344",
       "type": "spacing",
       "value": "21.5rem",
       "category": "spacing",
@@ -5291,7 +5301,7 @@
       }
     },
     {
-      "name": "rem / rem-036",
+      "name": "rem / rem-36",
       "type": "spacing",
       "value": "2.25rem",
       "category": "spacing",
@@ -5301,7 +5311,7 @@
       }
     },
     {
-      "name": "rem / rem-04",
+      "name": "rem / rem-4",
       "type": "spacing",
       "value": "0.25rem",
       "category": "spacing",
@@ -5311,7 +5321,7 @@
       }
     },
     {
-      "name": "rem / rem-040",
+      "name": "rem / rem-40",
       "type": "spacing",
       "value": "2.5rem",
       "category": "spacing",
@@ -5321,7 +5331,7 @@
       }
     },
     {
-      "name": "rem / rem-044",
+      "name": "rem / rem-44",
       "type": "spacing",
       "value": "2.75rem",
       "category": "spacing",
@@ -5331,7 +5341,7 @@
       }
     },
     {
-      "name": "rem / rem-048",
+      "name": "rem / rem-48",
       "type": "spacing",
       "value": "3rem",
       "category": "spacing",
@@ -5341,7 +5351,7 @@
       }
     },
     {
-      "name": "rem / rem-05",
+      "name": "rem / rem-5",
       "type": "spacing",
       "value": "0.36rem",
       "category": "spacing",
@@ -5351,7 +5361,7 @@
       }
     },
     {
-      "name": "rem / rem-056",
+      "name": "rem / rem-56",
       "type": "spacing",
       "value": "3.5rem",
       "category": "spacing",
@@ -5361,7 +5371,7 @@
       }
     },
     {
-      "name": "rem / rem-06",
+      "name": "rem / rem-6",
       "type": "spacing",
       "value": "0.237rem",
       "category": "spacing",
@@ -5371,7 +5381,7 @@
       }
     },
     {
-      "name": "rem / rem-064",
+      "name": "rem / rem-64",
       "type": "spacing",
       "value": "4rem",
       "category": "spacing",
@@ -5381,7 +5391,7 @@
       }
     },
     {
-      "name": "rem / rem-072",
+      "name": "rem / rem-72",
       "type": "spacing",
       "value": "4.5rem",
       "category": "spacing",
@@ -5391,7 +5401,7 @@
       }
     },
     {
-      "name": "rem / rem-08",
+      "name": "rem / rem-8",
       "type": "spacing",
       "value": "0.5rem",
       "category": "spacing",
@@ -5401,7 +5411,7 @@
       }
     },
     {
-      "name": "rem / rem-080",
+      "name": "rem / rem-80",
       "type": "spacing",
       "value": "5rem",
       "category": "spacing",
@@ -5941,7 +5951,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-00",
+      "name": "viewport / height / vh-0",
       "type": "spacing",
       "value": "0vh",
       "category": "spacing",
@@ -5951,7 +5961,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-010",
+      "name": "viewport / height / vh-10",
       "type": "spacing",
       "value": "10vh",
       "category": "spacing",
@@ -5961,7 +5971,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-0100",
+      "name": "viewport / height / vh-100",
       "type": "spacing",
       "value": "100vh",
       "category": "spacing",
@@ -5971,7 +5981,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-012",
+      "name": "viewport / height / vh-12",
       "type": "spacing",
       "value": "12vh",
       "category": "spacing",
@@ -5981,7 +5991,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-015",
+      "name": "viewport / height / vh-15",
       "type": "spacing",
       "value": "15vh",
       "category": "spacing",
@@ -5991,7 +6001,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-02",
+      "name": "viewport / height / vh-2",
       "type": "spacing",
       "value": "2vh",
       "category": "spacing",
@@ -6001,7 +6011,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-020",
+      "name": "viewport / height / vh-20",
       "type": "spacing",
       "value": "20vh",
       "category": "spacing",
@@ -6011,7 +6021,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-025",
+      "name": "viewport / height / vh-25",
       "type": "spacing",
       "value": "25vh",
       "category": "spacing",
@@ -6021,7 +6031,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-030",
+      "name": "viewport / height / vh-30",
       "type": "spacing",
       "value": "30vh",
       "category": "spacing",
@@ -6031,7 +6041,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-033",
+      "name": "viewport / height / vh-33",
       "type": "spacing",
       "value": "33vh",
       "category": "spacing",
@@ -6041,7 +6051,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-04",
+      "name": "viewport / height / vh-4",
       "type": "spacing",
       "value": "4vh",
       "category": "spacing",
@@ -6051,7 +6061,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-040",
+      "name": "viewport / height / vh-40",
       "type": "spacing",
       "value": "40vh",
       "category": "spacing",
@@ -6061,7 +6071,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-050",
+      "name": "viewport / height / vh-50",
       "type": "spacing",
       "value": "50vh",
       "category": "spacing",
@@ -6071,7 +6081,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-06",
+      "name": "viewport / height / vh-6",
       "type": "spacing",
       "value": "6vh",
       "category": "spacing",
@@ -6081,7 +6091,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-060",
+      "name": "viewport / height / vh-60",
       "type": "spacing",
       "value": "60vh",
       "category": "spacing",
@@ -6091,7 +6101,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-066",
+      "name": "viewport / height / vh-66",
       "type": "spacing",
       "value": "66vh",
       "category": "spacing",
@@ -6101,7 +6111,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-070",
+      "name": "viewport / height / vh-70",
       "type": "spacing",
       "value": "70vh",
       "category": "spacing",
@@ -6111,7 +6121,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-075",
+      "name": "viewport / height / vh-75",
       "type": "spacing",
       "value": "75vh",
       "category": "spacing",
@@ -6121,7 +6131,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-08",
+      "name": "viewport / height / vh-8",
       "type": "spacing",
       "value": "8vh",
       "category": "spacing",
@@ -6131,7 +6141,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-080",
+      "name": "viewport / height / vh-80",
       "type": "spacing",
       "value": "80vh",
       "category": "spacing",
@@ -6141,7 +6151,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-085",
+      "name": "viewport / height / vh-85",
       "type": "spacing",
       "value": "85vh",
       "category": "spacing",
@@ -6151,7 +6161,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-090",
+      "name": "viewport / height / vh-90",
       "type": "spacing",
       "value": "90vh",
       "category": "spacing",
@@ -6161,7 +6171,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-095",
+      "name": "viewport / height / vh-95",
       "type": "spacing",
       "value": "95vh",
       "category": "spacing",
@@ -6171,7 +6181,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-099",
+      "name": "viewport / height / vh-99",
       "type": "spacing",
       "value": "99vh",
       "category": "spacing",
@@ -6181,7 +6191,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-00",
+      "name": "viewport / width / vw-0",
       "type": "spacing",
       "value": "0vw",
       "category": "spacing",
@@ -6191,7 +6201,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-010",
+      "name": "viewport / width / vw-10",
       "type": "spacing",
       "value": "10vw",
       "category": "spacing",
@@ -6201,7 +6211,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-0100",
+      "name": "viewport / width / vw-100",
       "type": "spacing",
       "value": "100vw",
       "category": "spacing",
@@ -6211,7 +6221,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-012",
+      "name": "viewport / width / vw-12",
       "type": "spacing",
       "value": "12vw",
       "category": "spacing",
@@ -6221,7 +6231,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-015",
+      "name": "viewport / width / vw-15",
       "type": "spacing",
       "value": "15vw",
       "category": "spacing",
@@ -6231,7 +6241,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-02",
+      "name": "viewport / width / vw-2",
       "type": "spacing",
       "value": "2vw",
       "category": "spacing",
@@ -6241,7 +6251,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-020",
+      "name": "viewport / width / vw-20",
       "type": "spacing",
       "value": "20vw",
       "category": "spacing",
@@ -6251,7 +6261,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-025",
+      "name": "viewport / width / vw-25",
       "type": "spacing",
       "value": "25vw",
       "category": "spacing",
@@ -6261,7 +6271,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-030",
+      "name": "viewport / width / vw-30",
       "type": "spacing",
       "value": "30vw",
       "category": "spacing",
@@ -6271,7 +6281,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-033",
+      "name": "viewport / width / vw-33",
       "type": "spacing",
       "value": "33vw",
       "category": "spacing",
@@ -6281,7 +6291,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-04",
+      "name": "viewport / width / vw-4",
       "type": "spacing",
       "value": "4vw",
       "category": "spacing",
@@ -6291,7 +6301,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-040",
+      "name": "viewport / width / vw-40",
       "type": "spacing",
       "value": "40vw",
       "category": "spacing",
@@ -6301,7 +6311,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-050",
+      "name": "viewport / width / vw-50",
       "type": "spacing",
       "value": "50vw",
       "category": "spacing",
@@ -6311,7 +6321,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-06",
+      "name": "viewport / width / vw-6",
       "type": "spacing",
       "value": "6vw",
       "category": "spacing",
@@ -6321,7 +6331,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-060",
+      "name": "viewport / width / vw-60",
       "type": "spacing",
       "value": "60vw",
       "category": "spacing",
@@ -6331,7 +6341,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-066",
+      "name": "viewport / width / vw-66",
       "type": "spacing",
       "value": "66vw",
       "category": "spacing",
@@ -6341,7 +6351,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-070",
+      "name": "viewport / width / vw-70",
       "type": "spacing",
       "value": "70vw",
       "category": "spacing",
@@ -6351,7 +6361,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-075",
+      "name": "viewport / width / vw-75",
       "type": "spacing",
       "value": "75vw",
       "category": "spacing",
@@ -6361,7 +6371,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-08",
+      "name": "viewport / width / vw-8",
       "type": "spacing",
       "value": "8vw",
       "category": "spacing",
@@ -6371,7 +6381,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-080",
+      "name": "viewport / width / vw-80",
       "type": "spacing",
       "value": "80vw",
       "category": "spacing",
@@ -6381,7 +6391,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-085",
+      "name": "viewport / width / vw-85",
       "type": "spacing",
       "value": "85vw",
       "category": "spacing",
@@ -6391,7 +6401,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-090",
+      "name": "viewport / width / vw-90",
       "type": "spacing",
       "value": "90vw",
       "category": "spacing",
@@ -6401,7 +6411,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-095",
+      "name": "viewport / width / vw-95",
       "type": "spacing",
       "value": "95vw",
       "category": "spacing",
@@ -6411,7 +6421,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-099",
+      "name": "viewport / width / vw-99",
       "type": "spacing",
       "value": "99vw",
       "category": "spacing",
