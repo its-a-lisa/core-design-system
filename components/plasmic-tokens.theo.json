@@ -1,7 +1,7 @@
 {
   "props": [
     {
-      "name": "alpha / high / high-1",
+      "name": "core / alpha / high / high-1",
       "type": "color",
       "value": "#12121203",
       "category": "color",
@@ -11,7 +11,7 @@
       }
     },
     {
-      "name": "alpha / high / high-10",
+      "name": "core / alpha / high / high-10",
       "type": "color",
       "value": "#1212121A",
       "category": "color",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "name": "alpha / high / high-12",
+      "name": "core / alpha / high / high-12",
       "type": "color",
       "value": "#1212121F",
       "category": "color",
@@ -31,7 +31,7 @@
       }
     },
     {
-      "name": "alpha / high / high-14",
+      "name": "core / alpha / high / high-14",
       "type": "color",
       "value": "#12121224",
       "category": "color",
@@ -41,7 +41,7 @@
       }
     },
     {
-      "name": "alpha / high / high-16",
+      "name": "core / alpha / high / high-16",
       "type": "color",
       "value": "#12121229",
       "category": "color",
@@ -51,7 +51,7 @@
       }
     },
     {
-      "name": "alpha / high / high-2",
+      "name": "core / alpha / high / high-2",
       "type": "color",
       "value": "#12121205",
       "category": "color",
@@ -61,7 +61,7 @@
       }
     },
     {
-      "name": "alpha / high / high-20",
+      "name": "core / alpha / high / high-20",
       "type": "color",
       "value": "#12121233",
       "category": "color",
@@ -71,7 +71,7 @@
       }
     },
     {
-      "name": "alpha / high / high-24",
+      "name": "core / alpha / high / high-24",
       "type": "color",
       "value": "#1212123D",
       "category": "color",
@@ -81,7 +81,7 @@
       }
     },
     {
-      "name": "alpha / high / high-28",
+      "name": "core / alpha / high / high-28",
       "type": "color",
       "value": "#12121247",
       "category": "color",
@@ -91,7 +91,7 @@
       }
     },
     {
-      "name": "alpha / high / high-3",
+      "name": "core / alpha / high / high-3",
       "type": "color",
       "value": "#12121208",
       "category": "color",
@@ -101,7 +101,7 @@
       }
     },
     {
-      "name": "alpha / high / high-32",
+      "name": "core / alpha / high / high-32",
       "type": "color",
       "value": "#12121252",
       "category": "color",
@@ -111,7 +111,7 @@
       }
     },
     {
-      "name": "alpha / high / high-38",
+      "name": "core / alpha / high / high-38",
       "type": "color",
       "value": "#12121261",
       "category": "color",
@@ -121,7 +121,7 @@
       }
     },
     {
-      "name": "alpha / high / high-4",
+      "name": "core / alpha / high / high-4",
       "type": "color",
       "value": "#1212120A",
       "category": "color",
@@ -131,7 +131,7 @@
       }
     },
     {
-      "name": "alpha / high / high-44",
+      "name": "core / alpha / high / high-44",
       "type": "color",
       "value": "#12121270",
       "category": "color",
@@ -141,7 +141,7 @@
       }
     },
     {
-      "name": "alpha / high / high-52",
+      "name": "core / alpha / high / high-52",
       "type": "color",
       "value": "#12121285",
       "category": "color",
@@ -151,7 +151,7 @@
       }
     },
     {
-      "name": "alpha / high / high-6",
+      "name": "core / alpha / high / high-6",
       "type": "color",
       "value": "#1212120F",
       "category": "color",
@@ -161,7 +161,7 @@
       }
     },
     {
-      "name": "alpha / high / high-60",
+      "name": "core / alpha / high / high-60",
       "type": "color",
       "value": "#12121299",
       "category": "color",
@@ -171,7 +171,7 @@
       }
     },
     {
-      "name": "alpha / high / high-72",
+      "name": "core / alpha / high / high-72",
       "type": "color",
       "value": "#121212B8",
       "category": "color",
@@ -181,7 +181,7 @@
       }
     },
     {
-      "name": "alpha / high / high-8",
+      "name": "core / alpha / high / high-8",
       "type": "color",
       "value": "#12121214",
       "category": "color",
@@ -191,7 +191,7 @@
       }
     },
     {
-      "name": "alpha / high / high-86",
+      "name": "core / alpha / high / high-86",
       "type": "color",
       "value": "#121212DB",
       "category": "color",
@@ -201,7 +201,7 @@
       }
     },
     {
-      "name": "alpha / high / high-94",
+      "name": "core / alpha / high / high-94",
       "type": "color",
       "value": "#121212EB",
       "category": "color",
@@ -211,7 +211,7 @@
       }
     },
     {
-      "name": "alpha / low / low-1",
+      "name": "core / alpha / low / low-1",
       "type": "color",
       "value": "#FFFFFF03",
       "category": "color",
@@ -221,7 +221,7 @@
       }
     },
     {
-      "name": "alpha / low / low-10",
+      "name": "core / alpha / low / low-10",
       "type": "color",
       "value": "#FFFFFF1A",
       "category": "color",
@@ -231,7 +231,7 @@
       }
     },
     {
-      "name": "alpha / low / low-12",
+      "name": "core / alpha / low / low-12",
       "type": "color",
       "value": "#FFFFFF1F",
       "category": "color",
@@ -241,7 +241,7 @@
       }
     },
     {
-      "name": "alpha / low / low-14",
+      "name": "core / alpha / low / low-14",
       "type": "color",
       "value": "#FFFFFF24",
       "category": "color",
@@ -251,7 +251,7 @@
       }
     },
     {
-      "name": "alpha / low / low-16",
+      "name": "core / alpha / low / low-16",
       "type": "color",
       "value": "#FFFFFF29",
       "category": "color",
@@ -261,7 +261,7 @@
       }
     },
     {
-      "name": "alpha / low / low-2",
+      "name": "core / alpha / low / low-2",
       "type": "color",
       "value": "#FFFFFF05",
       "category": "color",
@@ -271,7 +271,7 @@
       }
     },
     {
-      "name": "alpha / low / low-20",
+      "name": "core / alpha / low / low-20",
       "type": "color",
       "value": "#FFFFFF33",
       "category": "color",
@@ -281,7 +281,7 @@
       }
     },
     {
-      "name": "alpha / low / low-24",
+      "name": "core / alpha / low / low-24",
       "type": "color",
       "value": "#FFFFFF3D",
       "category": "color",
@@ -291,7 +291,7 @@
       }
     },
     {
-      "name": "alpha / low / low-28",
+      "name": "core / alpha / low / low-28",
       "type": "color",
       "value": "#FFFFFF47",
       "category": "color",
@@ -301,7 +301,7 @@
       }
     },
     {
-      "name": "alpha / low / low-3",
+      "name": "core / alpha / low / low-3",
       "type": "color",
       "value": "#FFFFFF08",
       "category": "color",
@@ -311,7 +311,7 @@
       }
     },
     {
-      "name": "alpha / low / low-32",
+      "name": "core / alpha / low / low-32",
       "type": "color",
       "value": "#FFFFFF52",
       "category": "color",
@@ -321,7 +321,7 @@
       }
     },
     {
-      "name": "alpha / low / low-38",
+      "name": "core / alpha / low / low-38",
       "type": "color",
       "value": "#FFFFFF61",
       "category": "color",
@@ -331,7 +331,7 @@
       }
     },
     {
-      "name": "alpha / low / low-4",
+      "name": "core / alpha / low / low-4",
       "type": "color",
       "value": "#FFFFFF0A",
       "category": "color",
@@ -341,7 +341,7 @@
       }
     },
     {
-      "name": "alpha / low / low-44",
+      "name": "core / alpha / low / low-44",
       "type": "color",
       "value": "#FFFFFF70",
       "category": "color",
@@ -351,7 +351,7 @@
       }
     },
     {
-      "name": "alpha / low / low-52",
+      "name": "core / alpha / low / low-52",
       "type": "color",
       "value": "#FFFFFF85",
       "category": "color",
@@ -361,7 +361,7 @@
       }
     },
     {
-      "name": "alpha / low / low-6",
+      "name": "core / alpha / low / low-6",
       "type": "color",
       "value": "#FFFFFF0F",
       "category": "color",
@@ -371,7 +371,7 @@
       }
     },
     {
-      "name": "alpha / low / low-60",
+      "name": "core / alpha / low / low-60",
       "type": "color",
       "value": "#FFFFFF99",
       "category": "color",
@@ -381,7 +381,7 @@
       }
     },
     {
-      "name": "alpha / low / low-72",
+      "name": "core / alpha / low / low-72",
       "type": "color",
       "value": "#FFFFFFB8",
       "category": "color",
@@ -391,7 +391,7 @@
       }
     },
     {
-      "name": "alpha / low / low-8",
+      "name": "core / alpha / low / low-8",
       "type": "color",
       "value": "#FFFFFF14",
       "category": "color",
@@ -401,7 +401,7 @@
       }
     },
     {
-      "name": "alpha / low / low-86",
+      "name": "core / alpha / low / low-86",
       "type": "color",
       "value": "#FFFFFFDB",
       "category": "color",
@@ -411,7 +411,7 @@
       }
     },
     {
-      "name": "alpha / low / low-94",
+      "name": "core / alpha / low / low-94",
       "type": "color",
       "value": "#FFFFFFF0",
       "category": "color",
@@ -421,7 +421,7 @@
       }
     },
     {
-      "name": "aqua / aqua-10",
+      "name": "core / aqua / aqua-10",
       "type": "color",
       "value": "#EBF3F7",
       "category": "color",
@@ -431,7 +431,7 @@
       }
     },
     {
-      "name": "aqua / aqua-100",
+      "name": "core / aqua / aqua-100",
       "type": "color",
       "value": "#0B1724",
       "category": "color",
@@ -441,7 +441,7 @@
       }
     },
     {
-      "name": "aqua / aqua-20",
+      "name": "core / aqua / aqua-20",
       "type": "color",
       "value": "#C9E7F5",
       "category": "color",
@@ -451,7 +451,7 @@
       }
     },
     {
-      "name": "aqua / aqua-30",
+      "name": "core / aqua / aqua-30",
       "type": "color",
       "value": "#8BD3F7",
       "category": "color",
@@ -461,7 +461,7 @@
       }
     },
     {
-      "name": "aqua / aqua-40",
+      "name": "core / aqua / aqua-40",
       "type": "color",
       "value": "#48B8F0",
       "category": "color",
@@ -471,7 +471,7 @@
       }
     },
     {
-      "name": "aqua / aqua-50",
+      "name": "core / aqua / aqua-50",
       "type": "color",
       "value": "#1195D6",
       "category": "color",
@@ -481,7 +481,7 @@
       }
     },
     {
-      "name": "aqua / aqua-60",
+      "name": "core / aqua / aqua-60",
       "type": "color",
       "value": "#0073BA",
       "category": "color",
@@ -491,7 +491,7 @@
       }
     },
     {
-      "name": "aqua / aqua-70",
+      "name": "core / aqua / aqua-70",
       "type": "color",
       "value": "#08548A",
       "category": "color",
@@ -501,7 +501,7 @@
       }
     },
     {
-      "name": "aqua / aqua-80",
+      "name": "core / aqua / aqua-80",
       "type": "color",
       "value": "#0E3D66",
       "category": "color",
@@ -511,7 +511,7 @@
       }
     },
     {
-      "name": "aqua / aqua-90",
+      "name": "core / aqua / aqua-90",
       "type": "color",
       "value": "#0C2B45",
       "category": "color",
@@ -521,7 +521,7 @@
       }
     },
     {
-      "name": "aqua / aqua-transparent38",
+      "name": "core / aqua / aqua-transparent38",
       "type": "color",
       "value": "#1195D661",
       "category": "color",
@@ -531,7 +531,7 @@
       }
     },
     {
-      "name": "aqua / aqua-transparent60",
+      "name": "core / aqua / aqua-transparent60",
       "type": "color",
       "value": "#1195D699",
       "category": "color",
@@ -541,7 +541,7 @@
       }
     },
     {
-      "name": "aqua / aqua-transparent86",
+      "name": "core / aqua / aqua-transparent86",
       "type": "color",
       "value": "#1195D6DB",
       "category": "color",
@@ -551,7 +551,7 @@
       }
     },
     {
-      "name": "blue / blue-10",
+      "name": "core / blue / blue-10",
       "type": "color",
       "value": "#F0F4FA",
       "category": "color",
@@ -561,7 +561,7 @@
       }
     },
     {
-      "name": "blue / blue-100",
+      "name": "core / blue / blue-100",
       "type": "color",
       "value": "#0D1826",
       "category": "color",
@@ -571,7 +571,7 @@
       }
     },
     {
-      "name": "blue / blue-20",
+      "name": "core / blue / blue-20",
       "type": "color",
       "value": "#D4E4FA",
       "category": "color",
@@ -581,7 +581,7 @@
       }
     },
     {
-      "name": "blue / blue-30",
+      "name": "core / blue / blue-30",
       "type": "color",
       "value": "#ADCCF7",
       "category": "color",
@@ -591,7 +591,7 @@
       }
     },
     {
-      "name": "blue / blue-40",
+      "name": "core / blue / blue-40",
       "type": "color",
       "value": "#75B1FF",
       "category": "color",
@@ -601,7 +601,7 @@
       }
     },
     {
-      "name": "blue / blue-50",
+      "name": "core / blue / blue-50",
       "type": "color",
       "value": "#3D8DF5",
       "category": "color",
@@ -611,7 +611,7 @@
       }
     },
     {
-      "name": "blue / blue-60",
+      "name": "core / blue / blue-60",
       "type": "color",
       "value": "#186ADE",
       "category": "color",
@@ -621,7 +621,7 @@
       }
     },
     {
-      "name": "blue / blue-70",
+      "name": "core / blue / blue-70",
       "type": "color",
       "value": "#0D4EA6",
       "category": "color",
@@ -631,7 +631,7 @@
       }
     },
     {
-      "name": "blue / blue-80",
+      "name": "core / blue / blue-80",
       "type": "color",
       "value": "#103A75",
       "category": "color",
@@ -641,7 +641,7 @@
       }
     },
     {
-      "name": "blue / blue-90",
+      "name": "core / blue / blue-90",
       "type": "color",
       "value": "#11294D",
       "category": "color",
@@ -651,7 +651,7 @@
       }
     },
     {
-      "name": "blue / blue-transparent38",
+      "name": "core / blue / blue-transparent38",
       "type": "color",
       "value": "#3D8DF561",
       "category": "color",
@@ -661,7 +661,7 @@
       }
     },
     {
-      "name": "blue / blue-transparent60",
+      "name": "core / blue / blue-transparent60",
       "type": "color",
       "value": "#3D8DF599",
       "category": "color",
@@ -671,7 +671,7 @@
       }
     },
     {
-      "name": "blue / blue-transparent86",
+      "name": "core / blue / blue-transparent86",
       "type": "color",
       "value": "#3D8DF5DB",
       "category": "color",
@@ -681,7 +681,7 @@
       }
     },
     {
-      "name": "brand / brand-behance",
+      "name": "core / brand / brand-behance",
       "type": "color",
       "value": "#1769FF",
       "category": "color",
@@ -691,7 +691,7 @@
       }
     },
     {
-      "name": "brand / brand-discord",
+      "name": "core / brand / brand-discord",
       "type": "color",
       "value": "#7289DA",
       "category": "color",
@@ -701,7 +701,7 @@
       }
     },
     {
-      "name": "brand / brand-discourse",
+      "name": "core / brand / brand-discourse",
       "type": "color",
       "value": "#000000",
       "category": "color",
@@ -711,7 +711,7 @@
       }
     },
     {
-      "name": "brand / brand-dribble",
+      "name": "core / brand / brand-dribble",
       "type": "color",
       "value": "#EA4C89",
       "category": "color",
@@ -721,7 +721,7 @@
       }
     },
     {
-      "name": "brand / brand-facebook",
+      "name": "core / brand / brand-facebook",
       "type": "color",
       "value": "#3B5998",
       "category": "color",
@@ -731,7 +731,7 @@
       }
     },
     {
-      "name": "brand / brand-figma",
+      "name": "core / brand / brand-figma",
       "type": "color",
       "value": "#000000",
       "category": "color",
@@ -741,7 +741,7 @@
       }
     },
     {
-      "name": "brand / brand-github",
+      "name": "core / brand / brand-github",
       "type": "color",
       "value": "#000000",
       "category": "color",
@@ -751,7 +751,7 @@
       }
     },
     {
-      "name": "brand / brand-gitlab",
+      "name": "core / brand / brand-gitlab",
       "type": "color",
       "value": "#030202",
       "category": "color",
@@ -761,7 +761,7 @@
       }
     },
     {
-      "name": "brand / brand-instagram",
+      "name": "core / brand / brand-instagram",
       "type": "color",
       "value": "#000000",
       "category": "color",
@@ -771,7 +771,7 @@
       }
     },
     {
-      "name": "brand / brand-lastfm",
+      "name": "core / brand / brand-lastfm",
       "type": "color",
       "value": "#D51007",
       "category": "color",
@@ -781,7 +781,7 @@
       }
     },
     {
-      "name": "brand / brand-linkedin",
+      "name": "core / brand / brand-linkedin",
       "type": "color",
       "value": "#0077B5",
       "category": "color",
@@ -791,7 +791,7 @@
       }
     },
     {
-      "name": "brand / brand-mastadon",
+      "name": "core / brand / brand-mastadon",
       "type": "color",
       "value": "#6364FF",
       "category": "color",
@@ -801,7 +801,7 @@
       }
     },
     {
-      "name": "brand / brand-medium",
+      "name": "core / brand / brand-medium",
       "type": "color",
       "value": "#000000",
       "category": "color",
@@ -811,7 +811,7 @@
       }
     },
     {
-      "name": "brand / brand-meetup",
+      "name": "core / brand / brand-meetup",
       "type": "color",
       "value": "#EA2245",
       "category": "color",
@@ -821,7 +821,7 @@
       }
     },
     {
-      "name": "brand / brand-messenger",
+      "name": "core / brand / brand-messenger",
       "type": "color",
       "value": "#1787FB",
       "category": "color",
@@ -831,7 +831,7 @@
       }
     },
     {
-      "name": "brand / brand-pinterest",
+      "name": "core / brand / brand-pinterest",
       "type": "color",
       "value": "#E60023",
       "category": "color",
@@ -841,7 +841,7 @@
       }
     },
     {
-      "name": "brand / brand-reddit",
+      "name": "core / brand / brand-reddit",
       "type": "color",
       "value": "#FF4500",
       "category": "color",
@@ -851,7 +851,7 @@
       }
     },
     {
-      "name": "brand / brand-shopify",
+      "name": "core / brand / brand-shopify",
       "type": "color",
       "value": "#96BF48",
       "category": "color",
@@ -861,7 +861,7 @@
       }
     },
     {
-      "name": "brand / brand-skype",
+      "name": "core / brand / brand-skype",
       "type": "color",
       "value": "#00AFF0",
       "category": "color",
@@ -871,7 +871,7 @@
       }
     },
     {
-      "name": "brand / brand-slack",
+      "name": "core / brand / brand-slack",
       "type": "color",
       "value": "#000000",
       "category": "color",
@@ -881,7 +881,7 @@
       }
     },
     {
-      "name": "brand / brand-snapchat",
+      "name": "core / brand / brand-snapchat",
       "type": "color",
       "value": "#000000",
       "category": "color",
@@ -891,7 +891,7 @@
       }
     },
     {
-      "name": "brand / brand-soundcloud",
+      "name": "core / brand / brand-soundcloud",
       "type": "color",
       "value": "#FF8800",
       "category": "color",
@@ -901,7 +901,7 @@
       }
     },
     {
-      "name": "brand / brand-spotify",
+      "name": "core / brand / brand-spotify",
       "type": "color",
       "value": "#1ED760",
       "category": "color",
@@ -911,7 +911,7 @@
       }
     },
     {
-      "name": "brand / brand-steam",
+      "name": "core / brand / brand-steam",
       "type": "color",
       "value": "#00ADEE",
       "category": "color",
@@ -921,7 +921,7 @@
       }
     },
     {
-      "name": "brand / brand-telegram",
+      "name": "core / brand / brand-telegram",
       "type": "color",
       "value": "#0088CC",
       "category": "color",
@@ -931,7 +931,7 @@
       }
     },
     {
-      "name": "brand / brand-tiktok",
+      "name": "core / brand / brand-tiktok",
       "type": "color",
       "value": "#FF0050",
       "category": "color",
@@ -941,7 +941,7 @@
       }
     },
     {
-      "name": "brand / brand-tumblr",
+      "name": "core / brand / brand-tumblr",
       "type": "color",
       "value": "#35465C",
       "category": "color",
@@ -951,7 +951,7 @@
       }
     },
     {
-      "name": "brand / brand-twitch",
+      "name": "core / brand / brand-twitch",
       "type": "color",
       "value": "#6441A5",
       "category": "color",
@@ -961,7 +961,7 @@
       }
     },
     {
-      "name": "brand / brand-upsplash",
+      "name": "core / brand / brand-upsplash",
       "type": "color",
       "value": "#000000",
       "category": "color",
@@ -971,7 +971,7 @@
       }
     },
     {
-      "name": "brand / brand-vimeo",
+      "name": "core / brand / brand-vimeo",
       "type": "color",
       "value": "#45BBFF",
       "category": "color",
@@ -981,7 +981,7 @@
       }
     },
     {
-      "name": "brand / brand-whatsapp",
+      "name": "core / brand / brand-whatsapp",
       "type": "color",
       "value": "#25D366",
       "category": "color",
@@ -991,7 +991,7 @@
       }
     },
     {
-      "name": "brand / brand-x",
+      "name": "core / brand / brand-x",
       "type": "color",
       "value": "#000000",
       "category": "color",
@@ -1001,7 +1001,7 @@
       }
     },
     {
-      "name": "brand / brand-youtube",
+      "name": "core / brand / brand-youtube",
       "type": "color",
       "value": "#FF0000",
       "category": "color",
@@ -1011,37 +1011,7 @@
       }
     },
     {
-      "name": "default / default-high",
-      "type": "color",
-      "value": "#131313",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "b4UF7wnPwVPI"
-      }
-    },
-    {
-      "name": "default / default-low",
-      "type": "color",
-      "value": "#FFFFFF",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "F2j0Fb6y5GQ3"
-      }
-    },
-    {
-      "name": "default / default-transparent",
-      "type": "color",
-      "value": "#FFFFFF00",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "MWQMPSVubdO1"
-      }
-    },
-    {
-      "name": "em / em-0",
+      "name": "core / em / em-0",
       "type": "spacing",
       "value": "0em",
       "category": "spacing",
@@ -1051,7 +1021,7 @@
       }
     },
     {
-      "name": "em / em-10",
+      "name": "core / em / em-10",
       "type": "spacing",
       "value": "0.625em",
       "category": "spacing",
@@ -1061,7 +1031,7 @@
       }
     },
     {
-      "name": "em / em-104",
+      "name": "core / em / em-104",
       "type": "spacing",
       "value": "6.5em",
       "category": "spacing",
@@ -1071,7 +1041,7 @@
       }
     },
     {
-      "name": "em / em-112",
+      "name": "core / em / em-112",
       "type": "spacing",
       "value": "7em",
       "category": "spacing",
@@ -1081,7 +1051,7 @@
       }
     },
     {
-      "name": "em / em-12",
+      "name": "core / em / em-12",
       "type": "spacing",
       "value": "0.75em",
       "category": "spacing",
@@ -1091,7 +1061,7 @@
       }
     },
     {
-      "name": "em / em-128",
+      "name": "core / em / em-128",
       "type": "spacing",
       "value": "8em",
       "category": "spacing",
@@ -1101,7 +1071,7 @@
       }
     },
     {
-      "name": "em / em-14",
+      "name": "core / em / em-14",
       "type": "spacing",
       "value": "0.875em",
       "category": "spacing",
@@ -1111,7 +1081,7 @@
       }
     },
     {
-      "name": "em / em-15",
+      "name": "core / em / em-15",
       "type": "spacing",
       "value": "0.94em",
       "category": "spacing",
@@ -1121,7 +1091,7 @@
       }
     },
     {
-      "name": "em / em-152",
+      "name": "core / em / em-152",
       "type": "spacing",
       "value": "9.5em",
       "category": "spacing",
@@ -1131,7 +1101,7 @@
       }
     },
     {
-      "name": "em / em-16",
+      "name": "core / em / em-16",
       "type": "spacing",
       "value": "1em",
       "category": "spacing",
@@ -1141,7 +1111,7 @@
       }
     },
     {
-      "name": "em / em-176",
+      "name": "core / em / em-176",
       "type": "spacing",
       "value": "11em",
       "category": "spacing",
@@ -1151,7 +1121,7 @@
       }
     },
     {
-      "name": "em / em-18",
+      "name": "core / em / em-18",
       "type": "spacing",
       "value": "1.112em",
       "category": "spacing",
@@ -1161,7 +1131,7 @@
       }
     },
     {
-      "name": "em / em-2",
+      "name": "core / em / em-2",
       "type": "spacing",
       "value": "0.125em",
       "category": "spacing",
@@ -1171,7 +1141,7 @@
       }
     },
     {
-      "name": "em / em-20",
+      "name": "core / em / em-20",
       "type": "spacing",
       "value": "1.123em",
       "category": "spacing",
@@ -1181,7 +1151,7 @@
       }
     },
     {
-      "name": "em / em-200",
+      "name": "core / em / em-200",
       "type": "spacing",
       "value": "12.5em",
       "category": "spacing",
@@ -1191,7 +1161,7 @@
       }
     },
     {
-      "name": "em / em-22",
+      "name": "core / em / em-22",
       "type": "spacing",
       "value": "1.25em",
       "category": "spacing",
@@ -1201,7 +1171,7 @@
       }
     },
     {
-      "name": "em / em-224",
+      "name": "core / em / em-224",
       "type": "spacing",
       "value": "14em",
       "category": "spacing",
@@ -1211,7 +1181,7 @@
       }
     },
     {
-      "name": "em / em-24",
+      "name": "core / em / em-24",
       "type": "spacing",
       "value": "1.5em",
       "category": "spacing",
@@ -1221,7 +1191,7 @@
       }
     },
     {
-      "name": "em / em-248",
+      "name": "core / em / em-248",
       "type": "spacing",
       "value": "15.5em",
       "category": "spacing",
@@ -1231,7 +1201,7 @@
       }
     },
     {
-      "name": "em / em-272",
+      "name": "core / em / em-272",
       "type": "spacing",
       "value": "17em",
       "category": "spacing",
@@ -1241,7 +1211,7 @@
       }
     },
     {
-      "name": "em / em-28",
+      "name": "core / em / em-28",
       "type": "spacing",
       "value": "1.75em",
       "category": "spacing",
@@ -1251,7 +1221,7 @@
       }
     },
     {
-      "name": "em / em-296",
+      "name": "core / em / em-296",
       "type": "spacing",
       "value": "18.5em",
       "category": "spacing",
@@ -1261,7 +1231,7 @@
       }
     },
     {
-      "name": "em / em-30",
+      "name": "core / em / em-30",
       "type": "spacing",
       "value": "1.875em",
       "category": "spacing",
@@ -1271,7 +1241,7 @@
       }
     },
     {
-      "name": "em / em-32",
+      "name": "core / em / em-32",
       "type": "spacing",
       "value": "2em",
       "category": "spacing",
@@ -1281,7 +1251,7 @@
       }
     },
     {
-      "name": "em / em-320",
+      "name": "core / em / em-320",
       "type": "spacing",
       "value": "20em",
       "category": "spacing",
@@ -1291,7 +1261,7 @@
       }
     },
     {
-      "name": "em / em-344",
+      "name": "core / em / em-344",
       "type": "spacing",
       "value": "21.5em",
       "category": "spacing",
@@ -1301,7 +1271,7 @@
       }
     },
     {
-      "name": "em / em-36",
+      "name": "core / em / em-36",
       "type": "spacing",
       "value": "2.25em",
       "category": "spacing",
@@ -1311,7 +1281,7 @@
       }
     },
     {
-      "name": "em / em-4",
+      "name": "core / em / em-4",
       "type": "spacing",
       "value": "0.25em",
       "category": "spacing",
@@ -1321,7 +1291,7 @@
       }
     },
     {
-      "name": "em / em-40",
+      "name": "core / em / em-40",
       "type": "spacing",
       "value": "2.5em",
       "category": "spacing",
@@ -1331,7 +1301,7 @@
       }
     },
     {
-      "name": "em / em-44",
+      "name": "core / em / em-44",
       "type": "spacing",
       "value": "2.75em",
       "category": "spacing",
@@ -1341,7 +1311,7 @@
       }
     },
     {
-      "name": "em / em-48",
+      "name": "core / em / em-48",
       "type": "spacing",
       "value": "3em",
       "category": "spacing",
@@ -1351,7 +1321,7 @@
       }
     },
     {
-      "name": "em / em-5",
+      "name": "core / em / em-5",
       "type": "spacing",
       "value": "0.36em",
       "category": "spacing",
@@ -1361,7 +1331,7 @@
       }
     },
     {
-      "name": "em / em-56",
+      "name": "core / em / em-56",
       "type": "spacing",
       "value": "3.5em",
       "category": "spacing",
@@ -1371,7 +1341,7 @@
       }
     },
     {
-      "name": "em / em-6",
+      "name": "core / em / em-6",
       "type": "spacing",
       "value": "0.375em",
       "category": "spacing",
@@ -1381,7 +1351,7 @@
       }
     },
     {
-      "name": "em / em-64",
+      "name": "core / em / em-64",
       "type": "spacing",
       "value": "4em",
       "category": "spacing",
@@ -1391,7 +1361,7 @@
       }
     },
     {
-      "name": "em / em-72",
+      "name": "core / em / em-72",
       "type": "spacing",
       "value": "4.5em",
       "category": "spacing",
@@ -1401,7 +1371,7 @@
       }
     },
     {
-      "name": "em / em-8",
+      "name": "core / em / em-8",
       "type": "spacing",
       "value": "0.5rem",
       "category": "spacing",
@@ -1411,7 +1381,7 @@
       }
     },
     {
-      "name": "em / em-80",
+      "name": "core / em / em-80",
       "type": "spacing",
       "value": "5em",
       "category": "spacing",
@@ -1421,7 +1391,7 @@
       }
     },
     {
-      "name": "font-family / fontType-01",
+      "name": "core / font-family / fontType-1",
       "type": "fontfamily",
       "value": "DM Sans",
       "category": "fontfamily",
@@ -1431,87 +1401,7 @@
       }
     },
     {
-      "name": "font-family / fontType-02",
-      "type": "fontfamily",
-      "value": "Inter",
-      "category": "fontfamily",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "mla-rVWzNed5"
-      }
-    },
-    {
-      "name": "font-family / fontType-03",
-      "type": "fontfamily",
-      "value": "Space Mono",
-      "category": "fontfamily",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "0crOnt9WtZBw"
-      }
-    },
-    {
-      "name": "font-family / fontType-04",
-      "type": "fontfamily",
-      "value": "Space Grotesk",
-      "category": "fontfamily",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "SvSdq_RlpBTd"
-      }
-    },
-    {
-      "name": "font-family / fontType-05",
-      "type": "fontfamily",
-      "value": "Work Sans",
-      "category": "fontfamily",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "wI3O631f7FR-"
-      }
-    },
-    {
-      "name": "font-family / fontType-06",
-      "type": "fontfamily",
-      "value": "Syne",
-      "category": "fontfamily",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "OPG4BYQ156P1"
-      }
-    },
-    {
-      "name": "font-family / fontType-07",
-      "type": "fontfamily",
-      "value": "Libre Franklin",
-      "category": "fontfamily",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "k21BHLmbJi89"
-      }
-    },
-    {
-      "name": "font-family / fontType-08",
-      "type": "fontfamily",
-      "value": "Cormorant",
-      "category": "fontfamily",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "7b9fPbELdECT"
-      }
-    },
-    {
-      "name": "font-family / fontType-09",
-      "type": "fontfamily",
-      "value": "Fira Sans",
-      "category": "fontfamily",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "qwtsN5nCbNhB"
-      }
-    },
-    {
-      "name": "font-family / fontType-10",
+      "name": "core / font-family / fontType-10",
       "type": "fontfamily",
       "value": "Eczar",
       "category": "fontfamily",
@@ -1521,7 +1411,7 @@
       }
     },
     {
-      "name": "font-family / fontType-11",
+      "name": "core / font-family / fontType-11",
       "type": "fontfamily",
       "value": "Alegreya Sans",
       "category": "fontfamily",
@@ -1531,7 +1421,7 @@
       }
     },
     {
-      "name": "font-family / fontType-12",
+      "name": "core / font-family / fontType-12",
       "type": "fontfamily",
       "value": "Alegreya",
       "category": "fontfamily",
@@ -1541,7 +1431,7 @@
       }
     },
     {
-      "name": "font-family / fontType-13",
+      "name": "core / font-family / fontType-13",
       "type": "fontfamily",
       "value": "Source Sans Pro",
       "category": "fontfamily",
@@ -1551,7 +1441,7 @@
       }
     },
     {
-      "name": "font-family / fontType-14",
+      "name": "core / font-family / fontType-14",
       "type": "fontfamily",
       "value": "Source Serif Pro",
       "category": "fontfamily",
@@ -1561,7 +1451,7 @@
       }
     },
     {
-      "name": "font-family / fontType-15",
+      "name": "core / font-family / fontType-15",
       "type": "fontfamily",
       "value": "Roboto",
       "category": "fontfamily",
@@ -1571,7 +1461,7 @@
       }
     },
     {
-      "name": "font-family / fontType-16",
+      "name": "core / font-family / fontType-16",
       "type": "fontfamily",
       "value": "Fraunces",
       "category": "fontfamily",
@@ -1581,7 +1471,7 @@
       }
     },
     {
-      "name": "font-family / fontType-17",
+      "name": "core / font-family / fontType-17",
       "type": "fontfamily",
       "value": "Inknut Antiqua",
       "category": "fontfamily",
@@ -1591,7 +1481,7 @@
       }
     },
     {
-      "name": "font-family / fontType-18",
+      "name": "core / font-family / fontType-18",
       "type": "fontfamily",
       "value": "BioRhyme",
       "category": "fontfamily",
@@ -1601,7 +1491,7 @@
       }
     },
     {
-      "name": "font-family / fontType-19",
+      "name": "core / font-family / fontType-19",
       "type": "fontfamily",
       "value": "Poppins",
       "category": "fontfamily",
@@ -1611,7 +1501,17 @@
       }
     },
     {
-      "name": "font-family / fontType-20",
+      "name": "core / font-family / fontType-2",
+      "type": "fontfamily",
+      "value": "Inter",
+      "category": "fontfamily",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "mla-rVWzNed5"
+      }
+    },
+    {
+      "name": "core / font-family / fontType-20",
       "type": "fontfamily",
       "value": "Archivo Narrow",
       "category": "fontfamily",
@@ -1621,7 +1521,7 @@
       }
     },
     {
-      "name": "font-family / fontType-21",
+      "name": "core / font-family / fontType-21",
       "type": "fontfamily",
       "value": "Libre Baskerville",
       "category": "fontfamily",
@@ -1631,7 +1531,7 @@
       }
     },
     {
-      "name": "font-family / fontType-22",
+      "name": "core / font-family / fontType-22",
       "type": "fontfamily",
       "value": "Playfair Display",
       "category": "fontfamily",
@@ -1641,7 +1541,7 @@
       }
     },
     {
-      "name": "font-family / fontType-23",
+      "name": "core / font-family / fontType-23",
       "type": "fontfamily",
       "value": "Karla",
       "category": "fontfamily",
@@ -1651,7 +1551,7 @@
       }
     },
     {
-      "name": "font-family / fontType-24",
+      "name": "core / font-family / fontType-24",
       "type": "fontfamily",
       "value": "Lora",
       "category": "fontfamily",
@@ -1661,7 +1561,7 @@
       }
     },
     {
-      "name": "font-family / fontType-25",
+      "name": "core / font-family / fontType-25",
       "type": "fontfamily",
       "value": "Proza Libre",
       "category": "fontfamily",
@@ -1671,7 +1571,7 @@
       }
     },
     {
-      "name": "font-family / fontType-26",
+      "name": "core / font-family / fontType-26",
       "type": "fontfamily",
       "value": "Spectral",
       "category": "fontfamily",
@@ -1681,7 +1581,7 @@
       }
     },
     {
-      "name": "font-family / fontType-27",
+      "name": "core / font-family / fontType-27",
       "type": "fontfamily",
       "value": "IBM Plex Sans",
       "category": "fontfamily",
@@ -1691,7 +1591,7 @@
       }
     },
     {
-      "name": "font-family / fontType-28",
+      "name": "core / font-family / fontType-28",
       "type": "fontfamily",
       "value": "Manrope",
       "category": "fontfamily",
@@ -1701,7 +1601,7 @@
       }
     },
     {
-      "name": "font-family / fontType-29",
+      "name": "core / font-family / fontType-29",
       "type": "fontfamily",
       "value": "Montserrat",
       "category": "fontfamily",
@@ -1711,7 +1611,17 @@
       }
     },
     {
-      "name": "font-family / fontType-30",
+      "name": "core / font-family / fontType-3",
+      "type": "fontfamily",
+      "value": "Space Mono",
+      "category": "fontfamily",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "0crOnt9WtZBw"
+      }
+    },
+    {
+      "name": "core / font-family / fontType-30",
       "type": "fontfamily",
       "value": "Lato",
       "category": "fontfamily",
@@ -1721,7 +1631,7 @@
       }
     },
     {
-      "name": "font-family / fontType-31",
+      "name": "core / font-family / fontType-31",
       "type": "fontfamily",
       "value": "PT Sans",
       "category": "fontfamily",
@@ -1731,7 +1641,7 @@
       }
     },
     {
-      "name": "font-family / fontType-32",
+      "name": "core / font-family / fontType-32",
       "type": "fontfamily",
       "value": "PT Serif",
       "category": "fontfamily",
@@ -1741,7 +1651,7 @@
       }
     },
     {
-      "name": "font-family / fontType-33",
+      "name": "core / font-family / fontType-33",
       "type": "fontfamily",
       "value": "Cardo",
       "category": "fontfamily",
@@ -1751,7 +1661,7 @@
       }
     },
     {
-      "name": "font-family / fontType-34",
+      "name": "core / font-family / fontType-34",
       "type": "fontfamily",
       "value": "Chivo",
       "category": "fontfamily",
@@ -1761,7 +1671,7 @@
       }
     },
     {
-      "name": "font-family / fontType-35",
+      "name": "core / font-family / fontType-35",
       "type": "fontfamily",
       "value": "Neuton",
       "category": "fontfamily",
@@ -1771,7 +1681,7 @@
       }
     },
     {
-      "name": "font-family / fontType-36",
+      "name": "core / font-family / fontType-36",
       "type": "fontfamily",
       "value": "Rubik",
       "category": "fontfamily",
@@ -1781,7 +1691,7 @@
       }
     },
     {
-      "name": "font-family / fontType-37",
+      "name": "core / font-family / fontType-37",
       "type": "fontfamily",
       "value": "Open Sans",
       "category": "fontfamily",
@@ -1791,7 +1701,7 @@
       }
     },
     {
-      "name": "font-family / fontType-38",
+      "name": "core / font-family / fontType-38",
       "type": "fontfamily",
       "value": "Inconsolata",
       "category": "fontfamily",
@@ -1801,7 +1711,7 @@
       }
     },
     {
-      "name": "font-family / fontType-39",
+      "name": "core / font-family / fontType-39",
       "type": "fontfamily",
       "value": "Raleway",
       "category": "fontfamily",
@@ -1811,7 +1721,17 @@
       }
     },
     {
-      "name": "font-family / fontType-40",
+      "name": "core / font-family / fontType-4",
+      "type": "fontfamily",
+      "value": "Space Grotesk",
+      "category": "fontfamily",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "SvSdq_RlpBTd"
+      }
+    },
+    {
+      "name": "core / font-family / fontType-40",
       "type": "fontfamily",
       "value": "Merriweather",
       "category": "fontfamily",
@@ -1821,7 +1741,7 @@
       }
     },
     {
-      "name": "font-family / fontType-41",
+      "name": "core / font-family / fontType-41",
       "type": "fontfamily",
       "value": "Lustria",
       "category": "fontfamily",
@@ -1831,7 +1751,7 @@
       }
     },
     {
-      "name": "font-family / fontType-42",
+      "name": "core / font-family / fontType-42",
       "type": "fontfamily",
       "value": "Oswald",
       "category": "fontfamily",
@@ -1841,7 +1761,7 @@
       }
     },
     {
-      "name": "font-family / fontType-43",
+      "name": "core / font-family / fontType-43",
       "type": "fontfamily",
       "value": "Quattrocento",
       "category": "fontfamily",
@@ -1851,7 +1771,7 @@
       }
     },
     {
-      "name": "font-family / fontType-44",
+      "name": "core / font-family / fontType-44",
       "type": "fontfamily",
       "value": "Podkova",
       "category": "fontfamily",
@@ -1861,7 +1781,7 @@
       }
     },
     {
-      "name": "font-family / fontType-45",
+      "name": "core / font-family / fontType-45",
       "type": "fontfamily",
       "value": "Anton",
       "category": "fontfamily",
@@ -1871,7 +1791,7 @@
       }
     },
     {
-      "name": "font-family / fontType-46",
+      "name": "core / font-family / fontType-46",
       "type": "fontfamily",
       "value": "Arvo",
       "category": "fontfamily",
@@ -1881,7 +1801,7 @@
       }
     },
     {
-      "name": "font-family / fontType-47",
+      "name": "core / font-family / fontType-47",
       "type": "fontfamily",
       "value": "Abril Fatface",
       "category": "fontfamily",
@@ -1891,7 +1811,7 @@
       }
     },
     {
-      "name": "font-family / fontType-48",
+      "name": "core / font-family / fontType-48",
       "type": "fontfamily",
       "value": "Abhaya Libre",
       "category": "fontfamily",
@@ -1901,7 +1821,7 @@
       }
     },
     {
-      "name": "font-family / fontType-49",
+      "name": "core / font-family / fontType-49",
       "type": "fontfamily",
       "value": "Ultra",
       "category": "fontfamily",
@@ -1911,7 +1831,17 @@
       }
     },
     {
-      "name": "font-family / fontType-50",
+      "name": "core / font-family / fontType-5",
+      "type": "fontfamily",
+      "value": "Work Sans",
+      "category": "fontfamily",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "wI3O631f7FR-"
+      }
+    },
+    {
+      "name": "core / font-family / fontType-50",
       "type": "fontfamily",
       "value": "Nixie One",
       "category": "fontfamily",
@@ -1921,7 +1851,7 @@
       }
     },
     {
-      "name": "font-family / fontType-51",
+      "name": "core / font-family / fontType-51",
       "type": "fontfamily",
       "value": "Ledger",
       "category": "fontfamily",
@@ -1931,7 +1861,7 @@
       }
     },
     {
-      "name": "font-family / fontType-52",
+      "name": "core / font-family / fontType-52",
       "type": "fontfamily",
       "value": "Stint Ultra Expanded",
       "category": "fontfamily",
@@ -1941,7 +1871,7 @@
       }
     },
     {
-      "name": "font-family / fontType-53",
+      "name": "core / font-family / fontType-53",
       "type": "fontfamily",
       "value": "Amatic SC",
       "category": "fontfamily",
@@ -1951,7 +1881,7 @@
       }
     },
     {
-      "name": "font-family / fontType-54",
+      "name": "core / font-family / fontType-54",
       "type": "fontfamily",
       "value": "Andika",
       "category": "fontfamily",
@@ -1961,7 +1891,7 @@
       }
     },
     {
-      "name": "font-family / fontType-55",
+      "name": "core / font-family / fontType-55",
       "type": "fontfamily",
       "value": "Unica One",
       "category": "fontfamily",
@@ -1971,7 +1901,7 @@
       }
     },
     {
-      "name": "font-family / fontType-56",
+      "name": "core / font-family / fontType-56",
       "type": "fontfamily",
       "value": "Philosopher",
       "category": "fontfamily",
@@ -1981,7 +1911,7 @@
       }
     },
     {
-      "name": "font-family / fontType-57",
+      "name": "core / font-family / fontType-57",
       "type": "fontfamily",
       "value": "Mulish",
       "category": "fontfamily",
@@ -1991,7 +1921,7 @@
       }
     },
     {
-      "name": "font-family / fontType-58",
+      "name": "core / font-family / fontType-58",
       "type": "fontfamily",
       "value": "Sacramento",
       "category": "fontfamily",
@@ -2001,7 +1931,7 @@
       }
     },
     {
-      "name": "font-family / fontType-59",
+      "name": "core / font-family / fontType-59",
       "type": "fontfamily",
       "value": "Halant",
       "category": "fontfamily",
@@ -2011,7 +1941,17 @@
       }
     },
     {
-      "name": "font-family / fontType-60",
+      "name": "core / font-family / fontType-6",
+      "type": "fontfamily",
+      "value": "Syne",
+      "category": "fontfamily",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "OPG4BYQ156P1"
+      }
+    },
+    {
+      "name": "core / font-family / fontType-60",
       "type": "fontfamily",
       "value": "Fjalla One",
       "category": "fontfamily",
@@ -2021,7 +1961,7 @@
       }
     },
     {
-      "name": "font-family / fontType-61",
+      "name": "core / font-family / fontType-61",
       "type": "fontfamily",
       "value": "Hind",
       "category": "fontfamily",
@@ -2031,7 +1971,7 @@
       }
     },
     {
-      "name": "font-family / fontType-62",
+      "name": "core / font-family / fontType-62",
       "type": "fontfamily",
       "value": "Oxygen",
       "category": "fontfamily",
@@ -2041,7 +1981,7 @@
       }
     },
     {
-      "name": "font-family / fontType-63",
+      "name": "core / font-family / fontType-63",
       "type": "fontfamily",
       "value": "Cabin",
       "category": "fontfamily",
@@ -2051,7 +1991,7 @@
       }
     },
     {
-      "name": "font-family / fontType-64",
+      "name": "core / font-family / fontType-64",
       "type": "fontfamily",
       "value": "Nunito",
       "category": "fontfamily",
@@ -2061,7 +2001,7 @@
       }
     },
     {
-      "name": "font-family / fontType-65",
+      "name": "core / font-family / fontType-65",
       "type": "fontfamily",
       "value": "Quicksand",
       "category": "fontfamily",
@@ -2071,7 +2011,7 @@
       }
     },
     {
-      "name": "font-family / fontType-66",
+      "name": "core / font-family / fontType-66",
       "type": "fontfamily",
       "value": "Ubuntu",
       "category": "fontfamily",
@@ -2081,7 +2021,7 @@
       }
     },
     {
-      "name": "font-family / fontType-67",
+      "name": "core / font-family / fontType-67",
       "type": "fontfamily",
       "value": "Roboto Mono",
       "category": "fontfamily",
@@ -2091,7 +2031,7 @@
       }
     },
     {
-      "name": "font-family / fontType-68",
+      "name": "core / font-family / fontType-68",
       "type": "fontfamily",
       "value": "Slabo 27px",
       "category": "fontfamily",
@@ -2101,7 +2041,7 @@
       }
     },
     {
-      "name": "font-family / fontType-69",
+      "name": "core / font-family / fontType-69",
       "type": "fontfamily",
       "value": "Nova Mono",
       "category": "fontfamily",
@@ -2111,7 +2051,17 @@
       }
     },
     {
-      "name": "font-family / fontType-70",
+      "name": "core / font-family / fontType-7",
+      "type": "fontfamily",
+      "value": "Libre Franklin",
+      "category": "fontfamily",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "k21BHLmbJi89"
+      }
+    },
+    {
+      "name": "core / font-family / fontType-70",
       "type": "fontfamily",
       "value": "Public Sans",
       "category": "fontfamily",
@@ -2121,7 +2071,7 @@
       }
     },
     {
-      "name": "font-family / fontType-71",
+      "name": "core / font-family / fontType-71",
       "type": "fontfamily",
       "value": "Bitter",
       "category": "fontfamily",
@@ -2131,7 +2081,7 @@
       }
     },
     {
-      "name": "font-family / fontType-72",
+      "name": "core / font-family / fontType-72",
       "type": "fontfamily",
       "value": "Ruda",
       "category": "fontfamily",
@@ -2141,7 +2091,7 @@
       }
     },
     {
-      "name": "font-family / fontType-73",
+      "name": "core / font-family / fontType-73",
       "type": "fontfamily",
       "value": "Jura",
       "category": "fontfamily",
@@ -2151,7 +2101,7 @@
       }
     },
     {
-      "name": "font-family / fontType-74",
+      "name": "core / font-family / fontType-74",
       "type": "fontfamily",
       "value": "Pacifico",
       "category": "fontfamily",
@@ -2161,7 +2111,7 @@
       }
     },
     {
-      "name": "font-family / fontType-75",
+      "name": "core / font-family / fontType-75",
       "type": "fontfamily",
       "value": "Julius Sans One",
       "category": "fontfamily",
@@ -2171,7 +2121,7 @@
       }
     },
     {
-      "name": "font-family / fontType-76",
+      "name": "core / font-family / fontType-76",
       "type": "fontfamily",
       "value": "Josefin Slab",
       "category": "fontfamily",
@@ -2181,7 +2131,7 @@
       }
     },
     {
-      "name": "font-family / fontType-77",
+      "name": "core / font-family / fontType-77",
       "type": "fontfamily",
       "value": "Patrick Hand",
       "category": "fontfamily",
@@ -2191,7 +2141,7 @@
       }
     },
     {
-      "name": "font-family / fontType-78",
+      "name": "core / font-family / fontType-78",
       "type": "fontfamily",
       "value": "Bebas Neue",
       "category": "fontfamily",
@@ -2201,7 +2151,27 @@
       }
     },
     {
-      "name": "font-size / fontSize-010",
+      "name": "core / font-family / fontType-8",
+      "type": "fontfamily",
+      "value": "Cormorant",
+      "category": "fontfamily",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "7b9fPbELdECT"
+      }
+    },
+    {
+      "name": "core / font-family / fontType-9",
+      "type": "fontfamily",
+      "value": "Fira Sans",
+      "category": "fontfamily",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "qwtsN5nCbNhB"
+      }
+    },
+    {
+      "name": "core / font-size / fontSize-10",
       "type": "fontsize",
       "value": "0.62em",
       "category": "fontsize",
@@ -2211,7 +2181,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-012",
+      "name": "core / font-size / fontSize-12",
       "type": "fontsize",
       "value": "0.75em",
       "category": "fontsize",
@@ -2221,7 +2191,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-014",
+      "name": "core / font-size / fontSize-14",
       "type": "fontsize",
       "value": "0.88em",
       "category": "fontsize",
@@ -2231,7 +2201,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-016",
+      "name": "core / font-size / fontSize-16",
       "type": "fontsize",
       "value": "1em",
       "category": "fontsize",
@@ -2241,7 +2211,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-018",
+      "name": "core / font-size / fontSize-18",
       "type": "fontsize",
       "value": "1.12em",
       "category": "fontsize",
@@ -2251,7 +2221,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-022",
+      "name": "core / font-size / fontSize-22",
       "type": "fontsize",
       "value": "1.38em",
       "category": "fontsize",
@@ -2261,7 +2231,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-024",
+      "name": "core / font-size / fontSize-24",
       "type": "fontsize",
       "value": "1.5em",
       "category": "fontsize",
@@ -2271,7 +2241,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-028",
+      "name": "core / font-size / fontSize-28",
       "type": "fontsize",
       "value": "1.75em",
       "category": "fontsize",
@@ -2281,7 +2251,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-032",
+      "name": "core / font-size / fontSize-32",
       "type": "fontsize",
       "value": "2em",
       "category": "fontsize",
@@ -2291,7 +2261,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-036",
+      "name": "core / font-size / fontSize-36",
       "type": "fontsize",
       "value": "2.13em",
       "category": "fontsize",
@@ -2301,7 +2271,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-038",
+      "name": "core / font-size / fontSize-38",
       "type": "fontsize",
       "value": "2.38em",
       "category": "fontsize",
@@ -2311,7 +2281,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-040",
+      "name": "core / font-size / fontSize-40",
       "type": "fontsize",
       "value": "2.5em",
       "category": "fontsize",
@@ -2321,7 +2291,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-044",
+      "name": "core / font-size / fontSize-44",
       "type": "fontsize",
       "value": "2.75em",
       "category": "fontsize",
@@ -2331,7 +2301,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-046",
+      "name": "core / font-size / fontSize-46",
       "type": "fontsize",
       "value": "2.88em",
       "category": "fontsize",
@@ -2341,7 +2311,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-048",
+      "name": "core / font-size / fontSize-48",
       "type": "fontsize",
       "value": "3em",
       "category": "fontsize",
@@ -2351,7 +2321,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-052",
+      "name": "core / font-size / fontSize-52",
       "type": "fontsize",
       "value": "3.25em",
       "category": "fontsize",
@@ -2361,7 +2331,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-062",
+      "name": "core / font-size / fontSize-62",
       "type": "fontsize",
       "value": "3.88em",
       "category": "fontsize",
@@ -2371,7 +2341,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-068",
+      "name": "core / font-size / fontSize-68",
       "type": "fontsize",
       "value": "4.25em",
       "category": "fontsize",
@@ -2381,7 +2351,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-074",
+      "name": "core / font-size / fontSize-74",
       "type": "fontsize",
       "value": "4.62em",
       "category": "fontsize",
@@ -2391,7 +2361,7 @@
       }
     },
     {
-      "name": "font-size / fontSize-08",
+      "name": "core / font-size / fontSize-8",
       "type": "fontsize",
       "value": "0.5em",
       "category": "fontsize",
@@ -2401,7 +2371,7 @@
       }
     },
     {
-      "name": "gray / gray-10",
+      "name": "core / gray / gray-10",
       "type": "color",
       "value": "#F2F5F7",
       "category": "color",
@@ -2411,7 +2381,7 @@
       }
     },
     {
-      "name": "gray / gray-100",
+      "name": "core / gray / gray-100",
       "type": "color",
       "value": "#0E171F",
       "category": "color",
@@ -2421,7 +2391,7 @@
       }
     },
     {
-      "name": "gray / gray-20",
+      "name": "core / gray / gray-20",
       "type": "color",
       "value": "#DCE3E8",
       "category": "color",
@@ -2431,7 +2401,7 @@
       }
     },
     {
-      "name": "gray / gray-30",
+      "name": "core / gray / gray-30",
       "type": "color",
       "value": "#C1CCD6",
       "category": "color",
@@ -2441,7 +2411,7 @@
       }
     },
     {
-      "name": "gray / gray-40",
+      "name": "core / gray / gray-40",
       "type": "color",
       "value": "#9FB1BD",
       "category": "color",
@@ -2451,7 +2421,7 @@
       }
     },
     {
-      "name": "gray / gray-50",
+      "name": "core / gray / gray-50",
       "type": "color",
       "value": "#7A909E",
       "category": "color",
@@ -2461,7 +2431,7 @@
       }
     },
     {
-      "name": "gray / gray-60",
+      "name": "core / gray / gray-60",
       "type": "color",
       "value": "#5B7282",
       "category": "color",
@@ -2471,7 +2441,7 @@
       }
     },
     {
-      "name": "gray / gray-70",
+      "name": "core / gray / gray-70",
       "type": "color",
       "value": "#3E5463",
       "category": "color",
@@ -2481,7 +2451,7 @@
       }
     },
     {
-      "name": "gray / gray-80",
+      "name": "core / gray / gray-80",
       "type": "color",
       "value": "#2A3F4D",
       "category": "color",
@@ -2491,7 +2461,7 @@
       }
     },
     {
-      "name": "gray / gray-90",
+      "name": "core / gray / gray-90",
       "type": "color",
       "value": "#1C2B36",
       "category": "color",
@@ -2501,7 +2471,7 @@
       }
     },
     {
-      "name": "gray / gray-transparent38",
+      "name": "core / gray / gray-transparent38",
       "type": "color",
       "value": "#212D3561",
       "category": "color",
@@ -2511,7 +2481,7 @@
       }
     },
     {
-      "name": "gray / gray-transparent60",
+      "name": "core / gray / gray-transparent60",
       "type": "color",
       "value": "#7A909E99",
       "category": "color",
@@ -2521,7 +2491,7 @@
       }
     },
     {
-      "name": "gray / gray-transparent86",
+      "name": "core / gray / gray-transparent86",
       "type": "color",
       "value": "#7A909EDB",
       "category": "color",
@@ -2531,7 +2501,7 @@
       }
     },
     {
-      "name": "green / green-10",
+      "name": "core / green / green-10",
       "type": "color",
       "value": "#EBF7ED",
       "category": "color",
@@ -2541,7 +2511,7 @@
       }
     },
     {
-      "name": "green / green-100",
+      "name": "core / green / green-100",
       "type": "color",
       "value": "#081A15",
       "category": "color",
@@ -2551,7 +2521,7 @@
       }
     },
     {
-      "name": "green / green-20",
+      "name": "core / green / green-20",
       "type": "color",
       "value": "#C7EBD1",
       "category": "color",
@@ -2561,7 +2531,7 @@
       }
     },
     {
-      "name": "green / green-30",
+      "name": "core / green / green-30",
       "type": "color",
       "value": "#88DBA8",
       "category": "color",
@@ -2571,7 +2541,7 @@
       }
     },
     {
-      "name": "green / green-40",
+      "name": "core / green / green-40",
       "type": "color",
       "value": "#43C478",
       "category": "color",
@@ -2581,7 +2551,7 @@
       }
     },
     {
-      "name": "green / green-50",
+      "name": "core / green / green-50",
       "type": "color",
       "value": "#16A163",
       "category": "color",
@@ -2591,7 +2561,7 @@
       }
     },
     {
-      "name": "green / green-60",
+      "name": "core / green / green-60",
       "type": "color",
       "value": "#077D55",
       "category": "color",
@@ -2601,7 +2571,7 @@
       }
     },
     {
-      "name": "green / green-70",
+      "name": "core / green / green-70",
       "type": "color",
       "value": "#075E45",
       "category": "color",
@@ -2611,7 +2581,7 @@
       }
     },
     {
-      "name": "green / green-80",
+      "name": "core / green / green-80",
       "type": "color",
       "value": "#094536",
       "category": "color",
@@ -2621,7 +2591,7 @@
       }
     },
     {
-      "name": "green / green-90",
+      "name": "core / green / green-90",
       "type": "color",
       "value": "#092E25",
       "category": "color",
@@ -2631,7 +2601,7 @@
       }
     },
     {
-      "name": "green / green-transparent38",
+      "name": "core / green / green-transparent38",
       "type": "color",
       "value": "#16A16361",
       "category": "color",
@@ -2641,7 +2611,7 @@
       }
     },
     {
-      "name": "green / green-transparent60",
+      "name": "core / green / green-transparent60",
       "type": "color",
       "value": "#16A16399",
       "category": "color",
@@ -2651,7 +2621,7 @@
       }
     },
     {
-      "name": "green / green-transparent86",
+      "name": "core / green / green-transparent86",
       "type": "color",
       "value": "#16A163DB",
       "category": "color",
@@ -2661,7 +2631,7 @@
       }
     },
     {
-      "name": "indigo / indigo-10",
+      "name": "core / indigo / indigo-10",
       "type": "color",
       "value": "#F2F3FA",
       "category": "color",
@@ -2671,7 +2641,7 @@
       }
     },
     {
-      "name": "indigo / indigo-100",
+      "name": "core / indigo / indigo-100",
       "type": "color",
       "value": "#141429",
       "category": "color",
@@ -2681,7 +2651,7 @@
       }
     },
     {
-      "name": "indigo / indigo-20",
+      "name": "core / indigo / indigo-20",
       "type": "color",
       "value": "#DEE0FA",
       "category": "color",
@@ -2691,7 +2661,7 @@
       }
     },
     {
-      "name": "indigo / indigo-30",
+      "name": "core / indigo / indigo-30",
       "type": "color",
       "value": "#C2C7FC",
       "category": "color",
@@ -2701,7 +2671,7 @@
       }
     },
     {
-      "name": "indigo / indigo-40",
+      "name": "core / indigo / indigo-40",
       "type": "color",
       "value": "#A0A7FA",
       "category": "color",
@@ -2711,7 +2681,7 @@
       }
     },
     {
-      "name": "indigo / indigo-50",
+      "name": "core / indigo / indigo-50",
       "type": "color",
       "value": "#7681FC",
       "category": "color",
@@ -2721,7 +2691,7 @@
       }
     },
     {
-      "name": "indigo / indigo-60",
+      "name": "core / indigo / indigo-60",
       "type": "color",
       "value": "#545FE8",
       "category": "color",
@@ -2731,7 +2701,7 @@
       }
     },
     {
-      "name": "indigo / indigo-70",
+      "name": "core / indigo / indigo-70",
       "type": "color",
       "value": "#3A45B0",
       "category": "color",
@@ -2741,7 +2711,7 @@
       }
     },
     {
-      "name": "indigo / indigo-80",
+      "name": "core / indigo / indigo-80",
       "type": "color",
       "value": "#2F337D",
       "category": "color",
@@ -2751,7 +2721,7 @@
       }
     },
     {
-      "name": "indigo / indigo-90",
+      "name": "core / indigo / indigo-90",
       "type": "color",
       "value": "#23254D",
       "category": "color",
@@ -2761,7 +2731,7 @@
       }
     },
     {
-      "name": "indigo / indigo-transparent38",
+      "name": "core / indigo / indigo-transparent38",
       "type": "color",
       "value": "#7681FC61",
       "category": "color",
@@ -2771,7 +2741,7 @@
       }
     },
     {
-      "name": "indigo / indigo-transparent60",
+      "name": "core / indigo / indigo-transparent60",
       "type": "color",
       "value": "#7681FC99",
       "category": "color",
@@ -2781,7 +2751,7 @@
       }
     },
     {
-      "name": "indigo / indigo-transparent86",
+      "name": "core / indigo / indigo-transparent86",
       "type": "color",
       "value": "#7681FCDB",
       "category": "color",
@@ -2791,7 +2761,7 @@
       }
     },
     {
-      "name": "lime / lime-10",
+      "name": "core / lime / lime-10",
       "type": "color",
       "value": "#EBF7DA",
       "category": "color",
@@ -2801,7 +2771,7 @@
       }
     },
     {
-      "name": "lime / lime-100",
+      "name": "core / lime / lime-100",
       "type": "color",
       "value": "#121A0D",
       "category": "color",
@@ -2811,7 +2781,7 @@
       }
     },
     {
-      "name": "lime / lime-20",
+      "name": "core / lime / lime-20",
       "type": "color",
       "value": "#D5F0B1",
       "category": "color",
@@ -2821,7 +2791,7 @@
       }
     },
     {
-      "name": "lime / lime-30",
+      "name": "core / lime / lime-30",
       "type": "color",
       "value": "#AAD971",
       "category": "color",
@@ -2831,7 +2801,7 @@
       }
     },
     {
-      "name": "lime / lime-40",
+      "name": "core / lime / lime-40",
       "type": "color",
       "value": "#78BF39",
       "category": "color",
@@ -2841,7 +2811,7 @@
       }
     },
     {
-      "name": "lime / lime-50",
+      "name": "core / lime / lime-50",
       "type": "color",
       "value": "#52A31D",
       "category": "color",
@@ -2851,7 +2821,7 @@
       }
     },
     {
-      "name": "lime / lime-60",
+      "name": "core / lime / lime-60",
       "type": "color",
       "value": "#3C7D0E",
       "category": "color",
@@ -2861,7 +2831,7 @@
       }
     },
     {
-      "name": "lime / lime-70",
+      "name": "core / lime / lime-70",
       "type": "color",
       "value": "#2E5C0E",
       "category": "color",
@@ -2871,7 +2841,7 @@
       }
     },
     {
-      "name": "lime / lime-80",
+      "name": "core / lime / lime-80",
       "type": "color",
       "value": "#254211",
       "category": "color",
@@ -2881,7 +2851,7 @@
       }
     },
     {
-      "name": "lime / lime-90",
+      "name": "core / lime / lime-90",
       "type": "color",
       "value": "#1C2E10",
       "category": "color",
@@ -2891,7 +2861,7 @@
       }
     },
     {
-      "name": "lime / lime-transparent38",
+      "name": "core / lime / lime-transparent38",
       "type": "color",
       "value": "#52A31D61",
       "category": "color",
@@ -2901,7 +2871,7 @@
       }
     },
     {
-      "name": "lime / lime-transparent60",
+      "name": "core / lime / lime-transparent60",
       "type": "color",
       "value": "#52A31D99",
       "category": "color",
@@ -2911,7 +2881,7 @@
       }
     },
     {
-      "name": "lime / lime-transparent86",
+      "name": "core / lime / lime-transparent86",
       "type": "color",
       "value": "#52A31DDB",
       "category": "color",
@@ -2921,7 +2891,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-010",
+      "name": "core / line-height / lineHeight-10",
       "type": "lineheight",
       "value": "0.62em",
       "category": "lineheight",
@@ -2931,7 +2901,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-012",
+      "name": "core / line-height / lineHeight-12",
       "type": "lineheight",
       "value": "0.75em",
       "category": "lineheight",
@@ -2941,7 +2911,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-014",
+      "name": "core / line-height / lineHeight-14",
       "type": "lineheight",
       "value": "0.88em",
       "category": "lineheight",
@@ -2951,7 +2921,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-016",
+      "name": "core / line-height / lineHeight-16",
       "type": "lineheight",
       "value": "1em",
       "category": "lineheight",
@@ -2961,7 +2931,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-018",
+      "name": "core / line-height / lineHeight-18",
       "type": "lineheight",
       "value": "1.12em",
       "category": "lineheight",
@@ -2971,7 +2941,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-020",
+      "name": "core / line-height / lineHeight-20",
       "type": "lineheight",
       "value": "1.25em",
       "category": "lineheight",
@@ -2981,7 +2951,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-022",
+      "name": "core / line-height / lineHeight-22",
       "type": "lineheight",
       "value": "1.38em",
       "category": "lineheight",
@@ -2991,7 +2961,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-024",
+      "name": "core / line-height / lineHeight-24",
       "type": "lineheight",
       "value": "1.5em",
       "category": "lineheight",
@@ -3001,7 +2971,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-028",
+      "name": "core / line-height / lineHeight-28",
       "type": "lineheight",
       "value": "1.75em",
       "category": "lineheight",
@@ -3011,7 +2981,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-030",
+      "name": "core / line-height / lineHeight-30",
       "type": "lineheight",
       "value": "1.88em",
       "category": "lineheight",
@@ -3021,7 +2991,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-032",
+      "name": "core / line-height / lineHeight-32",
       "type": "lineheight",
       "value": "2em",
       "category": "lineheight",
@@ -3031,7 +3001,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-036",
+      "name": "core / line-height / lineHeight-36",
       "type": "lineheight",
       "value": "2.13em",
       "category": "lineheight",
@@ -3041,7 +3011,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-038",
+      "name": "core / line-height / lineHeight-38",
       "type": "lineheight",
       "value": "2.38em",
       "category": "lineheight",
@@ -3051,7 +3021,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-040",
+      "name": "core / line-height / lineHeight-40",
       "type": "lineheight",
       "value": "2.5em",
       "category": "lineheight",
@@ -3061,7 +3031,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-044",
+      "name": "core / line-height / lineHeight-44",
       "type": "lineheight",
       "value": "2.75",
       "category": "lineheight",
@@ -3071,7 +3041,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-046",
+      "name": "core / line-height / lineHeight-46",
       "type": "lineheight",
       "value": "2.88em",
       "category": "lineheight",
@@ -3081,7 +3051,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-048",
+      "name": "core / line-height / lineHeight-48",
       "type": "lineheight",
       "value": "3em",
       "category": "lineheight",
@@ -3091,7 +3061,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-052",
+      "name": "core / line-height / lineHeight-52",
       "type": "lineheight",
       "value": "3.25em",
       "category": "lineheight",
@@ -3101,7 +3071,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-062",
+      "name": "core / line-height / lineHeight-62",
       "type": "lineheight",
       "value": "3.88em",
       "category": "lineheight",
@@ -3111,7 +3081,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-068",
+      "name": "core / line-height / lineHeight-68",
       "type": "lineheight",
       "value": "4.25em",
       "category": "lineheight",
@@ -3121,7 +3091,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-074",
+      "name": "core / line-height / lineHeight-74",
       "type": "lineheight",
       "value": "4.62em",
       "category": "lineheight",
@@ -3131,7 +3101,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-08",
+      "name": "core / line-height / lineHeight-8",
       "type": "lineheight",
       "value": "0.5em",
       "category": "lineheight",
@@ -3141,7 +3111,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-080",
+      "name": "core / line-height / lineHeight-80",
       "type": "lineheight",
       "value": "5em",
       "category": "lineheight",
@@ -3151,7 +3121,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-082",
+      "name": "core / line-height / lineHeight-82",
       "type": "lineheight",
       "value": "5.12em",
       "category": "lineheight",
@@ -3161,7 +3131,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-084",
+      "name": "core / line-height / lineHeight-84",
       "type": "lineheight",
       "value": "5.25em",
       "category": "lineheight",
@@ -3171,7 +3141,7 @@
       }
     },
     {
-      "name": "line-height / lineHeight-088",
+      "name": "core / line-height / lineHeight-88",
       "type": "lineheight",
       "value": "5.5em",
       "category": "lineheight",
@@ -3181,7 +3151,7 @@
       }
     },
     {
-      "name": "neutral / neutral-10",
+      "name": "core / neutral / neutral-10",
       "type": "color",
       "value": "#FAFAFA",
       "category": "color",
@@ -3191,7 +3161,7 @@
       }
     },
     {
-      "name": "neutral / neutral-100",
+      "name": "core / neutral / neutral-100",
       "type": "color",
       "value": "#171717",
       "category": "color",
@@ -3201,7 +3171,7 @@
       }
     },
     {
-      "name": "neutral / neutral-20",
+      "name": "core / neutral / neutral-20",
       "type": "color",
       "value": "#F5F5F5",
       "category": "color",
@@ -3211,7 +3181,7 @@
       }
     },
     {
-      "name": "neutral / neutral-30",
+      "name": "core / neutral / neutral-30",
       "type": "color",
       "value": "#E5E5E5",
       "category": "color",
@@ -3221,7 +3191,7 @@
       }
     },
     {
-      "name": "neutral / neutral-40",
+      "name": "core / neutral / neutral-40",
       "type": "color",
       "value": "#D4D4D4",
       "category": "color",
@@ -3231,7 +3201,7 @@
       }
     },
     {
-      "name": "neutral / neutral-50",
+      "name": "core / neutral / neutral-50",
       "type": "color",
       "value": "#A3A3A3",
       "category": "color",
@@ -3241,7 +3211,7 @@
       }
     },
     {
-      "name": "neutral / neutral-60",
+      "name": "core / neutral / neutral-60",
       "type": "color",
       "value": "#737373",
       "category": "color",
@@ -3251,7 +3221,7 @@
       }
     },
     {
-      "name": "neutral / neutral-70",
+      "name": "core / neutral / neutral-70",
       "type": "color",
       "value": "#525252",
       "category": "color",
@@ -3261,7 +3231,7 @@
       }
     },
     {
-      "name": "neutral / neutral-80",
+      "name": "core / neutral / neutral-80",
       "type": "color",
       "value": "#404040",
       "category": "color",
@@ -3271,7 +3241,7 @@
       }
     },
     {
-      "name": "neutral / neutral-90",
+      "name": "core / neutral / neutral-90",
       "type": "color",
       "value": "#262626",
       "category": "color",
@@ -3281,7 +3251,7 @@
       }
     },
     {
-      "name": "neutral / neutral-transparent38",
+      "name": "core / neutral / neutral-transparent38",
       "type": "color",
       "value": "#A3A3A361",
       "category": "color",
@@ -3291,7 +3261,7 @@
       }
     },
     {
-      "name": "neutral / neutral-transparent60",
+      "name": "core / neutral / neutral-transparent60",
       "type": "color",
       "value": "#A3A3A399",
       "category": "color",
@@ -3301,7 +3271,7 @@
       }
     },
     {
-      "name": "neutral / neutral-transparent86",
+      "name": "core / neutral / neutral-transparent86",
       "type": "color",
       "value": "#A3A3A3DB",
       "category": "color",
@@ -3311,7 +3281,7 @@
       }
     },
     {
-      "name": "opacity / opacity-00",
+      "name": "core / opacity / opacity-00",
       "type": "opacity",
       "value": "0",
       "category": "opacity",
@@ -3321,7 +3291,7 @@
       }
     },
     {
-      "name": "opacity / opacity-01",
+      "name": "core / opacity / opacity-01",
       "type": "opacity",
       "value": "0.01",
       "category": "opacity",
@@ -3331,7 +3301,7 @@
       }
     },
     {
-      "name": "opacity / opacity-010",
+      "name": "core / opacity / opacity-010",
       "type": "opacity",
       "value": "0.1",
       "category": "opacity",
@@ -3341,7 +3311,7 @@
       }
     },
     {
-      "name": "opacity / opacity-012",
+      "name": "core / opacity / opacity-012",
       "type": "opacity",
       "value": "0.12",
       "category": "opacity",
@@ -3351,7 +3321,7 @@
       }
     },
     {
-      "name": "opacity / opacity-014",
+      "name": "core / opacity / opacity-014",
       "type": "opacity",
       "value": "0.14",
       "category": "opacity",
@@ -3361,7 +3331,7 @@
       }
     },
     {
-      "name": "opacity / opacity-016",
+      "name": "core / opacity / opacity-016",
       "type": "opacity",
       "value": "0.16",
       "category": "opacity",
@@ -3371,7 +3341,7 @@
       }
     },
     {
-      "name": "opacity / opacity-02",
+      "name": "core / opacity / opacity-02",
       "type": "opacity",
       "value": "0.02",
       "category": "opacity",
@@ -3381,7 +3351,7 @@
       }
     },
     {
-      "name": "opacity / opacity-020",
+      "name": "core / opacity / opacity-020",
       "type": "opacity",
       "value": "0.2",
       "category": "opacity",
@@ -3391,7 +3361,7 @@
       }
     },
     {
-      "name": "opacity / opacity-024",
+      "name": "core / opacity / opacity-024",
       "type": "opacity",
       "value": "0.24",
       "category": "opacity",
@@ -3401,7 +3371,7 @@
       }
     },
     {
-      "name": "opacity / opacity-028",
+      "name": "core / opacity / opacity-028",
       "type": "opacity",
       "value": "0.28",
       "category": "opacity",
@@ -3411,7 +3381,7 @@
       }
     },
     {
-      "name": "opacity / opacity-03",
+      "name": "core / opacity / opacity-03",
       "type": "opacity",
       "value": "0.03",
       "category": "opacity",
@@ -3421,7 +3391,7 @@
       }
     },
     {
-      "name": "opacity / opacity-032",
+      "name": "core / opacity / opacity-032",
       "type": "opacity",
       "value": "0.32",
       "category": "opacity",
@@ -3431,7 +3401,7 @@
       }
     },
     {
-      "name": "opacity / opacity-038",
+      "name": "core / opacity / opacity-038",
       "type": "opacity",
       "value": "0.38",
       "category": "opacity",
@@ -3441,7 +3411,7 @@
       }
     },
     {
-      "name": "opacity / opacity-04",
+      "name": "core / opacity / opacity-04",
       "type": "opacity",
       "value": "0.04",
       "category": "opacity",
@@ -3451,7 +3421,7 @@
       }
     },
     {
-      "name": "opacity / opacity-044",
+      "name": "core / opacity / opacity-044",
       "type": "opacity",
       "value": "0.44",
       "category": "opacity",
@@ -3461,7 +3431,7 @@
       }
     },
     {
-      "name": "opacity / opacity-052",
+      "name": "core / opacity / opacity-052",
       "type": "opacity",
       "value": "0.52",
       "category": "opacity",
@@ -3471,7 +3441,7 @@
       }
     },
     {
-      "name": "opacity / opacity-06",
+      "name": "core / opacity / opacity-06",
       "type": "opacity",
       "value": "0.06",
       "category": "opacity",
@@ -3481,7 +3451,7 @@
       }
     },
     {
-      "name": "opacity / opacity-072",
+      "name": "core / opacity / opacity-072",
       "type": "opacity",
       "value": "0.72",
       "category": "opacity",
@@ -3491,7 +3461,7 @@
       }
     },
     {
-      "name": "opacity / opacity-08",
+      "name": "core / opacity / opacity-08",
       "type": "opacity",
       "value": "0.08",
       "category": "opacity",
@@ -3501,7 +3471,7 @@
       }
     },
     {
-      "name": "opacity / opacity-086",
+      "name": "core / opacity / opacity-086",
       "type": "opacity",
       "value": "0.86",
       "category": "opacity",
@@ -3511,7 +3481,7 @@
       }
     },
     {
-      "name": "opacity / opacity-094",
+      "name": "core / opacity / opacity-094",
       "type": "opacity",
       "value": "0.94",
       "category": "opacity",
@@ -3521,7 +3491,7 @@
       }
     },
     {
-      "name": "opacity / opacity-100",
+      "name": "core / opacity / opacity-100",
       "type": "opacity",
       "value": "1",
       "category": "opacity",
@@ -3531,7 +3501,7 @@
       }
     },
     {
-      "name": "orange / orange-10",
+      "name": "core / orange / orange-10",
       "type": "color",
       "value": "#FCF2EB",
       "category": "color",
@@ -3541,7 +3511,7 @@
       }
     },
     {
-      "name": "orange / orange-100",
+      "name": "core / orange / orange-100",
       "type": "color",
       "value": "#1F1410",
       "category": "color",
@@ -3551,7 +3521,7 @@
       }
     },
     {
-      "name": "orange / orange-20",
+      "name": "core / orange / orange-20",
       "type": "color",
       "value": "#FCDDC7",
       "category": "color",
@@ -3561,7 +3531,7 @@
       }
     },
     {
-      "name": "orange / orange-30",
+      "name": "core / orange / orange-30",
       "type": "color",
       "value": "#FCBC97",
       "category": "color",
@@ -3571,7 +3541,7 @@
       }
     },
     {
-      "name": "orange / orange-40",
+      "name": "core / orange / orange-40",
       "type": "color",
       "value": "#FC9162",
       "category": "color",
@@ -3581,7 +3551,7 @@
       }
     },
     {
-      "name": "orange / orange-50",
+      "name": "core / orange / orange-50",
       "type": "color",
       "value": "#E86427",
       "category": "color",
@@ -3591,7 +3561,7 @@
       }
     },
     {
-      "name": "orange / orange-60",
+      "name": "core / orange / orange-60",
       "type": "color",
       "value": "#BF4815",
       "category": "color",
@@ -3601,7 +3571,7 @@
       }
     },
     {
-      "name": "orange / orange-70",
+      "name": "core / orange / orange-70",
       "type": "color",
       "value": "#8F3415",
       "category": "color",
@@ -3611,7 +3581,7 @@
       }
     },
     {
-      "name": "orange / orange-80",
+      "name": "core / orange / orange-80",
       "type": "color",
       "value": "#632B17",
       "category": "color",
@@ -3621,7 +3591,7 @@
       }
     },
     {
-      "name": "orange / orange-90",
+      "name": "core / orange / orange-90",
       "type": "color",
       "value": "#402117",
       "category": "color",
@@ -3631,7 +3601,7 @@
       }
     },
     {
-      "name": "orange / orange-transparent38",
+      "name": "core / orange / orange-transparent38",
       "type": "color",
       "value": "#E8642761",
       "category": "color",
@@ -3641,7 +3611,7 @@
       }
     },
     {
-      "name": "orange / orange-transparent60",
+      "name": "core / orange / orange-transparent60",
       "type": "color",
       "value": "#E8642799",
       "category": "color",
@@ -3651,7 +3621,7 @@
       }
     },
     {
-      "name": "orange / orange-transparent86",
+      "name": "core / orange / orange-transparent86",
       "type": "color",
       "value": "#E86427DB",
       "category": "color",
@@ -3661,7 +3631,7 @@
       }
     },
     {
-      "name": "percentage / per-0",
+      "name": "core / percentage / per-0",
       "type": "spacing",
       "value": "0%",
       "category": "spacing",
@@ -3671,7 +3641,7 @@
       }
     },
     {
-      "name": "percentage / per-10",
+      "name": "core / percentage / per-10",
       "type": "spacing",
       "value": "10%",
       "category": "spacing",
@@ -3681,7 +3651,7 @@
       }
     },
     {
-      "name": "percentage / per-100",
+      "name": "core / percentage / per-100",
       "type": "spacing",
       "value": "100%",
       "category": "spacing",
@@ -3691,7 +3661,7 @@
       }
     },
     {
-      "name": "percentage / per-12",
+      "name": "core / percentage / per-12",
       "type": "spacing",
       "value": "12%",
       "category": "spacing",
@@ -3701,7 +3671,7 @@
       }
     },
     {
-      "name": "percentage / per-15",
+      "name": "core / percentage / per-15",
       "type": "spacing",
       "value": "15%",
       "category": "spacing",
@@ -3711,7 +3681,7 @@
       }
     },
     {
-      "name": "percentage / per-2",
+      "name": "core / percentage / per-2",
       "type": "spacing",
       "value": "1%",
       "category": "spacing",
@@ -3721,7 +3691,7 @@
       }
     },
     {
-      "name": "percentage / per-20",
+      "name": "core / percentage / per-20",
       "type": "spacing",
       "value": "20%",
       "category": "spacing",
@@ -3731,7 +3701,7 @@
       }
     },
     {
-      "name": "percentage / per-25",
+      "name": "core / percentage / per-25",
       "type": "spacing",
       "value": "25%",
       "category": "spacing",
@@ -3741,7 +3711,7 @@
       }
     },
     {
-      "name": "percentage / per-30",
+      "name": "core / percentage / per-30",
       "type": "spacing",
       "value": "30%",
       "category": "spacing",
@@ -3751,7 +3721,7 @@
       }
     },
     {
-      "name": "percentage / per-33",
+      "name": "core / percentage / per-33",
       "type": "spacing",
       "value": "33%",
       "category": "spacing",
@@ -3761,7 +3731,7 @@
       }
     },
     {
-      "name": "percentage / per-4",
+      "name": "core / percentage / per-4",
       "type": "spacing",
       "value": "3%",
       "category": "spacing",
@@ -3771,7 +3741,7 @@
       }
     },
     {
-      "name": "percentage / per-40",
+      "name": "core / percentage / per-40",
       "type": "spacing",
       "value": "40%",
       "category": "spacing",
@@ -3781,7 +3751,7 @@
       }
     },
     {
-      "name": "percentage / per-50",
+      "name": "core / percentage / per-50",
       "type": "spacing",
       "value": "50%",
       "category": "spacing",
@@ -3791,7 +3761,7 @@
       }
     },
     {
-      "name": "percentage / per-6",
+      "name": "core / percentage / per-6",
       "type": "spacing",
       "value": "6%",
       "category": "spacing",
@@ -3801,7 +3771,7 @@
       }
     },
     {
-      "name": "percentage / per-60",
+      "name": "core / percentage / per-60",
       "type": "spacing",
       "value": "60%",
       "category": "spacing",
@@ -3811,7 +3781,7 @@
       }
     },
     {
-      "name": "percentage / per-66",
+      "name": "core / percentage / per-66",
       "type": "spacing",
       "value": "66%",
       "category": "spacing",
@@ -3821,7 +3791,7 @@
       }
     },
     {
-      "name": "percentage / per-70",
+      "name": "core / percentage / per-70",
       "type": "spacing",
       "value": "70%",
       "category": "spacing",
@@ -3831,7 +3801,7 @@
       }
     },
     {
-      "name": "percentage / per-75",
+      "name": "core / percentage / per-75",
       "type": "spacing",
       "value": "75%",
       "category": "spacing",
@@ -3841,7 +3811,7 @@
       }
     },
     {
-      "name": "percentage / per-8",
+      "name": "core / percentage / per-8",
       "type": "spacing",
       "value": "8%",
       "category": "spacing",
@@ -3851,7 +3821,7 @@
       }
     },
     {
-      "name": "percentage / per-80",
+      "name": "core / percentage / per-80",
       "type": "spacing",
       "value": "80%",
       "category": "spacing",
@@ -3861,7 +3831,7 @@
       }
     },
     {
-      "name": "percentage / per-85",
+      "name": "core / percentage / per-85",
       "type": "spacing",
       "value": "85%",
       "category": "spacing",
@@ -3871,7 +3841,7 @@
       }
     },
     {
-      "name": "percentage / per-90",
+      "name": "core / percentage / per-90",
       "type": "spacing",
       "value": "90%",
       "category": "spacing",
@@ -3881,7 +3851,7 @@
       }
     },
     {
-      "name": "percentage / per-95",
+      "name": "core / percentage / per-95",
       "type": "spacing",
       "value": "95%",
       "category": "spacing",
@@ -3891,7 +3861,7 @@
       }
     },
     {
-      "name": "percentage / per-99",
+      "name": "core / percentage / per-99",
       "type": "spacing",
       "value": "99%",
       "category": "spacing",
@@ -3901,7 +3871,7 @@
       }
     },
     {
-      "name": "pink / pink-10",
+      "name": "core / pink / pink-10",
       "type": "color",
       "value": "#FCF0F8",
       "category": "color",
@@ -3911,7 +3881,7 @@
       }
     },
     {
-      "name": "pink / pink-100",
+      "name": "core / pink / pink-100",
       "type": "color",
       "value": "#241020",
       "category": "color",
@@ -3921,7 +3891,7 @@
       }
     },
     {
-      "name": "pink / pink-20",
+      "name": "core / pink / pink-20",
       "type": "color",
       "value": "#F7DAED",
       "category": "color",
@@ -3931,7 +3901,7 @@
       }
     },
     {
-      "name": "pink / pink-30",
+      "name": "core / pink / pink-30",
       "type": "color",
       "value": "#F7B7E2",
       "category": "color",
@@ -3941,7 +3911,7 @@
       }
     },
     {
-      "name": "pink / pink-40",
+      "name": "core / pink / pink-40",
       "type": "color",
       "value": "#FA87D4",
       "category": "color",
@@ -3951,7 +3921,7 @@
       }
     },
     {
-      "name": "pink / pink-50",
+      "name": "core / pink / pink-50",
       "type": "color",
       "value": "#ED4CB7",
       "category": "color",
@@ -3961,7 +3931,7 @@
       }
     },
     {
-      "name": "pink / pink-60",
+      "name": "core / pink / pink-60",
       "type": "color",
       "value": "#CC1D92",
       "category": "color",
@@ -3971,7 +3941,7 @@
       }
     },
     {
-      "name": "pink / pink-70",
+      "name": "core / pink / pink-70",
       "type": "color",
       "value": "#961574",
       "category": "color",
@@ -3981,7 +3951,7 @@
       }
     },
     {
-      "name": "pink / pink-80",
+      "name": "core / pink / pink-80",
       "type": "color",
       "value": "#6B155A",
       "category": "color",
@@ -3991,7 +3961,7 @@
       }
     },
     {
-      "name": "pink / pink-90",
+      "name": "core / pink / pink-90",
       "type": "color",
       "value": "#47153F",
       "category": "color",
@@ -4001,7 +3971,7 @@
       }
     },
     {
-      "name": "pink / pink-transparent38",
+      "name": "core / pink / pink-transparent38",
       "type": "color",
       "value": "#ED4CB761",
       "category": "color",
@@ -4011,7 +3981,7 @@
       }
     },
     {
-      "name": "pink / pink-transparent60",
+      "name": "core / pink / pink-transparent60",
       "type": "color",
       "value": "#ED4CB799",
       "category": "color",
@@ -4021,7 +3991,7 @@
       }
     },
     {
-      "name": "pink / pink-transparent86",
+      "name": "core / pink / pink-transparent86",
       "type": "color",
       "value": "#ED4CB7DB",
       "category": "color",
@@ -4031,7 +4001,7 @@
       }
     },
     {
-      "name": "pixel / pix-0",
+      "name": "core / pixel / pix-0",
       "type": "spacing",
       "value": "0px",
       "category": "spacing",
@@ -4041,7 +4011,7 @@
       }
     },
     {
-      "name": "pixel / pix-1",
+      "name": "core / pixel / pix-1",
       "type": "spacing",
       "value": "1px",
       "category": "spacing",
@@ -4051,7 +4021,7 @@
       }
     },
     {
-      "name": "pixel / pix-10",
+      "name": "core / pixel / pix-10",
       "type": "spacing",
       "value": "10px",
       "category": "spacing",
@@ -4061,7 +4031,7 @@
       }
     },
     {
-      "name": "pixel / pix-1000",
+      "name": "core / pixel / pix-1000",
       "type": "spacing",
       "value": "1000px",
       "category": "spacing",
@@ -4071,7 +4041,7 @@
       }
     },
     {
-      "name": "pixel / pix-1024",
+      "name": "core / pixel / pix-1024",
       "type": "spacing",
       "value": "1024px",
       "category": "spacing",
@@ -4081,7 +4051,7 @@
       }
     },
     {
-      "name": "pixel / pix-104",
+      "name": "core / pixel / pix-104",
       "type": "spacing",
       "value": "104px",
       "category": "spacing",
@@ -4091,7 +4061,7 @@
       }
     },
     {
-      "name": "pixel / pix-1080",
+      "name": "core / pixel / pix-1080",
       "type": "spacing",
       "value": "1080px",
       "category": "spacing",
@@ -4101,7 +4071,7 @@
       }
     },
     {
-      "name": "pixel / pix-112",
+      "name": "core / pixel / pix-112",
       "type": "spacing",
       "value": "112px",
       "category": "spacing",
@@ -4111,7 +4081,7 @@
       }
     },
     {
-      "name": "pixel / pix-1180",
+      "name": "core / pixel / pix-1180",
       "type": "spacing",
       "value": "1180px",
       "category": "spacing",
@@ -4121,7 +4091,7 @@
       }
     },
     {
-      "name": "pixel / pix-12",
+      "name": "core / pixel / pix-12",
       "type": "spacing",
       "value": "12px",
       "category": "spacing",
@@ -4131,7 +4101,7 @@
       }
     },
     {
-      "name": "pixel / pix-120",
+      "name": "core / pixel / pix-120",
       "type": "spacing",
       "value": "120px",
       "category": "spacing",
@@ -4141,7 +4111,7 @@
       }
     },
     {
-      "name": "pixel / pix-1200",
+      "name": "core / pixel / pix-1200",
       "type": "spacing",
       "value": "1200px",
       "category": "spacing",
@@ -4151,7 +4121,7 @@
       }
     },
     {
-      "name": "pixel / pix-128",
+      "name": "core / pixel / pix-128",
       "type": "spacing",
       "value": "128px",
       "category": "spacing",
@@ -4161,7 +4131,7 @@
       }
     },
     {
-      "name": "pixel / pix-1280",
+      "name": "core / pixel / pix-1280",
       "type": "spacing",
       "value": "1280px",
       "category": "spacing",
@@ -4171,7 +4141,7 @@
       }
     },
     {
-      "name": "pixel / pix-1350",
+      "name": "core / pixel / pix-1350",
       "type": "spacing",
       "value": "1350px",
       "category": "spacing",
@@ -4181,7 +4151,7 @@
       }
     },
     {
-      "name": "pixel / pix-1366",
+      "name": "core / pixel / pix-1366",
       "type": "spacing",
       "value": "1366px",
       "category": "spacing",
@@ -4191,7 +4161,7 @@
       }
     },
     {
-      "name": "pixel / pix-14",
+      "name": "core / pixel / pix-14",
       "type": "spacing",
       "value": "14px",
       "category": "spacing",
@@ -4201,7 +4171,7 @@
       }
     },
     {
-      "name": "pixel / pix-1400",
+      "name": "core / pixel / pix-1400",
       "type": "spacing",
       "value": "1400px",
       "category": "spacing",
@@ -4211,7 +4181,7 @@
       }
     },
     {
-      "name": "pixel / pix-1480",
+      "name": "core / pixel / pix-1480",
       "type": "spacing",
       "value": "1480px",
       "category": "spacing",
@@ -4221,7 +4191,7 @@
       }
     },
     {
-      "name": "pixel / pix-1500",
+      "name": "core / pixel / pix-1500",
       "type": "spacing",
       "value": "1500px",
       "category": "spacing",
@@ -4231,7 +4201,7 @@
       }
     },
     {
-      "name": "pixel / pix-152",
+      "name": "core / pixel / pix-152",
       "type": "spacing",
       "value": "152px",
       "category": "spacing",
@@ -4241,7 +4211,7 @@
       }
     },
     {
-      "name": "pixel / pix-1536",
+      "name": "core / pixel / pix-1536",
       "type": "spacing",
       "value": "1500px",
       "category": "spacing",
@@ -4251,7 +4221,7 @@
       }
     },
     {
-      "name": "pixel / pix-16",
+      "name": "core / pixel / pix-16",
       "type": "spacing",
       "value": "16px",
       "category": "spacing",
@@ -4261,7 +4231,7 @@
       }
     },
     {
-      "name": "pixel / pix-160",
+      "name": "core / pixel / pix-160",
       "type": "spacing",
       "value": "160px",
       "category": "spacing",
@@ -4271,7 +4241,7 @@
       }
     },
     {
-      "name": "pixel / pix-1600",
+      "name": "core / pixel / pix-1600",
       "type": "spacing",
       "value": "1600px",
       "category": "spacing",
@@ -4281,7 +4251,7 @@
       }
     },
     {
-      "name": "pixel / pix-176",
+      "name": "core / pixel / pix-176",
       "type": "spacing",
       "value": "176px",
       "category": "spacing",
@@ -4291,7 +4261,7 @@
       }
     },
     {
-      "name": "pixel / pix-18",
+      "name": "core / pixel / pix-18",
       "type": "spacing",
       "value": "18px",
       "category": "spacing",
@@ -4301,7 +4271,7 @@
       }
     },
     {
-      "name": "pixel / pix-1920",
+      "name": "core / pixel / pix-1920",
       "type": "spacing",
       "value": "1920px",
       "category": "spacing",
@@ -4311,7 +4281,7 @@
       }
     },
     {
-      "name": "pixel / pix-2",
+      "name": "core / pixel / pix-2",
       "type": "spacing",
       "value": "2px",
       "category": "spacing",
@@ -4321,7 +4291,7 @@
       }
     },
     {
-      "name": "pixel / pix-20",
+      "name": "core / pixel / pix-20",
       "type": "spacing",
       "value": "20px",
       "category": "spacing",
@@ -4331,7 +4301,7 @@
       }
     },
     {
-      "name": "pixel / pix-200",
+      "name": "core / pixel / pix-200",
       "type": "spacing",
       "value": "200px",
       "category": "spacing",
@@ -4341,7 +4311,7 @@
       }
     },
     {
-      "name": "pixel / pix-22",
+      "name": "core / pixel / pix-22",
       "type": "spacing",
       "value": "22px",
       "category": "spacing",
@@ -4351,7 +4321,7 @@
       }
     },
     {
-      "name": "pixel / pix-224",
+      "name": "core / pixel / pix-224",
       "type": "spacing",
       "value": "224px",
       "category": "spacing",
@@ -4361,7 +4331,7 @@
       }
     },
     {
-      "name": "pixel / pix-24",
+      "name": "core / pixel / pix-24",
       "type": "spacing",
       "value": "24px",
       "category": "spacing",
@@ -4371,7 +4341,7 @@
       }
     },
     {
-      "name": "pixel / pix-240",
+      "name": "core / pixel / pix-240",
       "type": "spacing",
       "value": "240px",
       "category": "spacing",
@@ -4381,7 +4351,7 @@
       }
     },
     {
-      "name": "pixel / pix-3",
+      "name": "core / pixel / pix-3",
       "type": "spacing",
       "value": "3px",
       "category": "spacing",
@@ -4391,7 +4361,7 @@
       }
     },
     {
-      "name": "pixel / pix-32",
+      "name": "core / pixel / pix-32",
       "type": "spacing",
       "value": "32px",
       "category": "spacing",
@@ -4401,7 +4371,7 @@
       }
     },
     {
-      "name": "pixel / pix-320",
+      "name": "core / pixel / pix-320",
       "type": "spacing",
       "value": "320px",
       "category": "spacing",
@@ -4411,7 +4381,7 @@
       }
     },
     {
-      "name": "pixel / pix-36",
+      "name": "core / pixel / pix-36",
       "type": "spacing",
       "value": "36px",
       "category": "spacing",
@@ -4421,7 +4391,7 @@
       }
     },
     {
-      "name": "pixel / pix-360",
+      "name": "core / pixel / pix-360",
       "type": "spacing",
       "value": "360px",
       "category": "spacing",
@@ -4431,7 +4401,7 @@
       }
     },
     {
-      "name": "pixel / pix-390",
+      "name": "core / pixel / pix-390",
       "type": "spacing",
       "value": "390px",
       "category": "spacing",
@@ -4441,7 +4411,7 @@
       }
     },
     {
-      "name": "pixel / pix-393",
+      "name": "core / pixel / pix-393",
       "type": "spacing",
       "value": "393px",
       "category": "spacing",
@@ -4451,7 +4421,7 @@
       }
     },
     {
-      "name": "pixel / pix-4",
+      "name": "core / pixel / pix-4",
       "type": "spacing",
       "value": "4px",
       "category": "spacing",
@@ -4461,7 +4431,7 @@
       }
     },
     {
-      "name": "pixel / pix-40",
+      "name": "core / pixel / pix-40",
       "type": "spacing",
       "value": "40px",
       "category": "spacing",
@@ -4471,7 +4441,7 @@
       }
     },
     {
-      "name": "pixel / pix-412",
+      "name": "core / pixel / pix-412",
       "type": "spacing",
       "value": "412px",
       "category": "spacing",
@@ -4481,7 +4451,7 @@
       }
     },
     {
-      "name": "pixel / pix-414",
+      "name": "core / pixel / pix-414",
       "type": "spacing",
       "value": "414px",
       "category": "spacing",
@@ -4491,7 +4461,7 @@
       }
     },
     {
-      "name": "pixel / pix-44",
+      "name": "core / pixel / pix-44",
       "type": "spacing",
       "value": "44px",
       "category": "spacing",
@@ -4501,7 +4471,7 @@
       }
     },
     {
-      "name": "pixel / pix-48",
+      "name": "core / pixel / pix-48",
       "type": "spacing",
       "value": "48px",
       "category": "spacing",
@@ -4511,7 +4481,7 @@
       }
     },
     {
-      "name": "pixel / pix-480",
+      "name": "core / pixel / pix-480",
       "type": "spacing",
       "value": "480px",
       "category": "spacing",
@@ -4521,7 +4491,7 @@
       }
     },
     {
-      "name": "pixel / pix-5",
+      "name": "core / pixel / pix-5",
       "type": "spacing",
       "value": "5px",
       "category": "spacing",
@@ -4531,7 +4501,7 @@
       }
     },
     {
-      "name": "pixel / pix-56",
+      "name": "core / pixel / pix-56",
       "type": "spacing",
       "value": "56px",
       "category": "spacing",
@@ -4541,7 +4511,7 @@
       }
     },
     {
-      "name": "pixel / pix-6",
+      "name": "core / pixel / pix-6",
       "type": "spacing",
       "value": "6px",
       "category": "spacing",
@@ -4551,7 +4521,7 @@
       }
     },
     {
-      "name": "pixel / pix-601",
+      "name": "core / pixel / pix-601",
       "type": "spacing",
       "value": "601px",
       "category": "spacing",
@@ -4561,7 +4531,7 @@
       }
     },
     {
-      "name": "pixel / pix-64",
+      "name": "core / pixel / pix-64",
       "type": "spacing",
       "value": "64px",
       "category": "spacing",
@@ -4571,7 +4541,7 @@
       }
     },
     {
-      "name": "pixel / pix-640",
+      "name": "core / pixel / pix-640",
       "type": "spacing",
       "value": "640px",
       "category": "spacing",
@@ -4581,7 +4551,7 @@
       }
     },
     {
-      "name": "pixel / pix-680",
+      "name": "core / pixel / pix-680",
       "type": "spacing",
       "value": "680px",
       "category": "spacing",
@@ -4591,7 +4561,7 @@
       }
     },
     {
-      "name": "pixel / pix-7",
+      "name": "core / pixel / pix-7",
       "type": "spacing",
       "value": "7px",
       "category": "spacing",
@@ -4601,7 +4571,7 @@
       }
     },
     {
-      "name": "pixel / pix-72",
+      "name": "core / pixel / pix-72",
       "type": "spacing",
       "value": "72px",
       "category": "spacing",
@@ -4611,7 +4581,7 @@
       }
     },
     {
-      "name": "pixel / pix-720",
+      "name": "core / pixel / pix-720",
       "type": "spacing",
       "value": "720px",
       "category": "spacing",
@@ -4621,7 +4591,7 @@
       }
     },
     {
-      "name": "pixel / pix-768",
+      "name": "core / pixel / pix-768",
       "type": "spacing",
       "value": "768px",
       "category": "spacing",
@@ -4631,7 +4601,7 @@
       }
     },
     {
-      "name": "pixel / pix-8",
+      "name": "core / pixel / pix-8",
       "type": "spacing",
       "value": "8px",
       "category": "spacing",
@@ -4641,7 +4611,7 @@
       }
     },
     {
-      "name": "pixel / pix-80",
+      "name": "core / pixel / pix-80",
       "type": "spacing",
       "value": "80px",
       "category": "spacing",
@@ -4651,7 +4621,7 @@
       }
     },
     {
-      "name": "pixel / pix-800",
+      "name": "core / pixel / pix-800",
       "type": "spacing",
       "value": "800px",
       "category": "spacing",
@@ -4661,7 +4631,7 @@
       }
     },
     {
-      "name": "pixel / pix-810",
+      "name": "core / pixel / pix-810",
       "type": "spacing",
       "value": "810px",
       "category": "spacing",
@@ -4671,7 +4641,7 @@
       }
     },
     {
-      "name": "pixel / pix-820",
+      "name": "core / pixel / pix-820",
       "type": "spacing",
       "value": "820px",
       "category": "spacing",
@@ -4681,7 +4651,7 @@
       }
     },
     {
-      "name": "pixel / pix-844",
+      "name": "core / pixel / pix-844",
       "type": "spacing",
       "value": "844px",
       "category": "spacing",
@@ -4691,7 +4661,7 @@
       }
     },
     {
-      "name": "pixel / pix-864",
+      "name": "core / pixel / pix-864",
       "type": "spacing",
       "value": "864px",
       "category": "spacing",
@@ -4701,7 +4671,7 @@
       }
     },
     {
-      "name": "pixel / pix-873",
+      "name": "core / pixel / pix-873",
       "type": "spacing",
       "value": "873px",
       "category": "spacing",
@@ -4711,7 +4681,7 @@
       }
     },
     {
-      "name": "pixel / pix-880",
+      "name": "core / pixel / pix-880",
       "type": "spacing",
       "value": "880px",
       "category": "spacing",
@@ -4721,7 +4691,7 @@
       }
     },
     {
-      "name": "pixel / pix-896",
+      "name": "core / pixel / pix-896",
       "type": "spacing",
       "value": "896px",
       "category": "spacing",
@@ -4731,7 +4701,7 @@
       }
     },
     {
-      "name": "pixel / pix-9",
+      "name": "core / pixel / pix-9",
       "type": "spacing",
       "value": "9px",
       "category": "spacing",
@@ -4741,7 +4711,7 @@
       }
     },
     {
-      "name": "pixel / pix-900",
+      "name": "core / pixel / pix-900",
       "type": "spacing",
       "value": "900px",
       "category": "spacing",
@@ -4751,7 +4721,7 @@
       }
     },
     {
-      "name": "pixel / pix-915",
+      "name": "core / pixel / pix-915",
       "type": "spacing",
       "value": "915px",
       "category": "spacing",
@@ -4761,7 +4731,7 @@
       }
     },
     {
-      "name": "pixel / pix-962",
+      "name": "core / pixel / pix-962",
       "type": "spacing",
       "value": "962px",
       "category": "spacing",
@@ -4771,7 +4741,7 @@
       }
     },
     {
-      "name": "pixel / pix-9999",
+      "name": "core / pixel / pix-9999",
       "type": "spacing",
       "value": "9999px",
       "category": "spacing",
@@ -4781,7 +4751,7 @@
       }
     },
     {
-      "name": "purple / purple-10",
+      "name": "core / purple / purple-10",
       "type": "color",
       "value": "#F7F2FC",
       "category": "color",
@@ -4791,7 +4761,7 @@
       }
     },
     {
-      "name": "purple / purple-100",
+      "name": "core / purple / purple-100",
       "type": "color",
       "value": "#1C1229",
       "category": "color",
@@ -4801,7 +4771,7 @@
       }
     },
     {
-      "name": "purple / purple-20",
+      "name": "core / purple / purple-20",
       "type": "color",
       "value": "#EADCFC",
       "category": "color",
@@ -4811,7 +4781,7 @@
       }
     },
     {
-      "name": "purple / purple-30",
+      "name": "core / purple / purple-30",
       "type": "color",
       "value": "#DABEFA",
       "category": "color",
@@ -4821,7 +4791,7 @@
       }
     },
     {
-      "name": "purple / purple-40",
+      "name": "core / purple / purple-40",
       "type": "color",
       "value": "#C89AFC",
       "category": "color",
@@ -4831,7 +4801,7 @@
       }
     },
     {
-      "name": "purple / purple-50",
+      "name": "core / purple / purple-50",
       "type": "color",
       "value": "#AC71F0",
       "category": "color",
@@ -4841,7 +4811,7 @@
       }
     },
     {
-      "name": "purple / purple-60",
+      "name": "core / purple / purple-60",
       "type": "color",
       "value": "#8F49DE",
       "category": "color",
@@ -4851,7 +4821,7 @@
       }
     },
     {
-      "name": "purple / purple-70",
+      "name": "core / purple / purple-70",
       "type": "color",
       "value": "#6B30AB",
       "category": "color",
@@ -4861,7 +4831,7 @@
       }
     },
     {
-      "name": "purple / purple-80",
+      "name": "core / purple / purple-80",
       "type": "color",
       "value": "#4C277D",
       "category": "color",
@@ -4871,7 +4841,7 @@
       }
     },
     {
-      "name": "purple / purple-90",
+      "name": "core / purple / purple-90",
       "type": "color",
       "value": "#331F4D",
       "category": "color",
@@ -4881,7 +4851,7 @@
       }
     },
     {
-      "name": "purple / purple-transparent38",
+      "name": "core / purple / purple-transparent38",
       "type": "color",
       "value": "#AC71F061",
       "category": "color",
@@ -4891,7 +4861,7 @@
       }
     },
     {
-      "name": "purple / purple-transparent60",
+      "name": "core / purple / purple-transparent60",
       "type": "color",
       "value": "#AC71F099",
       "category": "color",
@@ -4901,7 +4871,7 @@
       }
     },
     {
-      "name": "purple / purple-transparent86",
+      "name": "core / purple / purple-transparent86",
       "type": "color",
       "value": "#AC71F0DB",
       "category": "color",
@@ -4911,7 +4881,7 @@
       }
     },
     {
-      "name": "red / red-10",
+      "name": "core / red / red-10",
       "type": "color",
       "value": "#FCF3F2",
       "category": "color",
@@ -4921,7 +4891,7 @@
       }
     },
     {
-      "name": "red / red-100",
+      "name": "core / red / red-100",
       "type": "color",
       "value": "#24120C",
       "category": "color",
@@ -4931,7 +4901,7 @@
       }
     },
     {
-      "name": "red / red-20",
+      "name": "core / red / red-20",
       "type": "color",
       "value": "#FADCD9",
       "category": "color",
@@ -4941,7 +4911,7 @@
       }
     },
     {
-      "name": "red / red-30",
+      "name": "core / red / red-30",
       "type": "color",
       "value": "#FABBB4",
       "category": "color",
@@ -4951,7 +4921,7 @@
       }
     },
     {
-      "name": "red / red-40",
+      "name": "core / red / red-40",
       "type": "color",
       "value": "#FC9086",
       "category": "color",
@@ -4961,7 +4931,7 @@
       }
     },
     {
-      "name": "red / red-50",
+      "name": "core / red / red-50",
       "type": "color",
       "value": "#FA5343",
       "category": "color",
@@ -4971,7 +4941,7 @@
       }
     },
     {
-      "name": "red / red-60",
+      "name": "core / red / red-60",
       "type": "color",
       "value": "#D91F11",
       "category": "color",
@@ -4981,7 +4951,7 @@
       }
     },
     {
-      "name": "red / red-70",
+      "name": "core / red / red-70",
       "type": "color",
       "value": "#A1160A",
       "category": "color",
@@ -4991,7 +4961,7 @@
       }
     },
     {
-      "name": "red / red-80",
+      "name": "core / red / red-80",
       "type": "color",
       "value": "#75160C",
       "category": "color",
@@ -5001,7 +4971,7 @@
       }
     },
     {
-      "name": "red / red-90",
+      "name": "core / red / red-90",
       "type": "color",
       "value": "#4F150F",
       "category": "color",
@@ -5011,7 +4981,7 @@
       }
     },
     {
-      "name": "red / red-transparent38",
+      "name": "core / red / red-transparent38",
       "type": "color",
       "value": "#FA534361",
       "category": "color",
@@ -5021,7 +4991,7 @@
       }
     },
     {
-      "name": "red / red-transparent60",
+      "name": "core / red / red-transparent60",
       "type": "color",
       "value": "#FA534399",
       "category": "color",
@@ -5031,7 +5001,7 @@
       }
     },
     {
-      "name": "red / red-transparent86",
+      "name": "core / red / red-transparent86",
       "type": "color",
       "value": "#FA5343DB",
       "category": "color",
@@ -5041,7 +5011,7 @@
       }
     },
     {
-      "name": "rem / rem-0",
+      "name": "core / rem / rem-0",
       "type": "spacing",
       "value": "0rem",
       "category": "spacing",
@@ -5051,7 +5021,7 @@
       }
     },
     {
-      "name": "rem / rem-10",
+      "name": "core / rem / rem-10",
       "type": "spacing",
       "value": "0.625rem",
       "category": "spacing",
@@ -5061,7 +5031,7 @@
       }
     },
     {
-      "name": "rem / rem-104",
+      "name": "core / rem / rem-104",
       "type": "spacing",
       "value": "6.5rem",
       "category": "spacing",
@@ -5071,7 +5041,7 @@
       }
     },
     {
-      "name": "rem / rem-112",
+      "name": "core / rem / rem-112",
       "type": "spacing",
       "value": "7rem",
       "category": "spacing",
@@ -5081,7 +5051,7 @@
       }
     },
     {
-      "name": "rem / rem-12",
+      "name": "core / rem / rem-12",
       "type": "spacing",
       "value": "0.75rem",
       "category": "spacing",
@@ -5091,7 +5061,7 @@
       }
     },
     {
-      "name": "rem / rem-128",
+      "name": "core / rem / rem-128",
       "type": "spacing",
       "value": "8rem",
       "category": "spacing",
@@ -5101,7 +5071,7 @@
       }
     },
     {
-      "name": "rem / rem-14",
+      "name": "core / rem / rem-14",
       "type": "spacing",
       "value": "0.875rem",
       "category": "spacing",
@@ -5111,7 +5081,7 @@
       }
     },
     {
-      "name": "rem / rem-15",
+      "name": "core / rem / rem-15",
       "type": "spacing",
       "value": "0.94rem",
       "category": "spacing",
@@ -5121,7 +5091,7 @@
       }
     },
     {
-      "name": "rem / rem-152",
+      "name": "core / rem / rem-152",
       "type": "spacing",
       "value": "9.5rem",
       "category": "spacing",
@@ -5131,7 +5101,7 @@
       }
     },
     {
-      "name": "rem / rem-16",
+      "name": "core / rem / rem-16",
       "type": "spacing",
       "value": "1rem",
       "category": "spacing",
@@ -5141,7 +5111,7 @@
       }
     },
     {
-      "name": "rem / rem-176",
+      "name": "core / rem / rem-176",
       "type": "spacing",
       "value": "11rem",
       "category": "spacing",
@@ -5151,7 +5121,7 @@
       }
     },
     {
-      "name": "rem / rem-18",
+      "name": "core / rem / rem-18",
       "type": "spacing",
       "value": "1.112rem",
       "category": "spacing",
@@ -5161,7 +5131,7 @@
       }
     },
     {
-      "name": "rem / rem-2",
+      "name": "core / rem / rem-2",
       "type": "spacing",
       "value": "0.125rem",
       "category": "spacing",
@@ -5171,7 +5141,7 @@
       }
     },
     {
-      "name": "rem / rem-20",
+      "name": "core / rem / rem-20",
       "type": "spacing",
       "value": "1.123rem",
       "category": "spacing",
@@ -5181,7 +5151,7 @@
       }
     },
     {
-      "name": "rem / rem-200",
+      "name": "core / rem / rem-200",
       "type": "spacing",
       "value": "12.5rem",
       "category": "spacing",
@@ -5191,7 +5161,7 @@
       }
     },
     {
-      "name": "rem / rem-22",
+      "name": "core / rem / rem-22",
       "type": "spacing",
       "value": "1.25rem",
       "category": "spacing",
@@ -5201,7 +5171,7 @@
       }
     },
     {
-      "name": "rem / rem-224",
+      "name": "core / rem / rem-224",
       "type": "spacing",
       "value": "14rem",
       "category": "spacing",
@@ -5211,7 +5181,7 @@
       }
     },
     {
-      "name": "rem / rem-24",
+      "name": "core / rem / rem-24",
       "type": "spacing",
       "value": "1.5rem",
       "category": "spacing",
@@ -5221,7 +5191,7 @@
       }
     },
     {
-      "name": "rem / rem-248",
+      "name": "core / rem / rem-248",
       "type": "spacing",
       "value": "15.5rem",
       "category": "spacing",
@@ -5231,7 +5201,7 @@
       }
     },
     {
-      "name": "rem / rem-272",
+      "name": "core / rem / rem-272",
       "type": "spacing",
       "value": "17rem",
       "category": "spacing",
@@ -5241,7 +5211,7 @@
       }
     },
     {
-      "name": "rem / rem-28",
+      "name": "core / rem / rem-28",
       "type": "spacing",
       "value": "1.75rem",
       "category": "spacing",
@@ -5251,7 +5221,7 @@
       }
     },
     {
-      "name": "rem / rem-296",
+      "name": "core / rem / rem-296",
       "type": "spacing",
       "value": "18.5rem",
       "category": "spacing",
@@ -5261,7 +5231,7 @@
       }
     },
     {
-      "name": "rem / rem-30",
+      "name": "core / rem / rem-30",
       "type": "spacing",
       "value": "1.875em",
       "category": "spacing",
@@ -5271,7 +5241,7 @@
       }
     },
     {
-      "name": "rem / rem-32",
+      "name": "core / rem / rem-32",
       "type": "spacing",
       "value": "2rem",
       "category": "spacing",
@@ -5281,7 +5251,7 @@
       }
     },
     {
-      "name": "rem / rem-320",
+      "name": "core / rem / rem-320",
       "type": "spacing",
       "value": "20rem",
       "category": "spacing",
@@ -5291,7 +5261,7 @@
       }
     },
     {
-      "name": "rem / rem-344",
+      "name": "core / rem / rem-344",
       "type": "spacing",
       "value": "21.5rem",
       "category": "spacing",
@@ -5301,7 +5271,7 @@
       }
     },
     {
-      "name": "rem / rem-36",
+      "name": "core / rem / rem-36",
       "type": "spacing",
       "value": "2.25rem",
       "category": "spacing",
@@ -5311,7 +5281,7 @@
       }
     },
     {
-      "name": "rem / rem-4",
+      "name": "core / rem / rem-4",
       "type": "spacing",
       "value": "0.25rem",
       "category": "spacing",
@@ -5321,7 +5291,7 @@
       }
     },
     {
-      "name": "rem / rem-40",
+      "name": "core / rem / rem-40",
       "type": "spacing",
       "value": "2.5rem",
       "category": "spacing",
@@ -5331,7 +5301,7 @@
       }
     },
     {
-      "name": "rem / rem-44",
+      "name": "core / rem / rem-44",
       "type": "spacing",
       "value": "2.75rem",
       "category": "spacing",
@@ -5341,7 +5311,7 @@
       }
     },
     {
-      "name": "rem / rem-48",
+      "name": "core / rem / rem-48",
       "type": "spacing",
       "value": "3rem",
       "category": "spacing",
@@ -5351,7 +5321,7 @@
       }
     },
     {
-      "name": "rem / rem-5",
+      "name": "core / rem / rem-5",
       "type": "spacing",
       "value": "0.36rem",
       "category": "spacing",
@@ -5361,7 +5331,7 @@
       }
     },
     {
-      "name": "rem / rem-56",
+      "name": "core / rem / rem-56",
       "type": "spacing",
       "value": "3.5rem",
       "category": "spacing",
@@ -5371,7 +5341,7 @@
       }
     },
     {
-      "name": "rem / rem-6",
+      "name": "core / rem / rem-6",
       "type": "spacing",
       "value": "0.237rem",
       "category": "spacing",
@@ -5381,7 +5351,7 @@
       }
     },
     {
-      "name": "rem / rem-64",
+      "name": "core / rem / rem-64",
       "type": "spacing",
       "value": "4rem",
       "category": "spacing",
@@ -5391,7 +5361,7 @@
       }
     },
     {
-      "name": "rem / rem-72",
+      "name": "core / rem / rem-72",
       "type": "spacing",
       "value": "4.5rem",
       "category": "spacing",
@@ -5401,7 +5371,7 @@
       }
     },
     {
-      "name": "rem / rem-8",
+      "name": "core / rem / rem-8",
       "type": "spacing",
       "value": "0.5rem",
       "category": "spacing",
@@ -5411,7 +5381,7 @@
       }
     },
     {
-      "name": "rem / rem-80",
+      "name": "core / rem / rem-80",
       "type": "spacing",
       "value": "5rem",
       "category": "spacing",
@@ -5421,7 +5391,7 @@
       }
     },
     {
-      "name": "slate / slate-10",
+      "name": "core / slate / slate-10",
       "type": "color",
       "value": "#F8FAFC",
       "category": "color",
@@ -5431,7 +5401,7 @@
       }
     },
     {
-      "name": "slate / slate-100",
+      "name": "core / slate / slate-100",
       "type": "color",
       "value": "#0F172A",
       "category": "color",
@@ -5441,7 +5411,7 @@
       }
     },
     {
-      "name": "slate / slate-20",
+      "name": "core / slate / slate-20",
       "type": "color",
       "value": "#F1F5F9",
       "category": "color",
@@ -5451,7 +5421,7 @@
       }
     },
     {
-      "name": "slate / slate-30",
+      "name": "core / slate / slate-30",
       "type": "color",
       "value": "#E2E8F0",
       "category": "color",
@@ -5461,7 +5431,7 @@
       }
     },
     {
-      "name": "slate / slate-40",
+      "name": "core / slate / slate-40",
       "type": "color",
       "value": "#CBD5E1",
       "category": "color",
@@ -5471,7 +5441,7 @@
       }
     },
     {
-      "name": "slate / slate-50",
+      "name": "core / slate / slate-50",
       "type": "color",
       "value": "#94A3B8",
       "category": "color",
@@ -5481,7 +5451,7 @@
       }
     },
     {
-      "name": "slate / slate-60",
+      "name": "core / slate / slate-60",
       "type": "color",
       "value": "#64748B",
       "category": "color",
@@ -5491,7 +5461,7 @@
       }
     },
     {
-      "name": "slate / slate-70",
+      "name": "core / slate / slate-70",
       "type": "color",
       "value": "#475569",
       "category": "color",
@@ -5501,7 +5471,7 @@
       }
     },
     {
-      "name": "slate / slate-80",
+      "name": "core / slate / slate-80",
       "type": "color",
       "value": "#334155",
       "category": "color",
@@ -5511,7 +5481,7 @@
       }
     },
     {
-      "name": "slate / slate-90",
+      "name": "core / slate / slate-90",
       "type": "color",
       "value": "#1E293B",
       "category": "color",
@@ -5521,17 +5491,7 @@
       }
     },
     {
-      "name": "slate / slate-disabled",
-      "type": "color",
-      "value": "#94A3B861",
-      "category": "color",
-      "meta": {
-        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
-        "id": "i0YtzT-iWkyM"
-      }
-    },
-    {
-      "name": "slate / slate-transparent38",
+      "name": "core / slate / slate-transparent38",
       "type": "color",
       "value": "#94A3B861",
       "category": "color",
@@ -5541,7 +5501,7 @@
       }
     },
     {
-      "name": "slate / slate-transparent60",
+      "name": "core / slate / slate-transparent60",
       "type": "color",
       "value": "#94A3B899",
       "category": "color",
@@ -5551,7 +5511,7 @@
       }
     },
     {
-      "name": "slate / slate-transparent86",
+      "name": "core / slate / slate-transparent86",
       "type": "color",
       "value": "#94A3B8DB",
       "category": "color",
@@ -5561,7 +5521,7 @@
       }
     },
     {
-      "name": "stone / stone-10",
+      "name": "core / stone / stone-10",
       "type": "color",
       "value": "#FAFAF9",
       "category": "color",
@@ -5571,7 +5531,7 @@
       }
     },
     {
-      "name": "stone / stone-100",
+      "name": "core / stone / stone-100",
       "type": "color",
       "value": "#1C1917",
       "category": "color",
@@ -5581,7 +5541,7 @@
       }
     },
     {
-      "name": "stone / stone-20",
+      "name": "core / stone / stone-20",
       "type": "color",
       "value": "#F5F5F4",
       "category": "color",
@@ -5591,7 +5551,7 @@
       }
     },
     {
-      "name": "stone / stone-30",
+      "name": "core / stone / stone-30",
       "type": "color",
       "value": "#E7E5E4",
       "category": "color",
@@ -5601,7 +5561,7 @@
       }
     },
     {
-      "name": "stone / stone-40",
+      "name": "core / stone / stone-40",
       "type": "color",
       "value": "#D6D3D1",
       "category": "color",
@@ -5611,7 +5571,7 @@
       }
     },
     {
-      "name": "stone / stone-50",
+      "name": "core / stone / stone-50",
       "type": "color",
       "value": "#A8A29E",
       "category": "color",
@@ -5621,7 +5581,7 @@
       }
     },
     {
-      "name": "stone / stone-60",
+      "name": "core / stone / stone-60",
       "type": "color",
       "value": "#78716C",
       "category": "color",
@@ -5631,7 +5591,7 @@
       }
     },
     {
-      "name": "stone / stone-70",
+      "name": "core / stone / stone-70",
       "type": "color",
       "value": "#57534E",
       "category": "color",
@@ -5641,7 +5601,7 @@
       }
     },
     {
-      "name": "stone / stone-80",
+      "name": "core / stone / stone-80",
       "type": "color",
       "value": "#44403C",
       "category": "color",
@@ -5651,7 +5611,7 @@
       }
     },
     {
-      "name": "stone / stone-90",
+      "name": "core / stone / stone-90",
       "type": "color",
       "value": "#292524",
       "category": "color",
@@ -5661,7 +5621,7 @@
       }
     },
     {
-      "name": "stone / stone-transparent38",
+      "name": "core / stone / stone-transparent38",
       "type": "color",
       "value": "#A8A29E61",
       "category": "color",
@@ -5671,7 +5631,7 @@
       }
     },
     {
-      "name": "stone / stone-transparent60",
+      "name": "core / stone / stone-transparent60",
       "type": "color",
       "value": "#A8A29E99",
       "category": "color",
@@ -5681,7 +5641,7 @@
       }
     },
     {
-      "name": "stone / stone-transparent86",
+      "name": "core / stone / stone-transparent86",
       "type": "color",
       "value": "#A8A29EDB",
       "category": "color",
@@ -5691,7 +5651,7 @@
       }
     },
     {
-      "name": "teal / teal-10",
+      "name": "core / teal / teal-10",
       "type": "color",
       "value": "#EBF5F4",
       "category": "color",
@@ -5701,7 +5661,7 @@
       }
     },
     {
-      "name": "teal / teal-100",
+      "name": "core / teal / teal-100",
       "type": "color",
       "value": "#0C1A19",
       "category": "color",
@@ -5711,7 +5671,7 @@
       }
     },
     {
-      "name": "teal / teal-20",
+      "name": "core / teal / teal-20",
       "type": "color",
       "value": "#BEEBE7",
       "category": "color",
@@ -5721,7 +5681,7 @@
       }
     },
     {
-      "name": "teal / teal-30",
+      "name": "core / teal / teal-30",
       "type": "color",
       "value": "#86D9D4",
       "category": "color",
@@ -5731,7 +5691,7 @@
       }
     },
     {
-      "name": "teal / teal-40",
+      "name": "core / teal / teal-40",
       "type": "color",
       "value": "#4EBFB9",
       "category": "color",
@@ -5741,7 +5701,7 @@
       }
     },
     {
-      "name": "teal / teal-50",
+      "name": "core / teal / teal-50",
       "type": "color",
       "value": "#279C9C",
       "category": "color",
@@ -5751,7 +5711,7 @@
       }
     },
     {
-      "name": "teal / teal-60",
+      "name": "core / teal / teal-60",
       "type": "color",
       "value": "#167B7D",
       "category": "color",
@@ -5761,7 +5721,7 @@
       }
     },
     {
-      "name": "teal / teal-70",
+      "name": "core / teal / teal-70",
       "type": "color",
       "value": "#155C5E",
       "category": "color",
@@ -5771,7 +5731,7 @@
       }
     },
     {
-      "name": "teal / teal-80",
+      "name": "core / teal / teal-80",
       "type": "color",
       "value": "#124241",
       "category": "color",
@@ -5781,7 +5741,7 @@
       }
     },
     {
-      "name": "teal / teal-90",
+      "name": "core / teal / teal-90",
       "type": "color",
       "value": "#102E2D",
       "category": "color",
@@ -5791,7 +5751,7 @@
       }
     },
     {
-      "name": "teal / teal-transparent38",
+      "name": "core / teal / teal-transparent38",
       "type": "color",
       "value": "#279C9C61",
       "category": "color",
@@ -5801,7 +5761,7 @@
       }
     },
     {
-      "name": "teal / teal-transparent60",
+      "name": "core / teal / teal-transparent60",
       "type": "color",
       "value": "#279C9C99",
       "category": "color",
@@ -5811,7 +5771,7 @@
       }
     },
     {
-      "name": "teal / teal-transparent86",
+      "name": "core / teal / teal-transparent86",
       "type": "color",
       "value": "#279C9CDB",
       "category": "color",
@@ -5821,7 +5781,7 @@
       }
     },
     {
-      "name": "turquoise / turquoise-10",
+      "name": "core / turquoise / turquoise-10",
       "type": "color",
       "value": "#EBF5F4",
       "category": "color",
@@ -5831,7 +5791,7 @@
       }
     },
     {
-      "name": "turquoise / turquoise-100",
+      "name": "core / turquoise / turquoise-100",
       "type": "color",
       "value": "#0F181A",
       "category": "color",
@@ -5841,7 +5801,7 @@
       }
     },
     {
-      "name": "turquoise / turquoise-20",
+      "name": "core / turquoise / turquoise-20",
       "type": "color",
       "value": "#C7E8ED",
       "category": "color",
@@ -5851,7 +5811,7 @@
       }
     },
     {
-      "name": "turquoise / turquoise-30",
+      "name": "core / turquoise / turquoise-30",
       "type": "color",
       "value": "#81D8E6",
       "category": "color",
@@ -5861,7 +5821,7 @@
       }
     },
     {
-      "name": "turquoise / turquoise-40",
+      "name": "core / turquoise / turquoise-40",
       "type": "color",
       "value": "#45BCD1",
       "category": "color",
@@ -5871,7 +5831,7 @@
       }
     },
     {
-      "name": "turquoise / turquoise-50",
+      "name": "core / turquoise / turquoise-50",
       "type": "color",
       "value": "#159AB3",
       "category": "color",
@@ -5881,7 +5841,7 @@
       }
     },
     {
-      "name": "turquoise / turquoise-60",
+      "name": "core / turquoise / turquoise-60",
       "type": "color",
       "value": "#067A91",
       "category": "color",
@@ -5891,7 +5851,7 @@
       }
     },
     {
-      "name": "turquoise / turquoise-70",
+      "name": "core / turquoise / turquoise-70",
       "type": "color",
       "value": "#09596B",
       "category": "color",
@@ -5901,7 +5861,7 @@
       }
     },
     {
-      "name": "turquoise / turquoise-80",
+      "name": "core / turquoise / turquoise-80",
       "type": "color",
       "value": "#0C424D",
       "category": "color",
@@ -5911,7 +5871,7 @@
       }
     },
     {
-      "name": "turquoise / turquoise-90",
+      "name": "core / turquoise / turquoise-90",
       "type": "color",
       "value": "#102D33",
       "category": "color",
@@ -5921,7 +5881,7 @@
       }
     },
     {
-      "name": "turquoise / turquoise-transparent38",
+      "name": "core / turquoise / turquoise-transparent38",
       "type": "color",
       "value": "#159AB361",
       "category": "color",
@@ -5931,7 +5891,7 @@
       }
     },
     {
-      "name": "turquoise / turquoise-transparent60",
+      "name": "core / turquoise / turquoise-transparent60",
       "type": "color",
       "value": "#159AB399",
       "category": "color",
@@ -5941,7 +5901,7 @@
       }
     },
     {
-      "name": "turquoise / turquoise-transparent86",
+      "name": "core / turquoise / turquoise-transparent86",
       "type": "color",
       "value": "#159AB3DB",
       "category": "color",
@@ -5951,7 +5911,37 @@
       }
     },
     {
-      "name": "viewport / height / vh-0",
+      "name": "core / universal / universal-high",
+      "type": "color",
+      "value": "#131313",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "b4UF7wnPwVPI"
+      }
+    },
+    {
+      "name": "core / universal / universal-low",
+      "type": "color",
+      "value": "#FFFFFF",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "F2j0Fb6y5GQ3"
+      }
+    },
+    {
+      "name": "core / universal / universal-transparent",
+      "type": "color",
+      "value": "#FFFFFF00",
+      "category": "color",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "MWQMPSVubdO1"
+      }
+    },
+    {
+      "name": "core / viewport / height / vh-0",
       "type": "spacing",
       "value": "0vh",
       "category": "spacing",
@@ -5961,7 +5951,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-10",
+      "name": "core / viewport / height / vh-10",
       "type": "spacing",
       "value": "10vh",
       "category": "spacing",
@@ -5971,7 +5961,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-100",
+      "name": "core / viewport / height / vh-100",
       "type": "spacing",
       "value": "100vh",
       "category": "spacing",
@@ -5981,7 +5971,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-12",
+      "name": "core / viewport / height / vh-12",
       "type": "spacing",
       "value": "12vh",
       "category": "spacing",
@@ -5991,7 +5981,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-15",
+      "name": "core / viewport / height / vh-15",
       "type": "spacing",
       "value": "15vh",
       "category": "spacing",
@@ -6001,7 +5991,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-2",
+      "name": "core / viewport / height / vh-2",
       "type": "spacing",
       "value": "2vh",
       "category": "spacing",
@@ -6011,7 +6001,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-20",
+      "name": "core / viewport / height / vh-20",
       "type": "spacing",
       "value": "20vh",
       "category": "spacing",
@@ -6021,7 +6011,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-25",
+      "name": "core / viewport / height / vh-25",
       "type": "spacing",
       "value": "25vh",
       "category": "spacing",
@@ -6031,7 +6021,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-30",
+      "name": "core / viewport / height / vh-30",
       "type": "spacing",
       "value": "30vh",
       "category": "spacing",
@@ -6041,7 +6031,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-33",
+      "name": "core / viewport / height / vh-33",
       "type": "spacing",
       "value": "33vh",
       "category": "spacing",
@@ -6051,7 +6041,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-4",
+      "name": "core / viewport / height / vh-4",
       "type": "spacing",
       "value": "4vh",
       "category": "spacing",
@@ -6061,7 +6051,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-40",
+      "name": "core / viewport / height / vh-40",
       "type": "spacing",
       "value": "40vh",
       "category": "spacing",
@@ -6071,7 +6061,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-50",
+      "name": "core / viewport / height / vh-50",
       "type": "spacing",
       "value": "50vh",
       "category": "spacing",
@@ -6081,7 +6071,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-6",
+      "name": "core / viewport / height / vh-6",
       "type": "spacing",
       "value": "6vh",
       "category": "spacing",
@@ -6091,7 +6081,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-60",
+      "name": "core / viewport / height / vh-60",
       "type": "spacing",
       "value": "60vh",
       "category": "spacing",
@@ -6101,7 +6091,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-66",
+      "name": "core / viewport / height / vh-66",
       "type": "spacing",
       "value": "66vh",
       "category": "spacing",
@@ -6111,7 +6101,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-70",
+      "name": "core / viewport / height / vh-70",
       "type": "spacing",
       "value": "70vh",
       "category": "spacing",
@@ -6121,7 +6111,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-75",
+      "name": "core / viewport / height / vh-75",
       "type": "spacing",
       "value": "75vh",
       "category": "spacing",
@@ -6131,7 +6121,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-8",
+      "name": "core / viewport / height / vh-8",
       "type": "spacing",
       "value": "8vh",
       "category": "spacing",
@@ -6141,7 +6131,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-80",
+      "name": "core / viewport / height / vh-80",
       "type": "spacing",
       "value": "80vh",
       "category": "spacing",
@@ -6151,7 +6141,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-85",
+      "name": "core / viewport / height / vh-85",
       "type": "spacing",
       "value": "85vh",
       "category": "spacing",
@@ -6161,7 +6151,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-90",
+      "name": "core / viewport / height / vh-90",
       "type": "spacing",
       "value": "90vh",
       "category": "spacing",
@@ -6171,7 +6161,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-95",
+      "name": "core / viewport / height / vh-95",
       "type": "spacing",
       "value": "95vh",
       "category": "spacing",
@@ -6181,7 +6171,7 @@
       }
     },
     {
-      "name": "viewport / height / vh-99",
+      "name": "core / viewport / height / vh-99",
       "type": "spacing",
       "value": "99vh",
       "category": "spacing",
@@ -6191,7 +6181,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-0",
+      "name": "core / viewport / width / vw-0",
       "type": "spacing",
       "value": "0vw",
       "category": "spacing",
@@ -6201,7 +6191,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-10",
+      "name": "core / viewport / width / vw-10",
       "type": "spacing",
       "value": "10vw",
       "category": "spacing",
@@ -6211,7 +6201,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-100",
+      "name": "core / viewport / width / vw-100",
       "type": "spacing",
       "value": "100vw",
       "category": "spacing",
@@ -6221,7 +6211,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-12",
+      "name": "core / viewport / width / vw-12",
       "type": "spacing",
       "value": "12vw",
       "category": "spacing",
@@ -6231,7 +6221,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-15",
+      "name": "core / viewport / width / vw-15",
       "type": "spacing",
       "value": "15vw",
       "category": "spacing",
@@ -6241,7 +6231,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-2",
+      "name": "core / viewport / width / vw-2",
       "type": "spacing",
       "value": "2vw",
       "category": "spacing",
@@ -6251,7 +6241,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-20",
+      "name": "core / viewport / width / vw-20",
       "type": "spacing",
       "value": "20vw",
       "category": "spacing",
@@ -6261,7 +6251,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-25",
+      "name": "core / viewport / width / vw-25",
       "type": "spacing",
       "value": "25vw",
       "category": "spacing",
@@ -6271,7 +6261,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-30",
+      "name": "core / viewport / width / vw-30",
       "type": "spacing",
       "value": "30vw",
       "category": "spacing",
@@ -6281,7 +6271,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-33",
+      "name": "core / viewport / width / vw-33",
       "type": "spacing",
       "value": "33vw",
       "category": "spacing",
@@ -6291,7 +6281,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-4",
+      "name": "core / viewport / width / vw-4",
       "type": "spacing",
       "value": "4vw",
       "category": "spacing",
@@ -6301,7 +6291,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-40",
+      "name": "core / viewport / width / vw-40",
       "type": "spacing",
       "value": "40vw",
       "category": "spacing",
@@ -6311,7 +6301,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-50",
+      "name": "core / viewport / width / vw-50",
       "type": "spacing",
       "value": "50vw",
       "category": "spacing",
@@ -6321,7 +6311,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-6",
+      "name": "core / viewport / width / vw-6",
       "type": "spacing",
       "value": "6vw",
       "category": "spacing",
@@ -6331,7 +6321,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-60",
+      "name": "core / viewport / width / vw-60",
       "type": "spacing",
       "value": "60vw",
       "category": "spacing",
@@ -6341,7 +6331,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-66",
+      "name": "core / viewport / width / vw-66",
       "type": "spacing",
       "value": "66vw",
       "category": "spacing",
@@ -6351,7 +6341,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-70",
+      "name": "core / viewport / width / vw-70",
       "type": "spacing",
       "value": "70vw",
       "category": "spacing",
@@ -6361,7 +6351,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-75",
+      "name": "core / viewport / width / vw-75",
       "type": "spacing",
       "value": "75vw",
       "category": "spacing",
@@ -6371,7 +6361,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-8",
+      "name": "core / viewport / width / vw-8",
       "type": "spacing",
       "value": "8vw",
       "category": "spacing",
@@ -6381,7 +6371,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-80",
+      "name": "core / viewport / width / vw-80",
       "type": "spacing",
       "value": "80vw",
       "category": "spacing",
@@ -6391,7 +6381,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-85",
+      "name": "core / viewport / width / vw-85",
       "type": "spacing",
       "value": "85vw",
       "category": "spacing",
@@ -6401,7 +6391,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-90",
+      "name": "core / viewport / width / vw-90",
       "type": "spacing",
       "value": "90vw",
       "category": "spacing",
@@ -6411,7 +6401,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-95",
+      "name": "core / viewport / width / vw-95",
       "type": "spacing",
       "value": "95vw",
       "category": "spacing",
@@ -6421,7 +6411,7 @@
       }
     },
     {
-      "name": "viewport / width / vw-99",
+      "name": "core / viewport / width / vw-99",
       "type": "spacing",
       "value": "99vw",
       "category": "spacing",
@@ -6431,7 +6421,7 @@
       }
     },
     {
-      "name": "yellow / yellow-10",
+      "name": "core / yellow / yellow-10",
       "type": "color",
       "value": "#FAF6CF",
       "category": "color",
@@ -6441,7 +6431,7 @@
       }
     },
     {
-      "name": "yellow / yellow-100",
+      "name": "core / yellow / yellow-100",
       "type": "color",
       "value": "#1C1613",
       "category": "color",
@@ -6451,7 +6441,7 @@
       }
     },
     {
-      "name": "yellow / yellow-20",
+      "name": "core / yellow / yellow-20",
       "type": "color",
       "value": "#F7E379",
       "category": "color",
@@ -6461,7 +6451,7 @@
       }
     },
     {
-      "name": "yellow / yellow-30",
+      "name": "core / yellow / yellow-30",
       "type": "color",
       "value": "#F5C518",
       "category": "color",
@@ -6471,7 +6461,7 @@
       }
     },
     {
-      "name": "yellow / yellow-40",
+      "name": "core / yellow / yellow-40",
       "type": "color",
       "value": "#D9A514",
       "category": "color",
@@ -6481,7 +6471,7 @@
       }
     },
     {
-      "name": "yellow / yellow-50",
+      "name": "core / yellow / yellow-50",
       "type": "color",
       "value": "#B3870E",
       "category": "color",
@@ -6491,7 +6481,7 @@
       }
     },
     {
-      "name": "yellow / yellow-60",
+      "name": "core / yellow / yellow-60",
       "type": "color",
       "value": "#946613",
       "category": "color",
@@ -6501,7 +6491,7 @@
       }
     },
     {
-      "name": "yellow / yellow-70",
+      "name": "core / yellow / yellow-70",
       "type": "color",
       "value": "#70491C",
       "category": "color",
@@ -6511,7 +6501,7 @@
       }
     },
     {
-      "name": "yellow / yellow-80",
+      "name": "core / yellow / yellow-80",
       "type": "color",
       "value": "#54341F",
       "category": "color",
@@ -6521,7 +6511,7 @@
       }
     },
     {
-      "name": "yellow / yellow-90",
+      "name": "core / yellow / yellow-90",
       "type": "color",
       "value": "#38251B",
       "category": "color",
@@ -6531,7 +6521,7 @@
       }
     },
     {
-      "name": "yellow / yellow-transparent38",
+      "name": "core / yellow / yellow-transparent38",
       "type": "color",
       "value": "#B3870E61",
       "category": "color",
@@ -6541,7 +6531,7 @@
       }
     },
     {
-      "name": "yellow / yellow-transparent60",
+      "name": "core / yellow / yellow-transparent60",
       "type": "color",
       "value": "#B3870E99",
       "category": "color",
@@ -6551,7 +6541,7 @@
       }
     },
     {
-      "name": "yellow / yellow-transparent86",
+      "name": "core / yellow / yellow-transparent86",
       "type": "color",
       "value": "#B3870EDB",
       "category": "color",
@@ -6561,7 +6551,7 @@
       }
     },
     {
-      "name": "zinc / zinc-10",
+      "name": "core / zinc / zinc-10",
       "type": "color",
       "value": "#FAFAFA",
       "category": "color",
@@ -6571,7 +6561,7 @@
       }
     },
     {
-      "name": "zinc / zinc-100",
+      "name": "core / zinc / zinc-100",
       "type": "color",
       "value": "#18181B",
       "category": "color",
@@ -6581,7 +6571,7 @@
       }
     },
     {
-      "name": "zinc / zinc-20",
+      "name": "core / zinc / zinc-20",
       "type": "color",
       "value": "#F4F4F5",
       "category": "color",
@@ -6591,7 +6581,7 @@
       }
     },
     {
-      "name": "zinc / zinc-30",
+      "name": "core / zinc / zinc-30",
       "type": "color",
       "value": "#E4E4E7",
       "category": "color",
@@ -6601,7 +6591,7 @@
       }
     },
     {
-      "name": "zinc / zinc-40",
+      "name": "core / zinc / zinc-40",
       "type": "color",
       "value": "#D4D4D8",
       "category": "color",
@@ -6611,7 +6601,7 @@
       }
     },
     {
-      "name": "zinc / zinc-50",
+      "name": "core / zinc / zinc-50",
       "type": "color",
       "value": "#A1A1AA",
       "category": "color",
@@ -6621,7 +6611,7 @@
       }
     },
     {
-      "name": "zinc / zinc-60",
+      "name": "core / zinc / zinc-60",
       "type": "color",
       "value": "#71717A",
       "category": "color",
@@ -6631,7 +6621,7 @@
       }
     },
     {
-      "name": "zinc / zinc-70",
+      "name": "core / zinc / zinc-70",
       "type": "color",
       "value": "#52525B",
       "category": "color",
@@ -6641,7 +6631,7 @@
       }
     },
     {
-      "name": "zinc / zinc-80",
+      "name": "core / zinc / zinc-80",
       "type": "color",
       "value": "#3F3F46",
       "category": "color",
@@ -6651,7 +6641,7 @@
       }
     },
     {
-      "name": "zinc / zinc-90",
+      "name": "core / zinc / zinc-90",
       "type": "color",
       "value": "#27272A",
       "category": "color",
@@ -6661,7 +6651,7 @@
       }
     },
     {
-      "name": "zinc / zinc-transparent38",
+      "name": "core / zinc / zinc-transparent38",
       "type": "color",
       "value": "#A1A1AA61",
       "category": "color",
@@ -6671,7 +6661,7 @@
       }
     },
     {
-      "name": "zinc / zinc-transparent60",
+      "name": "core / zinc / zinc-transparent60",
       "type": "color",
       "value": "#A1A1AA99",
       "category": "color",
@@ -6681,7 +6671,7 @@
       }
     },
     {
-      "name": "zinc / zinc-transparent86",
+      "name": "core / zinc / zinc-transparent86",
       "type": "color",
       "value": "#A1A1AADB",
       "category": "color",
