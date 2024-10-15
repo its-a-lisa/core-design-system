@@ -1421,6 +1421,16 @@
       }
     },
     {
+      "name": "core / em / em-88",
+      "type": "spacing",
+      "value": "5.5em",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "83G3IyPmMwp_"
+      }
+    },
+    {
       "name": "core / em / em-9",
       "type": "spacing",
       "value": "0.563em",
@@ -1428,6 +1438,16 @@
       "meta": {
         "projectId": "3BHMWCYAenCmWb8ThbnzeF",
         "id": "uvYdlBHq9pJe"
+      }
+    },
+    {
+      "name": "core / em / em-96",
+      "type": "spacing",
+      "value": "6em",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "b3nm54jcSxNk"
       }
     },
     {

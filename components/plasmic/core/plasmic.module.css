@@ -1369,6 +1369,10 @@
   --plasmic-token-core-rem-rem-9: var(--token-y9QW3rhlMSKk);
   --token-qesnSF1K3f7D: 2.125em;
   --plasmic-token-core-rem-rem-34: var(--token-qesnSF1K3f7D);
+  --token-b3nm54jcSxNk: 6em;
+  --plasmic-token-core-em-em-96: var(--token-b3nm54jcSxNk);
+  --token-83G3IyPmMwp_: 5.5em;
+  --plasmic-token-core-em-em-88: var(--token-83G3IyPmMwp_);
 }
 
 @media (max-width: 768px) {
