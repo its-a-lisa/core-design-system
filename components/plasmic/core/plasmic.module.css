@@ -1351,6 +1351,12 @@
   --plasmic-token-core-rem-rem-15: var(--token-znT39UlcH-89);
   --token-pLMK3PJzEXlF: 14px;
   --plasmic-token-core-pixel-pix-14: var(--token-pLMK3PJzEXlF);
+  --token-s4B_MCrIPP2W: 0.185em;
+  --plasmic-token-core-em-em-3: var(--token-s4B_MCrIPP2W);
+  --token-9AM4-0dXzQii: 0.438em;
+  --plasmic-token-core-em-em-7: var(--token-9AM4-0dXzQii);
+  --token-uvYdlBHq9pJe: 0.563em;
+  --plasmic-token-core-em-em-9: var(--token-uvYdlBHq9pJe);
 }
 
 @media (max-width: 768px) {
