@@ -5321,6 +5321,16 @@
       }
     },
     {
+      "name": "core / rem / rem-34",
+      "type": "spacing",
+      "value": "2.125em",
+      "category": "spacing",
+      "meta": {
+        "projectId": "3BHMWCYAenCmWb8ThbnzeF",
+        "id": "qesnSF1K3f7D"
+      }
+    },
+    {
       "name": "core / rem / rem-344",
       "type": "spacing",
       "value": "21.5rem",
